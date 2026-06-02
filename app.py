@@ -14,6 +14,10 @@ def load_date(date_str):
     with open(path) as f:
         return json.load(f)
 
+@app.route('/')
+def main():
+    return 'use /api/today or /api/<date_str> to get a json'
+    
 @app.route("/api/today")
 def today():
     return get_date(date.today().isoformat())
