@@ -1,106 +1,297 @@
 {
   "BBC": [
     {
-      "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+      "title": "Police bodycam shows officers handcuffing stabbed student as he lay dying",
       "date": "2026-06-02",
-      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/videos/c172kkwpd9xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers:  'Mandelson files lay bare frustration' and 'The welfare party'",
+      "title": "Murrell used fake invoices to cover up \u00a3400,000 spending spree",
       "date": "2026-06-02",
-      "url": "https://www.bbc.com/news/articles/crlpy54gyyzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cgmp0pxyze8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+      "title": "Five questions left unanswered by the Mandelson files",
       "date": "2026-06-02",
-      "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cn4p9pv13kdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Married at First Sight UK allegations 'deeply disturbing', says watchdog",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/c0e203epneno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK Athletics fined \u00a3350,000 over death of Paralympian",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/sport/athletics/articles/c1e2x1qze8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "South West Water fined \u00a31.8m over Devon parasite outbreak",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "More black men to benefit from prostate cancer screening trial",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/c4g91jrl349o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Cara Delevingne says new music was inspired by getting sober",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/crkpypyv2d2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Trump vented anger in call with Netanyahu as status of Iran peace talks remain unclear",
+      "title": "Israel and Lebanon hold talks in US after Hezbollah and Israeli military trade strikes overnight",
       "date": "",
-      "url": "https://edition.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news"
+      "url": "https://edition.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk"
     },
     {
-      "title": "Kyiv hit by large wave of Russian strikes, people feared trapped in apartment building rubble",
+      "title": "Rescuers search for new ways into cave in Laos where two men feared trapped",
+      "date": "2026-06-02",
+      "url": "https://edition.cnn.com/2026/06/01/asia/laos-cave-rescue-vertical-shaft-intl-hnk"
+    },
+    {
+      "title": "UK police under pressure after dying student was handcuffed",
+      "date": "2026-06-02",
+      "url": "https://edition.cnn.com/2026/06/02/uk/uk-police-pressure-handcuffed-dying-student-intl"
+    },
+    {
+      "title": "Russia slams key Ukrainian cities in one of deadliest offensives in months",
       "date": "2026-06-02",
       "url": "https://edition.cnn.com/2026/06/01/europe/russia-attack-kyiv-building-damage-intl-hnk"
     },
     {
-      "title": "Race against time for two trapped in Laos cave as rescuers search for new ways in",
+      "title": "June 1, 2026 - Trump insists talks continue after Iran suspended negotiations",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news"
+    },
+    {
+      "title": "Canada is failing the Jewish community and Jews are being targeted, Carney says",
       "date": "2026-06-02",
-      "url": "https://edition.cnn.com/2026/06/01/asia/laos-cave-rescue-vertical-shaft-intl-hnk"
+      "url": "https://edition.cnn.com/2026/06/02/americas/canada-failing-jewish-community-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "5 ways to reduce everyday\u00a0exposure to 'forever chemicals'",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5839343/reduce-exposure-forever-chemicals-pfas-water"
+    },
+    {
+      "title": "Trump appoints housing official as acting director of national intelligence",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5844221/trump-appoints-housing-official-as-acting-director-of-national-intelligence"
+    },
+    {
+      "title": "Doctors checked Biden just after Trump debate as Jill Biden feared he had a stroke",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/g-s1-125335/jill-biden-stroke-debate-doctor"
+    },
+    {
+      "title": "How Ebola kills -- and what it takes to stop it",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/g-s1-125222/ebola-outbreak-prevention-symptoms"
+    },
+    {
+      "title": "DOJ will pause $1.8 billion fund, per court order. And, key primaries to watch today",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/g-s1-125326/up-first-newsletter-anti-weaponization-fund-us-primaries-iran-israel-hezbollah"
+    },
+    {
+      "title": "Pentagon policy illegally banned transgender troops from military, appeals court rules",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/g-s1-125323/pentagon-transgender-troops"
+    },
+    {
+      "title": "EU strikes migration deal for more deportations and detention centers abroad",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal"
+    },
+    {
+      "title": "For veterans, a place where peace can take root",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5843247/veterans-garden-la"
+    },
+    {
+      "title": "Trump vowed to revoke hundreds of citizenships. It's proving harder to do",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/g-s1-124866/trump-doj-citizenship-denaturalization-revoke-legal-protections"
+    },
+    {
+      "title": "Michigan found a way to reduce school vaccine waivers. Until it backfired",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia politics live: nearly 3 million workers to receive a 4.75% pay rise under minimum wage decision; Chalmers says economic woes driving voters to One Nation",
+      "title": "\u2018We don\u2019t have another country to run to\u2019: Kenyans fear US plan for Ebola quarantine site",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site"
     },
     {
-      "title": "Dog rescued from island off Australia's coast after being swept off rocks into ocean",
+      "title": "Mozambique says five citizens killed in \u2018xenophobic attacks\u2019 in South Africa",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/02/dog-rescued-snapper-island-batemans-bay-nsw-australia"
+      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa"
     },
     {
-      "title": "About 3 million workers on minimum wage to receive 4.75% pay rise in Fair Work Commission ruling",
+      "title": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/02/about-3-million-workers-on-minimum-wage-to-receive-475-pay-rise-in-fair-work-commission-ruling"
+      "url": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas"
     },
     {
-      "title": "UN experts warn against \u2018surging Israeli settler terror\u2019 \u2013 as it happened",
+      "title": "Female dolphins remember who is aggressive when choosing a mating partner, research shows",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites"
+      "url": "https://www.theguardian.com/environment/2026/jun/03/female-dolphins-remember-aggression-mating-partner"
     },
     {
-      "title": "Blake Lively and Justin Baldoni return to court a month after reaching settlement",
+      "title": "Fake cigarettes and toys that are \u2018essentially weapons\u2019: Choice refers online retailers to regulator over unsafe products",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/film/2026/jun/02/blake-lively-justin-baldoni-return-to-court-after-reaching-settlement"
+      "url": "https://www.theguardian.com/australia-news/2026/jun/03/choice-consumer-group-regulator-unsafe-toys-products-sold-online-accc-complaint"
     },
     {
-      "title": "Trump reportedly mulling retreat from $1.8bn \u2018anti-weaponization\u2019 fund",
+      "title": "Santos could drill for new gas in Beetaloo basin within weeks as Murray Watt urged to \u2018do his job\u2019",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/us-news/2026/jun/01/senate-democrats-challenge-trump-slush-fund"
+      "url": "https://www.theguardian.com/australia-news/2026/jun/03/santos-could-drill-for-new-gas-in-beetaloo-basin-within-weeks-as-murray-watt-urged-to-do-his-job"
     },
     {
-      "title": "Pentagon bars journalists from entering its press office citing re-designation",
+      "title": "Sarah was amused by the quicksand she stepped in on a South Australian beach. Then \u2018reality set in\u2019",
       "date": "2026-06-02",
-      "url": "https://www.theguardian.com/us-news/2026/jun/01/pentagon-journalists-press-office-access-revoked"
+      "url": "https://www.theguardian.com/australia-news/2026/jun/03/woman-dog-quicksand-australia-beach"
+    },
+    {
+      "title": "Can you not? Plastic and metal \u2018franken-can\u2019 named Australia\u2019s worst packaging at Unpackit awards",
+      "date": "2026-06-02",
+      "url": "https://www.theguardian.com/environment/2026/jun/03/plastic-metal-franken-can-worst-packaging-unpackit-awards-australia"
+    },
+    {
+      "title": "EU accused of creating ICE-style immigration enforcement system",
+      "date": "2026-06-02",
+      "url": "https://www.theguardian.com/world/2026/jun/02/eu-accused-creating-ice-style-immigration-enforcement-system"
+    },
+    {
+      "title": "Nightclub promoter, 21, stabbed to death after brawl in Dublin\u2019s tourism district",
+      "date": "2026-06-02",
+      "url": "https://www.theguardian.com/world/2026/jun/02/qayyum-balogun-nightclub-promoter-stabbed-to-death-dublin"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US Defense Department bars journalists from its press office",
+      "title": "UK police bodycam video shows wrongful arrest of dying teen",
       "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/uk-police-bodycam-video-shows-wrongful-arrest-of-dying-teen-2?traffic_source=rss"
     },
     {
-      "title": "President Trump attempts to end hostilities in Lebanon",
+      "title": "Scene of damaged hospital after Israeli strike in southern Lebanon",
       "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/president-trump-attempts-to-end-hostilities-in-lebanon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss"
     },
     {
-      "title": "Celebration, shock and scepticism follow Colombia\u2019s presidential election",
+      "title": "US targets Brazil with new tariffs over trade practices",
       "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "title": "US university sells dead bodies to navy for Israeli military training",
       "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss"
+    },
+    {
+      "title": "Canada seeks USMCA renewal for 16 years, sector tariff discussions",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/economy/2026/6/2/canada-seeks-usmca-renewal-for-16-years-sector-tariff-discussions?traffic_source=rss"
+    },
+    {
+      "title": "UN tells world to brace for extreme weather as El Nino looms",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms?traffic_source=rss"
+    },
+    {
+      "title": "China opens its markets to African exports. Who benefits?",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss"
+    },
+    {
+      "title": "Intisar Shanib becomes first woman to head football club in Libya",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/sports/2026/6/2/intisar-shanib-first-woman-to-become-president-of-libyan-sports-club?traffic_source=rss"
+    },
+    {
+      "title": "Could Russia hit northern Europe if it gained control of Arctic\u2019s Bear Gap?",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap?traffic_source=rss"
+    },
+    {
+      "title": "The Horn of Africa needs reconciliation, not new borders",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/opinions/2026/6/2/the-horn-of-africa-needs-reconciliation-not-new-borders?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Sabrina Carpenter granted restraining order against alleged stalker",
+      "title": "White House holds press briefing",
       "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/news/us-news/sabrina-carpenter-restraining-order-stalker-tried-home-los-angeles-rcna347985"
+      "url": "https://www.nbcnews.com/video/watch-live-white-house-holds-press-briefing-263567429754"
+    },
+    {
+      "title": "Trump signs order seeking early access to powerful AI models before release",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/tech/tech-news/trump-ai-executive-order-rcna348072"
+    },
+    {
+      "title": "Voters Head to Polls in Key States, Setting the Stage for Midterms",
+      "date": "2026-06-02",
+      "url": "https://www.today.com/video/voters-head-to-polls-in-key-states-setting-the-stage-for-midterms-264339013948"
+    },
+    {
+      "title": "Trump-Netanyahu Tensions Flare Over Israel's Strikes on Lebanon",
+      "date": "2026-06-02",
+      "url": "https://www.today.com/video/trump-reportedly-swears-at-netanyahu-in-heated-call-on-lebanon-264337477972"
+    },
+    {
+      "title": "Russia targets Kyiv with massive overnight attack",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/video/russia-targets-kyiv-with-massive-overnight-attack-264334917902"
+    },
+    {
+      "title": "Protests erupt over U.S. Ebola quarantine center in Kenya",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/video/protests-erupt-over-u-s-ebola-quarantine-center-in-kenya-264339013694"
+    },
+    {
+      "title": "Meet the Harvard grad who might lead the U.S. to World Cup glory",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/sports/soccer/matt-freese-harvard-usmnt-fifa-world-cup-rcna345907"
+    },
+    {
+      "title": "NYC officials warn of \u2018extremely dangerous\u2019 sewers after mystery men emerge from manholes",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/news/us-news/mystery-men-emerge-new-york-city-manholes-officials-warn-extremely-dan-rcna348049"
+    },
+    {
+      "title": "Trump signs order seeking early access to powerful AI models before release",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/tech/tech-news/trump-ai-executive-order-rcna348072"
+    },
+    {
+      "title": "Housing official who targeted Trump\u2019s enemies is named director of intelligence",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-02T00:07:00.385491"
+    "updated_at": "2026-06-02T14:43:42.231430"
   }
 }
