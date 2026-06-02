@@ -85,7 +85,12 @@
   ],
   "NPR": [
     {
-      "title": "Russian drone and missile strikes hit Kyiv",
+      "title": "DOJ is investigating former congressman George Santos for insider trading on Kalshi",
+      "date": "2026-06-02",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5843371/george-santos-kalshi-insider-trading-investigation"
+    },
+    {
+      "title": "Scenes from the aftermath of Russia's latest massive attack on Kyiv",
       "date": "2026-06-02",
       "url": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes"
     },
@@ -128,11 +133,6 @@
       "title": "EU strikes migration deal for more deportations and detention centers abroad",
       "date": "2026-06-02",
       "url": "https://www.npr.org/2026/06/02/nx-s1-5844100/eu-migration-deal"
-    },
-    {
-      "title": "Michigan found a way to reduce school vaccine waivers. Until it backfired",
-      "date": "2026-06-02",
-      "url": "https://www.npr.org/2026/06/02/nx-s1-5823712/michigan-school-vaccine-exemptions-waivers-measles"
     }
   ],
   "The Guardian": [
@@ -177,7 +177,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/jun/03/choice-consumer-group-regulator-unsafe-toys-products-sold-online-accc-complaint"
     },
     {
-      "title": "Santos could drill for new gas in Beetaloo basin within weeks as Murray Watt urged to \u2018do his job\u2019",
+      "title": "\u2018Gateway to full scale fracking\u2019: Santos could drill for new gas in Northern Territory within weeks",
       "date": "2026-06-02",
       "url": "https://www.theguardian.com/australia-news/2026/jun/03/santos-could-drill-for-new-gas-in-beetaloo-basin-within-weeks-as-murray-watt-urged-to-do-his-job"
     },
@@ -188,6 +188,26 @@
     }
   ],
   "Al Jazeera": [
+    {
+      "title": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/news/2026/6/2/trump-berated-netanyahu-scepticism-abounds-about-us-israel-feud-rumour?traffic_source=rss"
+    },
+    {
+      "title": "Drones light up Taipei\u2019s night sky for Computex trade show",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/drones-light-up-taipeis-night-sky-for-computex-trade-show?traffic_source=rss"
+    },
+    {
+      "title": "Trump administration is scrapping the $1.8bn \u2018anti-weaponisation fund\u2019",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss"
+    },
+    {
+      "title": "Russia launches massive overnight attack on Ukraine",
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss"
+    },
     {
       "title": "\u2018Milestone\u2019: Macron opens Paris monument honouring Rwanda genocide victims",
       "date": "2026-06-02",
@@ -217,53 +237,28 @@
       "title": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza",
       "date": "2026-06-02",
       "url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss"
-    },
-    {
-      "title": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss"
-    },
-    {
-      "title": "Who are the best young players to watch at FIFA World Cup 2026?",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/sports/2026/6/2/best-young-players-to-watch-at-fifa-world-cup-2026?traffic_source=rss"
-    },
-    {
-      "title": "US says Iran\u2019s new supreme leader alive and \u2018increasingly engaging\u2019",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss"
-    },
-    {
-      "title": "Israeli settlers torch Palestinian homes in village near Ramallah",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss"
     }
   ],
   "NBC News": [
-    {
-      "title": "Housing official who targeted Trump\u2019s enemies is named director of intelligence",
-      "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036"
-    },
-    {
-      "title": "Acting Attorney General Blanche testifies at House hearing",
-      "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/video/watch-live-acting-attorney-general-blanche-testifies-at-house-hearing-264366149981"
-    },
     {
       "title": "Voters Head to Polls in Key States, Setting the Stage for Midterms",
       "date": "2026-06-02",
       "url": "https://www.today.com/video/voters-head-to-polls-in-key-states-setting-the-stage-for-midterms-264339013948"
     },
     {
-      "title": "Russia targets Kyiv with massive overnight attack",
+      "title": "Housing official who targeted Trump\u2019s enemies is named director of intelligence",
       "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/video/russia-targets-kyiv-with-massive-overnight-attack-264334917902"
+      "url": "https://www.nbcnews.com/politics/national-security/trump-william-pulte-acting-director-national-intelligence-tulsi-gabbar-rcna348036"
     },
     {
       "title": "Israel and Hezbollah trade new attacks despite Trump promise of de-escalation",
       "date": "2026-06-02",
       "url": "https://www.nbcnews.com/world/lebanon/israel-hezbollah-attacks-lebanon-trump-iran-war-peace-talks-rcna348010"
+    },
+    {
+      "title": "New \u201860 Minutes\u2019 boss takes meetings with staffers after clash with Scott Pelley",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/business/media/new-60-minutes-boss-takes-meetings-staffers-clash-scott-pelley-rcna348124"
     },
     {
       "title": "Protests erupt over U.S. Ebola quarantine center in Kenya",
@@ -276,22 +271,27 @@
       "url": "https://www.nbcnews.com/sports/soccer/matt-freese-harvard-usmnt-fifa-world-cup-rcna345907"
     },
     {
-      "title": "N.J. targets prison company running immigration detention center in lawsuits over conditions",
+      "title": "Los Angeles prosecutors reviewing sex assault allegations against Sean \u2018Diddy\u2019 Combs",
       "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/news/us-news/nj-delaney-immigration-detention-lawsuit-geo-group-rcna348022"
+      "url": "https://www.nbcnews.com/news/us-news/los-angeles-prosecutors-reviewing-sex-assault-allegations-sean-diddy-c-rcna348086"
     },
     {
-      "title": "From The Sports Desk: Heavyweights Carolina, Vegas meet in Stanley Cup Final",
+      "title": "Sen. Dan Sullivan accuses Democrats of recruiting Alaska Senate candidate with the same name",
       "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/sports/nhl/sports-newsletter-stanley-cup-final-heavyweight-bout-carolina-vegas-rcna348068"
+      "url": "https://www.nbcnews.com/politics/2026-election/sen-dan-sullivan-accuses-democrats-recruiting-alaska-senate-candidate-rcna348131"
     },
     {
-      "title": "Trump to speak at the rescheduled White House Correspondents\u2019 Dinner",
+      "title": "Teen rider accused of stabbing three horses at Las Vegas race was \u2018stalker,\u2019 injured horse\u2019s owner says",
       "date": "2026-06-02",
-      "url": "https://www.nbcnews.com/politics/white-house/trump-speak-rescheduled-white-house-correspondents-dinner-rcna348108"
+      "url": "https://www.nbcnews.com/news/us-news/teen-rider-accused-stabbing-3-horses-las-vegas-race-was-stalker-injure-rcna348090"
+    },
+    {
+      "title": "Playing the waiting game in California: From the Politics Desk",
+      "date": "2026-06-02",
+      "url": "https://www.nbcnews.com/politics/politics-news/playing-waiting-game-california-primary-politics-desk-rcna348143"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-02T17:45:54.030570"
+    "updated_at": "2026-06-02T19:28:28.028875"
   }
 }
