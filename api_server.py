@@ -6,7 +6,6 @@ from flask import Flask, jsonify
 app = Flask(__name__)
 BASE_DIR = os.path.join(os.path.dirname(__file__), "News_Headlines")
 
-
 def load_date(date_str):
     year = date_str[:4]
     path = os.path.join(BASE_DIR, year, f"{date_str}.json")
@@ -15,11 +14,9 @@ def load_date(date_str):
     with open(path) as f:
         return json.load(f)
 
-
 @app.route("/api/today")
 def today():
     return get_date(date.today().isoformat())
-
 
 @app.route("/api/<date_str>")
 def get_date(date_str):
@@ -29,6 +26,3 @@ def get_date(date_str):
     data.pop("_meta", None)
     return jsonify(data)
 
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
