@@ -24,6 +24,11 @@
       "title": "The Papers: 'Plea for calm ignored' and 'Arrest that outraged nation'",
       "date": "2026-06-03",
       "url": "https://www.bbc.com/news/articles/c93x0p19q79o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Mysteriously missing congressman wins primary after Trump endorsement",
+      "date": "2026-06-03",
+      "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [],
@@ -114,6 +119,11 @@
   ],
   "NBC News": [
     {
+      "title": "Voters select candidates in key House districts that could decide the majority",
+      "date": "2026-06-03",
+      "url": "https://www.nbcnews.com/politics/2026-election/republicans-democrats-pick-primary-winners-trump-midterms-rcna347485"
+    },
+    {
       "title": "Josh Turek wins Democratic primary in battleground Iowa Senate race",
       "date": "2026-06-03",
       "url": "https://www.nbcnews.com/politics/2026-election/iowa-senate-election-primary-winners-turek-hinson-rcna347468"
@@ -157,14 +167,9 @@
       "title": "Josh Turek wins Democratic primary in battleground Iowa Senate race",
       "date": "2026-06-03",
       "url": "https://www.nbcnews.com/politics/2026-election/iowa-senate-election-primary-winners-turek-hinson-rcna347468"
-    },
-    {
-      "title": "Supreme Court allows Alabama to use congressional map that eliminates a majority-Black district",
-      "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-alabama-congress-map-eliminate-black-district-rcna346920"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-03T00:10:00.561795"
+    "updated_at": "2026-06-03T00:23:13.251109"
   }
 }
