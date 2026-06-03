@@ -21,6 +21,11 @@
       "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "date": "2026-06-03",
+      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "The Papers: 'Plea for calm ignored' and 'Arrest that outraged nation'",
       "date": "2026-06-03",
       "url": "https://www.bbc.com/news/articles/c93x0p19q79o?at_medium=RSS&at_campaign=rss"
@@ -40,6 +45,11 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb"
     },
     {
+      "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to \u2018cut corners\u2019",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb"
+    },
+    {
       "title": "Barnaby Joyce rallies anti-abortion activists ahead of tight NSW vote",
       "date": "2026-06-03",
       "url": "https://www.theguardian.com/world/2026/jun/02/barnaby-joyce-rallies-anti-abortion-activists-as-they-target-nationals-mps-in-nsw-vote-ntwnfb"
@@ -55,14 +65,14 @@
       "url": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
     },
     {
-      "title": "\u2018Jilly, I had no choice\u2019: Jill Biden recalls pressure Joe Biden faced to drop out of 2024 race",
-      "date": "2026-06-03",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/joe-jill-biden-memoir"
-    },
-    {
       "title": "Iowa: Democrat Josh Turek to face Trump-backed Ashley Hinson in bid to flip red Senate seat",
       "date": "2026-06-03",
       "url": "https://www.theguardian.com/us-news/2026/jun/02/iowa-primary-election-results"
+    },
+    {
+      "title": "\u2018Jilly, I had no choice\u2019: Jill Biden recalls pressure Joe Biden faced to drop out of 2024 race",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/joe-jill-biden-memoir"
     },
     {
       "title": "Supreme court approves Alabama map that erases majority-Black district",
@@ -170,6 +180,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-03T00:23:13.251109"
+    "updated_at": "2026-06-03T00:34:00.460016"
   }
 }
