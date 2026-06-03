@@ -1,167 +1,254 @@
 {
   "BBC": [
     {
-      "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
+      "title": "Three die in Royal Navy helicopter crash during training exercise",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/cq8pn9ng5zlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US and Iran launch new strikes as ceasefire negotiations stall",
+      "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
+      "date": "2026-06-03",
+      "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "date": "2026-06-03",
+      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
       "date": "2026-06-03",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump administration drops $1.8bn 'compensation fund'",
+      "title": "How a content creator tried to use a YouTube alibi to get away with murder",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c893zygkvy8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Man attacked by bear at steel works in Japan",
+      "title": "The end of Trump's 'weaponisation' fund is another sign Republicans are fighting back",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "title": "Universal park officially named as government pledges \u00a31.3bn",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Plea for calm ignored' and 'Arrest that outraged nation'",
+      "title": "US plans new tariffs on dozens of countries including UK, citing forced labour concerns",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/c93x0p19q79o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Mysteriously missing congressman wins primary after Trump endorsement",
+      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Can two hours of strength training a week reduce the risk of dying early?",
+      "date": "2026-06-03",
+      "url": "https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Kuwait\u2019s airport attacked as fresh Iran-US strikes strain ceasefire",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk"
+    },
+    {
+      "title": "Ukrainian drones strike St. Petersburg, hours before \u2018Putin\u2019s Davos\u2019 opens",
+      "date": "2026-06-03",
+      "url": "https://edition.cnn.com/2026/06/03/europe/ukraine-drone-attack-russia-st-petersburg-intl-hnk"
+    },
+    {
+      "title": "Cuba\u2019s doctors are its biggest soft power export. Several Latin American countries are cutting ties",
+      "date": "2026-06-03",
+      "url": "https://edition.cnn.com/2026/06/03/americas/cuba-doctors-latin-america-intl-latam"
+    },
+    {
+      "title": "British police under pressure after dying student was handcuffed",
+      "date": "2026-06-03",
+      "url": "https://edition.cnn.com/2026/06/02/uk/uk-police-pressure-handcuffed-dying-student-intl"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Greetings from Porto, whose lanes are lined with colorful textiles",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/g-s1-124469/porto-portugal-linens-textiles"
+    },
+    {
+      "title": "Takeaways from Iowa's primaries. And, DOJ nixes Trump's 'anti-weaponization' fund",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/g-s1-125570/up-first-newsletter-iowa-primaries-anti-weaponization-fund-bill-pulte-immigrants-aliens"
+    },
+    {
+      "title": "President Trump seeks control of science funding",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5844678/trump-science-funding-omb-budget-office-rule-change"
+    },
+    {
+      "title": "Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg"
+    },
+    {
+      "title": "Thieves are targeting the world's copper. This phone company is fighting back",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5838875/copper-wire-theft-att-lawsuit"
+    },
+    {
+      "title": "The White House's new site about 'aliens' has nothing to do with UFOs",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5843359/white-house-gov-website-alien-immigration"
+    },
+    {
+      "title": "We finally know enough about how the brain breaks to focus on fixing it, experts say",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5837620/brain-health-accelerator-gene-therapy-alzheimer"
+    },
+    {
+      "title": "California's primary for governor is undecided as candidates vie to be in the top two",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5844747/california-primary-election-results-governor"
+    },
+    {
+      "title": "Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates"
+    },
+    {
+      "title": "Why one of the cities most dependent on the Colorado River now has water for sale",
+      "date": "2026-06-03",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5810173/why-one-of-the-cities-most-dependent-on-the-colorado-river-now-has-water-for-sale"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia politics live: Chalmers talks up \u2018solid\u2019 national accounts; army use of US Palantir tech that \u2018selects targets\u2019 under scrutiny in Senate",
+      "title": "Kidnappings, threats and \u2018protection fees\u2019: how can Mexico confront rise in deadly extortion?",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/world/2026/jun/03/how-can-mexico-confront-rise-in-deadly-extortion"
+    },
+    {
+      "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over \u2018forced labour\u2019",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour"
+    },
+    {
+      "title": "Nicotine use soars by 40% in eight years as Australian black market explodes",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/03/illegal-tobacco-news-australia-spending-less-to-consume-more-nicotine"
+    },
+    {
+      "title": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour"
+    },
+    {
+      "title": "OECD says Australia should increase EV and renewable energy take up amid fuel crisis \u2013 as it happened",
       "date": "2026-06-03",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb"
     },
     {
-      "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to \u2018cut corners\u2019",
+      "title": "Jim Chalmers is putting a positive spin on the economy, but is Australia\u2019s outlook grim?",
       "date": "2026-06-03",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb"
+      "url": "https://www.theguardian.com/business/2026/jun/03/australia-economic-outlook-economy-gdp-growth-jim-chalmers"
     },
     {
-      "title": "Barnaby Joyce rallies anti-abortion activists ahead of tight NSW vote",
+      "title": "\u200bWhy is Europe still not ready for extreme heat?",
       "date": "2026-06-03",
-      "url": "https://www.theguardian.com/world/2026/jun/02/barnaby-joyce-rallies-anti-abortion-activists-as-they-target-nationals-mps-in-nsw-vote-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/jun/03/why-is-europe-still-not-ready-for-extreme-heat"
     },
     {
-      "title": "US and Iran launch fresh strikes amid stalled ceasefire talks",
+      "title": "Four migrant workers reportedly burned alive in their car in attack in Italy",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg as \u2018Russian Davos\u2019 opens in city",
+      "date": "2026-06-03",
+      "url": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum"
+    },
+    {
+      "title": "One killed and several wounded in Iranian attack on Kuwait\u2019s international airport",
       "date": "2026-06-03",
       "url": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz"
-    },
-    {
-      "title": "Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots",
-      "date": "2026-06-03",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates"
-    },
-    {
-      "title": "Iowa: Democrat Josh Turek to face Trump-backed Ashley Hinson in bid to flip red Senate seat",
-      "date": "2026-06-03",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/iowa-primary-election-results"
-    },
-    {
-      "title": "\u2018Jilly, I had no choice\u2019: Jill Biden recalls pressure Joe Biden faced to drop out of 2024 race",
-      "date": "2026-06-03",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/joe-jill-biden-memoir"
-    },
-    {
-      "title": "Supreme court approves Alabama map that erases majority-Black district",
-      "date": "2026-06-03",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/supreme-court-alabama-map"
-    },
-    {
-      "title": "60 Minutes correspondent Scott Pelley fired by CBS News after clash",
-      "date": "2026-06-03",
-      "url": "https://www.theguardian.com/media/2026/jun/02/scott-pelley-60-minutes-cbs-news"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Tunisian court sentences Ennahdha leader Rached Ghannouchi to life in prison",
+      "title": "\u2018Doesn\u2019t seem qualified\u2019: Who is Bill Pulte, acting US intelligence chief?",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/news/2026/6/3/tunisian-court-sentences-ennahdha-leader-rached-ghannouchi-to-life-in-prison?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief?traffic_source=rss"
     },
     {
-      "title": "Mexico and Canada push to extend USMCA trade pact",
+      "title": "Lamine Yamal and Nico Williams set to be fit for Spain\u2019s World Cup opener",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/mexico-and-canada-push-to-extend-usmca-trade-pact?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/3/lamine-yamal-and-nico-williams-set-to-be-fit-for-spains-world-cup-opener?traffic_source=rss"
     },
     {
-      "title": "US says it attacked Iran\u2019s Qeshm Island; Tehran targets Kuwait, Bahrain",
+      "title": "The Population Bust",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/6/3/the-population-bust?traffic_source=rss"
     },
     {
-      "title": "Zimbabwe\u2019s e-tricycle crackdown puts rural women\u2019s livelihoods at risk",
+      "title": "Israel detains Palestine international women\u2019s football player",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/news/2026/6/3/zimbabwes-e-tricycle-crackdown-puts-rural-womens-livelihoods-at-risk?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/3/israel-detains-palestine-international-football-player?traffic_source=rss"
     },
     {
-      "title": "Why women go to war",
+      "title": "Iran\u2019s World Cup squad to depart for Mexico on June 6 despite US visa delay",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss"
     },
     {
-      "title": "Trump to attend delayed White House Correspondents\u2019 Dinner after shooting",
+      "title": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/news/2026/6/3/trump-to-attend-delayed-white-house-correspondents-dinner-after-shooting?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up?traffic_source=rss"
     },
     {
-      "title": "Thailand cracks down on foreign companies using fig leaf of local ownership",
+      "title": "Why is France so invested in the future of Lebanon?",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/thailand-cracks-down-on-foreign-companies-using-fig-leaf-of-local-ownership?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon?traffic_source=rss"
     },
     {
-      "title": "Iran war live: US hits Iran\u2019s Qeshm, says Tehran targeted Kuwait, Bahrain",
+      "title": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/3/iran-war-live-us-strikes-irans-qeshm-says-tehran-attacks-kuwait-bahrain?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss"
+    },
+    {
+      "title": "Is Asia facing a new currency crisis?",
+      "date": "2026-06-03",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/3/is-asia-facing-a-new-currency-crisis?traffic_source=rss"
+    },
+    {
+      "title": "Does UK\u2019s new far-right party, Restore, pose a threat to Farage\u2019s Reform?",
+      "date": "2026-06-03",
+      "url": "https://www.aljazeera.com/news/2026/6/3/does-uks-new-far-right-party-restore-pose-a-threat-to-farages-reform?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Voters select candidates in key House districts that could decide the majority",
+      "title": "Karen Bass to advance in L.A. mayoral runoff race, NBC News projects",
       "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/2026-election/republicans-democrats-pick-primary-winners-trump-midterms-rcna347485"
+      "url": "https://www.nbcnews.com/video/karen-bass-to-advance-in-l-a-mayoral-runoff-race-nbc-news-projects-264415813816"
     },
     {
-      "title": "Josh Turek wins Democratic primary in battleground Iowa Senate race",
+      "title": "California governor candidates address supporters",
       "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/2026-election/iowa-senate-election-primary-winners-turek-hinson-rcna347468"
+      "url": "https://www.nbcnews.com/video/becerra-hilton-give-remarks-amid-california-governor-primary-264415301942"
     },
     {
-      "title": "Trump-backed Kurt Alme wins Montana GOP Senate primary",
+      "title": "Zach Lahn says \u2018wealthy donors\u2019 won't decide Iowa's future",
       "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-kurt-alme-wins-montana-gop-senate-primary-rcna347478"
+      "url": "https://www.nbcnews.com/video/zach-lahn-says-wealthy-donors-won-t-decide-iowa-s-future-264414789853"
     },
     {
-      "title": "Democrat Rebecca Bennett will take on GOP Rep. Tom Kean Jr., who has been absent from Congress",
+      "title": "MAHA-backed Zach Lahn defeats Trump-backed Randy Feenstra in Iowa GOP primary for governor",
       "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/2026-election/nj-7-district-house-election-primary-winners-midterms-kean-jr-bennett-rcna347467"
-    },
-    {
-      "title": "CBS News fires \u201860 Minutes\u2019 correspondent Scott Pelley after clash with new producer",
-      "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/business/media/cbs-news-fires-60-minutes-correspondent-scott-pelley-rcna348176"
-    },
-    {
-      "title": "Supreme Court allows Alabama to use congressional map that eliminates a majority-Black district",
-      "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-alabama-congress-map-eliminate-black-district-rcna346920"
-    },
-    {
-      "title": "Trump-backed Kurt Alme wins Montana GOP Senate primary",
-      "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-kurt-alme-wins-montana-gop-senate-primary-rcna347478"
+      "url": "https://www.nbcnews.com/politics/2026-election/iowa-governor-primary-election-winners-sand-lahn-rcna347471"
     },
     {
       "title": "Voters select candidates in key House districts that could decide the majority",
@@ -169,17 +256,32 @@
       "url": "https://www.nbcnews.com/politics/2026-election/republicans-democrats-pick-primary-winners-trump-midterms-rcna347485"
     },
     {
-      "title": "CBS News fires \u201860 Minutes\u2019 correspondent Scott Pelley after clash with new producer",
+      "title": "Rubio testifies at House hearing",
       "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/business/media/cbs-news-fires-60-minutes-correspondent-scott-pelley-rcna348176"
+      "url": "https://www.nbcnews.com/video/watch-live-rubio-testifies-before-congress-264346181923"
     },
     {
-      "title": "Josh Turek wins Democratic primary in battleground Iowa Senate race",
+      "title": "Hostage Situation Unfolds Inside Chase Bank in California",
       "date": "2026-06-03",
-      "url": "https://www.nbcnews.com/politics/2026-election/iowa-senate-election-primary-winners-turek-hinson-rcna347468"
+      "url": "https://www.today.com/video/hostage-situation-unfolds-inside-chase-bank-in-california-264420421626"
+    },
+    {
+      "title": "Ukraine Hits St. Petersburg With Massive Wave of Drones",
+      "date": "2026-06-03",
+      "url": "https://www.today.com/video/ukraine-hits-st-petersburg-as-putin-s-davos-gets-underway-264420933782"
+    },
+    {
+      "title": "'60 Minutes' Correspondent Scott Pelley Fired From CBS",
+      "date": "2026-06-03",
+      "url": "https://www.today.com/video/scott-pelley-fired-from-cbs-after-his-showdown-with-leadership-264422981580"
+    },
+    {
+      "title": "Elon Musk is set to become the world\u2019s first trillionaire. Democrats are taking aim.",
+      "date": "2026-06-03",
+      "url": "https://www.nbcnews.com/tech/elon-musk/musks-soon-trillionaire-status-brings-political-attacks-rcna347107"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-03T00:34:00.460016"
+    "updated_at": "2026-06-03T11:50:45.024016"
   }
 }
