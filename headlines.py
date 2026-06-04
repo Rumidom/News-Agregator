@@ -37,7 +37,7 @@ def parse_rss(url):
                 pass
         items.append((title, date_str, link))
     items.sort(key=lambda x: x[1], reverse=True)
-    return items[:HEADLINES_MAX]
+    return items[:HEADLINES_MAX+1]
 
 
 # ---------------------------------------------------------------------------
