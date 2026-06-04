@@ -10,7 +10,7 @@ from html.parser import HTMLParser
 HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0"}
 TIMEOUT = 15
 TODAY = date.today()
-
+HEADLINES_MAX = 5
 
 def is_today(date_str: str) -> bool:
     if not date_str:
@@ -37,7 +37,7 @@ def parse_rss(url):
                 pass
         items.append((title, date_str, link))
     items.sort(key=lambda x: x[1], reverse=True)
-    return items[:10]
+    return items[:HEADLINES_MAX]
 
 
 # ---------------------------------------------------------------------------
@@ -247,7 +247,7 @@ def scrape_cnn():
     soup = Soup(resp.text)
     results = []
     for tag in soup.select("span.container__headline-text"):
-        if len(results) >= 10:
+        if len(results) >= HEADLINES_MAX:
             break
         title = tag.get_text(strip=True)
         if not title:
