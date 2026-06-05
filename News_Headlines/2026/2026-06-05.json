@@ -1,101 +1,167 @@
 {
   "BBC": [
     {
-      "title": "The Papers: 'Andrew cashed in' and 'Kate shares in mum's joy'",
+      "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
       "date": "2026-06-05",
-      "url": "https://www.bbc.com/news/articles/cqjpjd4e7lqo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Mount Everest climber recounts moment he lost guide who survived alone for six days",
+      "title": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
       "date": "2026-06-05",
-      "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "title": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
       "date": "2026-06-05",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "House Republicans break with Trump again to approve Ukraine aid",
+      "title": "The deeply contentious debate around what it means to be English",
       "date": "2026-06-05",
-      "url": "https://www.bbc.com/news/articles/clypy34wd05o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c3626n0lgj3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Giant hissing cockroaches among $200,000 worth of illegal insects seized in Australia",
+      "title": "A-level maths exam marking to be watched closely by regulator after students 'crestfallen'",
       "date": "2026-06-05",
-      "url": "https://www.bbc.com/news/articles/cjwpwv18910o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c4g9gz9d2qzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "China\u2019s Xi Jinping to make rare trip to North Korea next week",
-      "date": "2026-06-05",
-      "url": "https://edition.cnn.com/2026/06/04/china/china-north-korea-xi-kim-intl-hnk"
+      "title": "Lebanon\u2019s leader slams Iran as Israel launches strikes amid fraying ceasefire",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news"
     },
     {
-      "title": "Hezbollah and Israel trade new strikes as uncertainty surrounds US-Iran talks",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/06/04/world/live-news/iran-trump-war-news"
+      "title": "Andrew Mountbatten-Windsor sublet cottages on Royal Lodge estate while he paid peppercorn rent, report says",
+      "date": "2026-06-05",
+      "url": "https://edition.cnn.com/2026/06/05/uk/andrew-mountbatten-windsor-sublet-royal-lodge-intl-scli"
+    },
+    {
+      "title": "Zelensky needles Putin in personal letter calling for face-to-face peace talks",
+      "date": "2026-06-05",
+      "url": "https://edition.cnn.com/2026/06/04/europe/zelensky-putin-meeting-intl-latam"
+    },
+    {
+      "title": "Norway\u2019s crown princess on waiting list for lung transplant",
+      "date": "2026-06-05",
+      "url": "https://edition.cnn.com/2026/06/05/europe/norway-crown-princess-lung-transplant-scli-intl"
+    },
+    {
+      "title": "Exclusive: Israel sent troops to Azerbaijan during Iran war as part of secret network across region, sources say",
+      "date": "2026-06-05",
+      "url": "https://edition.cnn.com/2026/06/05/middleeast/azerbaijan-israel-iran-war-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "The U.S. adds 172,000 jobs as the labor market picks up steam",
+      "date": "2026-06-05",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation"
+    },
+    {
+      "title": "China's highest bridge brings tourists and internet access to remote communities",
+      "date": "2026-06-05",
+      "url": "https://www.npr.org/2026/06/05/g-s1-126304/chinas-highest-bridge-brings-tourists-and-internet-access-to-remote-communities"
+    },
+    {
+      "title": "Senate passes immigration bill. And, Jill Biden discusses her husband's 2024 campaign",
+      "date": "2026-06-05",
+      "url": "https://www.npr.org/2026/06/05/g-s1-126290/up-first-newsletter-immigration-fund-save-act-john-bolton-artificial-intelligence-teachers-brady-atf-doj"
+    },
+    {
+      "title": "The World Cup vs. bugs, germs and heat: Here's the game plan",
+      "date": "2026-06-05",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5846403/world-cup-mosquitoes-ebola-heat"
+    },
+    {
+      "title": "Senate Republicans pass immigration funding after overnight vote",
+      "date": "2026-06-05",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "\u2018Family values\u2019 African charter condemned by rights groups as regressive and dangerous",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights"
+    },
     {
       "title": "US imposes new sanctions on Cuban president and Castro family members",
       "date": "2026-06-05",
       "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family"
     },
     {
-      "title": "Australia news live: ASIC launches investigation into KPMG after whistleblower claims",
+      "title": "Typhoon Jangmi sweeps northwards leaving 23 injured in Japan",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/environment/2026/jun/05/typhoon-jangmi-no-6-japan"
+    },
+    {
+      "title": "One Nation, six farcical explanations and no clearer understanding of its housing policy",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/05/one-nation-pauline-hanson-housing-policy-ntwnfb"
+    },
+    {
+      "title": "Allegra Spender defends voting against CGT reform \u2013 as it happened",
       "date": "2026-06-05",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb"
-    },
-    {
-      "title": "Barnaby Joyce and One Nation colleague bungle details of key housing policy in \u2018trainwreck\u2019 interviews",
-      "date": "2026-06-05",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/05/barnaby-joyce-sky-news-interview-one-nation-housing-policy-backflip"
-    },
-    {
-      "title": "Bondi attack hero Ahmed al-Ahmed says he\u2019s \u2018shocked\u2019 after being charged with assaulting his father",
-      "date": "2026-06-05",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/04/bondi-attack-hero-charged-with-assaulting-his-father-ntwnfb"
-    },
-    {
-      "title": "More than 100,000 cockroaches worth $200,000 seized from NSW breeder in record-breaking bust",
-      "date": "2026-06-05",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/05/live-cockroaches-seized-nsw-breeder-australia"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Why Mogadishu clashes are deepening Somalia\u2019s political crisis again",
+      "title": "FIFA cancels World Cup tickets for about 60 fans who got them for free",
       "date": "2026-06-05",
-      "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/5/fifa-cancels-world-cup-tickets-to-about-60-fans-who-got-them-for-free-due-t?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+      "title": "Israel maintains attacks despite US-brokered deal with Lebanon",
       "date": "2026-06-05",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon?traffic_source=rss"
+    },
+    {
+      "title": "Celtic fans oppose Keane as potential manager after Israel role",
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/sports/2026/6/5/celtic-fans-oppose-potential-keane-appointment-after-israel-role?traffic_source=rss"
+    },
+    {
+      "title": "Iran footballers hand passports to US embassy for World Cup visa approval",
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval?traffic_source=rss"
+    },
+    {
+      "title": "Fujimori vs Sanchez: What to know about Peru\u2019s presidential run-off election",
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy",
+      "title": "Putin to Deliver Address Amid Pressure to End War in Ukraine",
       "date": "2026-06-05",
-      "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+      "url": "https://www.today.com/video/ukraine-s-zelenskyy-proposes-peace-talks-in-letter-to-putin-264586309543"
+    },
+    {
+      "title": "Senate Passes Bill to Fund ICE for Remainder of Trump's Term",
+      "date": "2026-06-05",
+      "url": "https://www.today.com/video/trump-plans-promenade-in-dc-senate-passes-bill-to-fund-ice-264586309597"
+    },
+    {
+      "title": "Karen Read Breaks Silence on Explosive Lawsuit Against Police",
+      "date": "2026-06-05",
+      "url": "https://www.today.com/video/karen-read-on-her-new-lawsuit-against-police-it-s-not-done-yet-264593477774"
+    },
+    {
+      "title": "Anti-Trump ex-Republicans are running in Democratic primaries. They\u2019re off to a rocky start.",
+      "date": "2026-06-05",
+      "url": "https://www.nbcnews.com/politics/2026-election/anti-trump-former-republicans-are-running-democratic-primaries-rcna348339"
     },
     {
       "title": "Democrats navigate a new Graham Platner controversy in Maine\u2019s battleground Senate race",
       "date": "2026-06-05",
       "url": "https://www.nbcnews.com/politics/2026-election/democrats-new-graham-platner-controversy-maine-rcna348538"
-    },
-    {
-      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy",
-      "date": "2026-06-05",
-      "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-05T00:34:21.603515"
+    "updated_at": "2026-06-05T11:29:37.969289"
   }
 }
