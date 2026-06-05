@@ -1,0 +1,101 @@
+{
+  "BBC": [
+    {
+      "title": "The Papers: 'Andrew cashed in' and 'Kate shares in mum's joy'",
+      "date": "2026-06-05",
+      "url": "https://www.bbc.com/news/articles/cqjpjd4e7lqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Mount Everest climber recounts moment he lost guide who survived alone for six days",
+      "date": "2026-06-05",
+      "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "date": "2026-06-05",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "House Republicans break with Trump again to approve Ukraine aid",
+      "date": "2026-06-05",
+      "url": "https://www.bbc.com/news/articles/clypy34wd05o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Giant hissing cockroaches among $200,000 worth of illegal insects seized in Australia",
+      "date": "2026-06-05",
+      "url": "https://www.bbc.com/news/articles/cjwpwv18910o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "China\u2019s Xi Jinping to make rare trip to North Korea next week",
+      "date": "2026-06-05",
+      "url": "https://edition.cnn.com/2026/06/04/china/china-north-korea-xi-kim-intl-hnk"
+    },
+    {
+      "title": "Hezbollah and Israel trade new strikes as uncertainty surrounds US-Iran talks",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/04/world/live-news/iran-trump-war-news"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "US imposes new sanctions on Cuban president and Castro family members",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family"
+    },
+    {
+      "title": "Australia news live: ASIC launches investigation into KPMG after whistleblower claims",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb"
+    },
+    {
+      "title": "Barnaby Joyce and One Nation colleague bungle details of key housing policy in \u2018trainwreck\u2019 interviews",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/05/barnaby-joyce-sky-news-interview-one-nation-housing-policy-backflip"
+    },
+    {
+      "title": "Bondi attack hero Ahmed al-Ahmed says he\u2019s \u2018shocked\u2019 after being charged with assaulting his father",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/04/bondi-attack-hero-charged-with-assaulting-his-father-ntwnfb"
+    },
+    {
+      "title": "More than 100,000 cockroaches worth $200,000 seized from NSW breeder in record-breaking bust",
+      "date": "2026-06-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/05/live-cockroaches-seized-nsw-breeder-australia"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "Why Mogadishu clashes are deepening Somalia\u2019s political crisis again",
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss"
+    },
+    {
+      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy",
+      "date": "2026-06-05",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+    },
+    {
+      "title": "Democrats navigate a new Graham Platner controversy in Maine\u2019s battleground Senate race",
+      "date": "2026-06-05",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-new-graham-platner-controversy-maine-rcna348538"
+    },
+    {
+      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump\u2019s foreign policy",
+      "date": "2026-06-05",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-06-05T00:34:21.603515"
+  }
+}
