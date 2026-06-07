@@ -1,0 +1,76 @@
+{
+  "BBC": [
+    {
+      "title": "Delays to defence plan undermine UK credibility, MPs say",
+      "date": "2026-06-07",
+      "url": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Starmer tells supporters he will fight any leadership contest",
+      "date": "2026-06-07",
+      "url": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Multiple people shot near festival in Ohio with suspect still at large, police say",
+      "date": "2026-06-07",
+      "url": "https://www.bbc.com/news/articles/c4gyqzkgwn2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Papers:  'Cuts to fund defence spark chaos' and 'Kate the cream of hearts'",
+      "date": "2026-06-07",
+      "url": "https://www.bbc.com/news/articles/c5yzl0271kqo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "US forces shoot down 2 Iranian drones threatening Strait of Hormuz traffic, CENTCOM says",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/06/world/live-news/iran-war-trump-israel-lebanon"
+    },
+    {
+      "title": "June 5, 2026 \u2014 Ceasefire in Lebanon frays, Iran warns of wider war",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news"
+    },
+    {
+      "title": "Kim Jong Un is loving North Korean women\u2019s soccer. What drives its remarkable success?",
+      "date": "2026-06-07",
+      "url": "https://edition.cnn.com/2026/06/06/asia/north-korea-womens-soccer-intl-hnk-dst"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Australia news live: Man hospitalised after alleged attack in Bondi; Shoebridge warns Australia should not go down \u2018warpath with Washington\u2019 against China",
+      "date": "2026-06-07",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "Protests grow in Albania against Trump-Kushner-linked resort",
+      "date": "2026-06-07",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_protests-grow-in-albania-against-trump-resort-060626?traffic_source=rss"
+    },
+    {
+      "title": "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+      "date": "2026-06-07",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "At least 12 shot near Ohio festival, gunmen still at large",
+      "date": "2026-06-07",
+      "url": "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+    },
+    {
+      "title": "At least 12 shot near Ohio festival, gunmen still at large",
+      "date": "2026-06-07",
+      "url": "https://www.nbcnews.com/news/us-news/ohio-old-west-end-festival-shooting-rcna348826"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-06-07T00:33:11.317198"
+  }
+}
