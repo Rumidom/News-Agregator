@@ -1,91 +1,112 @@
 {
   "BBC": [
     {
-      "title": "Oil prices edge higher after strikes on Israel test ceasefire",
+      "title": "Iran releases footage of missiles launched at Israel",
       "date": "2026-06-08",
-      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Five people injured in stabbing at New York City's Penn Station",
+      "title": "Vulnerable women lured by illegal sperm donor services on social media",
       "date": "2026-06-08",
-      "url": "https://www.bbc.com/news/articles/cj0g4425zmeo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c1j2349j8zjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "At least 19 dead after major earthquake strikes southern Philippines",
+      "date": "2026-06-08",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "date": "2026-06-08",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ministers to issue guidance on children's screen use",
+      "date": "2026-06-08",
+      "url": "https://www.bbc.com/news/articles/ce37wlg1kl3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Israel says it struck targets in Iran after Tehran fires waves of missiles",
+      "title": "Ceasefire teeters as Israel and Iran trade worst strikes in months",
       "date": "",
       "url": "https://edition.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon"
     },
     {
-      "title": "China\u2019s Xi Jinping arrives in North Korea for summit with Kim",
-      "date": "2026-06-08",
-      "url": "https://edition.cnn.com/2026/06/07/asia/china-xi-jinping-north-korea-kim-jong-un-intl-hnk"
-    },
-    {
-      "title": "7.8 magnitude earthquake hits southern Philippines, tsunami warnings issued regionally",
+      "title": "Deadly 7.8 magnitude earthquake hits southern Philippines",
       "date": "2026-06-08",
       "url": "https://edition.cnn.com/2026/06/07/asia/southern-philippines-mindanao-earthquake-intl-hnk"
     },
     {
-      "title": "A Japanese mayor is making history \u2014 by taking maternity leave for the first time",
+      "title": "China\u2019s Xi Jinping arrives in North Korea for rare summit with Kim Jong Un",
+      "date": "2026-06-08",
+      "url": "https://edition.cnn.com/2026/06/07/asia/china-xi-jinping-north-korea-kim-jong-un-intl-hnk"
+    },
+    {
+      "title": "A Japanese mayor is making history \u2014 by taking maternity leave",
       "date": "2026-06-08",
       "url": "https://edition.cnn.com/2026/06/07/asia/japan-female-mayor-maternity-leave-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Israel and Iran trade strikes, threatening to drag region back to full-scale war",
+      "date": "2026-06-08",
+      "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Strong earthquake strikes southern Philippines with tsunami warnings issued",
+      "title": "At least 15 killed as powerful earthquake strikes southern Philippines",
       "date": "2026-06-08",
       "url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings"
     },
     {
-      "title": "Australia news live: \u2018We get the message,\u2019 Plibersek says, after poll shows One Nation support surpassing Labor",
+      "title": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
+      "date": "2026-06-08",
+      "url": "https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut"
+    },
+    {
+      "title": "Andrew Hastie accuses Pauline Hanson of being \u2018Maga first\u2019 \u2013 as it happened",
       "date": "2026-06-08",
       "url": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb"
     },
     {
-      "title": "\u2018Disgusted\u2019: Gillard and Albanese condemn \u2018ditch the witch\u2019 campaign against Victorian premier Jacinta Allan",
+      "title": "\u2018Sexist\u2019: Gillard and Albanese condemn \u2018ditch the witch\u2019 campaign against Victorian premier",
       "date": "2026-06-08",
       "url": "https://www.theguardian.com/world/2026/jun/08/julia-gillard-victorian-premier-jacinta-allan-ditch-the-witch-condemned-ntwnfb"
     },
     {
-      "title": "Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59",
+      "title": "Queensland magistrate suppresses identity of man with \u2018high public profile\u2019 in extortion case",
       "date": "2026-06-08",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/08/richard-scolyer-cancer-researcher-and-former-australian-of-the-year-dies-aged-59"
-    },
-    {
-      "title": "Missing Melbourne teacher allegedly drugged and murdered by brother in India",
-      "date": "2026-06-08",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/08/missing-melbourne-teacher-sunil-sharma-allegedly-murdered-by-brother-india-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/jun/08/queensland-high-profile-man-extortion-case-name-suppressed-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "How Mexican cartels turned South African farms into meth production hubs",
+      "title": "Israel and Iran exchange attacks as ceasefire falters",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/news/2026/6/8/how-mexican-cartels-turned-south-african-farms-into-meth-production-hubs?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters?traffic_source=rss"
     },
     {
-      "title": "Oppenheimer: Trump holds the reins on Netanyahu\u2019s escalation options",
+      "title": "\u2018Homes turned into ovens\u2019: Millions of Yemenis swelter amid heat, blackouts",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/oppenheimer-trump-holds-the-reins-on-netanyahus-escalation-options?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/6/8/homes-turned-into-ovens-millions-of-yemenis-swelter-amid-heat-blackouts?traffic_source=rss"
     },
     {
-      "title": "Powerful earthquake hits Philippines, triggering tsunami alerts across Asia",
+      "title": "Secret Service-level security for NBA Finals with Trump attending Game 3",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/8/secret-service-level-security-for-nba-finals-with-trump-attending-game-3?traffic_source=rss"
     },
     {
-      "title": "Iran and Israel trade threats after Tehran launches missiles",
+      "title": "What time are World Cup 2026 matches in my time zone?",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/iran-and-israel-trade-threats-after-tehran-launches-missiles?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/8/what-time-are-world-cup-2026-matches-in-my-time-zone?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
+      "title": "How Lebanon and Iran\u2019s war of words became backdrop for latest Israel war",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/6/8/how-lebanon-and-irans-war-of-words-became-backdrop-for-latest-israel-war?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -100,11 +121,6 @@
       "url": "https://www.nbcnews.com/politics/2026-election/nithya-raman-leaps-spencer-pratt-tight-unresolved-race-make-l-mayoral-rcna348781"
     },
     {
-      "title": "6 injured in knife attack at New York City\u2019s Penn Station",
-      "date": "2026-06-08",
-      "url": "https://www.nbcnews.com/news/us-news/stabbing-penn-station-new-york-rcna348909"
-    },
-    {
       "title": "Federal lawsuit aims to stop UFC event on the White House South Lawn",
       "date": "2026-06-08",
       "url": "https://www.nbcnews.com/politics/white-house/federal-lawsuit-aims-stop-ufc-event-white-house-south-lawn-rcna348910"
@@ -113,9 +129,14 @@
       "title": "Federal lawsuit aims to stop UFC event on the White House South Lawn",
       "date": "2026-06-08",
       "url": "https://www.nbcnews.com/politics/white-house/federal-lawsuit-aims-stop-ufc-event-white-house-south-lawn-rcna348910"
+    },
+    {
+      "title": "Trailer carrying fireworks ignites in spectacular display on Tennessee highway",
+      "date": "2026-06-08",
+      "url": "https://www.nbcnews.com/news/us-news/trailer-carrying-fireworks-ignites-spectacular-display-tennessee-highw-rcna348905"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-08T00:43:41.019108"
+    "updated_at": "2026-06-08T05:29:34.288567"
   }
 }
