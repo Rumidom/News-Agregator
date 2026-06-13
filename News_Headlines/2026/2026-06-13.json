@@ -1,46 +1,46 @@
 {
   "BBC": [
     {
-      "title": "Royal Family watch Red Arrows flypast on Buckingham Palace balcony",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
       "date": "2026-06-13",
-      "url": "https://www.bbc.com/news/articles/cn07y41kn2wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "In pictures: Trooping the Colour marks King's official birthday",
+      "title": "Resident doctors cancel strike after new offer from government",
       "date": "2026-06-13",
-      "url": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Are the Downing Street dominoes about to fall?",
+      "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
       "date": "2026-06-13",
-      "url": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "title": "The nuclear challenge at the heart of Trump's Iran negotiations",
       "date": "2026-06-13",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
+      "title": "Ticketmaster says Knicks fans won't be locked out of game after last-minute panic",
       "date": "2026-06-13",
-      "url": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c5yz7gj4x3yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "US and Iran signal progress on agreement but Tehran says no signing Sunday",
+      "title": "Who was Ni\u00f1o Guerrero? The alleged drug kingpin the US killed in Venezuela",
+      "date": "2026-06-13",
+      "url": "https://edition.cnn.com/2026/06/13/americas/nino-guerrero-tren-de-aragua-latam-intl"
+    },
+    {
+      "title": "Trump says agreement to be signed Sunday, Iran pushes back on timing",
       "date": "",
       "url": "https://edition.cnn.com/2026/06/13/world/live-news/iran-war-trump-israel"
     },
     {
-      "title": "Switzerland\u2019s \u2018Brexit moment\u2019: Vote on a population cap sets up potential collision with EU",
+      "title": "Armed men in Haiti\u2019s capital seize a top security official in rare high-level abduction",
       "date": "2026-06-13",
-      "url": "https://edition.cnn.com/2026/06/13/europe/switzerland-population-cap-referendum-intl-cmd"
-    },
-    {
-      "title": "June 12, 2026 \u2014 US and Iran say an agreement is close, but questions remain",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
+      "url": "https://edition.cnn.com/2026/06/13/americas/haiti-official-boyard-kidnapped-latam-intl"
     },
     {
       "title": "Pope Leo\u2019s plane was grounded. Then the King of Spain stepped in to help",
@@ -48,12 +48,27 @@
       "url": "https://edition.cnn.com/2026/06/12/europe/pope-leo-plane-grounded-spain-rome-intl"
     },
     {
-      "title": "Europe\u2019s next-gen fighter jet is dead. What does that mean for the continent\u2019s security ambitions?",
+      "title": "Viktor Orb\u00e1n re-elected as Fidesz party leader in Hungary despite election loss",
       "date": "2026-06-13",
-      "url": "https://edition.cnn.com/2026/06/13/europe/europe-fighter-jet-fcas-analysis-intl-cmd"
+      "url": "https://edition.cnn.com/2026/06/13/europe/hungary-viktor-orban-fidesz-reelection-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "Police investigate theft of England equipment at World Cup, 2 people in custody",
+      "date": "2026-06-13",
+      "url": "https://www.npr.org/2026/06/13/g-s1-128070/police-investigate-england-equipment-world-cup-kansas-city-florida"
+    },
+    {
+      "title": "As Bay Area hosts World Cup, empty red seats are everywhere at Levi's Stadium",
+      "date": "2026-06-13",
+      "url": "https://www.npr.org/2026/06/13/g-s1-128068/bay-area-world-cup-empty-red-seats-levis-stadium"
+    },
+    {
+      "title": "A Lebanon town's grief in the aftermath of a deadly Israeli airstrike",
+      "date": "2026-06-13",
+      "url": "https://www.npr.org/2026/06/13/nx-s1-5848614/a-lebanon-towns-grief-in-the-aftermath-of-a-deadly-israeli-airstrike"
+    },
     {
       "title": "4 things to know about the new sunscreen ingredient the FDA approved",
       "date": "2026-06-13",
@@ -63,21 +78,6 @@
       "title": "A plan to get lifesaving food to hungry kids was working well -- until it wasn't",
       "date": "2026-06-13",
       "url": "https://www.npr.org/2026/06/13/nx-s1-5787791/malnourished-children-senegal-therapeutic-food-plumpynut"
-    },
-    {
-      "title": "'Cool Ladies Club' is directed by 10 working-class women. They live up to the title",
-      "date": "2026-06-13",
-      "url": "https://www.npr.org/2026/06/13/g-s1-125467/cool-ladies-club-movies-working-class-women-documentary-india"
-    },
-    {
-      "title": "COMIC: How excessive heat kills and how to stay safe",
-      "date": "2026-06-13",
-      "url": "https://www.npr.org/2026/06/13/g-s1-126350/heat-wave-safety-weather-heatstroke"
-    },
-    {
-      "title": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
-      "date": "2026-06-13",
-      "url": "https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded"
     }
   ],
   "The Guardian": [
@@ -97,71 +97,71 @@
       "url": "https://www.theguardian.com/world/2026/jun/13/jessie-j-lucrative-chinese-market-westlife-charli-xcx"
     },
     {
-      "title": "Protesters clash outside One Nation fundraiser while Labor says opposition parties will \u2018give us chaos\u2019",
+      "title": "Australia news live: Jonathon Duniam to retire from politics; father and daughter found dead in Sydney river",
       "date": "2026-06-13",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/13/protesters-clash-outside-one-nation-fundraiser-while-labor-says-opposition-parties-will-give-us-chaos-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb"
     },
     {
-      "title": "Woman in critical condition after shark attack at Coogee beach",
+      "title": "\u2018There was a lot of blood in the water\u2019: paddleboarder rescues woman after \u2018shocking\u2019 Coogee shark attack",
       "date": "2026-06-13",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/13/woman-in-critical-condition-after-shark-attack-at-coogee-beach"
+      "url": "https://www.theguardian.com/australia-news/2026/jun/14/there-was-a-lot-of-blood-in-the-water-paddeboarder-rescues-woman-after-shocking-coogee-shark-attack"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "From colony to cell: Sexual violence in Israeli prisons",
+      "title": "Brazil and Morocco kickoff amid electric atmosphere",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/from-colony-to-cell-sexual-violence-in-israeli-prisons?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/aje-onl-nf_brazil-and-morocco-kickoff-amid-electric-atmosphere-130626?traffic_source=rss"
     },
     {
-      "title": "Fans reveal how much they paid for World Cup tickets",
+      "title": "Qatar net late against Switzerland to secure historic first World Cup point",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland?traffic_source=rss"
     },
     {
-      "title": "\u2018Lots of things can still go wrong\u2019 with US-Iran deal to end the war",
+      "title": "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/thousands-mourn-thai-princess-as-body-taken-to-lie-in-state-in-bangkok?traffic_source=rss"
     },
     {
-      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
+      "title": "Dashcam shows US cop accidentally shooting colleague during \u2018horseplay\u2019",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/dashcam-shows-us-cop-accidentally-shooting-colleague-during?traffic_source=rss"
     },
     {
-      "title": "Deadly military plane crash in India\u2019s Assam",
+      "title": "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/13/thousands-rally-in-rome-italy-for-rival-pro-and-anti-migration-marches?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Balogun firma su doblete con un zurdazo y Estados Unidos golea a Paraguay 3-0",
+      "title": "Team USA kicks off World Cup with win over Paraguay",
       "date": "2026-06-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/balogun-firma-su-doblete-con-un-zurdazo-y-estados-unidos-golea-a-paraguay-3-0-tmvo13193564"
+      "url": "https://www.today.com/video/team-usa-kicks-off-world-cup-with-win-over-paraguay-265045573977"
     },
     {
-      "title": "Coaching the U.S. was a big test for Mauricio Pochettino. Then his World Cup opener went \u2018amazing\u2019",
+      "title": "Coaching the U.S. was a big test for Mauricio Pochettino. Then his World Cup opener went \u2018amazing.\u2019",
       "date": "2026-06-13",
       "url": "https://www.nbcnews.com/sports/soccer/coaching-us-big-test-mauricio-pochettino-world-cup-opener-rcna349915"
     },
     {
-      "title": "Hablan Pepi, Alonso y Balogun, tras la goleada de Estados Unidos a Paraguay",
+      "title": "Soberbio gol de Vinicius y Brasil lo empata frente a Marruecos",
       "date": "2026-06-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/hablan-pepi-alonso-y-balogun-tras-la-goleada-de-estados-unidos-a-paraguay-tmvo13193659"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/soberbio-gol-de-vinicius-y-brasil-lo-empata-frente-a-marruecos-tmvo13193733"
     },
     {
-      "title": "Estados Unidos cont\u00f3 con verdaderas celebridades en las gradas como Tom Cruise y David Beckham",
+      "title": "Golazo de Ismael Saibari para abrir el marcador y adelantar a Marruecos frente a Brasil",
       "date": "2026-06-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/estados-unidos-conto-con-verdaderas-celebridades-en-las-gradas-como-tom-cruise-y-david-beckham-tmvo13193641"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/golazo-de-ismael-saibari-para-abrir-el-marcador-y-adelantar-a-marruecos-frente-a-brasil-tmvo13193731"
     },
     {
-      "title": "Una noche m\u00e1gica de Estados Unidos: El an\u00e1lisis de la goleada sobre Paraguay",
+      "title": "Nuno Gomes: \u201cLa experiencia de Ancelotti puede hacer la diferencia para Brasil\u201d | Conexi\u00f3n Mundial",
       "date": "2026-06-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/una-noche-magica-de-estados-unidos-el-analisis-de-la-goleada-sobre-paraguay-tmvo13193633"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/nuno-gomes-la-experiencia-de-ancelotti-puede-hacer-la-diferencia-para-brasil-conexion-mundial-tmvo13193729"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-13T11:17:44.189147"
+    "updated_at": "2026-06-13T20:41:20.509238"
   }
 }
