@@ -1,81 +1,91 @@
 {
   "BBC": [
     {
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "date": "2026-06-14",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Starmer set to ban under-16s from major social media platforms",
+      "date": "2026-06-14",
+      "url": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
+      "date": "2026-06-14",
+      "url": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
       "date": "2026-06-14",
       "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
+      "title": "Thunderstorms threaten Trump's UFC cage fight on the White House lawn",
       "date": "2026-06-14",
-      "url": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why Haiti v Scotland was antidote to the ills of world football",
-      "date": "2026-06-14",
-      "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
-      "date": "2026-06-14",
-      "url": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "date": "2026-06-14",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "UK intercepts Russian \u2018shadow fleet\u2019 tanker for first time",
+      "title": "A man was jailed for murder. 15 years after his death, he will get a retrial",
       "date": "2026-06-14",
-      "url": "https://edition.cnn.com/2026/06/14/europe/uk-intercepts-russian-shadow-fleet-tanker-for-first-time"
+      "url": "https://edition.cnn.com/2026/06/12/asia/japan-sakahara-posthumous-retrial-intl-hnk-dst"
     },
     {
-      "title": "Iranian state media says no final decision on US agreement despite Trump forecasting Sunday signing",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/06/14/world/live-news/iran-war-trump-israel"
+      "title": "American singer Oliver Tree listed aboard helicopter involved in fatal midair collision in Brazil",
+      "date": "2026-06-14",
+      "url": "https://edition.cnn.com/2026/06/14/americas/american-oliver-tree-helicopter-crash-latam-intl"
     },
     {
-      "title": "Swiss voters poised to reject 10 million population cap in referendum, projection shows",
+      "title": "Trump holds phone calls with Putin and Zelensky on his 80th birthday",
+      "date": "2026-06-14",
+      "url": "https://edition.cnn.com/2026/06/14/europe/trump-putin-phone-call-birthday"
+    },
+    {
+      "title": "Swiss reject population cap in referendum, avoiding EU clash and cheering business",
       "date": "2026-06-14",
       "url": "https://edition.cnn.com/2026/06/14/europe/swiss-voters-population-referendum-intl"
-    },
-    {
-      "title": "Her boss is in US prison. How the woman running Venezuela got Trump on her side",
-      "date": "2026-06-14",
-      "url": "https://edition.cnn.com/2026/06/14/americas/venezeuala-delcy-rodriguez-intl-latam"
-    },
-    {
-      "title": "Switzerland\u2019s \u2018Brexit moment\u2019: Vote on a population cap sets up potential collision with EU",
-      "date": "2026-06-14",
-      "url": "https://edition.cnn.com/2026/06/13/europe/switzerland-population-cap-referendum-intl-cmd"
     }
   ],
   "NPR": [
     {
+      "title": "The U.S. and Iran announce a deal to end the war",
+      "date": "2026-06-14",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz"
+    },
+    {
+      "title": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+      "date": "2026-06-14",
+      "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital"
+    },
+    {
+      "title": "12 dead after skydiving plane crashes in Missouri, authorities say",
+      "date": "2026-06-14",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri"
+    },
+    {
+      "title": "The U.S.-led war in Iran will dominate Trump's G7 trip to France",
+      "date": "2026-06-14",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5857167/trump-g7-iran-war-macron-france"
+    },
+    {
       "title": "Here's who's missing at the World Cup: Soccer-playing grannies!",
       "date": "2026-06-14",
       "url": "https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies"
-    },
-    {
-      "title": "Want obesity drugs covered by insurance? Telehealth companies have a big say",
-      "date": "2026-06-14",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5805984/glp1-telehealth-weight-loss-drugs"
-    },
-    {
-      "title": "Trump's UFC fights bring historic spectacle to White House",
-      "date": "2026-06-14",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights"
-    },
-    {
-      "title": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
-      "date": "2026-06-14",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet"
     }
   ],
   "The Guardian": [
+    {
+      "title": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
+      "date": "2026-06-14",
+      "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil"
+    },
+    {
+      "title": "Mother hopes to get justice for murdered daughter in retrial in Dominican Republic",
+      "date": "2026-06-14",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/14/mother-hopes-to-get-justice-for-murdered-daughter-in-retrial-in-dominican-republic"
+    },
     {
       "title": "Jamaican beach access campaigners go to court to fight privatisation of coast",
       "date": "2026-06-14",
@@ -90,73 +100,63 @@
       "title": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres",
       "date": "2026-06-14",
       "url": "https://www.theguardian.com/world/2026/jun/14/philippines-earthquake-raised-seabed-costal-uplift-coral-exposed"
-    },
-    {
-      "title": "NSW lifts drone ban over Sydney beach after shark attack \u2013 as it happened",
-      "date": "2026-06-14",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb"
-    },
-    {
-      "title": "Angus Taylor using NDIS cuts as \u2018pawn in bigger chess game\u2019, Mark Butler warns",
-      "date": "2026-06-14",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "World Cup 2026: Biggest takeaways from Brazil-Morocco group match",
+      "title": "World Cup nations slam UEFA chief for \u2018disappointing\u2019 48-team criticism",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/sports/2026/6/14/world-cup-2026-biggest-takeaways-from-brazil-morocco-group-match?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/14/world-cup-nations-slam-uefa-chief-for-disappointing-48-team-criticism?traffic_source=rss"
     },
     {
-      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+      "title": "BREAKING: US, Iran announce ceasefire agreement",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss"
     },
     {
-      "title": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
+      "title": "US-Iran \u2018peace deal\u2019 announced, Trump says Strait of Hormuz reopening",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss"
     },
     {
-      "title": "Romanian president picks Liberal former mayor as PM to form new government",
+      "title": "Japan deny Netherlands by fighting back twice in World Cup opener",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/14/japan-deny-netherlands-by-fighting-back-twice-in-world-cup-opener?traffic_source=rss"
     },
     {
-      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "title": "Lamine Yamal fit to start on bench for Spain vs Cape Verde at World Cup",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/14/lamine-yamal-fit-to-start-on-bench-for-spain-vs-cape-verde-at-world-cup?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5",
+      "title": "Deal between U.S., Iran has been reached says Pakistan's prime minister",
       "date": "2026-06-14",
-      "url": "https://www.nbcnews.com/sports/nba/knicks-nba-champions-rcna349848"
+      "url": "https://www.nbcnews.com/now/video/deal-between-u-s-iran-has-been-reached-says-pakistan-s-prime-minister-265077829539"
     },
     {
-      "title": "Just one game in, Brazil and Carlo Ancelotti are already under fire",
+      "title": "Trump, bald eagles and Zac Brown Band: Inside the UFC Freedom 250 Fan Fest",
       "date": "2026-06-14",
-      "url": "https://www.nbcnews.com/sports/soccer/brazil-ancelotti-under-fire-world-cup-rcna349976"
+      "url": "https://www.nbcnews.com/sports/mixed-martial-arts/ufc-freedom-250-in-photos-trump-white-house-event-rcna350013"
     },
     {
-      "title": "Knicks\u2019 long-awaited title sparks wild celebrations \u2014 and a night of chaos in New York",
+      "title": "Morocco\u2019s draw against Brazil showed its potential to be the World Cup\u2019s ultimate dark horse",
       "date": "2026-06-14",
-      "url": "https://www.nbcnews.com/news/us-news/knicks-long-awaited-title-sparks-wild-celebrations-new-york-rcna349994"
+      "url": "https://www.nbcnews.com/sports/soccer/morocco-world-cup-draw-brazil-dark-horse-rcna350009"
     },
     {
-      "title": "\u00a1Vini salva a Brasil! Marruecos vuelve a sorprender en el Mundial | Radar Mundial",
+      "title": "Cura\u00e7ao celebrates historic first World Cup goal before Germany rolls to 7-1 victory",
       "date": "2026-06-14",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/vini-salva-a-brasil-marruecos-vuelve-a-sorprender-en-el-mundial-radar-mundial-tmvo13193820"
+      "url": "https://www.nbcnews.com/sports/soccer/world-cup-germany-curacao-rcna350024"
     },
     {
-      "title": "\u00bfDebe preocuparse Brasil tras su empate ante Marruecos? | Puesta a Punto Mundial",
+      "title": "Antonio Valencia: \"A Mois\u00e9s Caicedo lo queremos ver grande con Ecuador\"",
       "date": "2026-06-14",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/debe-preocuparse-brasil-tras-su-empate-ante-marruecos-puesta-a-punto-mundial-tmvo13193816"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/antonio-valencia-a-moises-caicedo-lo-queremos-ver-grande-con-ecuador-tmvo13193915"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-14T09:00:12.633994"
+    "updated_at": "2026-06-14T21:00:06.377982"
   }
 }
