@@ -1,5 +1,5 @@
 # News-Agregator
-simple news service [mostly made by BigPickel]
+simple news service (**mostly made by Big Pickel**)
 
 ## today's headlines:  
 https://news-agregator-rb77.onrender.com/api/today
@@ -7,3 +7,6 @@ https://news-agregator-rb77.onrender.com/api/today
 ## chosen date headlines:  
 https://news-agregator-rb77.onrender.com/api/2026-06-02  
 format = fullYear-day-month
+
+## license:
+this project is MIT licensed.
