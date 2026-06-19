@@ -1,5 +1,5 @@
 # News-Agregator
-simple news service
+simple news service [mostly made by BigPickel]
 
 ## today's headlines:  
 https://news-agregator-rb77.onrender.com/api/today
