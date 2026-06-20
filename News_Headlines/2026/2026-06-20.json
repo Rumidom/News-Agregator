@@ -89,6 +89,11 @@
   ],
   "Al Jazeera": [
     {
+      "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+      "date": "2026-06-20",
+      "url": "https://www.aljazeera.com/sports/2026/6/20/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
+    },
+    {
       "title": "Two roadside bombs kill at least seven in northwestern Pakistan",
       "date": "2026-06-20",
       "url": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss"
@@ -107,11 +112,6 @@
       "title": "Mona Khalil, Lebanon\u2019s turtle advocate, dies after Israeli attack",
       "date": "2026-06-20",
       "url": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss"
-    },
-    {
-      "title": "Australia pledges action on H5N1 after bird flu case confirmed",
-      "date": "2026-06-20",
-      "url": "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -142,6 +142,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-20T06:43:15.294166"
+    "updated_at": "2026-06-20T06:43:49.721375"
   }
 }
