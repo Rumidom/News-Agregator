@@ -55,6 +55,16 @@
   ],
   "NPR": [
     {
+      "title": "Fighting persists in Lebanon despite a ceasefire as  U.S.-Iran deal is under threat",
+      "date": "2026-06-20",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire"
+    },
+    {
+      "title": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
+      "date": "2026-06-20",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch"
+    },
+    {
       "title": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
       "date": "2026-06-20",
       "url": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention"
@@ -89,6 +99,11 @@
   ],
   "Al Jazeera": [
     {
+      "title": "Trump\u2019s Iran deal, Israel\u2019s meltdown",
+      "date": "2026-06-20",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss"
+    },
+    {
       "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
       "date": "2026-06-20",
       "url": "https://www.aljazeera.com/sports/2026/6/20/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
@@ -107,11 +122,6 @@
       "title": "World Cup 2026: Netherlands vs Sweden prediction, schedules, key highlights",
       "date": "2026-06-20",
       "url": "https://www.aljazeera.com/sports/2026/6/20/world-cup-2026-netherlands-vs-sweden-prediction-schedules-key-highlights?traffic_source=rss"
-    },
-    {
-      "title": "Mona Khalil, Lebanon\u2019s turtle advocate, dies after Israeli attack",
-      "date": "2026-06-20",
-      "url": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -142,6 +152,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-20T06:45:09.264006"
+    "updated_at": "2026-06-20T07:10:14.460268"
   }
 }
