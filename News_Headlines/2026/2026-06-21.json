@@ -1,39 +1,34 @@
 {
   "BBC": [
     {
-      "title": "Signs grow that Starmer will set out timetable to resign as mood in government shifts",
+      "title": "Starmer considers political future as pressure to quit mounts",
+      "date": "2026-06-21",
+      "url": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Signs grow that PM will resign with mood in government shifting",
       "date": "2026-06-21",
       "url": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bedford train crash disruption to last until Thursday",
+      "title": "First round of direct US-Iran talks since deal expected to continue through the night",
       "date": "2026-06-21",
-      "url": "https://www.bbc.com/news/articles/cewq0eggg4lo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
       "date": "2026-06-21",
-      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Jeremy Clarkson in remission from prostate cancer",
+      "title": "Four-day extreme heat warning to begin on Monday as temperatures could hit 38C",
       "date": "2026-06-21",
-      "url": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Chaotic England fortnight ends with huge defeat in second Test against New Zealand",
-      "date": "2026-06-21",
-      "url": "https://www.bbc.com/sport/cricket/articles/c1ey0532yevo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "King Charles to reveal tax details for the first time, palace says",
-      "date": "2026-06-21",
-      "url": "https://edition.cnn.com/2026/06/21/uk/king-charles-tax-details-reveal-intl"
-    },
-    {
-      "title": "US and Iran to hold high-level talks as Lebanon tops agenda",
+      "title": "US says negotiations with Iran ongoing after Trump\u2019s threat disrupts talks",
       "date": "",
       "url": "https://edition.cnn.com/2026/06/21/world/live-news/iran-war-trump-israel-lebanon"
     },
@@ -43,31 +38,46 @@
       "url": "https://edition.cnn.com/2026/06/21/americas/colombia-trump-abelardo-de-la-espriella-intl-latam"
     },
     {
-      "title": "No fuel, no weapons: How Ukraine\u2019s new drone strategy is mauling Russian supply lines",
+      "title": "Trump says Starmer \u2018will resign\u2019 amid speculation UK PM could quit as soon as Monday",
       "date": "2026-06-21",
-      "url": "https://edition.cnn.com/2026/06/20/europe/ukraine-mid-range-drones-russia-logistics-intl-cmd"
+      "url": "https://edition.cnn.com/2026/06/21/uk/trump-starmer-resignation-claim-feud"
     },
     {
-      "title": "June 20, 2026 - Iran and US make opposing claims on Strait of Hormuz ahead of talks in Switzerland",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon"
+      "title": "Why is there fighting in Lebanon?",
+      "date": "2026-06-21",
+      "url": "https://edition.cnn.com/2026/06/20/middleeast/why-is-there-fighting-in-lebanon-and-does-it-threaten-the-iran-deal"
+    },
+    {
+      "title": "Wife of Spanish PM forbidden to leave country as corruption probes pile up",
+      "date": "2026-06-21",
+      "url": "https://edition.cnn.com/2026/06/21/europe/spanish-pm-wife-corruption-probe-intl"
     }
   ],
   "NPR": [
     {
-      "title": "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
       "date": "2026-06-21",
-      "url": "https://www.npr.org/2026/06/21/g-s1-128889/a-new-survey-on-dads-found-that-9-out-of-10-had-a-surprising-reaction-to-fatherhood"
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike"
     },
     {
-      "title": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis",
+      "title": "Trump threatens to 'hit Iran very hard again' while Vance is in Switzerland for talks",
       "date": "2026-06-21",
-      "url": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis"
+      "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance"
     },
     {
-      "title": "Want to improve your agility? Try these 'explosive power' exercises",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
       "date": "2026-06-21",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury"
+      "url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales"
+    },
+    {
+      "title": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
+      "date": "2026-06-21",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green"
+    },
+    {
+      "title": "Week in politics: continued negotiations with Iran; G7 summit; Reflecting Pool issues",
+      "date": "2026-06-21",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5864237/week-in-politics-continued-negotiations-with-iran-g7-summit-reflecting-pool-issues"
     }
   ],
   "The Guardian": [
@@ -77,81 +87,81 @@
       "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa"
     },
     {
+      "title": "Far-right millionaire Abelardo de la Espriella wins Colombia\u2019s presidential runoff",
+      "date": "2026-06-21",
+      "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff"
+    },
+    {
+      "title": "Colombians vote in runoff election expected to trigger shift in decades-long armed conflict",
+      "date": "2026-06-21",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict"
+    },
+    {
       "title": "Canada\u2019s policies force asylum seekers into US to face deportation, critics say",
       "date": "2026-06-21",
       "url": "https://www.theguardian.com/world/2026/jun/21/canada-immigration-us-deportation"
     },
     {
-      "title": "Colombia\u2019s runoff election expected to trigger shift in decades-long armed conflict",
-      "date": "2026-06-21",
-      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict"
-    },
-    {
       "title": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
       "date": "2026-06-21",
       "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests"
-    },
-    {
-      "title": "Angus Taylor dismisses Labor\u2019s \u2018half-arsed\u2019 tweaks to CGT reform \u2013 as it happened",
-      "date": "2026-06-21",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US-Iran delegations arrive as talks begin in Switzerland",
+      "title": "Football fans in Gaza gather to watch Spain-Saudi Arabia match",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/football-fans-in-gaza-gather-to-watch-spain-saudi-arabia-match?traffic_source=rss"
     },
     {
-      "title": "Messi, Argentina play Austria in World Cup group match: All to know",
+      "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/sports/2026/6/21/messi-argentina-play-austria-in-world-cup-group-match-all-to-know?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss"
     },
     {
-      "title": "Ukraine strikes hit oil facilities in Crimea, Russia\u2019s Krasnodar",
+      "title": "What are the end goals of Iran-US negotiations?",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss"
     },
     {
-      "title": "\u2018Kind, principled\u2019: Palestinian journalists remember slain Gaza journalist",
+      "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss"
     },
     {
-      "title": "Stop \u2018Greater Israel\u2019 to make peace",
+      "title": "Remembering Al Jazeera cameraman Ahmed Wishah\u2019s life\u2019s work",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "People are surprising their dads with the ultimate Father\u2019s Day gift: World Cup tickets",
+      "title": "Trump threatens Iran over Hezbollah-Israel conflict as Vance meets delegations in Switzerland",
       "date": "2026-06-21",
-      "url": "https://www.nbcnews.com/pop-culture/viral/fathers-day-world-cup-tickets-tiktok-videos-rcna350741"
+      "url": "https://www.nbcnews.com/now/video/trump-threatens-iran-over-hezbollah-israel-conflict-as-vance-meets-delegations-in-switzerland-265438277790"
     },
     {
-      "title": "Ueda lidera la goleada de Jap\u00f3n sobre T\u00fanez con un doblete",
+      "title": "Cory Booker says \u2018we have capitulated to the enemy\u2019 with Trump\u2019s Iran deal: Full interview",
       "date": "2026-06-21",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ueda-lidera-la-goleada-de-japon-sobre-tunez-con-un-doblete-tmvo13196005"
+      "url": "https://www.nbcnews.com/meet-the-press/video/cory-booker-says-we-have-capitulated-to-the-enemy-with-trump-s-iran-deal-full-interview-265436741800"
     },
     {
-      "title": "Ueda lidera la goleada de Jap\u00f3n sobre T\u00fanez con un doblete",
+      "title": "Mikel Oyarzabal leads Spain to victory with two goals in 4-0 win over Saudi Arabia",
       "date": "2026-06-21",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ueda-lidera-la-goleada-de-japon-sobre-tunez-con-un-doblete-tmvo13196005"
+      "url": "https://www.nbcnews.com/sports/soccer/spain-v-saudi-arabia-mikel-oyarzabal-rcna351079"
     },
     {
-      "title": "Fans de Jap\u00f3n y T\u00fanez vivieron la fiesta en el Estadio Monterrey",
+      "title": "Cabo Verde aprovecha un error y silencia a Uruguay",
       "date": "2026-06-21",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/fans-de-japon-y-tunez-vivieron-la-fiesta-en-el-estadio-monterrey-tmvo13196001"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/cabo-verde-aprovecha-un-error-y-silencia-a-uruguay-tmvo13196077"
     },
     {
-      "title": "Ueda firma su doblete y sentencia la goleada de Jap\u00f3n sobre T\u00fanez",
+      "title": "\u00a1Fiesta en Miami!: as\u00ed se gritan los goles entre Uruguay y Cabo Verde",
       "date": "2026-06-21",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ueda-firma-su-doblete-y-sentencia-la-goleada-de-japon-sobre-tunez-tmvo13195999"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/fiesta-en-miami-asi-se-gritan-los-goles-entre-uruguay-y-cabo-verde-tmvo13196075"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-21T09:00:07.643640"
+    "updated_at": "2026-06-21T21:00:09.095307"
   }
 }
