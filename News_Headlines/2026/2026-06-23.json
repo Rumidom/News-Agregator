@@ -1,131 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Labour MPs mull leadership challenge to prevent Burnham 'coronation'",
+      "title": "Can you keep your kids off school or refuse to work during a heatwave?",
       "date": "2026-06-23",
-      "url": "https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Can you refuse to work or send your kids to school during a heatwave?",
+      "title": "Is watching football bad for your health? I tested my body to find out",
       "date": "2026-06-23",
-      "url": "https://www.bbc.com/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cgjxy199d9do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "England boss Tuchel not a fan of hydration breaks",
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
       "date": "2026-06-23",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "title": "Murder investigation after 14-year-old girl reported missing",
       "date": "2026-06-23",
-      "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzjn2rk0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stalker who rang BTS star's doorbell 133 times faces deportation",
+      "title": "Ashley Cain says he's 'not proud' of sexist language",
       "date": "2026-06-23",
-      "url": "https://www.bbc.com/news/articles/c9v2d9edx9wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3wynw8znl1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Vance and Iranian state media issue conflicting statements over UN nuclear inspector access",
+      "title": "Strait of Hormuz traffic steadily increases, amid conflicting reports over Iran nuclear monitoring",
       "date": "",
-      "url": "https://edition.cnn.com/2026/06/22/world/live-news/iran-war-trump-israel-lebanon-hnk"
+      "url": "https://edition.cnn.com/2026/06/23/world/live-news/iran-war-trump-lebanon-israel"
     },
     {
-      "title": "Officer among 2 killed in a Montreal shooting that sources say appeared to target police. Suspect is also dead",
+      "title": "Officer among 2 killed in a Montreal shooting that sources say appeared to target police",
       "date": "2026-06-23",
       "url": "https://edition.cnn.com/2026/06/22/world/montreal-shooting"
     },
     {
-      "title": "Keir Starmer announces resignation, UK to get sixth PM in seven years",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/06/22/world/live-news/keir-starmer-uk-pm"
+      "title": "\u2018What ceasefire?\u2019: In northern Israel, locals doubt an agreement can end the war with Hezbollah",
+      "date": "2026-06-23",
+      "url": "https://edition.cnn.com/2026/06/23/middleeast/israel-lebanon-ceasefire-hezbollah-intl"
+    },
+    {
+      "title": "India\u2019s youth are fuming. A Boston University graduate wants to fix that",
+      "date": "2026-06-23",
+      "url": "https://edition.cnn.com/2026/06/05/india/india-cockroach-janta-party-protest-youth-anger-intl-hnk"
+    },
+    {
+      "title": "AI could breach government and business defenses in months, US and its intelligence partners warn",
+      "date": "2026-06-23",
+      "url": "https://edition.cnn.com/2026/06/23/world/ai-five-eyes-warning-cyber-threat-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+      "date": "2026-06-23",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info"
+    },
+    {
+      "title": "When falling housing prices are good news \u2014 and when they're not",
+      "date": "2026-06-23",
+      "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not"
+    },
+    {
+      "title": "Iran's president heads to Pakistan as U.S.-Iran teams work on war-ending deal",
+      "date": "2026-06-23",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal"
+    },
+    {
+      "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know",
+      "date": "2026-06-23",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5793971/weight-loss-glp1-insurance-coverage"
+    },
+    {
+      "title": "How Trump's 'Complete and Total Endorsement' has reshaped the Republican Party",
+      "date": "2026-06-23",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5863542/trump-endorsements-primary-runoff-general"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "date": "2026-06-23",
+      "url": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility"
+    },
+    {
+      "title": "Whistleblower investigating Ecuadorian president\u2019s family business was murdered, activists say",
+      "date": "2026-06-23",
+      "url": "https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business"
+    },
     {
       "title": "Lost memoir of Hiroshima survivor found after decades in US archive",
       "date": "2026-06-23",
       "url": "https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive"
     },
     {
-      "title": "Australia politics live: Jim Chalmers hails \u2018important day for tax reform\u2019 after deal with Greens; paraquat herbicide gets regulator green light despite Parkinson\u2019s fears",
+      "title": "Cult leader William Kamm and wife groomed young girl for a decade, Sydney court told",
       "date": "2026-06-23",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/jun/23/cult-leader-william-kamm-little-pebble-wife-girl-sydney-court-ntwnfb"
     },
     {
-      "title": "Labor reaches deal with the Greens to pass changes to capital gains tax and negative gearing reforms",
+      "title": "Australia \u2018sleepwalking\u2019 into AI crisis and \u2018tech bro free-for-all\u2019, says Greens senator",
       "date": "2026-06-23",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/23/labor-greens-deal-capital-gains-tax-negative-gearing-reforms"
-    },
-    {
-      "title": "Where did it all go wrong for Starmer? \u2013 podcast",
-      "date": "2026-06-23",
-      "url": "https://www.theguardian.com/news/audio/2026/jun/23/where-did-it-all-go-wrong-for-starmer-podcast"
-    },
-    {
-      "title": "Judge dismisses Trump administration lawsuit over LA sanctuary city policy",
-      "date": "2026-06-23",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/judge-trump-lawsuit-los-angeles-sanctuary-city"
+      "url": "https://www.theguardian.com/technology/2026/jun/23/david-pocock-urges-albanese-to-stop-tech-companies-training-ai-models-using-australian-content"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
+      "title": "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/23/nyc-mayor-zohran-mamdani-doubles-down-on-criticism-of-aipac?traffic_source=rss"
     },
     {
-      "title": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
+      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss"
     },
     {
-      "title": "US watchdog opens probe after Tesla crashes into Texas home, killing woman",
+      "title": "How does air conditioning work, and how does it affect your body?",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/economy/2026/6/23/us-watchdog-opens-probe-after-tesla-crashes-into-texas-home-killing-woman?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/23/how-does-air-conditioning-work-and-how-does-it-affect-your-body?traffic_source=rss"
     },
     {
-      "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+      "title": "Mamdani defends AIPAC \u2018monsters\u2019 comment",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/mamdani-defends-aipac-monsters-comment?traffic_source=rss"
     },
     {
-      "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
+      "title": "Iran\u2019s President Pezeshkian lands in Pakistan after US deal",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Zohran Mamdani\u2019s clout, a double Trump endorsement and more on the line in Tuesday\u2019s primaries",
+      "date": "2026-06-23",
+      "url": "https://www.nbcnews.com/politics/2026-election/zohran-mamdanis-clout-double-trump-endorsement-line-tuesdays-primaries-rcna351120"
+    },
+    {
+      "title": "Noruega sella boleto a dieciseisavos tras vencer a Senegal",
+      "date": "2026-06-23",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/noruega-sella-boleto-a-dieciseisavos-tras-vencer-a-senegal-tmvo13196501"
+    },
     {
       "title": "Mbapp\u00e9 aprovecha grave error de Irak y llega a 16 goles en Copas del Mundo",
       "date": "2026-06-23",
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mbappe-aprovecha-grave-error-de-irak-y-llega-a-16-goles-en-copas-del-mundo-tmvo13196461"
     },
     {
-      "title": "Francia apunta alto y Mbapp\u00e9 mantiene el enfoque tras la goleada",
+      "title": "El An\u00e1lisis Experto es para la sublime actuaci\u00f3n de Lionel Messi",
       "date": "2026-06-23",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/francia-apunta-alto-y-mbappe-mantiene-el-enfoque-tras-la-goleada-tmvo13196508"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-analisis-experto-es-para-la-sublime-actuacion-de-lionel-messi-tmvo13196574"
     },
     {
-      "title": "INMESSIONANTE: Revive los 18 goles que coronaron a Messi como el m\u00e1ximo goleador de los Mundiales",
+      "title": "Heroico: Argelia remonta ante Jordania y enciende el sue\u00f1o por avanzar a los 16avos del Mundial 2026",
       "date": "2026-06-23",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/inmessionante-revive-los-18-goles-que-coronaron-a-messi-como-el-maximo-goleador-de-los-mundiales-tmvo13196506"
-    },
-    {
-      "title": "Fan\u00e1ticos de Argentina, Francia, Irak, Noruega y Senegal comparten la fiesta del Mundial",
-      "date": "2026-06-23",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/fanaticos-de-argentina-francia-irak-noruega-y-senegal-comparten-la-fiesta-del-mundial-tmvo13196503"
-    },
-    {
-      "title": "Noruega sella boleto a dieciseisavos tras vencer a Senegal",
-      "date": "2026-06-23",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/noruega-sella-boleto-a-dieciseisavos-tras-vencer-a-senegal-tmvo13196501"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/heroico-argelia-remonta-ante-jordania-y-enciende-el-sueno-por-avanzar-a-los-16avos-del-mundial-2026-tmvo13196568"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-23T01:00:07.249185"
+    "updated_at": "2026-06-23T09:00:07.535032"
   }
 }
