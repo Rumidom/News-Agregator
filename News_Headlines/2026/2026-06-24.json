@@ -1,162 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Police took eight minutes to find Henry Nowak's fatal stab wound",
+      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
       "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v02r105jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Scotland on 'brink of history', fans say ahead of Brazil World Cup tie",
+      "title": "Why this heatwave feels worse than the last one",
       "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Burnham on course to be PM, but what would his No 10 operation look like?",
+      "title": "Obesity cases rising fastest in young adults",
       "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/cp3xv2j7gepo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
+      "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
       "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bradford, Oldham and London first places to be looked at by grooming gang inquiry",
+      "title": "King meets women's cricket team that is not allowed to exist",
       "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryv10l4jxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Israel deliberately targeting children in ongoing genocide against Palestinians, UN commission finds",
+      "title": "Powerful 7.5 magnitude earthquake hits Venezuela",
       "date": "2026-06-24",
-      "url": "https://edition.cnn.com/2026/06/24/middleeast/israel-targeting-children-report-un-intl"
+      "url": "https://edition.cnn.com/2026/06/24/americas/venezuela-earthquake-latam-intl"
     },
     {
-      "title": "Cuba\u2019s military wants to show readiness. Footage reviewed by CNN reveals its limits",
+      "title": "Colombia bets on \u2018the Tiger,\u2019 a Trump-backed far-right populist headed for the presidency",
       "date": "2026-06-24",
-      "url": "https://edition.cnn.com/2026/06/24/americas/cuba-military-exercises-intl-latam"
+      "url": "https://edition.cnn.com/2026/06/22/americas/abelardo-de-la-espriella-colombia-presidential-vote-intl"
     },
     {
-      "title": "Why these adults are suddenly obsessed with a kids toy from the late 90s",
+      "title": "Global oil prices fall to lowest level since before the US-Iran war",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/24/world/live-news/iran-war-trump-israel-lebanon"
+    },
+    {
+      "title": "Ebola response worker who traveled from DRC to France is first in outbreak to test positive outside of Africa",
+      "date": "2026-06-24",
+      "url": "https://edition.cnn.com/2026/06/24/world/france-ebola-patient"
+    },
+    {
+      "title": "Why these adults are suddenly obsessed with a kids toy from the late \u201990s",
       "date": "2026-06-24",
       "url": "https://edition.cnn.com/2026/06/24/asia/spinning-top-toy-beyblade-comeback-asia-intl-hnk"
-    },
-    {
-      "title": "June 23, 2026 - Strait of Hormuz evacuation plans, Trump insists Iran agreed to more nuclear inspections",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/06/23/world/live-news/iran-war-trump-lebanon-israel"
     }
   ],
   "NPR": [
     {
-      "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
+      "title": "Meta plans to release AI-powered prediction market app, documents show",
       "date": "2026-06-24",
-      "url": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection"
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai"
     },
     {
-      "title": "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries",
+      "title": "A judge says the Kennedy Center must update him on its plans \u2014 and address that tarp",
       "date": "2026-06-24",
-      "url": "https://www.npr.org/2026/06/24/g-s1-129769/up-first-newsletter-trump-john-thune-housing-act-new-york-primaries"
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp"
     },
     {
-      "title": "In the Ebola epicenter, a gold-mining town reacts with fear, disbelief and grit",
+      "title": "Postal Service says its cash crisis is delayed until at least 2031, but problems loom",
       "date": "2026-06-24",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis"
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5859334/us-postal-service-david-steiner"
     },
     {
-      "title": "4 ways to design a dreamy summer, according to a happiness expert",
+      "title": "Will Texas' new top voting official be a 'disruptor'? Locals are preparing for it",
       "date": "2026-06-24",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5851839/how-to-plan-a-dream-summer"
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline"
     },
     {
-      "title": "5 years after the Surfside condo collapse, the toll of the tragedy remains",
+      "title": "Understanding 'masculinism,' a movement to restore the primacy of men",
       "date": "2026-06-24",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5791536/surfside-condo-collapse-families-responders-five-years-later"
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868665/understanding-masculinism-a-movement-to-restore-the-primacy-of-men"
     }
   ],
   "The Guardian": [
+    {
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "date": "2026-06-24",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc"
+    },
     {
       "title": "Play puts spotlight on Kenya\u2019s crisis of gender-based violence",
       "date": "2026-06-24",
       "url": "https://www.theguardian.com/world/2026/jun/24/kenya-play-free-me-gender-based-violence"
     },
     {
+      "title": "Brazilian federal police arrest Spanish citizen at S\u00e3o Paulo airport for racism",
+      "date": "2026-06-24",
+      "url": "https://www.theguardian.com/world/2026/jun/24/brazilian-police-arrest-spanish-citizen-racism"
+    },
+    {
+      "title": "Colombia\u2019s leftwing candidate concedes election to Trump-endorsed millionaire",
+      "date": "2026-06-24",
+      "url": "https://www.theguardian.com/world/2026/jun/24/colombia-presidential-election-abelardo-de-la-espriella"
+    },
+    {
       "title": "Why off-duty cops in second jobs \u2018kill and die more\u2019 in recession-hit Argentina",
       "date": "2026-06-24",
       "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare"
-    },
-    {
-      "title": "Philippines blocks GoreBox gaming app after school shooting kills three",
-      "date": "2026-06-24",
-      "url": "https://www.theguardian.com/world/2026/jun/24/philippines-blocks-gorebox-gaming-app-after-school-shooting-kills-three-injures-20"
-    },
-    {
-      "title": "Dettol apologises after \u2018toxic men\u2019 advert sparks backlash in China",
-      "date": "2026-06-24",
-      "url": "https://www.theguardian.com/world/2026/jun/24/dettol-apologises-toxic-men-advert-backlash-china"
-    },
-    {
-      "title": "Rookie One Nation MP blames lack of staff for mistakenly voting with Greens",
-      "date": "2026-06-24",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/24/one-nation-pauline-hanson-fuel-rebates-stance-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
+      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss"
     },
     {
-      "title": "North Korea commissions warship as Kim eyes nuclear navy",
+      "title": "Olympic athletes to get cash grants from new $100m fund created by IOC",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/24/olympic-athletes-to-get-cash-grants-from-new-100m-fund-created-by-ioc?traffic_source=rss"
     },
     {
-      "title": "Brazil vs Scotland World Cup 2026: Preview, prediction, team news, lineups",
+      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/sports/2026/6/24/brazil-vs-scotland-world-cup-2026-preview-prediction-team-news-lineups?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss"
     },
     {
-      "title": "Kenya braces for return of Gen Z protests \u2013 how did they begin?",
+      "title": "European heatwave, scorching weather triggers UK \u2018red\u2019 warning",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/features/2026/6/24/kenya-braces-for-return-of-gen-z-protests-how-did-they-begin?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/european-heatwave-scorching-weather-triggers-uk-red-warning?traffic_source=rss"
     },
     {
-      "title": "France confirms first Ebola case in doctor returning from DR Congo",
+      "title": "Ronaldinho makes surprise return to football at 46",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ronaldinho-makes-surprise-return-to-football-at-46?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Brad Lander projected winner in N.Y. Democratic primary for 10th Congressional district",
+      "title": "Trump cancels plan to sign housing bill until Congress passes election reforms",
       "date": "2026-06-24",
-      "url": "https://www.nbcnews.com/now/video/brad-lander-projected-winner-in-ny-10-democratic-primary-265578053557"
+      "url": "https://www.nbcnews.com/now/video/trump-cancels-plan-to-sign-housing-bill-until-congress-passes-election-reforms-265606213504"
     },
     {
-      "title": "New York Democrat Micah Lasher wins House primary that drew big spending from AI groups",
+      "title": "7.1-magnitude earthquake rattles Venezuela",
       "date": "2026-06-24",
-      "url": "https://www.nbcnews.com/politics/2026-election/new-york-house-district-12-democrat-primary-winner-lasher-rcna351424"
+      "url": "https://www.nbcnews.com/video/7-1-magnitude-earthquake-rattles-venezuela-265623622002"
     },
     {
-      "title": "Maryland Senate president defeats Democratic primary challenger amid redistricting anger",
+      "title": "\u00a1Doblete de Vin\u00edcius! Firma el segundo de Brasil con un letal cabezazo ante Escocia en Miami",
       "date": "2026-06-24",
-      "url": "https://www.nbcnews.com/politics/2026-election/maryland-election-bill-ferguson-state-senate-primary-redistricting-rcna351123"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/doblete-de-vinicius-firma-el-segundo-de-brasil-con-un-letal-cabezazo-ante-escocia-en-miami-tmvo13197132"
     },
     {
-      "title": "Maryland Gov. Wes Moore wins renomination ahead of potential 2028 presidential campaign",
+      "title": "Gol de Matheus Cunha pone el tercero de Brasil ante Escocia y sentencia en Miami",
       "date": "2026-06-24",
-      "url": "https://www.nbcnews.com/politics/2026-election/maryland-governor-primary-wes-moore-presidential-race-rcna351400"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-matheus-cunha-pone-el-tercero-de-brasil-ante-escocia-y-sentencia-en-miami-tmvo13197137"
     },
     {
-      "title": "Trump accuses oil companies of gas price \u2018gouging,\u2019 calls for DOJ probe",
+      "title": "\u00a1Doblete de Vin\u00edcius! Firma el segundo de Brasil con un letal cabezazo ante Escocia en Miami",
       "date": "2026-06-24",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-gas-price-gouging-oil-iran-war-hormuz-doj-rcna351522"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/doblete-de-vinicius-firma-el-segundo-de-brasil-con-un-letal-cabezazo-ante-escocia-en-miami-tmvo13197132"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-24T09:00:08.290521"
+    "updated_at": "2026-06-24T21:00:15.851578"
   }
 }
