@@ -1,44 +1,95 @@
 {
   "BBC": [
     {
-      "title": "Scotland fans face anxious World Cup wait after bruising Brazil defeat",
+      "title": "How to cope in a heatwave - according to you",
       "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Typical Scotland': Tartan Army give their verdict on Miami match against Brazil",
+      "title": "Bodies found in state of 'advanced deterioration' at under-fire trust",
       "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/news/videos/cgqjl2kkg7ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+      "title": "Jail time and unlimited fines planned under conversion practices ban",
       "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+      "title": "How brands banned from the World Cup became the story",
       "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump accuses big oil firms of price-gouging drivers",
+      "title": "Education secretary says she'll turn Tory leader's insult into a T-shirt",
       "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyrk2eg1wro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Venezuela was just rocked by back-to-back earthquakes. Here\u2019s what we know",
+      "title": "What we know about Venezuela\u2019s biggest earthquake in more than a century",
       "date": "2026-06-25",
       "url": "https://edition.cnn.com/2026/06/24/americas/venezuela-earthquake-latam-intl"
+    },
+    {
+      "title": "Trump\u2019s Gulf allies fear his Iran agreement is a \u2018disastrous turning point\u2019",
+      "date": "2026-06-25",
+      "url": "https://edition.cnn.com/2026/06/24/middleeast/trumps-gulf-allies-iran-agreement-disastrous-intl"
+    },
+    {
+      "title": "June 24, 2026 - Global oil prices fall to lowest level since before the US-Iran war",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/24/world/live-news/iran-war-trump-israel-lebanon"
+    },
+    {
+      "title": "\u2018Salami slicing\u2019: How China is trying to increase control in the Pacific",
+      "date": "2026-06-25",
+      "url": "https://edition.cnn.com/2026/06/25/china/salami-slicing-china-control-pacific-intl-hnk-ml"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "2 earthquakes in Venezuela kill at least 164. And, Trump cancels housing bill signing",
+      "date": "2026-06-25",
+      "url": "https://www.npr.org/2026/06/25/g-s1-130184/up-first-newsletter-venezuela-earthquakes-trump-senate-tensions-chris-donahue"
+    },
+    {
+      "title": "Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly",
+      "date": "2026-06-25",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5845366/world-cup-ukraine-immigrants-philadelphia-soccer-leagues"
+    },
+    {
+      "title": "Trump keeps sabotaging legislation over a voting bill. Here's what's in it",
+      "date": "2026-06-25",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5869577/trump-voting-save-america-act"
+    },
+    {
+      "title": "How to find middle ground when your partner wants kids \u2014 and you don't",
+      "date": "2026-06-25",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5758051/how-to-find-middle-ground-when-your-partner-wants-kids-and-you-dont"
+    },
+    {
+      "title": "4 surprising things to know about abortion in America since Dobbs",
+      "date": "2026-06-25",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5869560/abortion-dobbs-roe-rights-restrictions-anniversary-update"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Venezuela earthquake live: state of emergency declared after officials warn of widespread damage and high casualties",
+      "title": "Venezuela declares state of emergency after deadly twin earthquakes",
+      "date": "2026-06-25",
+      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
+    },
+    {
+      "title": "Venezuela earthquakes: \u2018intensive\u2019 search for survivors as death toll rises to 164 \u2013 latest updates",
       "date": "2026-06-25",
       "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest"
+    },
+    {
+      "title": "Datacentres facing increase in global climate-related legal cases, report finds",
+      "date": "2026-06-25",
+      "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds"
     },
     {
       "title": "Duck off: World Cup hero Merl\u00edn barred from Mexico game due to Fifa\u2019s animal ban",
@@ -46,76 +97,66 @@
       "url": "https://www.theguardian.com/football/2026/jun/24/merlin-duck-mexico-world-cup"
     },
     {
-      "title": "Australia politics live: NSW opposition leader quotes Eminem in budget reply; Labor to tweak death clause in tax reforms",
+      "title": "Papua New Guinea at risk of food shortages as El Ni\u00f1o brings frost and drought",
       "date": "2026-06-25",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb"
-    },
-    {
-      "title": "Last Islamic State-linked Australian woman from Syrian camp to return despite previous ban",
-      "date": "2026-06-25",
-      "url": "https://www.theguardian.com/world/2026/jun/25/last-is-linked-australian-woman-from-syrian-camp-to-return-despite-previous-ban"
-    },
-    {
-      "title": "Teen found not guilty of plotting terror attack on Peter Dutton after court hears of \u2018edgy joke\u2019",
-      "date": "2026-06-25",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/25/peter-dutton-terror-attack-teen-not-guilty-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "South Africa stun South Korea to reach World Cup knockouts for the first time",
+      "title": "Why Britain devours its prime ministers",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/sports/2026/6/25/south-africa-stun-south-korea-to-reach-world-cup-knockouts-for-the-first-time?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/6/25/why-britain-devours-its-prime-ministers?traffic_source=rss"
     },
     {
-      "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
+      "title": "Israeli forces kill Palestinian man during raid on his home",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/israeli-forces-kill-palestinian-man-during-raid-on-his-home?traffic_source=rss"
     },
     {
-      "title": "Russian opposition leader jailed over anti-war social media posts",
+      "title": "How minesweeping in the Strait of Hormuz works: A visual guide",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/25/how-minesweeping-in-the-strait-of-hormuz-works-a-visual-guide?traffic_source=rss"
     },
     {
-      "title": "Venezuela earthquakes live: Tremors of 7.5, 7.2 collapse Caracas buildings",
+      "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss"
     },
     {
-      "title": "Morocco come back after historic Haiti goals to reach World Cup last 32",
+      "title": "Europe faces another day of extreme heat after more temperature records set",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/sports/2026/6/25/morocco-come-back-against-historic-haiti-goals-to-reach-world-cup-last-32?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/25/europe-faces-another-day-of-extreme-heat-after-more-temperature-records-set?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump and GOP senator in shouting match during closed-door meeting",
+      "title": "Civil rights, moon landings and war wins: What Americans see as the country\u2019s greatest achievements",
       "date": "2026-06-25",
-      "url": "https://www.nbcnews.com/nightly-news/video/trump-and-gop-senator-in-shouting-match-during-closed-door-meeting-265631301604"
+      "url": "https://www.nbcnews.com/politics/politics-news/civil-rights-moon-landings-war-wins-americans-see-countrys-greatest-ac-rcna351598"
     },
     {
-      "title": "Memo Ochoa \"Lo logr\u00e9, sin su aliento no hubiera sido posible\"",
+      "title": "Out from his father\u2019s shadow, Tim Weah is carving his own path with the U.S.",
       "date": "2026-06-25",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/memo-ochoa-lo-logre-sin-su-aliento-no-hubiera-sido-posible-tmvo13197214"
+      "url": "https://www.nbcnews.com/sports/soccer/tim-weah-george-weah-fifa-world-cup-us-mens-national-team-rcna346205"
     },
     {
-      "title": "Hist\u00f3rico: \u2018Memo\u2019 Ochoa recibe homenaje con M\u00e9xico en su sexto Mundial y el Azteca retumba",
+      "title": "El Mundial une culturas con una fiesta de colores y pasi\u00f3n",
       "date": "2026-06-25",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/historico-memo-ochoa-recibe-homenaje-con-mexico-en-su-sexto-mundial-y-el-azteca-retumba-tmvo13197212"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/el-mundial-une-culturas-con-una-fiesta-de-colores-y-pasion-tmvo13197266"
     },
     {
-      "title": "Javier Aguirre homenajea a guardameta: \u201cLa noche de Ochoa\u201d",
+      "title": "M\u00e9xico perfecto, Brasil lidera y Marruecos remonta en la tercera fecha del Mundial",
       "date": "2026-06-25",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/javier-aguirre-homenajea-a-guardameta-la-noche-de-ochoa-tmvo13197209"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mexico-perfecto-brasil-lidera-y-marruecos-remonta-en-la-tercera-fecha-del-mundial-tmvo13197264"
     },
     {
-      "title": "\u00c1lvaro Fidalgo cierra la fiesta ante Chequia con el 3-0",
+      "title": "Javier Aguirre, Memo Ochoa y Gilberto Mora reaccionan al triunfo de M\u00e9xico ante Rep\u00fablica Checa",
       "date": "2026-06-25",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alvaro-fidalgo-cierra-la-fiesta-ante-chequia-con-el-3-0-tmvo13197207"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/javier-aguirre-memo-ochoa-y-gilberto-mora-reaccionan-al-triunfo-de-mexico-ante-republica-checa-tmvo13197262"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-25T01:00:07.194279"
+    "updated_at": "2026-06-25T09:00:07.839399"
   }
 }
