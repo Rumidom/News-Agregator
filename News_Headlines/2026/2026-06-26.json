@@ -1,136 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Red heat warning for south-east after UK sees warmest day of year",
+      "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
       "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/news/articles/crlw2xgrp3xo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Boy, 14, charged with murder after body found in search for girl in south Wales",
+      "title": "King becomes first monarch to reveal tax bill as royal public funding to double to \u00a3100m",
       "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/news/articles/cwyd1w958jzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chris Mason: The anatomy of the prime minister's downfall",
+      "title": "King and Queen will not live in Buckingham Palace after renovations",
       "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+      "title": "Watch: Moment woman pulled from rubble alive",
       "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What we miss when we ignore male infertility",
+      "title": "Mahmood restricts minister's access to documents as Home Office row escalates",
       "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Rescuers race to find Venezuela quake victims as global relief effort gains pace",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/06/26/world/live-news/venezuela-earthquake-hnk"
+    },
+    {
+      "title": "Power outages, fuel bans and no summer camps: Crimea placed under state of emergency as Ukraine steps up pressure on Putin",
+      "date": "2026-06-26",
+      "url": "https://edition.cnn.com/2026/06/26/europe/ukraine-crimea-pressure-russia-intl-cmd"
+    },
     {
       "title": "Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz",
       "date": "2026-06-26",
       "url": "https://edition.cnn.com/2026/06/25/middleeast/un-pauses-hormuz-evacuation-after-us-says-iran-behind-attack-intl-latam"
     },
     {
-      "title": "King Charles will not live in Buckingham Palace after costly refit, reveals $17 million tax bill",
+      "title": "The coastal state battered by Venezuela\u2019s earthquakes is no stranger to tragedy",
       "date": "2026-06-26",
-      "url": "https://edition.cnn.com/2026/06/25/uk/britain-king-charles-tax-bill-hnk-intl"
+      "url": "https://edition.cnn.com/2026/06/26/americas/la-guaira-earthquake-venezuela-intl-latam"
     },
     {
-      "title": "European heat wave brings in cool cash for Asian air-conditioner makers as sales surge",
+      "title": "Gangland \u2018hit\u2019 shows nowhere is safe in the war over the world\u2019s most lucrative cocaine market",
       "date": "2026-06-26",
-      "url": "https://edition.cnn.com/2026/06/25/asia/europe-heat-wave-air-conditioning-intl-hnk"
-    },
-    {
-      "title": "Visualizing the Venezuela earthquakes in maps and charts",
-      "date": "2026-06-26",
-      "url": "https://edition.cnn.com/2026/06/25/americas/venezuela-earthquake-map-vis"
+      "url": "https://edition.cnn.com/2026/06/26/australia/australia-cartel-killing-drug-war-violence-intl-hnk-dst"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
+      "date": "2026-06-26",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers"
+    },
+    {
+      "title": "'We are with you, Venezuela': Houston community rallies after deadly earthquakes",
+      "date": "2026-06-26",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy"
+    },
+    {
+      "title": "How well do you know your Reflecting Pool news? Because the quiz will test you",
+      "date": "2026-06-26",
+      "url": "https://www.npr.org/2026/06/26/g-s1-129799/fair-trump-tarp-fda-starmer-meta-viking-news-quiz"
+    },
+    {
+      "title": "Trump axed a Black history exhibit. Former park rangers are teaching it anyway.",
+      "date": "2026-06-26",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history"
+    },
+    {
+      "title": "Ex-NOAA employees re-create a valuable climate data site shut down by Trump",
+      "date": "2026-06-26",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
+      "title": "Whereabouts of nearly 300 people with Ebola unknown in DRC",
       "date": "2026-06-26",
-      "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes"
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc"
     },
     {
-      "title": "Experts say three recent powerful earthquakes are not related",
+      "title": "Outrage as woman jailed for three years after criticising Somali government online",
       "date": "2026-06-26",
-      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related"
+      "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement"
     },
     {
-      "title": "Xi Jinping has hosted more than a dozen leaders this year, as \u2018middle powers\u2019 look beyond the US",
+      "title": "Venezuela earthquakes: international rescue teams arrive, as 235 confirmed dead so far \u2013 latest updates",
       "date": "2026-06-26",
-      "url": "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers"
+      "url": "https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates"
     },
     {
-      "title": "Australia news live: Socceroos fans pack city sites; police arrest woman after death at aged care home in Sydney",
+      "title": "\u2018Chock full of incredible animals\u2019: marine expedition uncovers 31 new species in two weeks",
       "date": "2026-06-26",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb"
+      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil"
     },
     {
-      "title": "Woman arrested after her 84-year-old mother found dead in Sydney aged care home",
+      "title": "Trump finds partner in supreme court in his war against immigration",
       "date": "2026-06-26",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/26/84-year-old-aged-care-resident-found-dead-sydney-woman-arrested-ntwnfb"
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/trump-supreme-court-immigration"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Forever wars: Israel\u2019s cycle of conflict shows no finish line",
+      "title": "Egypt vs Iran at World Cup 2026 \u2013 Salah, prediction, lineups, how to watch",
       "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/26/egypt-vs-iran-world-cup-2026-prediction-kickoff-schedule-teams?traffic_source=rss"
     },
     {
-      "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
+      "title": "Can Europe\u2019s historic cities survive a warming climate?",
       "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/6/26/can-europes-historic-cities-survive-a-warming-climate?traffic_source=rss"
     },
     {
-      "title": "Marina Mabrey ties WNBA scoring record with 53 points; Tempo rout Sparks",
+      "title": "IAEA demands verification of Iran nuclear ambitions amid \u2018statement war\u2019",
       "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/sports/2026/6/26/marina-mabrey-ties-wnba-scoring-record-with-53-points-tempo-rout-sparks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/26/iaea-demands-strong-verification-of-irans-nuclear-programme?traffic_source=rss"
     },
     {
-      "title": "Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners",
+      "title": "Who has profited most from the war on Iran?",
       "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/sports/2026/6/26/netherlands-beat-tunisia-3-1-enter-world-cup-knockouts-as-group-winners?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/26/who-has-profited-most-from-the-war-on-iran?traffic_source=rss"
     },
     {
-      "title": "Hundreds trapped beneath buildings a day after Venezuela\u2019s twin earthquakes",
+      "title": "Baby pulled alive from rubble after Venezuela earthquake",
       "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/hundreds-trapped-beneath-buildings-a-day-after-venezuelas-twin-earthquakes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/baby-pulled-alive-from-rubble-after-venezuela-earthquake?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Gol de Sebastian Berhalter y Estados Unidos iguala los cartones frente a Turqu\u00eda",
+      "title": "Gol de Kaan Ayhan y Tuqu\u00eda vuelve a separarse frente a Estados Unidos",
       "date": "2026-06-26",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-sebastian-berhalter-y-estados-unidos-iguala-los-cartones-frente-a-turquia-tmvo13197571"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-kaan-ayhan-y-tuquia-vuelve-a-separarse-frente-a-estados-unidos-tmvo13197581"
     },
     {
-      "title": "Gol de Sebastian Berhalter y Estados Unidos iguala los cartones frente a Turqu\u00eda",
+      "title": "3.6 million soccer fans have attended this year\u2019s World Cup matches, setting a record",
       "date": "2026-06-26",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-sebastian-berhalter-y-estados-unidos-iguala-los-cartones-frente-a-turquia-tmvo13197571"
+      "url": "https://www.nbcnews.com/sports/soccer/36-million-soccer-fans-attended-years-world-cup-matches-setting-new-re-rcna351442"
     },
     {
-      "title": "Gonzalo Plata vence a Neuer y firma heroica remontada de Ecuador sobre Alemania",
+      "title": "La reacci\u00f3n de Sebastian Berhalter tras titularidad, asistencia y gol con Estados Unidos",
       "date": "2026-06-26",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gonzalo-plata-vence-a-neuer-y-firma-heroica-remontada-de-ecuador-sobre-alemania-tmvo13197569"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/la-reaccion-de-sebastian-berhalter-tras-titularidad-asistencia-y-gol-con-estados-unidos-tmvo13197642"
     },
     {
-      "title": "Beccacece tras triunfo de Ecuador ante Alemania: \"La vida es saber sufrir y tener fe y confianza\"",
+      "title": "Alfaro tras empate de Paraguay: \"La sensaci\u00f3n que me queda es sabor a poco\"",
       "date": "2026-06-26",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/beccacece-tras-triunfo-de-ecuador-ante-alemania-la-vida-es-saber-sufrir-y-tener-fe-y-confianza-tmvo13197567"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alfaro-tras-empate-de-paraguay-la-sensacion-que-me-queda-es-sabor-a-poco-tmvo13197640"
     },
     {
-      "title": "Gol de Orkun K\u00f6kc\u00fc y Tuqu\u00eda le da la vuelta frente a Estados Unidos",
+      "title": "M\u00e1s fuertes que nunca: Pulisic, Berhalter y Trusty responden tras la derrota de Estados Unidos",
       "date": "2026-06-26",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/gol-de-orkun-kokcu-y-tuquia-le-da-la-vuelta-frente-a-estados-unidos-tmvo13197565"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mas-fuertes-que-nunca-pulisic-berhalter-y-trusty-responden-tras-la-derrota-de-estados-unidos-tmvo13197638"
     }
   ],
   "_meta": {
-    "updated_at": "2026-06-26T01:00:07.563113"
+    "updated_at": "2026-06-26T09:00:08.456211"
   }
 }
