@@ -1,49 +1,85 @@
 {
   "BBC": [
     {
-      "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+      "title": "Police criticise timing of decision on pubs staying open for England match",
       "date": "2026-07-03",
-      "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "date": "2026-07-03",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Arrest warrant issued for suspect in Monaco parcel bombing",
+      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
       "date": "2026-07-03",
       "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
       "date": "2026-07-03",
-      "url": "https://www.bbc.co.uk/news/articles/ckg40qedq57o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'World cup pubs boost' and 'Kate holds court'",
+      "title": "Nasa launches mission to save falling space telescope",
       "date": "2026-07-03",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz8jqq47jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
+      "date": "2026-07-03",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Iran gears up for huge farewell to slain supreme leader",
+      "title": "Khamenei\u2019s casket on display as Iran prepares for days of funeral processions for late supreme leader",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/02/world/live-news/iran-war-us-talks"
+      "url": "https://edition.cnn.com/2026/07/03/world/live-news/iran-funeral-war-trump"
     },
     {
-      "title": "Man pulled from rubble in \u2018miraculous\u2019 rescue 8 days after devastating Venezuela earthquakes",
+      "title": "Iran sends a defiant message to Trump with colossal funeral for slain Supreme Leader Ali Khamenei",
       "date": "2026-07-03",
-      "url": "https://edition.cnn.com/2026/07/02/americas/venezuela-earthquake-survivor-rescued-intl-hnk"
+      "url": "https://edition.cnn.com/2026/07/03/middleeast/iran-leader-funeral-trump-intl"
     },
     {
-      "title": "As Venezuelan morgues fill and the death toll slowly rises, questions remain about how many are truly gone",
+      "title": "Ukrainian woman disguised as a man is main suspect in Monaco attack",
       "date": "2026-07-03",
-      "url": "https://edition.cnn.com/2026/07/02/americas/venezuela-earthquakes-morgue-death-toll-latam-intl"
+      "url": "https://edition.cnn.com/2026/07/03/europe/monaco-bomb-woman-suspect-intl"
+    },
+    {
+      "title": "On the eve of America\u2019s birthday, the first American pope takes center stage",
+      "date": "2026-07-03",
+      "url": "https://edition.cnn.com/2026/07/03/world/pope-liberty-medal-philadelphia-intl"
+    },
+    {
+      "title": "American pilot killed by rebels in Papua, says Indonesian military",
+      "date": "2026-07-03",
+      "url": "https://edition.cnn.com/2026/07/03/asia/indonesia-papua-rebels-american-pilot-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+      "date": "2026-07-03",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party"
+    },
+    {
+      "title": "Just gave birth or are about to? Share your story and questions about costs",
+      "date": "2026-07-03",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5879531/birth-pregnancy-costs-healthcare-us"
+    },
+    {
+      "title": "Former USAID head grieves its closure while hoping for its future",
+      "date": "2026-07-03",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future"
+    },
+    {
+      "title": "But first, coffee: The drink that energized the American Revolution",
+      "date": "2026-07-03",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party"
+    },
+    {
+      "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+      "date": "2026-07-03",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices"
+    }
+  ],
   "The Guardian": [
     {
       "title": "\u2018Give him any award, and he\u2019ll come running\u2019: Narendra Modi racks up honours on overseas trips",
@@ -51,54 +87,59 @@
       "url": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips"
     },
     {
+      "title": "\u2018I can only describe it as a war zone\u2019: the rescuers navigating Venezuela\u2019s post-quake hellscape",
+      "date": "2026-07-03",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape"
+    },
+    {
       "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
       "date": "2026-07-03",
       "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement"
     },
     {
-      "title": "Australia news live: minister says it\u2019s safe to \u2018keep buying eggs, keep buying chicken\u2019 as east coast records first suspected bird flu case",
+      "title": "NSW shadow upper house leader steps aside during Icac Liberals inquiry \u2013 as it happened",
       "date": "2026-07-03",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb"
     },
     {
-      "title": "Christian Brothers kept nine child abusers in religious order due to Gospel imperative to help \u2018the needy\u2019, court documents reveal",
+      "title": "Details of MCG assault against Lidia Thorpe revealed after court lifts suppression order",
       "date": "2026-07-03",
-      "url": "https://www.theguardian.com/world/2026/jul/03/christian-brothers-kept-nine-child-abusers-in-religious-order-due-to-gospel-imperative-to-help-the-needy-court-documents-reveal-ntwnfb"
-    },
-    {
-      "title": "Tributes for Melbourne boy allegedly left to die from stab wounds, as teen charged with murder",
-      "date": "2026-07-03",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/03/melbourne-boy-allegedly-stabbed-left-to-die-outside-hospital-teen-charged-murder-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/jul/03/lidia-thorpe-mcg-assault-attacker-ebony-bell-convicted-community-work-fine-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Iran warns ships against using unapproved routes in Strait of Hormuz",
+      "title": "Bangkok\u2019s ambulance volunteers: Saving lives or putting them at risk?",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/101-east/2026/7/3/bangkoks-ambulance-volunteers-saving-lives-or-putting-them-at-risk?traffic_source=rss"
     },
     {
-      "title": "Who are the rogue bishops defying Pope Leo XIV?",
+      "title": "An AIDS-free generation is within reach, but not guaranteed",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/7/3/an-aids-free-generation-is-within-reach-but-not-guaranteed?traffic_source=rss"
     },
     {
-      "title": "\u2018They gave their best\u2019: Congolese reflect on historic World Cup run",
+      "title": "Argentina fans revel in Messi\u2019s Miami homecoming before Cape Verde match",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/sports/2026/7/3/they-gave-their-best-congolese-reflect-on-historic-world-cup-run?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/3/argentina-fans-revel-in-messis-miami-homecoming-before-cape-verde-match?traffic_source=rss"
     },
     {
-      "title": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+      "title": "Nagelsmann quits as Germany coach after early World Cup 2026 exit",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/3/nagelsmann-steps-down-germany-coach-klopp-paraguay-world-cup-round-of-32?traffic_source=rss"
     },
     {
-      "title": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
+      "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/3/what-is-nayara-the-indian-firm-russia-is-reportedly-importing-oil-from?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Preparations Underway for Funeral of Iran\u2019s Supreme Leader",
+      "date": "2026-07-03",
+      "url": "https://www.today.com/video/preparations-underway-for-funeral-of-iran-s-supreme-leader-266128965961"
+    },
     {
       "title": "\u00a1Golazo de Gon\u00e7alo Ramos al 93' pone en ventaja a Portugal!",
       "date": "2026-07-03",
@@ -110,22 +151,17 @@
       "url": "https://www.nbcnews.com/nightly-news/video/world-cup-red-card-controversy-266115653690"
     },
     {
-      "title": "Espa\u00f1a y Portugal se ver\u00e1n en octavos y nuestros expertos analizan su rendimiento",
+      "title": "Suiza no perdona y avanza con autoridad ante Argelia",
       "date": "2026-07-03",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/espana-y-portugal-se-veran-en-octavos-y-nuestros-expertos-analizan-su-rendimiento-tmvo13200050"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/suiza-no-perdona-y-avanza-con-autoridad-ante-argelia-tmvo13200108"
     },
     {
-      "title": "Embolo abre el marcador para Suiza tras una gran jugada de Manzambi",
+      "title": "Carlos Pav\u00f3n: \"El pr\u00f3ximo rival tiene que pensarlo mucho\" | Todo el Mundial",
       "date": "2026-07-03",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/embolo-abre-el-marcador-para-suiza-tras-una-gran-jugada-de-manzambi-tmvo13200048"
-    },
-    {
-      "title": "Batistuta y Salcido ponen en una balanza a Inglaterra y M\u00e9xico | Enlace Mundial",
-      "date": "2026-07-03",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/batistuta-y-salcido-ponen-en-una-balanza-a-inglaterra-y-mexico-enlace-mundial-tmvo13200046"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/carlos-pavon-el-proximo-rival-tiene-que-pensarlo-mucho-todo-el-mundial-tmvo13200106"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-03T01:00:07.816027"
+    "updated_at": "2026-07-03T09:00:07.966955"
   }
 }
