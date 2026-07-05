@@ -1,44 +1,70 @@
 {
   "BBC": [
     {
+      "title": "Reform denies rules broken by Farage after reports benefits from ally were not declared",
+      "date": "2026-07-05",
+      "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Tuchel praises respectful Mexico fans amid increased security",
       "date": "2026-07-05",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Farage denies rules broken after reports benefits from ally were not declared",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "date": "2026-07-05",
-      "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "A very British love affair - why Wimbledon regulars keep coming back",
+      "title": "How Iran's new regime is very different to what came before",
       "date": "2026-07-05",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54yldw1eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "TikTokers on how Manchester became an 'influencer heaven'",
+      "title": "Staying up for the match? How to handle a 1am kick-off",
       "date": "2026-07-05",
-      "url": "https://www.bbc.co.uk/news/articles/cp8p8y937ydo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-      "date": "2026-07-05",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Whereabouts of Iran\u2019s new supreme leader unknown as public mourning of Khamenei continues",
+      "title": "Three of Khamenei\u2019s sons join mass mourning in Tehran, but not his successor",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump"
+      "url": "https://edition.cnn.com/2026/07/05/world/live-news/iran-khamenei-funeral-war-trump"
     },
     {
-      "title": "These Gen Zers are into a new kind of clubbing and it\u2019s more prayer than party",
+      "title": "Putin and Trump held \u2018businesslike\u2019 90-minute July 4 call, Moscow says",
       "date": "2026-07-05",
-      "url": "https://edition.cnn.com/2026/07/04/india/india-gen-z-trend-spiritual-bhajan-clubbing-intl-hnk"
+      "url": "https://edition.cnn.com/2026/07/05/europe/putin-trump-call-independence-day-intl"
+    },
+    {
+      "title": "Bodies lie unclaimed and rats run rampant as months on Gaza\u2019s ceasefire remains unfulfilled",
+      "date": "2026-07-05",
+      "url": "https://edition.cnn.com/2026/07/05/middleeast/gaza-israel-ceasefire-deal-intl"
+    },
+    {
+      "title": "Founder of one of China\u2019s biggest underground churches freed, reunites with family in US",
+      "date": "2026-07-05",
+      "url": "https://edition.cnn.com/2026/07/05/china/founder-china-underground-churche-ezra-jin-freed-intl-hnk"
+    },
+    {
+      "title": "July 4, 2026 - Public mourning of Khamenei",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+      "date": "2026-07-05",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage"
+    },
+    {
+      "title": "Pastor freed from prison in China weeks after Trump requested his release",
+      "date": "2026-07-05",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Founder of prominent underground church released from prison in China",
@@ -46,71 +72,81 @@
       "url": "https://www.theguardian.com/world/2026/jul/05/founder-of-prominent-underground-church-released-from-prison-in-china"
     },
     {
-      "title": "Australia news live: Tehan criticises Labor for rising electricity bills as Bowen points to Coalition \u2018hypocrisy\u2019; suspected space debris washes up near Townsville",
-      "date": "2026-07-05",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/05/australia-news-live-albanese-labor-nsw-h5-bird-flu-angus-taylor-liberal-coalition-pauline-hanson-ntwnfb"
-    },
-    {
       "title": "Woman charged with murder after body of four-year-old boy found in Central Coast home",
       "date": "2026-07-05",
       "url": "https://www.theguardian.com/australia-news/2026/jul/05/woman-arrested-after-body-of-four-year-old-boy-found-wyong-central-coast-ntwnfb"
+    },
+    {
+      "title": "NSW Labor toughens pokies stance as Sydney inner west mayor points to \u2018unstoppable\u2019 momentum for reform",
+      "date": "2026-07-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/05/nsw-labor-to-adopt-tougher-pokies-stance-as-sydney-inner-west-mayor-says-momentum-for-real-reform-unstoppable"
+    },
+    {
+      "title": "Mysterious debris found on Queensland beaches could be \u2018space balls\u2019 \u2013 and may contain toxic rocket fuel",
+      "date": "2026-07-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/05/mysterious-debris-found-on-queensland-beaches-could-be-space-balls-and-may-contain-toxic-rocket-fuel"
+    },
+    {
+      "title": "Liberal frontbencher Dan Tehan says coalition with One Nation \u2018not even being talked about\u2019",
+      "date": "2026-07-05",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/05/liberal-frontbencher-dan-tehan-says-coalition-with-one-nation-not-even-being-talked-about-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Fireworks light up New York City to mark 250 years of US independence",
+      "title": "Jailed Gaza hospital chief in life-threatening condition, rights group says",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/5/jailed-gaza-hospital-chief-in-life-threatening-condition-rights-group-says?traffic_source=rss"
     },
     {
-      "title": "Severe weather disrupts US\u2019s 250th celebrations",
+      "title": "Sooryavanshi sets record for youngest India player in international match",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/5/sooryavanshi-sets-record-for-youngest-india-player-in-international-match?traffic_source=rss"
     },
     {
-      "title": "This immigrant served in the US military. Now he faces deportation",
+      "title": "Trump praises US military as it marks 250 years of independence",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/trump-praises-us-military-as-it-marks-250-years-of-independence?traffic_source=rss"
     },
     {
-      "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+      "title": "China and Russia to hold annual joint naval drills",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+      "title": "Release Dr Hussam Abu Safia immediately!",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump: 'We don't want Communists in our country'",
+      "title": "Trump uses America\u2019s 250 speech to honor military heroes and also push political agendas",
       "date": "2026-07-05",
-      "url": "https://www.nbcnews.com/video/trump-knocks-communism-in-his-salute-to-america-250-speech-266187845739"
+      "url": "https://www.nbcnews.com/video/trump-uses-america-s-250-speech-to-honor-military-heroes-and-also-push-political-agendas-266189381587"
     },
     {
-      "title": "Weather emergencies disrupt Trump\u2019s Fourth of July plans",
-      "date": "2026-07-05",
-      "url": "https://www.nbcnews.com/politics/donald-trump/weather-emergencies-disrupt-trumps-fourth-july-plans-rcna352792"
-    },
-    {
-      "title": "Record heat suspected in over 20 deaths as severe weather puts damper on Fourth of July festivities",
+      "title": "Record heat suspected in over 20 deaths as severe weather dampens festivities",
       "date": "2026-07-05",
       "url": "https://www.nbcnews.com/weather/heat/record-heat-deaths-severe-weather-fourth-july-rcna353001"
+    },
+    {
+      "title": "Trump touts SAVE America Act during Salute to America 250 speech",
+      "date": "2026-07-05",
+      "url": "https://www.nbcnews.com/video/trump-touts-save-america-act-during-salute-to-america-250-speech-266185797893"
+    },
+    {
+      "title": "Eight people shot in Coney Island, including four children, NYPD says",
+      "date": "2026-07-05",
+      "url": "https://www.nbcnews.com/news/us-news/eight-people-shot-coney-island-four-children-nypd-rcna353013"
     },
     {
       "title": "FBI seized more than 600 drones near World Cup events",
       "date": "2026-07-05",
       "url": "https://www.nbcnews.com/sports/soccer/fbi-seized-600-drones-world-cup-events-rcna353006"
-    },
-    {
-      "title": "Alfaro tras quedar fuera frente a Francia: \"Si no era por ese penal, no nos marcaban la diferencia\"",
-      "date": "2026-07-05",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alfaro-tras-quedar-fuera-frente-a-francia-si-no-era-por-ese-penal-no-nos-marcaban-la-diferencia-tmvo13200618"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-05T01:00:07.479811"
+    "updated_at": "2026-07-05T09:00:06.868566"
   }
 }
