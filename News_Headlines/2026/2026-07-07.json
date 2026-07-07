@@ -1,96 +1,132 @@
 {
   "BBC": [
     {
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+      "title": "One million more UK homeowners set  to face higher mortgages",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
+      "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c04yywdq69vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+      "title": "Farage to make statement on his 'future in public life'",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why some African nations are turning down Trump aid money",
+      "title": "The Odyssey stars wow red carpet at world premiere in London",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Funeral ceremonies for slain supreme leader underway in sacred Iranian city",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/06/world/live-news/iran-khamenei-funeral-war-trump"
+      "title": "Monaco bombing attack suspect found shot dead in Ukraine, officials say",
+      "date": "2026-07-07",
+      "url": "https://edition.cnn.com/2026/07/07/europe/monaco-suspect-body-found-ukraine-intl"
     },
     {
-      "title": "China conducts rare submarine-launched ballistic missile test, angering Pacific neighbors",
+      "title": "Tanker struck near Strait of Hormuz as Trump heads to NATO summit",
       "date": "2026-07-07",
-      "url": "https://edition.cnn.com/2026/07/06/china/china-tests-submarine-launched-ballistic-missile-intl-hnk-ml"
+      "url": "https://edition.cnn.com/2026/07/07/middleeast/hormuz-tanker-iran-attack-intl-hnk"
+    },
+    {
+      "title": "Too ugly, too noisy, too\u2026 American? France\u2019s great air con debate",
+      "date": "2026-07-07",
+      "url": "https://edition.cnn.com/2026/07/07/europe/france-heatwave-air-con-politics-intl"
+    },
+    {
+      "title": "Explosion near Macron\u2019s Damascus hotel as French president meets Syrian counterpart",
+      "date": "2026-07-07",
+      "url": "https://edition.cnn.com/2026/07/07/middleeast/explosion-damascus-macron-hotel-syria-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Woman accuses Graham Platner of sexual assault. And, NATO summit begins",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads"
+    },
+    {
+      "title": "Graham Platner faces calls to leave Maine Senate race after sexual assault allegation",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5884020/graham-platner-faces-calls-to-leave-maine-senate-race-after-sexual-assault-allegation"
+    },
+    {
+      "title": "Meet 'Project 2029' \u2014 and its war on the annoyance economy",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy"
+    },
+    {
+      "title": "Trump's NATO pressure campaign continues as summit begins",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins"
+    },
+    {
+      "title": "As climate change damages streets and highways, the road ahead may be expensive",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: China missile test \u2018not something a friend does\u2019, Solomon Islands PM says in joint appearance with Albanese",
+      "title": "What will define Elon Musk\u2019s legacy? Doge cuts to USAID Ebola programs",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb"
+      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola"
     },
     {
-      "title": "Pam the Bird: arrest ends hours-long standoff after graffiti painted on Melbourne\u2019s 120m Bolte Bridge tower",
+      "title": "Five charged in Liberia after more than 200kg of cocaine seized in drug bust",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/07/melbourne-bolte-bridge-pam-the-bird-graffiti-police-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust"
     },
     {
-      "title": "Tributes flow for \u2018deeply loved\u2019 Melbourne teacher who died after a head clash during Australian football game",
+      "title": "Severe storms in China bring tornadoes and landslides that have killed 15 people",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/07/nathan-fitzgerald-melbourne-teacher-death-australian-football-head-clash-tributes"
+      "url": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes"
     },
     {
-      "title": "\u2018Overturn this\u2019: victorious Belgium throw barb after Balogun red-card controversy",
+      "title": "Australian PM says Chinese missile test could have caused \u2018considerable damage\u2019 if weaponised",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/football/2026/jul/06/belgium-reaction-victory-usa-world-cup-red-card"
+      "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows"
     },
     {
-      "title": "Sri Lanka prison riot kills 26, with more than 100 others wounded",
+      "title": "Perth man fighting for life after robot vacuum cleaner explosion",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/world/2026/jul/07/sri-lanka-prison-riot-death-toll-injuries"
+      "url": "https://www.theguardian.com/australia-news/2026/jul/07/perth-man-fighting-for-life-after-robot-vacuum-cleaner-explosion"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
+      "title": "What does Trump want from his NATO allies?",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss"
     },
     {
-      "title": "Anyone who doesn\u2019t feel for Palestinians is not human: Egypt coach Hassan",
+      "title": "Egypt coach makes impassioned plea for Palestine in pre-match conference",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/egypt-coach-makes-impassioned-plea-for-palestine-in-pre-match-conference?traffic_source=rss"
     },
     {
-      "title": "Cuba sees nationwide power blackout for third time in six months",
+      "title": "The Responsibility to Protect doctrine can be resurrected",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss"
     },
     {
-      "title": "Russia sends weapons to help Mali\u2019s government hold off rebel siege",
+      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss"
     },
     {
-      "title": "FIFA defends Balogun red card referee after Trump calls him \u2018a bit suspect\u2019",
+      "title": "Ukrainian drones hit Russian fuel tankers",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/sports/2026/7/7/fifa-defends-balogun-red-card-referee-after-trump-calls-him-a-bit-suspect?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -100,27 +136,27 @@
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/romelu-lukaku-se-une-a-la-fiesta-entra-y-firma-el-cuarto-para-sellar-la-goleada-de-belgica-tmvo13201143"
     },
     {
-      "title": "James Rodr\u00edguez: \u201cSi me dicen que no voy a hacer goles pero que voy a quedar campe\u00f3n, firmo\u201d",
+      "title": "\u00a1Merino aparece al rescate! Pone sobre la hora a Espa\u00f1a arriba ante Portugal",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/james-rodriguez-si-me-dicen-que-no-voy-a-hacer-goles-pero-que-voy-a-quedar-campeon-firmo-tmvo13201171"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/merino-aparece-al-rescate-pone-sobre-la-hora-a-espana-arriba-ante-portugal-tmvo13201225"
     },
     {
-      "title": "Adams: \u201cNo podemos quitarle m\u00e9rito a lo que logramos en el resto del torneo\u201d",
+      "title": "B\u00e9lgica celebra y Team USA asume una dura eliminaci\u00f3n",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/adams-no-podemos-quitarle-merito-a-lo-que-logramos-en-el-resto-del-torneo-tmvo13201167"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/belgica-celebra-y-team-usa-asume-una-dura-eliminacion-tmvo13201219"
     },
     {
-      "title": "Alejandro Bedoya y Jozy Altidore analizan la derrota de Estados Unidos ante B\u00e9lgica",
+      "title": "Mauricio Pochettino: \"Nunca seguimos el ritmo del partido, incluso cuando marcamos\"",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/alejandro-bedoya-y-jozy-altidore-analizan-la-derrota-de-estados-unidos-ante-belgica-tmvo13201163"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mauricio-pochettino-nunca-seguimos-el-ritmo-del-partido-incluso-cuando-marcamos-tmvo13201209"
     },
     {
-      "title": "Estados Unidos dice adi\u00f3s: B\u00e9lgica elimina al \u00faltimo anfitri\u00f3n y avanza a cuartos ante Espa\u00f1a",
+      "title": "Radar Mundial: Espa\u00f1a avanza sobre la hora y B\u00e9lgica impone su jerarqu\u00eda",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/estados-unidos-dice-adios-belgica-elimina-al-ultimo-anfitrion-y-avanza-a-cuartos-ante-espana-tmvo13201161"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/radar-mundial-espana-avanza-sobre-la-hora-y-belgica-impone-su-jerarquia-tmvo13201179"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-07T01:00:07.882692"
+    "updated_at": "2026-07-07T09:00:08.247627"
   }
 }
