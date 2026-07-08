@@ -1,81 +1,86 @@
 {
   "BBC": [
     {
-      "title": "One million more UK homeowners set  to face higher mortgages",
+      "title": "Farage's rivals rule out standing in Clacton by-election",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+      "title": "Chris Mason: Farage attempts to seize back the agenda",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c1my1g29gk7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Farage to make statement on his 'future in public life'",
+      "title": "Amber heat-health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Odyssey stars wow red carpet at world premiere in London",
+      "title": "'Extreme' marine heatwave expected for parts of UK",
       "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckg888vpz4do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Monaco bombing attack suspect found shot dead in Ukraine, officials say",
+      "title": "Venezuelan cemetery expands burials for earthquake victims, many of whom remain unidentified",
       "date": "2026-07-07",
-      "url": "https://edition.cnn.com/2026/07/07/europe/monaco-suspect-body-found-ukraine-intl"
+      "url": "https://edition.cnn.com/2026/07/07/americas/venezuela-earthquake-cemetery-victims-latam-intl"
     },
     {
-      "title": "Tanker struck near Strait of Hormuz as Trump heads to NATO summit",
+      "title": "Marine Le Pen to run for French presidency despite losing court appeal",
+      "date": "2026-07-07",
+      "url": "https://edition.cnn.com/2026/07/07/europe/marine-le-pen-france-court-ruling-intl"
+    },
+    {
+      "title": "Iran strikes three vessels near Strait of Hormuz as Trump arrives at NATO summit",
       "date": "2026-07-07",
       "url": "https://edition.cnn.com/2026/07/07/middleeast/hormuz-tanker-iran-attack-intl-hnk"
     },
     {
-      "title": "Too ugly, too noisy, too\u2026 American? France\u2019s great air con debate",
+      "title": "Nigel Farage quits UK parliament amid financial donations controversy and will seek re-election",
       "date": "2026-07-07",
-      "url": "https://edition.cnn.com/2026/07/07/europe/france-heatwave-air-con-politics-intl"
-    },
-    {
-      "title": "Explosion near Macron\u2019s Damascus hotel as French president meets Syrian counterpart",
-      "date": "2026-07-07",
-      "url": "https://edition.cnn.com/2026/07/07/middleeast/explosion-damascus-macron-hotel-syria-intl"
+      "url": "https://edition.cnn.com/2026/07/07/uk/nigel-farage-reform-intl"
     }
   ],
   "NPR": [
     {
+      "title": "Reigning champion Argentina escapes with remarkable World Cup victory over Egypt",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5884872/2026-world-cup-fifa-argentina-egypt-round-of-16"
+    },
+    {
+      "title": "International Olympic Committee lifts Russia suspension ahead of 2028 LA Games",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/nx-s1-5884868/russia-olympics-ban-lifted-ioc-2028-los-angeles-games"
+    },
+    {
+      "title": "New lawsuit alleges U.S. shared asylum application details with Iran",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran"
+    },
+    {
+      "title": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope",
+      "date": "2026-07-07",
+      "url": "https://www.npr.org/2026/07/07/g-s1-132218/theres-no-treatment-designed-for-the-ebola-strain-ravaging-drc-but-now-theres-hope"
+    },
+    {
       "title": "Woman accuses Graham Platner of sexual assault. And, NATO summit begins",
       "date": "2026-07-07",
       "url": "https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads"
-    },
-    {
-      "title": "Graham Platner faces calls to leave Maine Senate race after sexual assault allegation",
-      "date": "2026-07-07",
-      "url": "https://www.npr.org/2026/07/07/nx-s1-5884020/graham-platner-faces-calls-to-leave-maine-senate-race-after-sexual-assault-allegation"
-    },
-    {
-      "title": "Meet 'Project 2029' \u2014 and its war on the annoyance economy",
-      "date": "2026-07-07",
-      "url": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy"
-    },
-    {
-      "title": "Trump's NATO pressure campaign continues as summit begins",
-      "date": "2026-07-07",
-      "url": "https://www.npr.org/2026/07/07/nx-s1-5884055/trumps-nato-pressure-campaign-continues-as-summit-begins"
-    },
-    {
-      "title": "As climate change damages streets and highways, the road ahead may be expensive",
-      "date": "2026-07-07",
-      "url": "https://www.npr.org/2026/07/07/nx-s1-5883802/road-damage-heat-wave"
     }
   ],
   "The Guardian": [
+    {
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "date": "2026-07-07",
+      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds"
+    },
     {
       "title": "What will define Elon Musk\u2019s legacy? Doge cuts to USAID Ebola programs",
       "date": "2026-07-07",
@@ -87,76 +92,71 @@
       "url": "https://www.theguardian.com/world/2026/jul/07/charged-liberia-200kg-cocaine-seized-drug-bust"
     },
     {
-      "title": "Severe storms in China bring tornadoes and landslides that have killed 15 people",
+      "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/world/2026/jul/07/china-severe-storms-death-toll-xi-jinping-rescue-efforts-landslides-tornadoes"
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe"
     },
     {
-      "title": "Australian PM says Chinese missile test could have caused \u2018considerable damage\u2019 if weaponised",
+      "title": "Australia news live: major Telstra network outages shut down regional trains in Victoria and NSW and impact triple-zero calls",
       "date": "2026-07-07",
-      "url": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows"
-    },
-    {
-      "title": "Perth man fighting for life after robot vacuum cleaner explosion",
-      "date": "2026-07-07",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/07/perth-man-fighting-for-life-after-robot-vacuum-cleaner-explosion"
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "What does Trump want from his NATO allies?",
+      "title": "Switzerland face Argentina in World Cup quarterfinal after beating Colombia",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/what-does-trump-want-from-his-nato-allies?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/7/switzerland-face-argentina-in-world-cup-quarterfinal-after-beating-colombia?traffic_source=rss"
     },
     {
-      "title": "Egypt coach makes impassioned plea for Palestine in pre-match conference",
+      "title": "Russian missiles strike Ukraine\u2019s capital, Kyiv, for third time in a week",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/egypt-coach-makes-impassioned-plea-for-palestine-in-pre-match-conference?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss"
     },
     {
-      "title": "The Responsibility to Protect doctrine can be resurrected",
+      "title": "Egypt buoyed by praise for World Cup heroics despite controversial exit",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/opinions/2026/7/7/the-responsibility-to-protect-doctrine-can-be-resurrected?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/7/egypt-buoyed-by-praise-for-world-cup-heroics-despite-controversial-exit?traffic_source=rss"
     },
     {
-      "title": "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
+      "title": "Egypt were \u2018cheated\u2019 in World Cup loss to Argentina, coach Hassan says",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/news/2026/7/7/bangladesh-landslides-kill-nine-including-eight-rohingya-in-refugee-camp?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/7/egypt-were-cheated-in-world-cup-loss-to-argentina-coach-hassan-says?traffic_source=rss"
     },
     {
-      "title": "Ukrainian drones hit Russian fuel tankers",
+      "title": "US says strikes launched as explosions heard in southern Iran",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/ukrainian-drones-hit-russian-fuel-tankers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "\u00a1Romelu Lukaku se une a la fiesta! Entra y firma el cuarto para sellar la goleada de B\u00e9lgica",
+      "title": "U.S. launches new attacks on Iran in retaliation for attacks on commercial ships, U.S. military says",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/romelu-lukaku-se-une-a-la-fiesta-entra-y-firma-el-cuarto-para-sellar-la-goleada-de-belgica-tmvo13201143"
+      "url": "https://www.nbcnews.com/world/iran/us-launches-new-attacks-iran-retaliation-attacks-commercial-ships-us-m-rcna353411"
     },
     {
-      "title": "\u00a1Merino aparece al rescate! Pone sobre la hora a Espa\u00f1a arriba ante Portugal",
+      "title": "Growing number of Democrats rescind endorsements of Graham Platner",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/merino-aparece-al-rescate-pone-sobre-la-hora-a-espana-arriba-ante-portugal-tmvo13201225"
+      "url": "https://www.nbcnews.com/now/video/growing-number-of-democrats-rescind-endorsements-of-graham-platner-266316869533"
     },
     {
-      "title": "B\u00e9lgica celebra y Team USA asume una dura eliminaci\u00f3n",
+      "title": "Suiza enciende sus motores para el duelo ante Colombia en octavos de final",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/belgica-celebra-y-team-usa-asume-una-dura-eliminacion-tmvo13201219"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/suiza-enciende-sus-motores-para-el-duelo-ante-colombia-en-octavos-de-final-tmvo13201474"
     },
     {
-      "title": "Mauricio Pochettino: \"Nunca seguimos el ritmo del partido, incluso cuando marcamos\"",
+      "title": "Enzo Fern\u00e1ndez anota el 3-2 para dar la vuelta a Egipto",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/mauricio-pochettino-nunca-seguimos-el-ritmo-del-partido-incluso-cuando-marcamos-tmvo13201209"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/enzo-fernandez-anota-el-3-2-para-dar-la-vuelta-a-egipto-tmvo13201430"
     },
     {
-      "title": "Radar Mundial: Espa\u00f1a avanza sobre la hora y B\u00e9lgica impone su jerarqu\u00eda",
+      "title": "Suiza enciende sus motores para el duelo ante Colombia en octavos de final",
       "date": "2026-07-07",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/radar-mundial-espana-avanza-sobre-la-hora-y-belgica-impone-su-jerarquia-tmvo13201179"
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/suiza-enciende-sus-motores-para-el-duelo-ante-colombia-en-octavos-de-final-tmvo13201474"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-07T09:00:08.247627"
+    "updated_at": "2026-07-07T21:00:11.056094"
   }
 }
