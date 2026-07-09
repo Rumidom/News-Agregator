@@ -1,24 +1,24 @@
 {
   "BBC": [
     {
-      "title": "US launches more strikes on Iran with blasts reported in south of country",
+      "title": "Family's 'unimaginable loss' as mum and daughters found dead",
       "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Met investigate donation to Jenrick's Tory leadership campaign",
+      "title": "Disability benefit not fit for purpose, minister leading review says",
       "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
+      "title": "Man denies attempted murder of 10 people on train near Huntingdon",
       "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+      "title": "Burnham on course for No 10 as Labour nominations open",
       "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Starmer hints at bank holiday if England win World Cup",
@@ -28,64 +28,105 @@
   ],
   "CNN": [
     {
-      "title": "US and Iran trade strikes for second day after Trump said ceasefire is \u2018over\u2019",
+      "title": "Fresh fire rocks Middle East, leaving Iran-US agreement on the brink",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/09/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Farage left fighting a trash can as the UK populist leader\u2019s election gamble backfires",
+      "date": "2026-07-09",
+      "url": "https://edition.cnn.com/2026/07/09/uk/nigel-farage-special-election-bin-face-intl"
+    },
+    {
+      "title": "The US is striking Iran again. Can it ever deliver a knockout blow?",
+      "date": "2026-07-09",
+      "url": "https://edition.cnn.com/2026/07/09/middleeast/iran-us-ceasefire-attacks-resume-intl-hnk"
+    },
+    {
+      "title": "July 8, 2026 - US, Iran threaten more attacks as strikes continue, Trump attends NATO summit",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/08/world/live-news/iran-war-nato-summit-ukraine-trump"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Graham Platner ends Senate bid. And, why Nolan Wells' death captured national attention",
+      "date": "2026-07-09",
+      "url": "https://www.npr.org/2026/07/09/g-s1-132694/up-first-newsletter-graham-platner-trump-iran-israel-nolan-wells"
+    },
+    {
+      "title": "Bonnie Tyler, singer of ballad 'Total Eclipse of the Heart,' has died at 75",
+      "date": "2026-07-09",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5887107/bonnie-tyler-obit"
+    },
+    {
+      "title": "A Florida airport is officially renamed for Trump. What does he stand to gain?",
+      "date": "2026-07-09",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5825868/trump-airport-florida-pbi-trademark"
+    },
+    {
+      "title": "How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister",
+      "date": "2026-07-09",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5876065/andy-burnham-england-uk"
+    },
+    {
+      "title": "Campaign staffers keep trying to bet on races despite push to curb insider trading",
+      "date": "2026-07-09",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5869569/kalshi-election-staffers-caught"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Telstra says Australians can now \u2018feel confident\u2019 calling triple zero; Hanson records podcast with Tommy Robinson",
+      "title": "Venomous snakes escape breeding farms in southern China during flooding",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding"
+    },
+    {
+      "title": "\u2018Like a father to us\u2019: pride and protest as thousands flock to see Narendra Modi in Melbourne",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/09/modi-australia-visit-melbourne-marvel-stadium-ntwnfb"
+    },
+    {
+      "title": "Neil the one-tonne elephant seal causing traffic jams in rural Tasmania has returned to sea \u2013 for now",
+      "date": "2026-07-09",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/09/neil-the-seal-returns-to-sea-tasmania-australia"
+    },
+    {
+      "title": "SA police investigating death during Telstra outage \u2013 as it happened",
       "date": "2026-07-09",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb"
     },
     {
-      "title": "ABC and SBS need \u2018oversight\u2019 committee to vet Israel coverage, Jillian Segal tells royal commission",
+      "title": "Taylor defends Sarah Henderson\u2019s triple-zero calls as SA police investigate claimed Telstra-outage death",
       "date": "2026-07-09",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/09/abc-sbs-jillian-segel-israel-antisemitism-royal-commission-ntwnfb"
-    },
-    {
-      "title": "Telstra outage: triple-zero calls affected by network glitches as regional train services slowly resume",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update"
-    },
-    {
-      "title": "US launches strikes on Iran for a second day after Trump says agreement to end the war is \u2018over\u2019",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
-    },
-    {
-      "title": "Ceasefire plunged into greater uncertainty amid fresh US strikes in Iran \u2013 as it happened",
-      "date": "2026-07-09",
-      "url": "https://www.theguardian.com/world/live/2026/jul/08/us-iran-strikes-trump-nato-summit-live-updates"
+      "url": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-triple-zero-calls-angus-taylor-sarah-henderson"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "What\u2019s with Trump\u2019s sudden fixation on communism?",
+      "title": "UK Labour leadership nominations begin: Who\u2019s running and how it works",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/whats-with-trumps-sudden-fixation-on-communism?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/9/uk-labour-leadership-nominations-begin-whos-running-and-how-it-works?traffic_source=rss"
     },
     {
-      "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+      "title": "India floods sweep away thousands of gas cylinders",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/india-floods-sweep-away-thousands-of-gas-cylinders?traffic_source=rss"
     },
     {
-      "title": "Would the US protect NATO allies if they were attacked?",
+      "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_would-the-us-protect-nato-allies-080726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss"
     },
     {
-      "title": "US Senate nominee Platner halts campaign after assault allegations",
+      "title": "Iran prepares to bury slain leader Khamenei after mass funeral processions",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/news/2026/7/9/us-senate-nominee-platner-halts-campaign-after-assault-allegations?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss"
     },
     {
-      "title": "Confirmed Ebola deaths in DR Congo hit 600",
+      "title": "US strikes Iran for second night \u2013 is the peace process all over now?",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -95,27 +136,27 @@
       "url": "https://www.nbcnews.com/video/platner-says-he-will-suspend-his-senate-campaign-in-maine-266406469550"
     },
     {
-      "title": "Judge orders release of $5.8 million payment Trump owes E. Jean Carroll",
+      "title": "Bonnie Tyler, singer famed for \u2018Total Eclipse of the Heart,\u2019 dies at 75",
       "date": "2026-07-09",
-      "url": "https://www.nbcnews.com/video/judge-orders-release-of-5-8-million-payment-trump-owes-e-jean-carroll-266409029831"
+      "url": "https://www.nbcnews.com/news/obituaries/bonnie-tyler-singer-total-eclipse-heart-dies-rcna353636"
     },
     {
-      "title": "Justin Baldoni breaks silence on \u2018It Ends With Us\u2019 dispute",
+      "title": "Soccer fans in China are rooting for Norway\u2019s Erling Haaland, their \u2018Ha Bao\u2019",
       "date": "2026-07-09",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/justin-baldoni-breaks-silence-ends-us-us-dispute-blake-lively-rcna353548"
+      "url": "https://www.nbcnews.com/world/asia/soccer-fans-china-are-rooting-norway-erling-haaland-ha-bao-rcna353445"
+    },
+    {
+      "title": "\u00bfFrancia o Marruecos? Iv\u00e1n Zamorano da su pron\u00f3stico para cuartos de final | El Pelotazo",
+      "date": "2026-07-09",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/francia-o-marruecos-ivan-zamorano-da-su-pronostico-para-cuartos-de-final-el-pelotazo-tmvo13202042"
     },
     {
       "title": "Del \u201cbromance\u201d en Dortmund a rivales en un Mundial: Haaland y Bellingham, un choque hist\u00f3rico",
       "date": "2026-07-09",
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/del-bromance-en-dortmund-a-rivales-en-un-mundial-haaland-y-bellingham-un-choque-historico-tmvo13202025"
-    },
-    {
-      "title": "Justin Baldoni breaks silence on \u2018It Ends With Us\u2019 dispute",
-      "date": "2026-07-09",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/justin-baldoni-breaks-silence-ends-us-us-dispute-blake-lively-rcna353548"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-09T01:00:06.871464"
+    "updated_at": "2026-07-09T09:00:08.804420"
   }
 }
