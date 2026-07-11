@@ -1,39 +1,85 @@
 {
   "BBC": [
     {
+      "title": "TV presenter Dermot Murnaghan dies aged 68",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
       "date": "2026-07-11",
       "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cooler for some this weekend but heatwave continues",
+      "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
       "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meta pulls new AI image feature after days of backlash",
+      "title": "Is it time to give record-breaker Pickford the credit he deserves?",
       "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+      "title": "Pubs can stay open for full Norway game - even if kick-off delayed",
       "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "People in 50s urged to complete bowel cancer screening",
-      "date": "2026-07-11",
-      "url": "https://www.bbc.co.uk/news/articles/cql1n6gl273o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm204lgrv10o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "US expects Iran to issue statement declaring Strait of Hormuz open, senior officials say",
+      "title": "Supreme leader calls for revenge in new message as Trump threatens Iran in overnight post",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/11/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "UK police release man arrested on suspicion of killing former minister Widdecombe",
+      "date": "2026-07-11",
+      "url": "https://edition.cnn.com/2026/07/10/uk/ann-widdecombe-uk-police-murder-investigation-intl"
+    },
+    {
+      "title": "US citizen working in DR Congo tests positive for Ebola",
+      "date": "2026-07-11",
+      "url": "https://edition.cnn.com/2026/07/11/africa/us-citizen-tests-positive-ebola-bundibugyo-drc-hnk-intl"
+    },
+    {
+      "title": "July 10, 2026 \u2014 Mediators work to de-escalate US-Iran tensions and revive talks",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/10/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "The view from Tehran: Anger and vengeance in the air as Iran buries its longest-serving leader",
+      "date": "2026-07-11",
+      "url": "https://edition.cnn.com/2026/07/11/middleeast/view-from-tehran-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Most people who need glasses don't have them. Can the post office change that?",
+      "date": "2026-07-11",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india"
+    },
+    {
+      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "date": "2026-07-11",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota"
+    },
+    {
+      "title": "Shy on the dance floor? Virtual reality 'partners' aim to help you find your groove",
+      "date": "2026-07-11",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings"
+    },
+    {
+      "title": "With the white nationalist group Patriot Front, what you see is not what you get",
+      "date": "2026-07-11",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc"
+    },
+    {
+      "title": "Spain edges Belgium and will face France in World Cup semifinal",
+      "date": "2026-07-11",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
@@ -41,39 +87,69 @@
       "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort"
     },
     {
+      "title": "Pianist Jayson Gillham \u2018very disappointed\u2019 after losing Melbourne Symphony Orchestra discrimination case",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/music/2026/jul/11/pianist-jayson-gillham-very-disappointed-after-losing-discrimination-case-against-melbourne-symphony-orchestra-ntwnfb"
+    },
+    {
+      "title": "Losing our religion? Australia would no longer be majority religious if format of census question changed, survey finds",
+      "date": "2026-07-11",
+      "url": "https://www.theguardian.com/world/2026/jul/11/australia-would-not-be-majority-religious-if-census-question-changed-survey-finds"
+    },
+    {
       "title": "Peter Falconio murder 25 years on: new footage shows dying Australian outback killer\u2019s refusal to reveal body\u2019s location",
       "date": "2026-07-11",
       "url": "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb"
     },
     {
-      "title": "Crews again drain Trump\u2019s troubled reflecting pool",
+      "title": "Alfred Dreyfus statue to finally receive permanent home in central Paris",
       "date": "2026-07-11",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/washington-reflecting-pool-trump"
+      "url": "https://www.theguardian.com/world/2026/jul/11/alfred-dreyfus-statue-permanent-spot-central-paris-france"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Yamal does not mind lack of goals if Spain win World Cup 2026",
+      "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
       "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss"
     },
     {
-      "title": "Zaporizhzhia\u2019s mayor says Russian advance reaches city\u2019s outskirts",
+      "title": "World cup wrap day 30",
       "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss"
     },
     {
-      "title": "Why the new US housing bill won\u2019t fix the crisis",
+      "title": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
       "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Trump threatens to \u2018decimate\u2019 Iran if it tries to kill him",
+      "title": "Cuba suffers second nationwide blackout in five days",
       "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss"
+    },
+    {
+      "title": "Russian missile attacks wound 11 in Kyiv",
+      "date": "2026-07-11",
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Belgium pokes Trump at the World Cup, and Prince Harry takes an L: The news quiz",
+      "date": "2026-07-11",
+      "url": "https://www.nbcnews.com/news/news-quiz/belgium-world-cup-prince-harry-news-quiz-rcna353719"
+    },
+    {
+      "title": "Randolph Mantooth, who played medic in NBC\u2019s \u2018Emergency!\u2019, dies at 80",
+      "date": "2026-07-11",
+      "url": "https://www.nbcnews.com/news/us-news/randolph-mantooth-played-medic-nbcs-emergency-dies-80-rcna404688"
+    },
+    {
+      "title": "Scaloni transmite confianza antes del duelo con Suiza: \"El equipo est\u00e1 bien\"",
+      "date": "2026-07-11",
+      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/scaloni-transmite-confianza-antes-del-duelo-con-suiza-el-equipo-esta-bien-tmvo13202780"
+    },
     {
       "title": "Tuchel: \"Kane est\u00e1 en el pico m\u00e1s alto de su carrera\"",
       "date": "2026-07-11",
@@ -83,24 +159,9 @@
       "title": "Espa\u00f1a ya mira a Francia tras dejar en el camino a B\u00e9lgica",
       "date": "2026-07-11",
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/espana-ya-mira-a-francia-tras-dejar-en-el-camino-a-belgica-tmvo13202685"
-    },
-    {
-      "title": "Judge grants DOJ\u2019s request to toss remaining Jan. 6 convictions of Proud Boys",
-      "date": "2026-07-11",
-      "url": "https://www.nbcnews.com/politics/justice-department/judge-grants-doj-request-toss-remaining-jan-6-convictions-proud-boys-rcna385952"
-    },
-    {
-      "title": "Judge grants DOJ\u2019s request to toss remaining Jan. 6 convictions of Proud Boys",
-      "date": "2026-07-11",
-      "url": "https://www.nbcnews.com/politics/justice-department/judge-grants-doj-request-toss-remaining-jan-6-convictions-proud-boys-rcna385952"
-    },
-    {
-      "title": "Dog trainer sentenced to nearly 12 years in prison after dogs die in hot van",
-      "date": "2026-07-11",
-      "url": "https://www.nbcnews.com/news/us-news/dog-trainer-sentenced-nearly-12-years-prison-dogs-die-hot-van-rcna385941"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-11T01:00:38.442550"
+    "updated_at": "2026-07-11T09:00:38.713959"
   }
 }
