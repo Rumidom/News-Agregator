@@ -1,80 +1,95 @@
 {
   "BBC": [
     {
-      "title": "Counter terrorism police now leading investigation into Ann Widdecombe's death",
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
       "date": "2026-07-13",
       "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
+      "title": "No significant rain forecast for at least a week as UK heatwave continues",
       "date": "2026-07-13",
-      "url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Heatwave to intensify in second week as wildfires burn across UK",
+      "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
       "date": "2026-07-13",
-      "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK proscribes Iran's Islamic Revolutionary Guard Corps",
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
       "date": "2026-07-13",
-      "url": "https://www.bbc.co.uk/news/articles/cz0jkj7e87go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK seeking extradition of man suspected of killing wife and two daughters",
-      "date": "2026-07-13",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w61qz873o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "UK counter-terror police leading investigation into suspected murder of former lawmaker Ann Widdecombe",
-      "date": "2026-07-13",
-      "url": "https://edition.cnn.com/2026/07/13/uk/ann-widdecombe-killing-uk-counterterror-police-intl"
+      "title": "US resumes strikes while UAE says Iran hit tankers with missiles in Strait of Hormuz",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/13/world/live-news/iran-war-trump"
     },
     {
-      "title": "Planes scoop up water from River Seine in effort to battle wildfire near Paris",
+      "title": "Argentina court recognizes two goldfish as sentient beings with rights",
       "date": "2026-07-13",
-      "url": "https://edition.cnn.com/2026/07/13/europe/europe-heatwave-monday-intl"
+      "url": "https://edition.cnn.com/2026/07/13/americas/argentina-goldfish-sentient-latam-intl"
     },
     {
-      "title": "Fire breaks out at a pub in Bangkok, killing at least 27 people",
+      "title": "Israeli soldier who assaulted CNN cameraman reprimanded but avoids criminal charges",
       "date": "2026-07-13",
-      "url": "https://edition.cnn.com/2026/07/12/asia/bangkok-deadly-fire-pub-latam-intl"
+      "url": "https://edition.cnn.com/2026/07/13/middleeast/israeli-soldier-cnn-cameraman-avoids-charges-intl"
+    },
+    {
+      "title": "King Charles hosted Harry and Meghan for a private family gathering in Gloucestershire",
+      "date": "2026-07-13",
+      "url": "https://edition.cnn.com/2026/07/10/uk/charles-harry-meghan-gloustershire-intl-latam"
+    },
+    {
+      "title": "\u2018I\u2019m a dead man walking\u2019: The Ethiopian migrants waiting on Saudi Arabia\u2019s death row",
+      "date": "2026-07-13",
+      "url": "https://edition.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl"
     }
   ],
   "NPR": [
     {
-      "title": "Pythons' extreme biology may hold clues for treating human disease",
+      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
       "date": "2026-07-13",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment"
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs"
     },
     {
-      "title": "How federal prison guards stop lawsuits before they start",
+      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
       "date": "2026-07-13",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints"
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham"
     },
     {
-      "title": "He was having a mental health crisis. Memphis task force agents came and shot him",
+      "title": "On foreign policy, Graham's influence may have been felt the most",
       "date": "2026-07-13",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888618/memphis-safe-task-force-shooting-jonah-neal"
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most"
     },
     {
-      "title": "EV battery recycling has an economics problem. Colorado has a solution",
+      "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
       "date": "2026-07-13",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5847025/ev-battery-recycling-economics"
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates"
     },
     {
-      "title": "Eat your ice cream for a long, healthy life? This doctor says so",
+      "title": "States sue to stop Paramount-Warner Bros blockbuster merger",
       "date": "2026-07-13",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5884664/zeke-emanuel-optimize-health-long-life"
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit"
     }
   ],
   "The Guardian": [
     {
-      "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
+      "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
       "date": "2026-07-13",
-      "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants"
+      "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s"
+    },
+    {
+      "title": "Mexico to file criminal complaints over migrants killed by ICE in US",
+      "date": "2026-07-13",
+      "url": "https://www.theguardian.com/world/2026/jul/13/mexico-criminal-complaint-migrant-ice-deaths"
     },
     {
       "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
@@ -82,76 +97,71 @@
       "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say"
     },
     {
-      "title": "Sam Neill tributes: actors, directors and leaders remember \u2018a true gentleman\u2019",
+      "title": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
       "date": "2026-07-13",
-      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-tributes"
+      "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants"
     },
     {
-      "title": "More than 120 families contacted as police investigate alleged abuse by Sydney childcare worker",
+      "title": "Australia news live: Four more charged over alleged murder of Chris Baghsarian; Labor says Australians may \u2018pay the price\u2019 of renewed US-Iran conflict",
       "date": "2026-07-13",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/13/more-than-120-families-contacted-as-police-investigate-alleged-abuse-by-sydney-childcare-worker-ntwnfb"
-    },
-    {
-      "title": "Queensland unlawfully detained children in adult watch house without private toilet access, tribunal finds",
-      "date": "2026-07-13",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/13/queensland-unlawfully-detained-children-in-adult-watch-house-without-private-toilet-access-tribunal-finds-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "South Korea rolls out plan to tackle youth suicide crisis",
+      "title": "Hundreds of experts warn the world must prepare now for AI\u2019s impact",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss"
     },
     {
-      "title": "Al Jazeera bids farewell to founder Sheikh Hamad",
+      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/al-jazeera-bids-farewell-to-founder-sheikh-hamad?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
     },
     {
-      "title": "Yemen gov\u2019t says its forces attacked Sanaa airport",
+      "title": "Norway \u2018rows\u2019 at the royal palace to welcome back World Cup heroes",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/news/2026/7/13/yemen-govt-says-its-forces-attacked-sanaa-airport?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_norway-rows-at-the-royal-palace-world-cup-heroes-130726?traffic_source=rss"
     },
     {
-      "title": "Will the 2030 World Cup expand to 64 teams? What FIFA\u2019s Infantino says",
+      "title": "Backed by Trump, Lindsey Graham\u2019s sister Darline will replace him in Senate",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/news/2026/7/13/gianni-infantino-64-teams-expansion-comments-fifa-2030-world-cup?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss"
     },
     {
-      "title": "EU countries consider sanctions on trade from illegal Israeli settlements",
+      "title": "Nine deaths tied to Trump\u2019s immigration enforcement operations in US",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/news/2026/7/13/eu-countries-consider-sanctions-on-trade-from-illegal-israeli-settlements?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/13/nine-deaths-tied-to-trumps-immigration-enforcement-operations-in-us?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Sam Neill, actor known for \u2018Jurassic Park,\u2019 dies at 78",
+      "title": "S.C. Gov McMaster appoints Darline Graham Nordone to fill Sen. Lindsey Graham's seat",
       "date": "2026-07-13",
-      "url": "https://www.nbcnews.com/news/obituaries/sam-neill-actor-jurassic-park-dies-new-zealand-rcna587240"
+      "url": "https://www.nbcnews.com/video/s-c-gov-mcmaster-appoints-darline-graham-nordone-to-fill-sen-lindsey-graham-s-seat-266608709594"
     },
     {
-      "title": "US and Iran Trade Strikes as Ceasefire Deal Efforts Unravel",
+      "title": "U.S. announces more strikes on Iran over Strait of Hormuz",
       "date": "2026-07-13",
-      "url": "https://www.today.com/video/us-and-iran-trade-strikes-as-ceasefire-deal-efforts-unravel-266581061712"
+      "url": "https://www.nbcnews.com/video/u-s-announces-more-strikes-on-iran-over-strait-of-hormuz-266611269824"
     },
     {
-      "title": "Ramiro C\u00f3rdova: \u201cFrancia es muy favorita sobre Espa\u00f1a\u201d | El Pelotazo",
+      "title": "Oil surges more than 9% after Trump reimposes Iran blockade",
       "date": "2026-07-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/ramiro-cordova-francia-es-muy-favorita-sobre-espana-el-pelotazo-tmvo13203166"
+      "url": "https://www.nbcnews.com/business/markets/oil-rises-trump-reimposes-hormuz-blockade-rcna587297"
     },
     {
-      "title": "Roque Santa Cruz: \u201cParaguay dio un paso importante\u201d | Rumbo a la gran final",
+      "title": "Person reportedly shot and killed in incident involving ICE agent in Maine",
       "date": "2026-07-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/roque-santa-cruz-paraguay-dio-un-paso-importante-rumbo-a-la-gran-final-tmvo13203152"
+      "url": "https://www.nbcnews.com/now/video/person-reportedly-shot-and-killed-in-incident-involving-ice-agent-in-maine-266592837889"
     },
     {
-      "title": "Dely Vald\u00e9s: \u201cFalt\u00f3 el gol de Panam\u00e1\u201d | Rumbo a la gran final",
+      "title": "Lettuce or salad greens could be source of diarrhea-causing illness, Michigan health officials say",
       "date": "2026-07-13",
-      "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/dely-valdes-falto-el-gol-de-panama-rumbo-a-la-gran-final-tmvo13203080"
+      "url": "https://www.nbcnews.com/health/health-news/michigan-cyclosporiasis-lettuce-salad-greens-rcna587395"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-13T09:00:39.090103"
+    "updated_at": "2026-07-13T21:00:38.097362"
   }
 }
