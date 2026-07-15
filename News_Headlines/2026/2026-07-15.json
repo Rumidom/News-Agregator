@@ -1,34 +1,49 @@
 {
   "BBC": [
     {
-      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
       "date": "2026-07-15",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "date": "2026-07-15",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "date": "2026-07-15",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
-      "date": "2026-07-15",
-      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "I still feel pain of '98 but this can be different for England - Shearer",
+      "title": "I still feel pain of '98 but this can be different for England, says Shearer",
       "date": "2026-07-15",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
+      "date": "2026-07-15",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Travellers warned of methanol poisoning risks in new campaign",
+      "date": "2026-07-15",
+      "url": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK's extreme weather is the new normal, Met Office says",
+      "date": "2026-07-15",
+      "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "US carries out more strikes on Iran and begins blockade of Iranian ports",
+      "title": "US launches new attacks on Iran as battle for control over Hormuz intensifies",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/15/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Tracking traffic in the Strait of Hormuz, in maps and charts",
+      "date": "2026-07-15",
+      "url": "https://edition.cnn.com/world/strait-of-hormuz-tracker-vis"
+    },
+    {
+      "title": "US expert on underground nuclear tests detained in China for 18 months",
+      "date": "2026-07-15",
+      "url": "https://edition.cnn.com/2026/07/14/china/underground-test-expert-china-intl-hnk"
+    },
+    {
+      "title": "July 14, 2026 \u2014 US naval blockade of Iranian ports goes into effect",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/14/world/live-news/iran-war-trump"
     },
@@ -38,62 +53,93 @@
       "url": "https://edition.cnn.com/2026/07/11/world/australia-neil-elephant-seal-tasmania-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "How to keep cool in this year's extreme summer heat even without air conditioning",
+      "date": "2026-07-15",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133383/extreme-summer-heat-air-conditioning"
+    },
+    {
+      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "date": "2026-07-15",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
+    },
+    {
+      "title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+      "date": "2026-07-15",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general"
+    },
+    {
+      "title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+      "date": "2026-07-15",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing"
+    },
+    {
+      "title": "Todd Blanche's confirmation brings one Epstein survivor to center stage",
+      "date": "2026-07-15",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Venezuela\u2019s interim government and opposition to begin formal talks",
+      "date": "2026-07-15",
+      "url": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado"
+    },
+    {
+      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
+      "date": "2026-07-15",
+      "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton"
+    },
+    {
+      "title": "China\u2019s economy grows at 4.3%, one of its lowest rates on record",
+      "date": "2026-07-15",
+      "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
+    },
+    {
+      "title": "Japan officials hunt bear that raided couple\u2019s fridge amid string of break-ins",
+      "date": "2026-07-15",
+      "url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge"
+    },
     {
       "title": "Singapore court orders Bloomberg to pay ministers $356,000 in defamation case",
       "date": "2026-07-15",
       "url": "https://www.theguardian.com/world/2026/jul/15/bloomberg-singapore-defamation-case"
-    },
-    {
-      "title": "News live: PM vows Australian music, art and writing not \u2018up for grabs\u2019 by AI giants and outlines power and water standards for datacentres",
-      "date": "2026-07-15",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb"
-    },
-    {
-      "title": "Liberals re-examine gender quotas in slew of proposals to make party \u2018fit-for-purpose political machine\u2019",
-      "date": "2026-07-15",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/15/liberal-party-australia-gender-quotas"
-    },
-    {
-      "title": "US Fifth Fleet targeted in Bahrain, says Iran, in latest exchange of strikes \u2013 as it happened",
-      "date": "2026-07-15",
-      "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
-    },
-    {
-      "title": "One person dead and two missing after boat sinks near San Francisco\u2019s Alcatraz Island",
-      "date": "2026-07-15",
-      "url": "https://www.theguardian.com/us-news/2026/jul/14/san-francisco-boat-fire-alcatraz-island"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Nearly 75% of Americans think there\u2019s too much money in politics",
+      "title": "Why has Lindsey Graham\u2019s sister inherited his Senate seat after his death?",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/15/why-has-lindsey-grahams-sister-inherited-his-senate-seat-after-his-death?traffic_source=rss"
     },
     {
-      "title": "Trump welcomes Iraqi PM to White House, vows \u2018a lot of deals\u2019",
+      "title": "\u2018Cycle of chaos\u2019: Israel killing Gaza civil officials to derail its future",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss"
     },
     {
-      "title": "Argentina happy to be in World Cup semifinal, coach Scaloni says",
+      "title": "Could the US take control of Iran\u2019s southern islands?",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-happy-to-be-in-world-cup-semifinal-coach-scaloni-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss"
     },
     {
-      "title": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+      "title": "What are the Israeli withdrawal \u2018pilot zones\u2019 in southern Lebanon?",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/what-are-the-israeli-withdrawal-pilot-zones-in-southern-lebanon?traffic_source=rss"
     },
     {
-      "title": "Spain crashes Paris party by beating France in the World Cup semis",
+      "title": "Cody Bellinger stars at MLB All-Star game, wins MVP award",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spain-crashes-paris-party-by-beating-france-in-the-world-cup-semis?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/15/cody-bellinger-stars-at-mlb-all-star-game-wins-mvp-award?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Thirsty England fans could down an extra 6 million pints for semifinal clash",
+      "date": "2026-07-15",
+      "url": "https://www.nbcnews.com/sports/soccer/world-cup-semifinal-argentina-england-beer-sales-pubs-struggle-taxes-rcna587422"
+    },
     {
       "title": "Tuchel buscar\u00e1 que Inglaterra imponga su juego ante Argentina en semifinales",
       "date": "2026-07-15",
@@ -105,22 +151,17 @@
       "url": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/scaloni-dejaremos-hasta-la-ultima-gota-de-sudor-para-llegar-a-la-final-tmvo13203872"
     },
     {
-      "title": "1 dead, 2 missing after boat capsizes near Alcatraz in San Francisco Bay",
+      "title": "Nominee for top intel post faces lawmakers eager to see him replace the current leader",
       "date": "2026-07-15",
-      "url": "https://www.nbcnews.com/news/us-news/1-dead-2-missing-boat-capsizes-alcatraz-san-francisco-bay-rcna587582"
+      "url": "https://www.nbcnews.com/politics/national-security/nominee-top-intel-post-faces-lawmakers-eager-see-replace-current-leade-rcna587368"
     },
     {
-      "title": "ICE and the Senate react to the latest shootings: From the Politics Desk",
+      "title": "Pontoon Boat Capsizes Near Alcatraz: 1 Dead, 3 Missing",
       "date": "2026-07-15",
-      "url": "https://www.nbcnews.com/politics/politics-news/ice-senate-react-latest-shootings-politics-desk-rcna587586"
-    },
-    {
-      "title": "3 teens arrested after acid attack on 6 women in New Jersey",
-      "date": "2026-07-15",
-      "url": "https://www.nbcnews.com/news/us-news/3-teens-arrested-acid-attack-6-women-new-jersey-rcna587467"
+      "url": "https://www.today.com/video/search-for-survivors-after-boat-capsizes-near-alcatraz-266708549716"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-15T01:00:06.245712"
+    "updated_at": "2026-07-15T09:00:09.278896"
   }
 }
