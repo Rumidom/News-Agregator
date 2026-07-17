@@ -1,121 +1,162 @@
 {
   "BBC": [
     {
+      "title": "Five headaches Andy Burnham will have to deal with as PM",
+      "date": "2026-07-17",
+      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "China hits out at British Steel nationalisation",
       "date": "2026-07-17",
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz",
+      "title": "The financial winners and losers from the World Cup",
+      "date": "2026-07-17",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US launches new strikes as Iran says civilian infrastructure hit",
       "date": "2026-07-17",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How testosterone testing will work in Hegseth's 'manly' military",
+      "title": "Longest dry spell in 30 years for parts of England as heatwave hits two-week mark",
       "date": "2026-07-17",
-      "url": "https://www.bbc.co.uk/news/videos/cy746z15ej3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-      "date": "2026-07-17",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Philippines condemns Chinese media depicting it as monkey in AI video",
-      "date": "2026-07-17",
-      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Gulf nations fend off fresh attacks, US strikes Iran for sixth consecutive night",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/16/world/live-news/iran-war-trump"
+      "title": "Ireland to create public register of domestic violence offenders",
+      "date": "2026-07-17",
+      "url": "https://edition.cnn.com/2026/07/17/europe/ireland-domestic-violence-register-intl"
+    },
+    {
+      "title": "Andy Burnham will be Britain\u2019s seventh leader in a decade. Can he buck the trend?",
+      "date": "2026-07-17",
+      "url": "https://edition.cnn.com/2026/07/17/uk/andy-burnham-labour-leader-uk-intl"
+    },
+    {
+      "title": "Netanyahu buys political loyalty with controversial legislation ahead of election",
+      "date": "2026-07-17",
+      "url": "https://edition.cnn.com/2026/07/17/middleeast/netanyahu-controversial-legislation-allies-election-intl"
+    },
+    {
+      "title": "He died in Venezuela\u2019s earthquakes a day after the US deported him. Now his mother is seeking justice",
+      "date": "2026-07-17",
+      "url": "https://edition.cnn.com/2026/07/17/americas/venezuela-earthquake-deportation-intl-latam"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
+      "date": "2026-07-17",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality"
+    },
+    {
+      "title": "Photos: When the World Cup came to town",
+      "date": "2026-07-17",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos"
+    },
+    {
+      "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
+      "date": "2026-07-17",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates"
+    },
+    {
+      "title": "'Superworms' help scientists with a vexing task: Cleaning animal specimens",
+      "date": "2026-07-17",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research"
+    },
+    {
+      "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
+      "date": "2026-07-17",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: One Nation policy has \u2018a bit of cray cray\u2019, says Nationals senator; Telstra outage hit 45% of calls and data, inquiry hears",
+      "title": "ICE arrests human rights lawyer who fled Chinese crackdown",
+      "date": "2026-07-17",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ice-arrests-human-rights-lawyer-wu-shaoping-fled-chinese-crackdown"
+    },
+    {
+      "title": "Weather tracker: Thunderstorms strike across Europe amid record heatwave",
+      "date": "2026-07-17",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/weather-tracker-thunderstorms-strike-across-europe-amid-record-heatwave"
+    },
+    {
+      "title": "China \u2018strongly dissatisfied\u2019 with nationalisation of British Steel",
+      "date": "2026-07-17",
+      "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
+    },
+    {
+      "title": "NSW woman arrested over movements of Dezi Freeman \u2013 as it happened",
       "date": "2026-07-17",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb"
     },
     {
-      "title": "Pauline Hanson laments end of White Australia policy and talks up daughter\u2019s leadership potential",
+      "title": "Moira Deeming disendorsed as Victorian Liberal party candidate for upcoming state election",
       "date": "2026-07-17",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb"
-    },
-    {
-      "title": "Telstra staff unaware of mass outage risk as critical software failure \u2018rippled slowly across the network\u2019",
-      "date": "2026-07-17",
-      "url": "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage"
-    },
-    {
-      "title": "Family devastated by \u2018unacceptable\u2019 charges over methanol deaths of Australian teenagers in Laos",
-      "date": "2026-07-17",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/laos-methanol-poisoning-charges-bianca-jones-holly-bowles-deaths"
-    },
-    {
-      "title": "How Trump\u2019s address bluntly aimed at destabilizing the US electoral system",
-      "date": "2026-07-17",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections"
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "China rebukes UK over nationalisation of British Steel",
+      "title": "The Church of England has taken a long-overdue step on Palestine",
       "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/7/17/the-church-of-england-has-taken-a-long-overdue-step-on-palestine?traffic_source=rss"
     },
     {
-      "title": "Which players are favourites to be FIFA World Cup 2026 award winners?",
+      "title": "Why is the US attacking southern Iran\u2019s civilian infrastructure?",
       "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss"
     },
     {
-      "title": "Iranian sources say US strikes hit civilian infrastructure",
+      "title": "Japan passes legislation banning violation of national flag",
       "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/17/japan-passes-legislation-banning-violation-of-national-flag?traffic_source=rss"
     },
     {
-      "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
+      "title": "Trump\u2019s new election push, explained",
       "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trumps-new-election-push-explained?traffic_source=rss"
     },
     {
-      "title": "Goa\u2019s forgotten orchata drink lives on in family kitchens",
+      "title": "India debuts hydrogen-powered train as part of sustainability drive",
       "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/17/goas-forgotten-orchata-drink-lives-on-in-family-kitchens?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss"
     }
   ],
   "NBC News": [
-    {
-      "title": "Trump administration to declassify documents relating to China and U.S. elections",
-      "date": "2026-07-17",
-      "url": "https://www.nbcnews.com/video/trump-administration-to-declassify-documents-relating-to-china-and-u-s-elections-266817605523"
-    },
     {
       "title": "NBC News correspondents examine Trump statements on election integrity",
       "date": "2026-07-17",
       "url": "https://www.nbcnews.com/video/nbc-news-correspondents-examine-trump-statements-on-election-integrity-266816581983"
     },
     {
-      "title": "How paper ballots make digital manipulation of results unlikely",
+      "title": "How Trump's election allegations against China could impact relations with U.S.",
       "date": "2026-07-17",
-      "url": "https://www.nbcnews.com/video/how-paper-ballots-make-digital-manipulation-of-results-unlikely-266817605727"
+      "url": "https://www.nbcnews.com/video/how-trump-s-election-allegations-against-china-could-impact-relations-with-u-s-266824261975"
     },
     {
-      "title": "Special Report: Trump delivers speech on election infrastructure",
+      "title": "Iranian bridges severely damaged after sixth night of U.S. strikes",
       "date": "2026-07-17",
-      "url": "https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765"
+      "url": "https://www.nbcnews.com/video/iranian-bridges-severely-damaged-after-sixth-night-of-u-s-strikes-266827845917"
     },
     {
-      "title": "Special Report: Trump delivers speech on election infrastructure",
+      "title": "Maine Democratic Senate candidates discuss which of Platner's ideas they would use",
       "date": "2026-07-17",
-      "url": "https://www.nbcnews.com/video/special-report-trump-delivers-speech-on-election-infrastructure-266817605765"
+      "url": "https://www.nbcnews.com/video/maine-democratic-senate-candidates-discuss-which-of-platner-s-ideas-they-would-use-266814533841"
+    },
+    {
+      "title": "Iceberg lettuce eyed in parasite outbreak",
+      "date": "2026-07-17",
+      "url": "https://www.nbcnews.com/nightly-news/video/iceberg-lettuce-eyed-in-parasite-outbreak-266817093823"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-17T01:00:09.137562"
+    "updated_at": "2026-07-17T09:00:06.665093"
   }
 }
