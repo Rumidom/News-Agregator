@@ -1,0 +1,111 @@
+{
+  "BBC": [
+    {
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "date": "2026-07-21",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "date": "2026-07-21",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "date": "2026-07-21",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Is UK facing drought for second summer in a row?",
+      "date": "2026-07-21",
+      "url": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
+      "date": "2026-07-21",
+      "url": "https://www.bbc.co.uk/news/articles/c141lymnl2yo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "US says it struck more Iranian targets after Trump warned of retaliation for deaths of service members",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/20/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Nicaragua\u2019s Ortega says \u2018never again\u2019 for elections after two decades in power",
+      "date": "2026-07-21",
+      "url": "https://edition.cnn.com/2026/07/20/americas/nicaragua-ortega-no-elections-intl-hnk"
+    },
+    {
+      "title": "China doesn\u2019t need the World Cup. It has the \u2018Village Super League\u2019",
+      "date": "2026-07-21",
+      "url": "https://edition.cnn.com/2026/07/20/china/china-village-super-league-soccer-intl-hnk"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "date": "2026-07-21",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
+    },
+    {
+      "title": "Australia news live: \u2018millions\u2019 in cash being moved in unmarked, un-armoured Hyundais, union says; spare undies warning for Games athletes",
+      "date": "2026-07-21",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb"
+    },
+    {
+      "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight \u2018uncontrolled immigration\u2019",
+      "date": "2026-07-21",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb"
+    },
+    {
+      "title": "US launches further strikes on Iran; Houthis threaten Saudi shipping blockade \u2013 Middle East crisis live",
+      "date": "2026-07-21",
+      "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
+    },
+    {
+      "title": "Tropical Storm Bertha heads for land as Hurricane Fausto forms in eastern Pacific",
+      "date": "2026-07-21",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "Lebanese return to \u2018pilot zone\u2019 villages they say Israel never occupied",
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied?traffic_source=rss"
+    },
+    {
+      "title": "Spain\u2019s World Cup heroes welcomed by millions in Madrid",
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/spains-world-cup-heroes-welcomed-by-millions-in-madrid?traffic_source=rss"
+    },
+    {
+      "title": "US military releases footage of tenth consecutive night of strikes on Iran",
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss"
+    },
+    {
+      "title": "Who is driving diplomacy in the Horn of Africa and the Red Sea, and why?",
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why?traffic_source=rss"
+    },
+    {
+      "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Father, son charged with kidnapping 2 U.S. Forest Service biologists at gunpoint",
+      "date": "2026-07-21",
+      "url": "https://www.nbcnews.com/news/us-news/father-son-charged-kidnapping-forest-service-biologists-gunpoint-rcna588463"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-07-21T01:00:06.933648"
+  }
+}
