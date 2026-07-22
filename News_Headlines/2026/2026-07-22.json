@@ -1,45 +1,86 @@
 {
   "BBC": [
     {
-      "title": "Burnham pulls back on suggestion to increase income tax allowance",
+      "title": "Burnham says he will review early prisoner release scheme",
       "date": "2026-07-22",
-      "url": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
       "date": "2026-07-22",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "More young women in their 20s are getting type 2 diabetes",
+      "title": "Some food prices have fallen \u2013 but inflation expected to rise from here",
       "date": "2026-07-22",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK humanitarian worker monitored for Ebola in London hospital",
+      "title": "Southampton boss Eckert charged by FA over Spygate",
       "date": "2026-07-22",
-      "url": "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death",
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
       "date": "2026-07-22",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Hegseth says Iran war cost $37.5 billion so far as administration seeks more funding",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/21/world/live-news/iran-war-trump"
+      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
+      "date": "2026-07-22",
+      "url": "https://edition.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl"
     },
     {
       "title": "Zelensky sacks Ukraine\u2019s military chief following widespread protests",
       "date": "2026-07-22",
       "url": "https://edition.cnn.com/2026/07/21/europe/ukraine-military-chief-sacked-intl"
+    },
+    {
+      "title": "An invisible serial killer arrived. Now this nation is racing to protect its treasured native birds",
+      "date": "2026-07-22",
+      "url": "https://edition.cnn.com/2026/07/22/world/new-zealand-bird-flu-protecting-native-birds-intl-hnk"
+    },
+    {
+      "title": "Putin\u2019s false claim of the capture of one Ukrainian town exposes the slow pace of Russia\u2019s bloody advance",
+      "date": "2026-07-22",
+      "url": "https://edition.cnn.com/2026/07/16/europe/russia-ukraine-kostyantynivka-capture-claim-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+      "date": "2026-07-22",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries"
+    },
+    {
+      "title": "Her son was killed by ICE at a traffic stop. She says she's still waiting for justice",
+      "date": "2026-07-22",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine"
+    },
+    {
+      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "date": "2026-07-22",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates"
+    },
+    {
+      "title": "Tropical Storm Bertha moves along the Gulf Coast but damage is expected to be limited",
+      "date": "2026-07-22",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-makes-landfall-but-damage-appears-limited"
+    },
+    {
+      "title": "Peptides get their regulatory closeup",
+      "date": "2026-07-22",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902329/peptides-fda-compounding"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Six beluga whales finally leave embattled Canadian marine park",
+      "date": "2026-07-22",
+      "url": "https://www.theguardian.com/world/2026/jul/22/six-beluga-whales-finally-leave-embattled-canadian-marine-park"
+    },
     {
       "title": "Trump announces new tariffs on generic drugs to take effect in 2028 \u2013 as it happened",
       "date": "2026-07-22",
@@ -51,76 +92,71 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled"
     },
     {
-      "title": "Japan records its first \u2018cruelly hot day\u2019 as cities swelter in 40-degree heat",
+      "title": "Australia to warn China it won\u2019t be bullied by \u2018provocative\u2018 actions as it builds military and nuclear arsenal",
       "date": "2026-07-22",
-      "url": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather"
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal"
     },
     {
-      "title": "Australia news live: Brittany Higgins accuses Hanson of victim-blaming in \u2018atrocious\u2019 comments on domestic violence",
+      "title": "Michelin-starred restaurant owner in South Korea faces jail over ant dessert",
       "date": "2026-07-22",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb"
-    },
-    {
-      "title": "Hegseth estimates rising cost of Iran war now at $37.5bn \u2013 as it happened",
-      "date": "2026-07-22",
-      "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
+      "url": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "France becomes first EU country to officially ban social media for children",
+      "title": "Syrian people must not be failed again",
       "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/france-becomes-first-eu-country-to-officially-ban-social-media-for-children?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss"
     },
     {
-      "title": "How armed group alliances are reshaping Mali\u2019s conflict and the wider Sahel",
+      "title": "Trump ally Andy Biggs wins Republican nomination for Arizona governor",
       "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/22/trump-ally-andy-biggs-wins-republican-nomination-for-arizona-governor?traffic_source=rss"
     },
     {
-      "title": "\u2018Unprecedented\u2019: OpenAI says AI models autonomously hacked another company",
+      "title": "US Secretary of State say Iran is in \u2018a lot of trouble\u2019",
       "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-secretary-of-state-say-iran-is-in-a-lot-of?traffic_source=rss"
     },
     {
-      "title": "US targets China in move to ban military-grade drone imports",
+      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
       "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss"
     },
     {
-      "title": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
+      "title": "Austria turns Adolf Hitler\u2019s birthplace into police station",
       "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/22/austria-turns-adolf-hitlers-birthplace-into-police-station?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
+      "title": "Pete Hegseth Estimates US War With Iran Has Cost $37.5B So Far",
+      "date": "2026-07-22",
+      "url": "https://www.today.com/video/trump-on-the-ongoing-war-with-iran-we-re-not-finished-at-all-267085893697"
+    },
+    {
+      "title": "U.S. identifies third service member \u2018believed\u2019 killed in Iranian attack",
+      "date": "2026-07-22",
+      "url": "https://www.nbcnews.com/news/us-news/iran-war-us-service-member-killed-attack-jordan-base-military-rcna588668"
+    },
+    {
+      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and a 2nd key trade route is disrupted",
+      "date": "2026-07-22",
+      "url": "https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671"
+    },
+    {
       "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
       "date": "2026-07-22",
       "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980"
     },
     {
-      "title": "Alexander Kolodin, who tried to overturn Arizona election results, wins GOP nod for secretary of state",
+      "title": "Oil surges past $95 as U.S. downplays Iran diplomacy and a 2nd key trade route is disrupted",
       "date": "2026-07-22",
-      "url": "https://www.nbcnews.com/politics/2026-election/alexander-kolodin-tried-overturn-arizona-election-results-wins-gop-nod-rcna588197"
-    },
-    {
-      "title": "Driver fleeing police dives headfirst off Missouri bridge in getaway attempt",
-      "date": "2026-07-22",
-      "url": "https://www.nbcnews.com/news/us-news/driver-fleeing-police-dives-headfirst-missouri-bridge-video-rcna588641"
-    },
-    {
-      "title": "Trump-backed Rep. Andy Biggs wins GOP primary for Arizona governor",
-      "date": "2026-07-22",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-backed-rep-andy-biggs-wins-gop-primary-arizona-governor-rcna587980"
-    },
-    {
-      "title": "Hegseth puts cost of Iran war at $37.5 billion as the Pentagon seeks more money",
-      "date": "2026-07-22",
-      "url": "https://www.nbcnews.com/politics/trump-administration/iran-war-cost-estimate-37-billion-pete-hegseth-senate-hearing-rcna588619"
+      "url": "https://www.nbcnews.com/business/business-news/oil-prices-brent-gas-iran-war-trump-hormuz-red-sea-houthis-rcna588671"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-22T01:00:06.826758"
+    "updated_at": "2026-07-22T09:00:06.800946"
   }
 }
