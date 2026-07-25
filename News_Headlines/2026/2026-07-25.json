@@ -1,0 +1,105 @@
+{
+  "BBC": [
+    {
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Police declare 'major incident' as wind change increases Cairngorms wildfire risk",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Teenage boy dies after stabbing in Luton as police launch murder investigation",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Trump\u2019s speech devolves into list of gripes and nasty attacks on opponents \u2013 as it happened",
+      "date": "2026-07-25",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates"
+    },
+    {
+      "title": "Trump\u2019s address takes bitter turn after hailing \u2018amazing job\u2019 by reporters at gala",
+      "date": "2026-07-25",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington"
+    },
+    {
+      "title": "Trump escalates Smithsonian attack with order for signs outside history museum",
+      "date": "2026-07-25",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-smithsonian-history-museum"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "\u2018The show must go on\u2019: Trump returns to rescheduled White House press gala",
+      "date": "2026-07-25",
+      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss"
+    },
+    {
+      "title": "Firefighters battle fire after fertiliser explosion in England",
+      "date": "2026-07-25",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss"
+    },
+    {
+      "title": "From palava huts to TikTok: How Liberians are preserving their past",
+      "date": "2026-07-25",
+      "url": "https://www.aljazeera.com/news/2026/7/25/from-palava-huts-to-tiktok-how-liberians-are-preserving-their-past?traffic_source=rss"
+    },
+    {
+      "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+      "date": "2026-07-25",
+      "url": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss"
+    },
+    {
+      "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn",
+      "date": "2026-07-25",
+      "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
+      "date": "2026-07-25",
+      "url": "https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743"
+    },
+    {
+      "title": "Text messages show teen whom singer D4vd is accused of killing had an abortion",
+      "date": "2026-07-25",
+      "url": "https://www.nbcnews.com/news/us-news/d4vd-celeste-rivas-hernandez-murder-abortion-rcna589165"
+    },
+    {
+      "title": "Iran war and Trump tariffs fuel higher gas prices and renewed inflation risks",
+      "date": "2026-07-25",
+      "url": "https://www.nbcnews.com/business/consumer/iran-war-gas-prices-mortgage-rates-rcna588816"
+    },
+    {
+      "title": "Bags in vehicle of man fatally shot by ICE did not contain drugs, Texas DA says",
+      "date": "2026-07-25",
+      "url": "https://www.nbcnews.com/news/us-news/bags-vehicle-man-fatally-shot-ice-not-contain-drugs-texas-da-says-rcna589158"
+    },
+    {
+      "title": "Text messages show teen whom singer D4vd is accused of killing had an abortion",
+      "date": "2026-07-25",
+      "url": "https://www.nbcnews.com/news/us-news/d4vd-celeste-rivas-hernandez-murder-abortion-rcna589165"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-07-25T01:00:38.493447"
+  }
+}
