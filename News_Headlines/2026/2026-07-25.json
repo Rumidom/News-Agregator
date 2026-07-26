@@ -1,68 +1,83 @@
 {
   "BBC": [
     {
-      "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+      "title": "Police investigate donations by Tice company to Reform UK",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "More than 250,000 flee wildfires in France and Spain",
+      "date": "2026-07-25",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
       "date": "2026-07-25",
       "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
+      "title": "What Love Island tells us about the changing face of dating",
       "date": "2026-07-25",
-      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
       "date": "2026-07-25",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Police declare 'major incident' over Cairngorms wildfire",
-      "date": "2026-07-25",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "OpenAI hack has turned into a whodunnit with serious questions to answer",
-      "date": "2026-07-25",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "India\u2019s education minister resigns after days of \u2018Cockroach\u2019 youth protests over exam paper leaks",
+      "title": "At least one dead and several injured after vehicle drives into crowd at Berlin Pride",
       "date": "2026-07-25",
-      "url": "https://edition.cnn.com/2026/07/25/india/india-education-minister-resignation-intl"
+      "url": "https://edition.cnn.com/2026/07/25/europe/berlin-pride-car-intl-latam"
     },
     {
-      "title": "For years, the US went after Mexico\u2019s drug lords. Now it\u2019s looking at the politicians",
-      "date": "2026-07-25",
-      "url": "https://edition.cnn.com/2026/07/25/americas/mexico-drugs-trump-politicians-intl-latam"
+      "title": "Spain and France battle raging wildfires as at least 250,000 people forced to flee",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/25/world/live-news/france-spain-wildfires-evacuations"
+    },
+    {
+      "title": "There\u2019s an apparent pause in US-Iran strikes, even as a new front emerges on the Red Sea",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/25/world/live-news/iran-war-trump"
     },
     {
       "title": "July 24, 2026 \u2014 Escalation in Iran war nears 2-week mark",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/24/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "India\u2019s education minister resigns after days of \u2018Cockroach\u2019 youth protests over exam paper leaks",
+      "date": "2026-07-25",
+      "url": "https://edition.cnn.com/2026/07/25/india/india-education-minister-resignation-intl"
     }
   ],
   "NPR": [
     {
-      "title": "Why these cancer patients face a lonely fight",
+      "title": "Biden ghostwriter tapes to be released",
       "date": "2026-07-25",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria"
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate"
     },
     {
-      "title": "Trump is hellbent on tariffs. Here are 5 implications",
+      "title": "India's 'cockroach' movement ousts minister, but can Modi calm youth?",
       "date": "2026-07-25",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation"
+      "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement"
     },
     {
-      "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
+      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
       "date": "2026-07-25",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race"
+      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning"
     },
     {
-      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "title": "Opinion: New Jersey pizza, the fuel of world champions",
       "date": "2026-07-25",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner"
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions"
+    },
+    {
+      "title": "Some women who can't afford water are often pressured to provide sex for it",
+      "date": "2026-07-25",
+      "url": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya"
     }
   ],
   "The Guardian": [
@@ -72,68 +87,68 @@
       "url": "https://www.theguardian.com/environment/2026/jul/25/herbicide-parkinsons-disease-paraquat-pulled-from-sale-australia-syngenta"
     },
     {
-      "title": "France and Spain race to control wildfires as more than 250,000 evacuated \u2013 live",
+      "title": "One killed and 16 injured after van mows into crowd at Berlin Pride",
+      "date": "2026-07-25",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
+    },
+    {
+      "title": "France and Spain race to control wildfires as more than 250,000 evacuated \u2013 as it happened",
       "date": "2026-07-25",
       "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde"
+    },
+    {
+      "title": "More than 250,000 people flee wildfires in France and Spain",
+      "date": "2026-07-25",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain"
     },
     {
       "title": "What\u2019s behind Maga influencer Laura Loomer\u2019s about-face on Ukraine?",
       "date": "2026-07-25",
       "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit"
-    },
-    {
-      "title": "\u2018No time to waste\u2019: Greece bids for Mount Olympus to be included on Unesco list of world heritage sites",
-      "date": "2026-07-25",
-      "url": "https://www.theguardian.com/world/2026/jul/25/no-time-to-waste-greece-bids-for-mount-olympus-to-be-included-on-unesco-list-of-world-heritage-sites"
-    },
-    {
-      "title": "Treasure as trinkets: Zendaya\u2019s earrings renew debate on ownership of ancient artefacts",
-      "date": "2026-07-25",
-      "url": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Two buses collide in Syria, killing at least 35 people",
+      "title": "What\u2019s behind the Israeli crackdown in the occupied West Bank?",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss"
     },
     {
-      "title": "India\u2019s youth protesters are fighting Modi with irreverent humour and memes",
+      "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-youth-protesters-are-fighting-modi-with-irreverent-humour-and-memes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss"
     },
     {
-      "title": "How Volker Turk won new UN rights chief term despite US, Israel opposition",
+      "title": "Fire tears through Indonesian village in West Java",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/how-volker-turk-won-a-new-term-as-un-rights-chief-despite-israel-opposition?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/fire-tears-through-indonesian-village-in-west-java?traffic_source=rss"
     },
     {
-      "title": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+      "title": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss"
     },
     {
-      "title": "India\u2019s education minister resigns after weeks of \u2018Cockroach\u2019 protests",
+      "title": "Israeli forces target Gaza\u2019s Al-Aqsa hospital",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump touts his accomplishments and relationship with the press at Correspondents' Dinner",
+      "title": "Maine Democrats select Troy Jackson as Senate candidate",
       "date": "2026-07-25",
-      "url": "https://www.nbcnews.com/now/video/trump-touts-his-accomplishments-and-relationship-with-the-press-at-correspondents-dinner-267263045743"
+      "url": "https://www.nbcnews.com/nightly-news/video/maine-democrats-select-troy-jackson-as-senate-candidate-267274821994"
     },
     {
-      "title": "Democrats poised to nominate Troy Jackson in must-win Maine Senate race",
+      "title": "Saudi Arabia trades fire with Iran-backed rebels in Yemen",
       "date": "2026-07-25",
-      "url": "https://www.nbcnews.com/politics/2026-election/maine-senate-race-democrats-poised-nominate-troy-jackson-challenge-sus-rcna588711"
+      "url": "https://www.nbcnews.com/nightly-news/video/saudi-arabia-trades-fire-with-iran-backed-rebels-in-yemen-267275333912"
     },
     {
-      "title": "\u2018Cockroaches won\u2019: India\u2019s education minister resigns amid massive youth protests",
+      "title": "Hundreds of thousands race to escape wildfires in France and Spain",
       "date": "2026-07-25",
-      "url": "https://www.nbcnews.com/world/india/india-education-minister-resigns-escalating-cockroach-protests-challen-rcna589188"
+      "url": "https://www.nbcnews.com/nightly-news/video/hundreds-of-thousands-race-to-escape-wildfires-in-france-and-spain-267277381758"
     },
     {
       "title": "Trump conditions a landmark nuclear agreement, and a unique critter goes viral: The news quiz",
@@ -141,12 +156,12 @@
       "url": "https://www.nbcnews.com/news/news-quiz/trump-conditions-landmark-nuclear-agreement-unique-critter-goes-viral-rcna588957"
     },
     {
-      "title": "Text messages show teen whom singer D4vd is accused of killing had an abortion",
+      "title": "Rick Moranis ends retirement with surprise Comic-Con appearance for \u2018Spaceballs 2\u2019",
       "date": "2026-07-25",
-      "url": "https://www.nbcnews.com/news/us-news/d4vd-celeste-rivas-hernandez-murder-abortion-rcna589165"
+      "url": "https://www.nbcnews.com/pop-culture/movies/rick-moranis-spaceballs-2-comic-con-rcna589217"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-25T09:00:38.832728"
+    "updated_at": "2026-07-25T21:00:40.931461"
   }
 }
