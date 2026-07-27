@@ -1,90 +1,167 @@
 {
   "BBC": [
     {
-      "title": "More than 300,000 flee wildfires in France and Spain",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "date": "2026-07-26",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Man charged with possession of explosive substance after bomb found in car",
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
       "date": "2026-07-26",
-      "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+      "title": "Badenoch says PM must rule out tax rises to fund social care reform",
       "date": "2026-07-26",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The notorious Cameroonian prison with its own record label",
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
       "date": "2026-07-26",
-      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK papers: 'Burnham's big spree' and Streeting 'bid to win back Trump'",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "date": "2026-07-26",
-      "url": "https://www.bbc.co.uk/news/articles/cx2592ynxgyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Spain and France battle raging wildfires as at least 250,000 people forced to flee",
+      "title": "Battle against France and Spain wildfires is in a critical window as hotter weather looms",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/25/world/live-news/france-spain-wildfires-evacuations"
+      "url": "https://edition.cnn.com/2026/07/26/world/live-news/france-spain-wildfires-evacuations"
     },
     {
-      "title": "Operations \u2018on a hold,\u2019 Defense Department source says as US appears to pause Iran strikes",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/25/world/live-news/iran-war-trump"
-    },
-    {
-      "title": "Van slams into crowd at Berlin\u2019s Pride event, killing 1 and injuring 16, as police identify suspect",
+      "title": "Berlin Pride attack suspect shot dead by police after manhunt. Here\u2019s what we know so far",
       "date": "2026-07-26",
       "url": "https://edition.cnn.com/2026/07/25/europe/berlin-pride-car-intl-latam"
     },
     {
-      "title": "July 24, 2026 \u2014 Escalation in Iran war nears 2-week mark",
+      "title": "Toronto police investigate after Jewish-owned bakery chain hit by gunfire and vandalism",
+      "date": "2026-07-26",
+      "url": "https://edition.cnn.com/2026/07/26/world/toronto-jewish-bagel-shop-vandalism"
+    },
+    {
+      "title": "Trump administration signals that pause in Iran strikes will allow talks to progress",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/24/world/live-news/iran-war-trump"
+      "url": "https://edition.cnn.com/2026/07/26/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Ukraine sees highest civilian casualties since 2022",
+      "date": "2026-07-26",
+      "url": "https://edition.cnn.com/2026/07/26/europe/ukraine-civilian-casualties-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Tadej Poga\u010dar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "date": "2026-07-26",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires"
+    },
+    {
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "date": "2026-07-26",
+      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran"
+    },
+    {
+      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "date": "2026-07-26",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump"
+    },
+    {
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "date": "2026-07-26",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite"
+    },
+    {
+      "title": "ADHD looks different in women and poses unique health risks",
+      "date": "2026-07-26",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Albanese at odds with Labor policy which now says telehealth should be allowed for euthanasia consultations",
+      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "date": "2026-07-26",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/26/labor-pressure-telehealth-access-euthanasia-assisted-dying-anthony-albanese"
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation"
+    },
+    {
+      "title": "News live: national AusAlert test to blare siren; latest US tariffs on Australia \u2018unjustified\u2019, James Paterson says",
+      "date": "2026-07-26",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb"
+    },
+    {
+      "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here\u2019s what to know",
+      "date": "2026-07-26",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date"
+    },
+    {
+      "title": "Jacinta Allan expected to face leadership challenge after Victorian Labor factions meet",
+      "date": "2026-07-26",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics"
+    },
+    {
+      "title": "\u2018Get rid of them\u2019: One Nation senator claims party will \u2018remigrate\u2019 illegal visa holders in resurfaced interview",
+      "date": "2026-07-26",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/get-rid-of-them-one-nation-senator-claims-party-will-remigrate-visa-holders-in-resurfaced-interview-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+      "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
       "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss"
     },
     {
-      "title": "Can Zimbabwe\u2019s mineral ambitions benefit smaller producers?",
+      "title": "Trump\u2019s border czar probes possible vetting failures after ICE shooting",
       "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/news/2026/7/26/can-zimbabwes-mineral-ambitions-benefit-smaller-producers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss"
     },
     {
-      "title": "French wildfires trigger mass evacuations around Bordeaux",
+      "title": "What\u2019s causing the unprecedented wildfires in Europe?",
       "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss"
     },
     {
-      "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
+      "title": "Israeli government nods to international stabilisation force in Gaza",
       "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss"
     },
     {
-      "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
+      "title": "Palestinians hope international peace force can rebuild Gaza",
       "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss"
     }
   ],
-  "NBC News": [],
+  "NBC News": [
+    {
+      "title": "Suspect killed after deadly Berlin terror attack",
+      "date": "2026-07-26",
+      "url": "https://www.nbcnews.com/nightly-news/video/suspect-killed-after-deadly-berlin-terror-attack-267289157744"
+    },
+    {
+      "title": "Video helps free man from death row",
+      "date": "2026-07-26",
+      "url": "https://www.nbcnews.com/nightly-news/video/video-helps-free-man-from-death-row-267287621910"
+    },
+    {
+      "title": "Trump pushes elections bill",
+      "date": "2026-07-26",
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-pushes-elections-bill-267288645651"
+    },
+    {
+      "title": "New diplomatic push to end war with Iran",
+      "date": "2026-07-26",
+      "url": "https://www.nbcnews.com/nightly-news/video/new-diplomatic-push-to-end-war-with-iran-267287621965"
+    },
+    {
+      "title": "Here\u2019s the biggest news you missed this weekend",
+      "date": "2026-07-26",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-july-26-rcna589185"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-07-26T01:00:40.609751"
+    "updated_at": "2026-07-26T21:00:39.143108"
   }
 }
