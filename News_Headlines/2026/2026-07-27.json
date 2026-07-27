@@ -1,111 +1,157 @@
 {
   "BBC": [
     {
-      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
       "date": "2026-07-27",
-      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
       "date": "2026-07-27",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "title": "TV presenter and comedian Bill Oddie dies at 85",
       "date": "2026-07-27",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Four men charged with murder after Leicester stabbing",
+      "title": "Girlguiding unveils first major redesign of uniform range since 1990",
       "date": "2026-07-27",
-      "url": "https://www.bbc.co.uk/news/articles/cj03zpzl267o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Man and woman die after being pulled from sea off Cornish beach",
+      "date": "2026-07-27",
+      "url": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Battle against France and Spain wildfires is in a critical window as hotter weather looms",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/26/world/live-news/france-spain-wildfires-evacuations"
+      "title": "From a small-town pledge to the big time: A quest to turn central Ohio into a biotech hub",
+      "date": "2026-07-27",
+      "url": "https://edition.cnn.com/world/quest-to-turn-ohio-into-a-biotech-hub-michael-spc"
     },
     {
-      "title": "Trump administration signals that pause in Iran strikes will allow talks to progress",
+      "title": "Five climbers confirmed dead on Russia\u2019s Mount Elbrus, Europe\u2019s highest peak",
+      "date": "2026-07-27",
+      "url": "https://edition.cnn.com/2026/07/27/europe/climbers-dead-mount-elbrus-scli-intl"
+    },
+    {
+      "title": "July 26, 2026 \u2013 UN envoy Waltz says Trump giving talks \u2018some space;\u2019 Iran condemns Ukrainian attacks",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/26/world/live-news/iran-war-trump"
-    },
-    {
-      "title": "Toronto police investigate after Jewish-owned bakery chain hit by gunfire and vandalism",
-      "date": "2026-07-27",
-      "url": "https://edition.cnn.com/2026/07/26/world/toronto-jewish-bagel-shop-vandalism"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+      "date": "2026-07-27",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms"
+    },
+    {
+      "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+      "date": "2026-07-27",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates"
+    },
+    {
+      "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
+      "date": "2026-07-27",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force"
+    },
+    {
+      "title": "Baltimore will turn 911 into more than just an emergency number",
+      "date": "2026-07-27",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number"
+    },
+    {
+      "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
+      "date": "2026-07-27",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: seven new suspected bird flu cases in SA as conservation charity warns \u2018this is evidence of spread\u2019",
+      "title": "Uganda begins emergency food handouts after 19 die from hunger",
+      "date": "2026-07-27",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger"
+    },
+    {
+      "title": "Baby missing after mother and toddler found dead off coast of South Australia",
+      "date": "2026-07-27",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/baby-missing-after-mother-and-toddler-found-dead-off-coast-of-south-australia-ntwnfb"
+    },
+    {
+      "title": "British YouTuber Yung Filly describes night he met fan in Australian nightclub before allegedly raping her",
+      "date": "2026-07-27",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/british-youtuber-yung-filly-describes-night-he-met-fan-in-perth-nightclub-before-allegedly-raping-her-ntwnfb"
+    },
+    {
+      "title": "NSW police deputy commissioner says letting Jewish security group carry guns could be seen as \u2018favouritism\u2019",
+      "date": "2026-07-27",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/27/nsw-police-deputy-commissioner-says-letting-jewish-security-group-carry-guns-could-be-seen-as-favouritism-ntwnfb"
+    },
+    {
+      "title": "Comedian who hosted Albanese\u2019s \u2018shag, marry, date\u2019 interview says it was \u2018moment taken out of context\u2019 \u2013 as it happened",
       "date": "2026-07-27",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb"
-    },
-    {
-      "title": "\u2018A new trajectory\u2019: EVs now almost quarter of Australia\u2019s new car sales as fuel crisis bites",
-      "date": "2026-07-27",
-      "url": "https://www.theguardian.com/environment/2026/jul/27/australia-ev-car-sales-electric-vehicles-fuel-crisis-plug-in-hybrids"
-    },
-    {
-      "title": "Jacinta Allan leadership challenge: Ben Carroll confirms he will stand against Victorian premier",
-      "date": "2026-07-27",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/jacinta-allan-leadership-challenge-labor-faction-meeting-victoria-politics"
-    },
-    {
-      "title": "AusAlert test: what time will national emergency warning siren sound on phones in Australia today? Here\u2019s what to know",
-      "date": "2026-07-27",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/ausalert-national-alert-test-sound-emergency-warning-system-time-date"
-    },
-    {
-      "title": "Shootings at Bite of Seattle food festival leave several injured",
-      "date": "2026-07-27",
-      "url": "https://www.theguardian.com/world/2026/jul/27/bite-of-seattle-shooting-center-food-festival"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+      "title": "Wildfires in southwest Europe: What we know so far",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss"
     },
     {
-      "title": "Firefighters battle to contain wildfires still burning near Bordeaux",
+      "title": "Sooryavanshi praised by Laxman after teen stars against Zimbabwe in T20",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-to-contain-wildfires-still-burning-near-bordeaux?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/27/india-zimbabwe-t20-cricket-match-vaibhav-sooryavanshi-vvs-laxman?traffic_source=rss"
     },
     {
-      "title": "Why Mali\u2019s northern conflict has entered a dangerous new phase",
+      "title": "Photos: France, Spain battle \u2018monster\u2019 wildfires as more heat looms",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/7/27/photos-france-spain-battle-monster-wildfires-as-more-heat-looms?traffic_source=rss"
     },
     {
-      "title": "Massive iceberg capsizes off the coast of Greenland",
+      "title": "Moment Ukrainian drones strike Russia\u2019s Belgorod",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_massive-iceberg-capsizes-off-the-coast-of-greenland-260726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss"
     },
     {
-      "title": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
+      "title": "Why has the US halted its bombing of Iran?",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "At least two dead, five injured in Seattle shooting",
+      "title": "Shooting at Seattle Food Festival Leaves at Least 3 Dead",
       "date": "2026-07-27",
-      "url": "https://www.nbcnews.com/video/seattle-shooting-kills-at-least-two-people-five-others-injured-267294789759"
+      "url": "https://www.today.com/video/shooting-at-seattle-food-festival-leaves-at-least-3-dead-267304005825"
     },
     {
-      "title": "Two dead, at least five injured, including a young boy, in Seattle Center shooting, fire officials say",
+      "title": "New Details Emerge on Suspect in Deadly Berlin Pride Attack",
+      "date": "2026-07-27",
+      "url": "https://www.today.com/video/suspect-in-berlin-pride-attack-shot-and-killed-by-police-267306053828"
+    },
+    {
+      "title": "A fatal shooting in Seattle and \u2018apocalyptic\u2019 fires in Europe: Morning Rundown",
+      "date": "2026-07-27",
+      "url": "https://www.nbcnews.com/news/us-news/fatal-shooting-seattle-apocalyptic-fires-europe-morning-rundown-rcna589267"
+    },
+    {
+      "title": "Oil prices slide as U.S. and Iran pause strikes to give \u2018space\u2019 for diplomacy",
+      "date": "2026-07-27",
+      "url": "https://www.nbcnews.com/world/iran/oil-prices-slide-us-iran-pause-strikes-trump-diplomacy-hormuz-red-sea-rcna589383"
+    },
+    {
+      "title": "Shootout at Seattle food festival kills 3; police arrest suspect and search for another",
       "date": "2026-07-27",
       "url": "https://www.nbcnews.com/news/us-news/multiple-people-injured-seattle-center-shooting-police-say-rcna589371"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-27T01:00:39.200156"
+    "updated_at": "2026-07-27T09:00:39.401280"
   }
 }
