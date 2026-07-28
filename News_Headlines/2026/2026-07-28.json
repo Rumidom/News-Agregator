@@ -1,121 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Burnham says pupils in England need clearer pathway into work",
+      "title": "French patrol boat appears to fire gunshots in the Channel during BBC interview",
+      "date": "2026-07-28",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
       "date": "2026-07-28",
       "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
       "date": "2026-07-28",
-      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "BBC reports from outside court after judge rules singer D4vd will stand trial for murder",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
       "date": "2026-07-28",
-      "url": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fourth heatwave grips parts of UK with 35C forecast",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
       "date": "2026-07-28",
-      "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
-      "date": "2026-07-28",
-      "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "European wildfires may not be out for months, authorities warn, as flames rage near Bordeaux and Madrid",
+      "title": "Several feared trapped in collapsed shopping mall after Japan earthquake",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/27/world/live-news/france-spain-wildfires-evacuations"
+      "url": "https://edition.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto"
     },
     {
-      "title": "Trump says US halted strikes on Iran at Tehran\u2019s request",
+      "title": "Trump and Iran send conflicting messages on talks",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/27/world/live-news/iran-war-trump"
+      "url": "https://edition.cnn.com/2026/07/28/world/live-news/iran-trump-news"
     },
     {
-      "title": "A weeks-old Gen-Z protest group managed to get India\u2019s Modi to blink. What\u2019s next?",
+      "title": "Several feared trapped in collapsed shopping mall after Japan quake",
       "date": "2026-07-28",
-      "url": "https://edition.cnn.com/2026/07/27/india/india-cockroach-protests-what-next-intl-hnk"
+      "url": "https://edition.cnn.com/2026/07/28/asia/japan-earthquake-intl"
+    },
+    {
+      "title": "France issues heat warnings in wildfire-hit areas, as at least 63,000 evacuated near Madrid",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/28/world/live-news/france-spain-wildfires-ww2"
+    },
+    {
+      "title": "Why Gen Z is going bonkers for birding",
+      "date": "2026-07-28",
+      "url": "https://edition.cnn.com/world/gen-z-birdwatching-boom-intl-spc"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+      "date": "2026-07-28",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption"
+    },
+    {
+      "title": "AI tokens could become the kilowatt-hour of the AI age",
+      "date": "2026-07-28",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age"
+    },
+    {
+      "title": "Yes, it's possible to save money while paying off credit card debt. Here's how",
+      "date": "2026-07-28",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how"
+    },
+    {
+      "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
+      "date": "2026-07-28",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats"
+    },
+    {
+      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "date": "2026-07-28",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Javier Milei accuses US Democrats of financing \u2018anti-Argentina campaign\u2019 at World Cup",
+      "date": "2026-07-28",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup"
+    },
+    {
+      "title": "Multiple people trapped inside shopping centre in Japan after earthquake \u2013 live updates",
+      "date": "2026-07-28",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates"
+    },
+    {
+      "title": "\u2018We have lost everything\u2019: extreme rainfall across Asia brings flash floods and typhoons",
+      "date": "2026-07-28",
+      "url": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change"
+    },
     {
       "title": "Asia \u2018scraping the bottom of the barrel\u2019 as Red Sea oil blockade worsens energy crisis",
       "date": "2026-07-28",
       "url": "https://www.theguardian.com/world/2026/jul/28/asia-energy-oil-crisis-red-sea-blockade-houthis"
     },
     {
-      "title": "Australia news live: Ben Carroll pledges royal commission into Victoria\u2019s construction sector in first speech as premier",
+      "title": "Ben Carroll announces royal commission into construction sector in first act as new Victorian premier",
       "date": "2026-07-28",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/28/jacinta-allan-victoria-labor-leadership-spill-ben-carroll-challenge-antisemitism-royal-commission-nsw-icac-inquiry-queensland-estimates-ntwnfb"
-    },
-    {
-      "title": "Hotelier stopped funding NSW Liberal \u2018Reformers\u2019 after deciding Morrison and Perrottet had \u2018gone woke\u2019, Icac hears",
-      "date": "2026-07-28",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/28/icac-nsw-liberals-reformers-morrison-perrottet-woke-alleged-payments-angus-taylor-ntwnfb"
-    },
-    {
-      "title": "Who is Ben Carroll, the man who has become Victoria\u2019s new premier?",
-      "date": "2026-07-28",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/27/who-is-ben-carroll-mp-victoria-deputy-premier-faction-jacinta-allan"
-    },
-    {
-      "title": "It\u2019s the vibe: Australian comedy classic The Castle set to become a stage play",
-      "date": "2026-07-28",
-      "url": "https://www.theguardian.com/stage/2026/jul/28/the-castle-stage-play-working-dog-film-rob-sitch-tom-gleisner-santo-cilauro-jane-kennedy"
+      "url": "https://www.theguardian.com/australia-news/2026/jul/28/jacinta-allan-resigns-quits-victoria-premier-leadership-challenge-ben-carroll"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Ukraine\u2019s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "title": "Fatal Shooting in ICE Operations",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss"
     },
     {
-      "title": "US warns hundreds of Boeing jets may require seat safety inspections",
+      "title": "Tate\u2019s attorney says allegations \u2018puts a target on their backs\u2019",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tates-attorney-says-allegations-puts-a-target-on-their?traffic_source=rss"
     },
     {
-      "title": "Trump says Iran talks taking place during pause in US military strikes",
+      "title": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss"
     },
     {
-      "title": "Ebola response workers strike in DR Congo as death toll spikes",
+      "title": "Israeli settler attack on at-Tuwani",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss"
     },
     {
-      "title": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
+      "title": "Why London\u2019s Hackney Council wants to repeal its \u2018twin\u2019 status with Haifa",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Michigan dad fatally shoots his wife and 6 kids before killing himself, authorities say",
+      "title": "A major earthquake rocks Japan, prompting tsunami warnings",
       "date": "2026-07-28",
-      "url": "https://www.nbcnews.com/news/us-news/michigan-family-fire-shooting-rcna589552"
+      "url": "https://www.nbcnews.com/video/a-major-earthquake-rocks-japan-prompting-tsunami-warnings-267372613950"
     },
     {
-      "title": "The second of two red panda cubs born at a California zoo dies",
+      "title": "Washington says goodbye to Sen. Lindsey Graham",
       "date": "2026-07-28",
-      "url": "https://www.nbcnews.com/news/animal-news/second-two-red-panda-cubs-born-california-zoo-dies-rcna589546"
+      "url": "https://www.nbcnews.com/politics/congress/washington-says-goodbye-sen-lindsey-graham-rcna589475"
     },
     {
-      "title": "15-year-old shot into Seattle food festival crowd during deadly gunfight, prosecutors allege",
+      "title": "Trump and Netanyahu to meet and powerful earthquake rocks Japan: Morning Rundown",
       "date": "2026-07-28",
-      "url": "https://www.nbcnews.com/news/us-news/seattle-food-festival-shooting-may-gang-related-prosecutors-say-rcna589412"
+      "url": "https://www.nbcnews.com/news/us-news/trump-netanyahu-meet-powerful-earthquake-rocks-japan-morning-rundown-rcna589576"
+    },
+    {
+      "title": "Washington says goodbye to Sen. Lindsey Graham",
+      "date": "2026-07-28",
+      "url": "https://www.nbcnews.com/politics/congress/washington-says-goodbye-sen-lindsey-graham-rcna589475"
+    },
+    {
+      "title": "Major earthquake rocks southern Japan, injuring dozens",
+      "date": "2026-07-28",
+      "url": "https://www.nbcnews.com/world/japan/earthquake-rocks-japan-tsunami-warnings-rcna589574"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-28T01:00:40.302855"
+    "updated_at": "2026-07-28T09:00:39.249796"
   }
 }
