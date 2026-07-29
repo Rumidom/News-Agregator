@@ -1,0 +1,131 @@
+{
+  "BBC": [
+    {
+      "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham invites Tories and Lib Dems to social care talks",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Papers: 'Workers face new tax' and 'Fury over Fifa plan'",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvg23dne0o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "France issues heat warnings in wildfire-hit areas, as at least 63,000 evacuated near Madrid",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/28/world/live-news/france-spain-wildfires-ww2"
+    },
+    {
+      "title": "US and Saudi forces conduct strikes on Iranian proxies in Iraq",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/28/world/live-news/iran-trump-news"
+    },
+    {
+      "title": "At least 13 people killed in Japan earthquake, prime minister says",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park"
+    },
+    {
+      "title": "\u2018Race against time\u2019: Japan earthquake death toll rises as rescue teams search for missing",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks"
+    },
+    {
+      "title": "Australia news live: Icac hears of \u2018shit sheet\u2019 on former NSW Liberal minister\u2019s alleged affair; police treating mother and child\u2019s deaths as murder-suicide",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb"
+    },
+    {
+      "title": "Queensland and NT reject Labor\u2019s push to ensure that power-hungry AI datacentres use renewable energy",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy"
+    },
+    {
+      "title": "Daniel Andrews says Ben Carroll \u2018can win\u2019 Victoria election in rare public statement",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "Haitians living in fear as Temporary Protected Status ends in the US",
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss"
+    },
+    {
+      "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
+    },
+    {
+      "title": "Israel kills Palestinian, destroys mosque in Gaza",
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
+    },
+    {
+      "title": "OpenAI\u2019s rogue agent hacked an account at a second technology firm: Report",
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
+    },
+    {
+      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Francesca Hong avoids attacks as Wisconsin Democrats meet for an amicable governor debate",
+      "date": "2026-07-29",
+      "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-avoids-attacks-wisconsin-democrats-meet-amicable-govern-rcna589069"
+    },
+    {
+      "title": "James Comey legal team argues DOJ\u2019s seashells case erodes \u2018bedrock\u2019 principles",
+      "date": "2026-07-29",
+      "url": "https://www.nbcnews.com/politics/justice-department/james-comey-legal-team-argues-dojs-seashells-case-erodes-bedrock-princ-rcna589659"
+    },
+    {
+      "title": "Francesca Hong avoids attacks as Wisconsin Democrats meet for an amicable governor debate",
+      "date": "2026-07-29",
+      "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-avoids-attacks-wisconsin-democrats-meet-amicable-govern-rcna589069"
+    },
+    {
+      "title": "Trump asks Supreme Court to overturn $83.3 million award in E. Jean Carroll defamation case",
+      "date": "2026-07-29",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-asks-supreme-court-overturn-833-million-award-e-jean-carroll-def-rcna589762"
+    },
+    {
+      "title": "South Dakota Gov. Larry Rhoden fends off challenger in GOP primary runoff",
+      "date": "2026-07-29",
+      "url": "https://www.nbcnews.com/politics/2026-election/south-dakota-gov-larry-rhoden-fends-gop-challenger-primary-runoff-rcna588923"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-07-29T01:00:07.575766"
+  }
+}
