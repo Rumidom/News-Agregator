@@ -1,49 +1,85 @@
 {
   "BBC": [
     {
-      "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
+      "title": "More than half of England officially in drought, Environment Agency says",
       "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Burnham invites Tories and Lib Dems to social care talks",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
       "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran and US trade strikes, shattering brief lull in fighting",
+      "title": "Boy, 7, dies after beach tragedy that killed mum and daughter",
       "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump administration bans new Chinese humanoid robots",
+      "title": "OpenAI says its rogue AI tried to hack other companies",
       "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Workers face new tax' and 'Fury over Fifa plan'",
+      "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
       "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvg23dne0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "France issues heat warnings in wildfire-hit areas, as at least 63,000 evacuated near Madrid",
+      "title": "Spain and France wildfires stabilize but risks remain with temperatures set to spike above 100 degrees",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/28/world/live-news/france-spain-wildfires-ww2"
+      "url": "https://edition.cnn.com/2026/07/29/world/live-news/france-spain-wildfires-heat-wave"
     },
     {
-      "title": "US and Saudi forces conduct strikes on Iranian proxies in Iraq",
+      "title": "US and Saudi Arabia strike Iran-backed militias as fighting reignites",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/28/world/live-news/iran-trump-news"
+      "url": "https://edition.cnn.com/2026/07/29/world/live-news/iran-trump-news"
     },
     {
-      "title": "At least 13 people killed in Japan earthquake, prime minister says",
+      "title": "\u2018Every second counts\u2019 as rescuers scramble to reach people trapped by deadly quake, Japan\u2019s leader warns",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto"
+    },
+    {
+      "title": "Tracking the impact of the Japan earthquake in maps and charts",
+      "date": "2026-07-29",
+      "url": "https://edition.cnn.com/2026/07/28/world/japan-earthquake-maps-charts-vis"
+    },
+    {
+      "title": "As Trump doubles down on tariffs, Canadian distillers see a glass half full",
+      "date": "2026-07-29",
+      "url": "https://edition.cnn.com/2026/07/29/americas/trump-canada-liquor-distillers-latam-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "date": "2026-07-29",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates"
+    },
+    {
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "date": "2026-07-29",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher"
+    },
+    {
+      "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+      "date": "2026-07-29",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq"
+    },
+    {
+      "title": "To win over working class voters, Democrats need to stop talking about democracy",
+      "date": "2026-07-29",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class"
+    },
+    {
+      "title": "'Machines are collaborators' at this new museum of AI art",
+      "date": "2026-07-29",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
@@ -51,81 +87,81 @@
       "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park"
     },
     {
+      "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 live updates",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates"
+    },
+    {
+      "title": "\u2018The shaking was terrifying\u2019: stories of survival and loss emerge after Japan earthquake",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki"
+    },
+    {
+      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets"
+    },
+    {
       "title": "\u2018Race against time\u2019: Japan earthquake death toll rises as rescue teams search for missing",
       "date": "2026-07-29",
       "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks"
-    },
-    {
-      "title": "Australia news live: Icac hears of \u2018shit sheet\u2019 on former NSW Liberal minister\u2019s alleged affair; police treating mother and child\u2019s deaths as murder-suicide",
-      "date": "2026-07-29",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb"
-    },
-    {
-      "title": "Queensland and NT reject Labor\u2019s push to ensure that power-hungry AI datacentres use renewable energy",
-      "date": "2026-07-29",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy"
-    },
-    {
-      "title": "Daniel Andrews says Ben Carroll \u2018can win\u2019 Victoria election in rare public statement",
-      "date": "2026-07-29",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Haitians living in fear as Temporary Protected Status ends in the US",
+      "title": "American, Asian confederations blindsided by FIFA\u2019s World Cup plan",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/haitians-living-in-fear-as-temporary-protected-status-ends-in-the-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
     },
     {
-      "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
+      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
     },
     {
-      "title": "Israel kills Palestinian, destroys mosque in Gaza",
+      "title": "Infantino\u2019s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss"
     },
     {
-      "title": "OpenAI\u2019s rogue agent hacked an account at a second technology firm: Report",
+      "title": "\u2018Iran attacks now to send message as US assets build up in Israel\u2019",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
     },
     {
-      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+      "title": "Married couple deported by ICE killed in Guatemala",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Francesca Hong avoids attacks as Wisconsin Democrats meet for an amicable governor debate",
+      "title": "Francesca Hong avoids attacks as Wisconsin Democrats meet for governor debate",
       "date": "2026-07-29",
       "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-avoids-attacks-wisconsin-democrats-meet-amicable-govern-rcna589069"
     },
     {
-      "title": "James Comey legal team argues DOJ\u2019s seashells case erodes \u2018bedrock\u2019 principles",
+      "title": "Iran Launches Surprise Missile Attack on US Forces in Middle East",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/politics/justice-department/james-comey-legal-team-argues-dojs-seashells-case-erodes-bedrock-princ-rcna589659"
+      "url": "https://www.today.com/video/iran-launches-surprise-missile-attack-on-us-forces-in-middle-east-267439685784"
     },
     {
-      "title": "Francesca Hong avoids attacks as Wisconsin Democrats meet for an amicable governor debate",
+      "title": "Fed interest rate vote poses a test for Warsh as Iran war, tariff push send prices higher",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-avoids-attacks-wisconsin-democrats-meet-amicable-govern-rcna589069"
+      "url": "https://www.nbcnews.com/business/economy/fed-meeting-interest-rate-decision-kevin-warsh-rcna589536"
     },
     {
-      "title": "Trump asks Supreme Court to overturn $83.3 million award in E. Jean Carroll defamation case",
+      "title": "Data center backlash in midterm elections and Iran launches attacks on U.S. targets: Morning Rundown",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-asks-supreme-court-overturn-833-million-award-e-jean-carroll-def-rcna589762"
+      "url": "https://www.nbcnews.com/news/us-news/data-center-backlash-attacks-us-iran-morning-rundown-rcna589778"
     },
     {
-      "title": "South Dakota Gov. Larry Rhoden fends off challenger in GOP primary runoff",
+      "title": "Fed interest rate vote poses a test for Warsh as Iran war, tariff push send prices higher",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/politics/2026-election/south-dakota-gov-larry-rhoden-fends-gop-challenger-primary-runoff-rcna588923"
+      "url": "https://www.nbcnews.com/business/economy/fed-meeting-interest-rate-decision-kevin-warsh-rcna589536"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-29T01:00:07.575766"
+    "updated_at": "2026-07-29T09:00:09.007797"
   }
 }
