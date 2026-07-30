@@ -1,46 +1,41 @@
 {
   "BBC": [
     {
-      "title": "More than half of England officially in drought, Environment Agency says",
+      "title": "More than half of England in drought, Environment Agency declares",
       "date": "2026-07-29",
       "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "How the UK's extreme heat is shifting the conversation about air-con",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Moment police officers set foot in 'horror scene' funeral home",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Police to take no further action against Polanski over guillotine re-post",
+      "date": "2026-07-29",
+      "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
       "date": "2026-07-29",
       "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Boy, 7, dies after beach tragedy that killed mum and daughter",
-      "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
-      "date": "2026-07-29",
-      "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Spain and France wildfires stabilize but risks remain with temperatures set to spike above 100 degrees",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/29/world/live-news/france-spain-wildfires-heat-wave"
+      "title": "Russia striking Kyiv with ballistic missiles, after Zelensky warned of \u2018massive attack\u2019",
+      "date": "2026-07-29",
+      "url": "https://edition.cnn.com/2026/07/29/europe/ukraine-kyiv-missile-attack-latam-intl"
     },
     {
-      "title": "US and Saudi Arabia strike Iran-backed militias as fighting reignites",
+      "title": "Trump says Iran \u2018going to get a beating\u2019 as fresh fighting shatters calm",
       "date": "",
       "url": "https://edition.cnn.com/2026/07/29/world/live-news/iran-trump-news"
-    },
-    {
-      "title": "\u2018Every second counts\u2019 as rescuers scramble to reach people trapped by deadly quake, Japan\u2019s leader warns",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/28/world/live-news/japan-earthquake-kumamoto"
     },
     {
       "title": "Tracking the impact of the Japan earthquake in maps and charts",
@@ -48,36 +43,41 @@
       "url": "https://edition.cnn.com/2026/07/28/world/japan-earthquake-maps-charts-vis"
     },
     {
-      "title": "As Trump doubles down on tariffs, Canadian distillers see a glass half full",
+      "title": "Why Iran chose to restart the fight after the US stopped firing",
       "date": "2026-07-29",
-      "url": "https://edition.cnn.com/2026/07/29/americas/trump-canada-liquor-distillers-latam-intl"
+      "url": "https://edition.cnn.com/2026/07/29/middleeast/why-iran-chose-to-restart-the-fight-us-intl"
+    },
+    {
+      "title": "Teenager convicted of UK murder plot ordered by Iran-linked crime gang",
+      "date": "2026-07-29",
+      "url": "https://edition.cnn.com/2026/07/29/uk/teenager-convicted-for-his-role-in-murder-for-hire-ordered-by-iran-linked-crime-gang"
     }
   ],
   "NPR": [
     {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
       "date": "2026-07-29",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates"
+      "url": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin"
     },
     {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
       "date": "2026-07-29",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher"
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers"
     },
     {
-      "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+      "title": "Oregon is on track for its worst wildfire season yet",
       "date": "2026-07-29",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq"
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet"
     },
     {
-      "title": "To win over working class voters, Democrats need to stop talking about democracy",
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
       "date": "2026-07-29",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class"
+      "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity"
     },
     {
-      "title": "'Machines are collaborators' at this new museum of AI art",
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
       "date": "2026-07-29",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol"
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan"
     }
   ],
   "The Guardian": [
@@ -87,7 +87,7 @@
       "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park"
     },
     {
-      "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 live updates",
+      "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
       "date": "2026-07-29",
       "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates"
     },
@@ -97,71 +97,71 @@
       "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki"
     },
     {
-      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
-      "date": "2026-07-29",
-      "url": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets"
-    },
-    {
       "title": "\u2018Race against time\u2019: Japan earthquake death toll rises as rescue teams search for missing",
       "date": "2026-07-29",
       "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks"
+    },
+    {
+      "title": "Australia news live: Albanese says fuel excise cut is ending \u2018with a lot of notice\u2019; three dead in Sydney house fire",
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "American, Asian confederations blindsided by FIFA\u2019s World Cup plan",
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss"
     },
     {
-      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+      "title": "Nicaragua\u2019s Daniel Ortega aims to bar \u2018traitors\u2019 from future elections",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss"
     },
     {
-      "title": "Infantino\u2019s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss"
     },
     {
-      "title": "\u2018Iran attacks now to send message as US assets build up in Israel\u2019",
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss"
     },
     {
-      "title": "Married couple deported by ICE killed in Guatemala",
+      "title": "Iraq calls Saudi-US attacks a \u2018flagrant violation of sovereignty\u2019",
       "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Francesca Hong avoids attacks as Wisconsin Democrats meet for governor debate",
+      "title": "Pope Leo XIV reflects on being the first American pope",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-avoids-attacks-wisconsin-democrats-meet-amicable-govern-rcna589069"
+      "url": "https://www.nbcnews.com/nightly-news/video/pope-leo-xiv-reflects-on-being-the-first-american-pope-267483717647"
     },
     {
-      "title": "Iran Launches Surprise Missile Attack on US Forces in Middle East",
-      "date": "2026-07-29",
-      "url": "https://www.today.com/video/iran-launches-surprise-missile-attack-on-us-forces-in-middle-east-267439685784"
-    },
-    {
-      "title": "Fed interest rate vote poses a test for Warsh as Iran war, tariff push send prices higher",
+      "title": "Fed holds interest rates for the fifth meeting this year, underscoring inflation fears",
       "date": "2026-07-29",
       "url": "https://www.nbcnews.com/business/economy/fed-meeting-interest-rate-decision-kevin-warsh-rcna589536"
     },
     {
-      "title": "Data center backlash in midterm elections and Iran launches attacks on U.S. targets: Morning Rundown",
+      "title": "Trump\u2019s IRS carveout threatens to hold up Todd Blanche attorney general nomination",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/news/us-news/data-center-backlash-attacks-us-iran-morning-rundown-rcna589778"
+      "url": "https://www.nbcnews.com/politics/justice-department/trumps-irs-carveout-threatens-hold-todd-blanche-attorney-general-nomin-rcna589617"
     },
     {
-      "title": "Fed interest rate vote poses a test for Warsh as Iran war, tariff push send prices higher",
+      "title": "Dr. Fauci invokes Fifth Amendment over 100 times during Senate hearing",
       "date": "2026-07-29",
-      "url": "https://www.nbcnews.com/business/economy/fed-meeting-interest-rate-decision-kevin-warsh-rcna589536"
+      "url": "https://www.nbcnews.com/now/video/dr-fauci-invokes-fifth-amendment-over-100-times-during-senate-hearing-267466821581"
+    },
+    {
+      "title": "Jared Leto accused of criminal sexual conduct",
+      "date": "2026-07-29",
+      "url": "https://www.nbcnews.com/now/video/jared-leto-accused-of-criminal-sexual-conduct-267469893945"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-29T09:00:09.007797"
+    "updated_at": "2026-07-29T21:00:18.070035"
   }
 }
