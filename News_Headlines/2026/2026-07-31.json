@@ -1,118 +1,139 @@
 {
   "BBC": [
     {
-      "title": "Crews tackling Suffolk wildfire say they are in better position",
+      "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
       "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
       "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+      "title": "Southport killer charged with prison attacks and possessing weapon",
+      "date": "2026-07-31",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
       "date": "2026-07-31",
       "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What your summer reading list says about you",
+      "title": "Sainsbury's agrees to sell Argos for \u00a3120m",
       "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Teen hackers tell BBC how police are helping them use their skills for good",
-      "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "World-renowned climber Nirmal Purja among 10 feared missing following avalanche in Pakistan",
+      "title": "Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day",
+      "date": "2026-07-31",
+      "url": "https://edition.cnn.com/2026/07/31/europe/spain-ceuta-migrants-intl"
+    },
+    {
+      "title": "Now Russia and Ukraine are fighting it out on the gas station forecourt",
+      "date": "2026-07-31",
+      "url": "https://edition.cnn.com/2026/07/31/europe/ukraine-russia-gas-station-attacks-intl"
+    },
+    {
+      "title": "Four bodies recovered after group including top mountaineer Nirmal Purja missing in avalanche",
       "date": "2026-07-31",
       "url": "https://edition.cnn.com/2026/07/30/asia/climber-nirmal-purja-feared-missing-intl-hnk"
-    },
-    {
-      "title": "Spain deploys military to Ceuta after thousands of people breach Morocco\u2019s border and at least 9 die",
-      "date": "2026-07-31",
-      "url": "https://edition.cnn.com/2026/07/30/europe/ceuta-emergency-thousands-moroccans-intl"
-    },
-    {
-      "title": "Japan is launching its first centralized intelligence agency since WWII. Here\u2019s why",
-      "date": "2026-07-31",
-      "url": "https://edition.cnn.com/2026/07/30/asia/japan-new-intelligence-agency-bureau-intl-hnk"
-    },
-    {
-      "title": "Saudi Arabia says 14 countries backing maritime alliance to protect shipping routes",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/07/30/world/live-news/iran-war-trump"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+      "date": "2026-07-31",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy"
+    },
+    {
+      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "date": "2026-07-31",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz"
+    },
+    {
+      "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "date": "2026-07-31",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms"
+    },
+    {
+      "title": "Democrats show divisions on Israel amid competitive midterm elections",
+      "date": "2026-07-31",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections"
+    },
+    {
+      "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "date": "2026-07-31",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Reformers member tells Icac he can\u2019t recall Taylor making donation, saying \u2018I don\u2019t think Angus worked out\u2019",
+      "title": "At least 34 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "date": "2026-07-31",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+    },
+    {
+      "title": "Archbishop of Canterbury vows to support \u00a3100m pledge helping communities affected by enslavement",
+      "date": "2026-07-31",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement"
+    },
+    {
+      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "date": "2026-07-31",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
+    },
+    {
+      "title": "UK petrol prices rise to highest this year as US attacks Iran \u2013 business live",
+      "date": "2026-07-31",
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
+    },
+    {
+      "title": "Icac hears of friendship breakdown between Reformers members \u2013 as it happened",
       "date": "2026-07-31",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb"
-    },
-    {
-      "title": "\u2018A car in the bus!\u2019: Toyota becomes airborne and then wedges in side of Brisbane bus",
-      "date": "2026-07-31",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/31/brisbane-bus-car-crash"
-    },
-    {
-      "title": "Pauline Hanson\u2019s comments on \u2018good Muslims\u2019 don\u2019t breach hate speech laws, Australian federal police finds",
-      "date": "2026-07-31",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/31/pauline-hanson-muslim-comments-afp-australian-federal-police-ntwnfb"
-    },
-    {
-      "title": "Middle East crisis live: Trump claims breakthrough reached in Gaza disarmament; Hamas confirms deal",
-      "date": "2026-07-31",
-      "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news"
-    },
-    {
-      "title": "Trump claims agreement for \u2018complete disarmament\u2019 of Hamas in Gaza but support uncertain",
-      "date": "2026-07-31",
-      "url": "https://www.theguardian.com/world/2026/jul/31/trump-hamas-disarmament-agreement-gaza-board-of-peace"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Israeli blockades seal off village in the occupied West Bank",
+      "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss"
     },
     {
-      "title": "India to increase penalties for exam leaks after Cockroach party protests",
+      "title": "Palestinians in Gaza are sceptical about the latest peace plan",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/india-to-increase-penalties-for-exam-leaks-after-cockroach-party-protests?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss"
     },
     {
-      "title": "Why a MAGA influencer\u2019s shift to support Ukraine war is good for Trump",
+      "title": "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-a-maga-influencers-shift-to-support-ukraine-war-is-good-for-trump?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss"
     },
     {
-      "title": "Trump says Morocco named Tiznit-Dakhla highway after him: Why it matters",
+      "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/morocco-names-tiznit-dakhla-highway-after-trump-why-it-matters?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss"
     },
     {
-      "title": "Clashes near Morocco\u2019s border with Spain over beefed up migrant security",
+      "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/clashes-near-moroccos-border-with-spain-over-beefed-up-migrant-security?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump says peace plan will lead to Hamas disarmament; Israel\u2019s support uncertain",
+      "title": "Trump Weighs Pulling Todd Blanche Nomination Amid Vote Delay",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151"
+      "url": "https://www.today.com/video/trump-weighs-pulling-todd-blanche-nomination-amid-vote-delay-267574853660"
     },
     {
-      "title": "Seattle police chief resigns days after food festival shooting",
+      "title": "Men detained in Guthrie investigation file notice of claim against Pima County sheriff",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/news/us-news/seattle-police-chief-shon-barnes-resigns-after-food-festival-shooting-rcna590149"
+      "url": "https://www.nbcnews.com/news/us-news/men-detained-guthrie-investigation-file-notice-claim-pima-county-sheri-rcna590170"
     },
     {
       "title": "Hair found in Nancy Guthrie\u2019s home isn\u2019t linked to a suspect, FBI says",
@@ -120,9 +141,9 @@
       "url": "https://www.nbcnews.com/news/us-news/nancy-guthrie-fbi-hair-rcna590152"
     },
     {
-      "title": "Trump says peace plan will lead to Hamas disarmament; Israel\u2019s support uncertain",
+      "title": "Seattle police chief resigns days after food festival shooting",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/world/gaza/trump-says-peace-plan-will-lead-hamas-disarmament-israel-support-uncer-rcna590151"
+      "url": "https://www.nbcnews.com/news/us-news/seattle-police-chief-shon-barnes-resigns-after-food-festival-shooting-rcna590149"
     },
     {
       "title": "Seattle police chief resigns days after food festival shooting",
@@ -131,6 +152,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-31T01:00:06.925521"
+    "updated_at": "2026-07-31T09:00:07.267132"
   }
 }
