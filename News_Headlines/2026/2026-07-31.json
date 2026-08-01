@@ -1,78 +1,88 @@
 {
   "BBC": [
     {
-      "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+      "title": "Fifa scraps controversial World Cup investment plan",
+      "date": "2026-07-31",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "date": "2026-07-31",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+      "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
       "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Southport killer charged with prison attacks and possessing weapon",
+      "title": "No sentence long enough for jailed funeral director Robert Bush, say families",
       "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
+      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
       "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Sainsbury's agrees to sell Argos for \u00a3120m",
-      "date": "2026-07-31",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Spain, Morocco try to halt deadly rush on Spanish enclave after tens of thousands cross in a day",
+      "title": "\u2018Someone will die\u2019: Incitement against journalists alarms Israel as elections near",
+      "date": "2026-07-31",
+      "url": "https://edition.cnn.com/2026/07/31/middleeast/israel-incitement-against-journalists-intl"
+    },
+    {
+      "title": "Spain says most of the 50,000 migrants who crossed into its territory from Morocco have returned",
       "date": "2026-07-31",
       "url": "https://edition.cnn.com/2026/07/31/europe/spain-ceuta-migrants-intl"
     },
     {
-      "title": "Now Russia and Ukraine are fighting it out on the gas station forecourt",
-      "date": "2026-07-31",
-      "url": "https://edition.cnn.com/2026/07/31/europe/ukraine-russia-gas-station-attacks-intl"
+      "title": "US plans fresh strikes on Iran as soon as this weekend, officials say",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/07/31/world/live-news/iran-war-trump"
     },
     {
-      "title": "Four bodies recovered after group including top mountaineer Nirmal Purja missing in avalanche",
+      "title": "Trump announces a breakthrough in Gaza - but there are major caveats. Here\u2019s what we know",
+      "date": "2026-07-31",
+      "url": "https://edition.cnn.com/2026/07/31/middleeast/trump-hamas-disarmament-announcement-intl"
+    },
+    {
+      "title": "Four bodies found after group including top mountaineer Nirmal Purja missing in avalanche",
       "date": "2026-07-31",
       "url": "https://edition.cnn.com/2026/07/30/asia/climber-nirmal-purja-feared-missing-intl-hnk"
     }
   ],
   "NPR": [
     {
-      "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
       "date": "2026-07-31",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy"
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss"
     },
     {
-      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "title": "Climate adaptation at its limits, says one scientist",
       "date": "2026-07-31",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz"
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist"
     },
     {
-      "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+      "title": "Drone delivery helps in Rwanda, but only so much",
       "date": "2026-07-31",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms"
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much"
     },
     {
-      "title": "Democrats show divisions on Israel amid competitive midterm elections",
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
       "date": "2026-07-31",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections"
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky"
     },
     {
-      "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "title": "Keeping cool without AC: Our readers share their tips",
       "date": "2026-07-31",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
+      "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool"
     }
   ],
   "The Guardian": [
     {
-      "title": "At least 34 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
       "date": "2026-07-31",
       "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
     },
@@ -87,71 +97,71 @@
       "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus"
     },
     {
-      "title": "UK petrol prices rise to highest this year as US attacks Iran \u2013 business live",
+      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
       "date": "2026-07-31",
-      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts"
     },
     {
-      "title": "Icac hears of friendship breakdown between Reformers members \u2013 as it happened",
+      "title": "FTSE 100 on track for best month since first US attacks on Iran five months ago \u2013 as it happened",
       "date": "2026-07-31",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb"
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+      "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss"
     },
     {
-      "title": "Palestinians in Gaza are sceptical about the latest peace plan",
+      "title": "US Senate\u2019s Fauci hearing renews COVID origin debate but reveals little",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss"
     },
     {
-      "title": "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
+      "title": "Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss"
     },
     {
-      "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
+      "title": "Children face higher threat of US deportation as legal support deal expires",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss"
     },
     {
-      "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+      "title": "Cambridge students on why they protested at graduation ceremony",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump Weighs Pulling Todd Blanche Nomination Amid Vote Delay",
+      "title": "Hackers targeted municipal water systems in 7 states this week, FBI says",
       "date": "2026-07-31",
-      "url": "https://www.today.com/video/trump-weighs-pulling-todd-blanche-nomination-amid-vote-delay-267574853660"
+      "url": "https://www.nbcnews.com/tech/security/hackers-targeted-municipal-water-systems-7-states-week-fbi-says-rcna590210"
     },
     {
-      "title": "Men detained in Guthrie investigation file notice of claim against Pima County sheriff",
+      "title": "Trump administration drops Reflecting Pool case, blaming damage on \u2018botched\u2019 installation",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/news/us-news/men-detained-guthrie-investigation-file-notice-claim-pima-county-sheri-rcna590170"
+      "url": "https://www.nbcnews.com/news/us-news/trump-administration-drops-reflecting-pool-case-blaming-damage-botched-rcna590303"
     },
     {
-      "title": "Hair found in Nancy Guthrie\u2019s home isn\u2019t linked to a suspect, FBI says",
+      "title": "Trump defends \u2018anti-weaponization\u2019 fund, further complicating Blanche nomination",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/news/us-news/nancy-guthrie-fbi-hair-rcna590152"
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-defends-anti-weaponization-fund-complicating-blanche-nomination-rcna590254"
     },
     {
-      "title": "Seattle police chief resigns days after food festival shooting",
+      "title": "Judge denies request by Elon Musk\u2019s xAI to pause Minnesota nudification ban",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/news/us-news/seattle-police-chief-shon-barnes-resigns-after-food-festival-shooting-rcna590149"
+      "url": "https://www.nbcnews.com/tech/elon-musk/judge-denies-request-elon-musks-xai-block-mn-nudification-ban-rcna589993"
     },
     {
-      "title": "Seattle police chief resigns days after food festival shooting",
+      "title": "Police release Nancy Guthrie ransom notes",
       "date": "2026-07-31",
-      "url": "https://www.nbcnews.com/news/us-news/seattle-police-chief-shon-barnes-resigns-after-food-festival-shooting-rcna590149"
+      "url": "https://www.nbcnews.com/now/video/police-release-nancy-guthrie-ransom-notes-267602501532"
     }
   ],
   "_meta": {
-    "updated_at": "2026-07-31T09:00:07.267132"
+    "updated_at": "2026-07-31T21:00:08.632862"
   }
 }
