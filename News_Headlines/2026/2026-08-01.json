@@ -1,121 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Fifa scraps controversial World Cup investment plan",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "date": "2026-08-01",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Victims of disgraced funeral boss demand industry regulation",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "date": "2026-08-01",
-      "url": "https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
       "date": "2026-08-01",
-      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "date": "2026-08-01",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Spanish border crisis' and 'iron chancellor'",
+      "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
       "date": "2026-08-01",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvkzdpynyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
-    {
-      "title": "Russia\u2019s new target: Ukrainian civilians filling up at gas stations",
-      "date": "2026-08-01",
-      "url": "https://edition.cnn.com/2026/07/31/europe/ukraine-russia-gas-station-attacks-intl"
-    },
     {
       "title": "Spain says most of the 50,000 migrants who crossed into its territory from Morocco have returned",
       "date": "2026-08-01",
       "url": "https://edition.cnn.com/2026/07/31/europe/spain-ceuta-migrants-intl"
     },
     {
-      "title": "US plans fresh strikes on Iran as soon as this weekend, officials say",
+      "title": "Zelensky warns air defenses are being overwhelmed as Russia pounds Ukraine, killing 9",
+      "date": "2026-08-01",
+      "url": "https://edition.cnn.com/2026/08/01/europe/zelensky-air-defenses-russia-attack"
+    },
+    {
+      "title": "Palestinian Christians call on American evangelicals to stop ignoring their plight",
+      "date": "2026-08-01",
+      "url": "https://edition.cnn.com/2026/08/01/middleeast/palestinian-christians-in-holy-land"
+    },
+    {
+      "title": "Trump warns fresh strikes on Iran are coming, as Kuwait reports drone attacks",
       "date": "",
-      "url": "https://edition.cnn.com/2026/07/31/world/live-news/iran-war-trump"
+      "url": "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Russia\u2019s new target: Ukrainian civilians filling up at gas stations",
+      "date": "2026-08-01",
+      "url": "https://edition.cnn.com/2026/07/31/europe/ukraine-russia-gas-station-attacks-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
+      "date": "2026-08-01",
+      "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design"
+    },
+    {
+      "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+      "date": "2026-08-01",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine"
+    },
+    {
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "date": "2026-08-01",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah"
+    },
+    {
+      "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+      "date": "2026-08-01",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration"
+    },
+    {
+      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+      "date": "2026-08-01",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Spanish PM calls for urgent EU meeting after \u2018selfish\u2019 responses to Ceuta crisis",
+      "date": "2026-08-01",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing"
+    },
+    {
+      "title": "Boxer secures Tuvalu\u2019s first Commonwealth Games medal without winning a bout",
+      "date": "2026-08-01",
+      "url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning"
+    },
     {
       "title": "Bessent \u2018to-do\u2019 list shows proposal for US to buy $5bn-$10bn of Japanese yen",
       "date": "2026-08-01",
       "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen"
     },
     {
+      "title": "First Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds",
+      "date": "2026-08-01",
+      "url": "https://www.theguardian.com/world/2026/aug/01/first-australian-mass-mortality-event-suspected-as-deadly-bird-flu-virus-rapidly-escalates-among-native-birds"
+    },
+    {
       "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
       "date": "2026-08-01",
       "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief"
-    },
-    {
-      "title": "Adani to pay no company tax despite $1bn revenue from Queensland coalmine",
-      "date": "2026-08-01",
-      "url": "https://www.theguardian.com/business/2026/aug/01/adani-to-pay-no-company-tax-despite-1bn-revenue-from-queensland-coalmine"
-    },
-    {
-      "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
-      "date": "2026-08-01",
-      "url": "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems"
-    },
-    {
-      "title": "Justice department admits reflecting pool damage not caused by vandals as it moves to drop charges against Olympian \u2013 as it happened",
-      "date": "2026-08-01",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/31/donald-trump-cabinet-camp-david-iran-midterms-gaza-latest-news-updates"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Yemen\u2019s Houthis deny plan to charge ships transiting Red Sea",
+      "title": "Vanishing forests: Why is the Philippines failing at reforestation?",
       "date": "2026-08-01",
-      "url": "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss"
     },
     {
-      "title": "Is Israel really ready to withdraw from Gaza?",
+      "title": "Spain says migrants in Ceuta have returned to Morocco",
       "date": "2026-08-01",
-      "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss"
     },
     {
-      "title": "Liberia\u2019s kush crisis: The hidden trade behind a generation at risk",
+      "title": "Trump mimics sound of Patriot missile interceptions",
       "date": "2026-08-01",
-      "url": "https://www.aljazeera.com/news/2026/8/1/liberias-kush-crisis-the-hidden-trade-behind-a-generation-at-risk?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss"
     },
     {
-      "title": "Russian missile attack kills three in Ukraine\u2019s Kyiv",
+      "title": "India\u2019s Modi says he forgives students who abused him in Cockroach protests",
       "date": "2026-08-01",
-      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss"
     },
     {
-      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "title": "Omani legend, US novice: Pakistan recovers bodies from Broad Peak",
       "date": "2026-08-01",
-      "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Nancy Guthrie ransom notes released",
+      "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
       "date": "2026-08-01",
-      "url": "https://www.nbcnews.com/nightly-news/video/nancy-guthrie-ransom-notes-released-267618373509"
+      "url": "https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123"
     },
     {
-      "title": "FIFA cancels plan to sell World Cup stakes to private equity investors",
+      "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
       "date": "2026-08-01",
-      "url": "https://www.nbcnews.com/video/fifa-cancels-plan-to-sell-world-cup-stakes-to-private-equity-investors-267616837934"
+      "url": "https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123"
     },
     {
       "title": "FIFA president nixes idea to sell stakes in World Cup to private equity investors",
       "date": "2026-08-01",
       "url": "https://www.nbcnews.com/sports/soccer/fifa-private-equity-plan-gianni-infantino-world-cup-rcna590317"
+    },
+    {
+      "title": "New Balance sneakers are are up to 61% off this weekend",
+      "date": "2026-08-01",
+      "url": "https://www.nbcnews.com/select/shopping/new-balance-amazon-sale-deal-of-the-day-2026-rcna590328"
+    },
+    {
+      "title": "Nancy Guthrie ransom notes released",
+      "date": "2026-08-01",
+      "url": "https://www.nbcnews.com/nightly-news/video/nancy-guthrie-ransom-notes-released-267618373509"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-01T01:00:07.509130"
+    "updated_at": "2026-08-01T09:00:06.627033"
   }
 }
