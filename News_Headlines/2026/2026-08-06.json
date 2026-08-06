@@ -1,0 +1,131 @@
+{
+  "BBC": [
+    {
+      "title": "University of Cambridge professor at centre of plagiarism row resigns",
+      "date": "2026-08-06",
+      "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "date": "2026-08-06",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "date": "2026-08-06",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK papers: 'Plagiarism row professor resigns' and 'West End stab rampage'",
+      "date": "2026-08-06",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkezxzz7xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Man extradited to UK and charged over alleged hit-and-run death of Keaton Slater",
+      "date": "2026-08-06",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8kd9q1plo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "Tehran denies talks with US, as Gulf official says 50-50 chance of Iran-Oman deal on strait by Friday",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/05/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "This exiled leader faces execution threat if she returns home. She wants to go anyway",
+      "date": "2026-08-06",
+      "url": "https://edition.cnn.com/2026/08/05/asia/sheikh-hasina-bangladesh-return-death-penalty-intl-hnk"
+    },
+    {
+      "title": "An agreement on the Strait of Hormuz is taking shape \u2013 but not one Trump wants",
+      "date": "2026-08-06",
+      "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Australia news live: Jean-Claude Perrottet tells Icac inquiry \u2018I honestly don\u2019t recall\u2019 why lobbying company sent him monthly $5,000 payments",
+      "date": "2026-08-06",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb"
+    },
+    {
+      "title": "Pregnant woman dead and toddler found unharmed after outback Queensland siege ends in apparent murder-suicide",
+      "date": "2026-08-06",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb"
+    },
+    {
+      "title": "Nato to \u2018urgently\u2019 get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
+      "date": "2026-08-06",
+      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot"
+    },
+    {
+      "title": "Abdul El-Sayed\u2019s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats \u2013 as it happened",
+      "date": "2026-08-06",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+    },
+    {
+      "title": "Man arrested at Trump\u2019s California golf course wore earpiece and took photos, police say",
+      "date": "2026-08-06",
+      "url": "https://www.theguardian.com/us-news/2026/aug/05/man-arrested-trump-california-golf-course"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "Could the Iran war derail Donald Trump\u2019s legacy?",
+      "date": "2026-08-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+    },
+    {
+      "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+      "date": "2026-08-06",
+      "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
+    },
+    {
+      "title": "Lightning strike kills Thai footballer during match",
+      "date": "2026-08-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss"
+    },
+    {
+      "title": "How Gambian women are restoring the mangroves protecting Banjul",
+      "date": "2026-08-06",
+      "url": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss"
+    },
+    {
+      "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+      "date": "2026-08-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "FDA approves 1st mRNA flu shot, from Moderna",
+      "date": "2026-08-06",
+      "url": "https://www.nbcnews.com/health/health-news/fda-approves-1st-mrna-flu-shot-moderna-rcna590599"
+    },
+    {
+      "title": "Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire",
+      "date": "2026-08-06",
+      "url": "https://www.nbcnews.com/news/us-news/firefighters-are-working-16-hour-shifts-battle-spokane-complex-fire-rcna591062"
+    },
+    {
+      "title": "Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire",
+      "date": "2026-08-06",
+      "url": "https://www.nbcnews.com/news/us-news/firefighters-are-working-16-hour-shifts-battle-spokane-complex-fire-rcna591062"
+    },
+    {
+      "title": "Three state attorneys general subpoena Anthony Fauci over Covid guidance",
+      "date": "2026-08-06",
+      "url": "https://www.nbcnews.com/politics/politics-news/three-state-attorneys-general-subpoena-anthony-fauci-covid-guidance-rcna591082"
+    },
+    {
+      "title": "FDA approves 1st mRNA flu shot, from Moderna",
+      "date": "2026-08-06",
+      "url": "https://www.nbcnews.com/health/health-news/fda-approves-1st-mrna-flu-shot-moderna-rcna590599"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-08-06T01:00:07.250448"
+  }
+}
