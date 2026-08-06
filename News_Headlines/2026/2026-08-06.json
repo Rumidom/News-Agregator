@@ -1,113 +1,149 @@
 {
   "BBC": [
     {
-      "title": "University of Cambridge professor at centre of plagiarism row resigns",
+      "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+      "date": "2026-08-06",
+      "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Cambridge professor at centre of plagiarism row resigns",
       "date": "2026-08-06",
       "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "title": "Majority of England's rivers and lakes fail new environmental review",
       "date": "2026-08-06",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
       "date": "2026-08-06",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK papers: 'Plagiarism row professor resigns' and 'West End stab rampage'",
+      "title": "Farmer jailed for lodger's 'body in barrel' murder",
       "date": "2026-08-06",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkezxzz7xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man extradited to UK and charged over alleged hit-and-run death of Keaton Slater",
-      "date": "2026-08-06",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8kd9q1plo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Tehran denies talks with US, as Gulf official says 50-50 chance of Iran-Oman deal on strait by Friday",
+      "title": "The Americans losing homes to Israel\u2019s war in Lebanon",
+      "date": "2026-08-06",
+      "url": "https://edition.cnn.com/2026/08/06/middleeast/americans-lebanon-homes-destroyed-israel-latam-intl"
+    },
+    {
+      "title": "MIT unveils a robot that flies and swims. Now it wants to put it into action",
+      "date": "2026-08-06",
+      "url": "https://edition.cnn.com/world/mit-flying-swimming-robot-faav-spc-c2e"
+    },
+    {
+      "title": "Sons of jailed Pakistani leader Imran Khan fear for his health",
+      "date": "2026-08-06",
+      "url": "https://edition.cnn.com/2026/08/06/asia/imran-khan-sons-fear-safety-latam-hnk-intl"
+    },
+    {
+      "title": "August 5, 2026 \u2014 Houthis claim to attack Saudi oil tanker, Trump says Hormuz reopening \u2018soon\u2019",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/05/world/live-news/iran-war-trump"
-    },
-    {
-      "title": "This exiled leader faces execution threat if she returns home. She wants to go anyway",
-      "date": "2026-08-06",
-      "url": "https://edition.cnn.com/2026/08/05/asia/sheikh-hasina-bangladesh-return-death-penalty-intl-hnk"
-    },
-    {
-      "title": "An agreement on the Strait of Hormuz is taking shape \u2013 but not one Trump wants",
-      "date": "2026-08-06",
-      "url": "https://edition.cnn.com/2026/08/05/middleeast/hormuz-iran-oman-agreement-analysis-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+      "date": "2026-08-06",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes"
+    },
+    {
+      "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
+      "date": "2026-08-06",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths"
+    },
+    {
+      "title": "Celebrity culture is one thing. For TMZ, Congress is the new 'reality show'",
+      "date": "2026-08-06",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress"
+    },
+    {
+      "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
+      "date": "2026-08-06",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa"
+    },
+    {
+      "title": "Morning news brief",
+      "date": "2026-08-06",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Jean-Claude Perrottet tells Icac inquiry \u2018I honestly don\u2019t recall\u2019 why lobbying company sent him monthly $5,000 payments",
+      "title": "\u2018Morocco feels emboldened\u2019: Trump\u2019s influence in spotlight after Ceuta disaster",
       "date": "2026-08-06",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/aug/06/trump-influence-morocco-spotlight-ceuta-border-disaster"
     },
     {
-      "title": "Pregnant woman dead and toddler found unharmed after outback Queensland siege ends in apparent murder-suicide",
+      "title": "\u2018Mamma mia!\u2019: Trump tariffs refund ignites 53% profit spike at Nintendo",
       "date": "2026-08-06",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb"
+      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo"
     },
     {
-      "title": "Nato to \u2018urgently\u2019 get air defences for Ukraine, as Zelenskyy warns of surge in Russian missile production",
+      "title": "Starbucks Korea raided by police after \u2018Tank Day\u2019 campaign sparks public outrage",
       "date": "2026-08-06",
-      "url": "https://www.theguardian.com/world/2026/aug/06/ukraine-nato-air-defences-missiles-russia-zelenskyy-patriot"
+      "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre"
     },
     {
-      "title": "Abdul El-Sayed\u2019s Michigan primary victory is the latest win for progressives challenging establishment-backed Democrats \u2013 as it happened",
+      "title": "Texts suggest Angus Taylor \u2018paid money to the Reformers \u2026 or was refusing to\u2019, Icac inquiry hears",
       "date": "2026-08-06",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/05/michigan-primary-race-democrats-midterms-senate-el-sayed-haley-stevens-donald-trump-republicans-us-politics-latest-news-updates"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/jean-claude-perrottet-icac-angus-taylor-reformers-ntwnfb"
     },
     {
-      "title": "Man arrested at Trump\u2019s California golf course wore earpiece and took photos, police say",
+      "title": "\u2018Performative reductions\u2019: Labor MPs and business groups urge Burke against sweeping immigration changes",
       "date": "2026-08-06",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/man-arrested-trump-california-golf-course"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/06/performative-reductions-labor-mps-and-business-groups-urge-burke-against-sweeping-immigration-changes"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Could the Iran war derail Donald Trump\u2019s legacy?",
+      "title": "Can the US slow China\u2019s robotics and tech rise?",
       "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss"
     },
     {
-      "title": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
+      "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
       "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss"
     },
     {
-      "title": "Lightning strike kills Thai footballer during match",
+      "title": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
       "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss"
     },
     {
-      "title": "How Gambian women are restoring the mangroves protecting Banjul",
+      "title": "What the CJP protests reveal about India\u2019s next generation",
       "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/8/6/what-the-cjp-protests-reveal-about-indias-next-generation?traffic_source=rss"
     },
     {
-      "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+      "title": "Cambridge professor Jason Arday quits amid plagiarism allegations",
       "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/6/cambridge-professor-jason-arday-quits-amid-plagiarism-allegations?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "FDA approves 1st mRNA flu shot, from Moderna",
+      "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
       "date": "2026-08-06",
-      "url": "https://www.nbcnews.com/health/health-news/fda-approves-1st-mrna-flu-shot-moderna-rcna590599"
+      "url": "https://www.today.com/video/iran-hormuz-deal-advances-amid-us-munitions-supply-questions-267865157713"
     },
     {
-      "title": "Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire",
+      "title": "Senators to vote on holding Anthony Fauci in contempt for pleading the Fifth during hearing",
       "date": "2026-08-06",
-      "url": "https://www.nbcnews.com/news/us-news/firefighters-are-working-16-hour-shifts-battle-spokane-complex-fire-rcna591062"
+      "url": "https://www.nbcnews.com/politics/congress/senators-vote-holding-anthony-fauci-contempt-congress-pleading-fifth-t-rcna590985"
+    },
+    {
+      "title": "Senators to vote on holding Anthony Fauci in contempt for pleading the Fifth during hearing",
+      "date": "2026-08-06",
+      "url": "https://www.nbcnews.com/politics/congress/senators-vote-holding-anthony-fauci-contempt-congress-pleading-fifth-t-rcna590985"
     },
     {
       "title": "Firefighters are working 16-hour shifts as they battle the Spokane Complex Fire",
@@ -118,14 +154,9 @@
       "title": "Three state attorneys general subpoena Anthony Fauci over Covid guidance",
       "date": "2026-08-06",
       "url": "https://www.nbcnews.com/politics/politics-news/three-state-attorneys-general-subpoena-anthony-fauci-covid-guidance-rcna591082"
-    },
-    {
-      "title": "FDA approves 1st mRNA flu shot, from Moderna",
-      "date": "2026-08-06",
-      "url": "https://www.nbcnews.com/health/health-news/fda-approves-1st-mrna-flu-shot-moderna-rcna590599"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-06T01:00:07.250448"
+    "updated_at": "2026-08-06T09:00:06.922497"
   }
 }
