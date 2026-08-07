@@ -1,9 +1,19 @@
 {
   "BBC": [
     {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
       "date": "2026-08-07",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+      "date": "2026-08-07",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+      "date": "2026-08-07",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Arrests in Norfolk town as disorder continues for third night",
@@ -11,108 +21,119 @@
       "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "date": "2026-08-07",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Sudan's invisible children - born in war with no legal identity",
-      "date": "2026-08-07",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK papers: 'Tories to end social housing for foreigners' and 'Bottoms down'",
-      "date": "2026-08-07",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgv8m382o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Afghan boxer accused of killing aid worker whose body was found in suitcase",
+      "title": "The first new underwater habitat in decades may spark the next race to the bottom",
       "date": "2026-08-07",
-      "url": "https://edition.cnn.com/2026/08/06/europe/elisabeth-ross-death-greece-scli-intl"
+      "url": "https://edition.cnn.com/world/deep-vanguard-underwater-habitat-spc-c2e"
     },
     {
-      "title": "As US and China throw up tit-for-tat sanctions, is Trump\u2019s Xi meeting at risk?",
+      "title": "Teen kills classmates, teachers, and his grandparents in Thai gun rampage, police say",
       "date": "2026-08-07",
-      "url": "https://edition.cnn.com/2026/08/06/china/us-china-trump-xi-trade-tensions-analysis-hnk-intl"
+      "url": "https://edition.cnn.com/2026/08/07/asia/thailand-school-shooting-intl-hnk"
     },
     {
-      "title": "Iran says Hormuz deal is close but US must meet commitments before strait reopens",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/06/world/live-news/iran-war-trump"
+      "title": "Amanda Knox defends her comedy show at Edinburgh festival as honoring her murdered former roommate",
+      "date": "2026-08-07",
+      "url": "https://edition.cnn.com/2026/08/07/europe/amanda-knox-comedy-show-controversy-kercher-intl"
     }
   ],
-  "NPR": [],
-  "The Guardian": [
+  "NPR": [
     {
-      "title": "Australia news live: airlines blame lack of traffic controllers for morning of cancellations and long delays at Sydney Airport",
+      "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
       "date": "2026-08-07",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/07/royal-commission-antisemitism-national-cabinet-datacentres-icac-liberal-party-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-ntwnfb"
+      "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella"
     },
     {
-      "title": "Man dies after suspected dog attack at rural property in Sydney suburb",
+      "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+      "date": "2026-08-07",
+      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell"
+    },
+    {
+      "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+      "date": "2026-08-07",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials"
+    },
+    {
+      "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+      "date": "2026-08-07",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart"
+    },
+    {
+      "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+      "date": "2026-08-07",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season"
+    }
+  ],
+  "The Guardian": [
+    {
+      "title": "Haitians face arrest and deportation after US removes TPS protections",
+      "date": "2026-08-07",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration"
+    },
+    {
+      "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+      "date": "2026-08-07",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war"
+    },
+    {
+      "title": "Thailand school shooting: eight killed including suspected attacker, police say",
+      "date": "2026-08-07",
+      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok"
+    },
+    {
+      "title": "Dogs to be euthanised after man dies following suspected animal attack at rural Sydney property",
       "date": "2026-08-07",
       "url": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb"
     },
     {
-      "title": "Justin Pearson and Brent Taylor win primaries for key Tennessee House seat",
+      "title": "Alan Jones trial: complainant wants to \u2018humiliate\u2019 broadcaster by revealing intimate details of alleged assaults, defence tells court",
       "date": "2026-08-07",
-      "url": "https://www.theguardian.com/us-news/2026/aug/06/tennessee-house-primary-elections"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
-      "date": "2026-08-07",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta"
-    },
-    {
-      "title": "ACLU blasts Trump\u2019s new orders on birthright citizenship, saying they are doomed to fail in court\u2013 as it happened",
-      "date": "2026-08-07",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/06/senators-anthony-fauci-contempt-of-congress-michiganu-democrats-republicans-trump-politics-latest-news-updates"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/07/alan-jones-trial-defence-court-case-sydney-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "More than one million affected by floods in India\u2019s Assam state",
+      "title": "First school for robots opens in China",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss"
     },
     {
-      "title": "Exclusive report with the 308 people rescued by Nigerian forces",
+      "title": "Cricket\u2019s Shakib, an Hasina ally, will face trial in Bangladesh if secure",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss"
     },
     {
-      "title": "Israeli raid in West Bank\u2019s Qalandiya injures 51 Palestinians",
+      "title": "Northern Ethiopia\u2019s shifting alliances explained",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss"
     },
     {
-      "title": "New Mexico court orders Meta to pay $567m over harm to youths",
+      "title": "Trump says war \u2018can\u2019t go much longer\u2019 \u2013 what\u2019s the latest on talks?",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss"
     },
     {
-      "title": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+      "title": "Houthi attacks on gov\u2019t forces hint that a major battle in Yemen is brewing",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-attacks-on-govt-forces-hint-that-a-major-battle-in-yemen-is-brewing?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
+      "title": "GOP Sen. Lisa Murkowski comes out against Todd Blanche for AG, putting nomination in jeopardy",
+      "date": "2026-08-07",
+      "url": "https://www.nbcnews.com/politics/trump-administration/lisa-murkowski-vote-no-todd-blanche-attorney-general-rcna591326"
+    },
+    {
       "title": "NBC News speaks with Palestinian in West Bank whose home is surrounded by Israeli settlers",
       "date": "2026-08-07",
       "url": "https://www.nbcnews.com/video/nbc-news-goes-inside-west-bank-town-attacked-by-israeli-settlers-267914821913"
-    },
-    {
-      "title": "Andy Ogles defeated in Tennessee House GOP primary, NBC News projects",
-      "date": "2026-08-07",
-      "url": "https://www.nbcnews.com/now/video/andy-ogles-defeated-in-tennessee-house-gop-primary-nbc-news-projects-267920965619"
-    },
-    {
-      "title": "Marsha Blackburn wins GOP primary for Tennessee governor, NBC News projects",
-      "date": "2026-08-07",
-      "url": "https://www.nbcnews.com/now/video/marsha-blackburn-wins-gop-primary-for-tennessee-governor-nbc-news-projects-267918405516"
     },
     {
       "title": "Rep. Andy Ogles loses his Republican primary in Tennessee",
@@ -120,12 +141,17 @@
       "url": "https://www.nbcnews.com/politics/2026-election/rep-andy-ogles-loses-republican-primary-tennessee-rcna591185"
     },
     {
-      "title": "Illinois teen in clown outfit charged with murder of 78-year-old man",
+      "title": "Sen. Marsha Blackburn wins the Republican primary for governor of Tennessee",
       "date": "2026-08-07",
-      "url": "https://www.nbcnews.com/news/us-news/illinois-teen-in-clown-outfit-charged-with-murder-of-78-year-old-man-rcna591242"
+      "url": "https://www.nbcnews.com/politics/2026-election/sen-marsha-blackburn-wins-republican-primary-governor-tennessee-rcna591184"
+    },
+    {
+      "title": "Jobs report is expected to show a pickup in hiring \u2014 but with stagnant wages",
+      "date": "2026-08-07",
+      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-07T01:00:06.497187"
+    "updated_at": "2026-08-07T09:00:07.127843"
   }
 }
