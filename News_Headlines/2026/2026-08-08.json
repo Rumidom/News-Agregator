@@ -1,14 +1,19 @@
 {
   "BBC": [
     {
+      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+      "date": "2026-08-08",
+      "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Police officers investigated over handling of sex offender who murdered two women",
+      "date": "2026-08-08",
+      "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
       "date": "2026-08-08",
       "url": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "date": "2026-08-08",
-      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "I went for a full body MOT and the results came as a shock",
@@ -16,78 +21,124 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How a former GB Olympian curbed his porn problem - and the signs and steps to recovery",
+      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
       "date": "2026-08-08",
-      "url": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Digital cameras and wired earphones are back - and 'a bit more real'",
-      "date": "2026-08-08",
-      "url": "https://www.bbc.co.uk/news/articles/cly599xlllyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Saudi Arabia, Turkey and Pakistan agree to NATO-style defense pact at time of regional turmoil",
+      "title": "Influencer killings mount in Mexico as rival cartel factions wage a bloody fight",
+      "date": "2026-08-08",
+      "url": "https://edition.cnn.com/2026/08/08/americas/mexico-influencer-killing-cartel-latam-intl"
+    },
+    {
+      "title": "Saudi Arabia turns to Muslim military heavyweights in landmark defense pact as Iran war closes in",
+      "date": "2026-08-08",
+      "url": "https://edition.cnn.com/2026/08/07/middleeast/saudi-arabia-turkey-pakistan-pact-intl"
+    },
+    {
+      "title": "Teen kills five teachers in Thailand\u2019s deadliest school shooting in years",
+      "date": "2026-08-08",
+      "url": "https://edition.cnn.com/2026/08/07/asia/thailand-bangkok-school-shooting-gunman-latam-intl"
+    },
+    {
+      "title": "August 7, 2026 \u2014 Iranian-backed proxies targeted Saudi Arabia, widening conflict in Middle East",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/07/world/live-news/iran-war-trump"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "date": "2026-08-08",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers"
+    },
+    {
+      "title": "The Women's Professional Baseball League makes its historic debut",
+      "date": "2026-08-08",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut"
+    },
+    {
+      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears",
+      "date": "2026-08-08",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears"
+    },
+    {
+      "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+      "date": "2026-08-08",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention"
+    },
+    {
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "date": "2026-08-08",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "\u2018I couldn\u2019t breathe\u2019: the deadly health burden of wildfire smoke",
+      "date": "2026-08-08",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts"
+    },
+    {
+      "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "date": "2026-08-08",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown"
+    },
     {
       "title": "Senior managers at St Basil\u2019s aged care, where 50 died from Covid, can\u2019t remember it all. Grieving loved ones can\u2019t forget",
       "date": "2026-08-08",
       "url": "https://www.theguardian.com/world/2026/aug/08/senior-managers-at-st-basils-aged-care-where-50-died-from-covid-cant-remember-it-all-grieving-loved-ones-cant-forget"
     },
     {
-      "title": "Trump blasts appeals court for halting White House ballroom construction, claiming decision is a \u2018national security threat\u2019 \u2013 as it happened",
+      "title": "The Bond effect? How MI6 fascinates spy watchers around the world",
       "date": "2026-08-08",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/07/donald-trump-ohio-republican-max-miller-domestic-abuse-allegations-birthright-citizenship-us-politics-latest"
+      "url": "https://www.theguardian.com/world/2026/aug/08/mi6-global-reputation-expertise-spy-agencies"
     },
     {
-      "title": "Helicopter fighting Utah wildfire crashes with two people onboard, officials say",
+      "title": "Nazi shipwrecks emerge from the depths as Europe\u2019s Danube dries up",
       "date": "2026-08-08",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/utah-wildfire-helicopter-crash"
-    },
-    {
-      "title": "Remains of 56 people found decomposing at Chicago funeral home",
-      "date": "2026-08-08",
-      "url": "https://www.theguardian.com/us-news/2026/aug/07/chicago-funeral-home-bodies"
+      "url": "https://www.theguardian.com/environment/2026/aug/08/nazi-shipwrecks-emerge-europe-danube-dries-up-record-heat"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "title": "Yemen\u2019s collapsing healthcare forces the sick to seek alternative medicines",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss"
     },
     {
-      "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+      "title": "How Israel\u2019s occupation fuels resistance",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss"
     },
     {
-      "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+      "title": "Trump\u2019s former personal lawyer narrowly confirmed as US attorney general",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss"
     },
     {
-      "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+      "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss"
     },
     {
-      "title": "Trump shifts blame to Republicans for waning support from public",
+      "title": "Mount Etna ash suspends arrivals at Italy\u2019s Catania airport",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Video shows hippo charging boat full of tourists in Botswana",
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
       "date": "2026-08-08",
-      "url": "https://www.nbcnews.com/world/africa/video-shows-hippo-charging-boat-full-tourists-botswana-rcna591455"
+      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457"
+    },
+    {
+      "title": "Progressives win in Michigan, and a pop star announces a break: The news quiz",
+      "date": "2026-08-08",
+      "url": "https://www.nbcnews.com/news/news-quiz/michigan-senate-news-quiz-rcna591078"
     },
     {
       "title": "Video shows hippo charging boat full of tourists in Botswana",
@@ -95,17 +146,17 @@
       "url": "https://www.nbcnews.com/world/africa/video-shows-hippo-charging-boat-full-tourists-botswana-rcna591455"
     },
     {
-      "title": "Two adults and a child who disappeared while tubing on a Michigan river found safe",
+      "title": "Progressives win in Michigan, and a pop star announces a break: The news quiz",
       "date": "2026-08-08",
-      "url": "https://www.nbcnews.com/news/us-news/two-adults-child-disappeared-tubing-michigan-river-found-safe-rcna591446"
+      "url": "https://www.nbcnews.com/news/news-quiz/michigan-senate-news-quiz-rcna591078"
     },
     {
-      "title": "Two adults and a child who disappeared while tubing on a Michigan river found safe",
+      "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
       "date": "2026-08-08",
-      "url": "https://www.nbcnews.com/news/us-news/two-adults-child-disappeared-tubing-michigan-river-found-safe-rcna591446"
+      "url": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-08T01:00:07.768543"
+    "updated_at": "2026-08-08T09:00:07.755265"
   }
 }
