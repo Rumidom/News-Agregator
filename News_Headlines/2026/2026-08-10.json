@@ -1,39 +1,44 @@
 {
   "BBC": [
     {
-      "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
+      "title": "Record 230 people cross Channel in one small boat",
       "date": "2026-08-10",
-      "url": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Alexandria Ocasio-Cortez freezing her eggs and hasn't 'ruled out' presidential run",
+      "title": "'Dust devil' spins through London park",
       "date": "2026-08-10",
-      "url": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How much parents could save from September's new school uniform rules",
+      "title": "Travelodge staff gave domestic abuser key to his victim's room",
       "date": "2026-08-10",
-      "url": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Could your tattoo stop you from getting a job?",
+      "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
       "date": "2026-08-10",
-      "url": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'New prisons outrage' and 'Days of danger'",
+      "title": "Ban on 'subscription traps' brought forward by three months",
       "date": "2026-08-10",
-      "url": "https://www.bbc.co.uk/news/articles/c4g32y6ee20o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Ukrainian drone strike kills 13 inside Russia, authorities say, in deadliest attack in two years",
+      "date": "2026-08-10",
+      "url": "https://edition.cnn.com/2026/08/10/europe/ukraine-russia-drone-strike-nizhnekamsk-intl"
+    },
     {
       "title": "Netanyahu calculates upsetting Trump is his least-bad option",
       "date": "2026-08-10",
       "url": "https://edition.cnn.com/2026/08/09/middleeast/netanyahu-decision-trump-gaza-plan-analysis-latam-intl"
     },
     {
-      "title": "Pentagon asks defense companies to ramp up production as stockpiles run low during Iran war",
+      "title": "August 9, 2026 - Pentagon memo to defense companies, Houthi attack on Saudi Aramco\u2019s Jazan refinery",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/09/world/live-news/iran-war-trump"
     },
@@ -43,8 +48,49 @@
       "url": "https://edition.cnn.com/2026/08/09/asia/thailand-shooting-teen-shooter-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+      "date": "2026-08-10",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires"
+    },
+    {
+      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+      "date": "2026-08-10",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in"
+    },
+    {
+      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+      "date": "2026-08-10",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump"
+    },
+    {
+      "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+      "date": "2026-08-10",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts"
+    },
+    {
+      "title": "In a competitive Maine Senate race, women voters could be the deciders",
+      "date": "2026-08-10",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "\u2018Shoved the tube so hard it tore my nose\u2019: Kurdish film-maker recounts \u2018inhumane\u2019 ICE force-feeding",
+      "date": "2026-08-10",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli"
+    },
+    {
+      "title": "Kurdish hunger striker says ICE force-feeding \u2018mentally broke me\u2019",
+      "date": "2026-08-10",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding"
+    },
+    {
+      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
+      "date": "2026-08-10",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires"
+    },
     {
       "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
       "date": "2026-08-10",
@@ -54,52 +100,53 @@
       "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
       "date": "2026-08-10",
       "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin"
-    },
-    {
-      "title": "Australia news live: \u2018body\u2019 found in suitcase was lifelike doll with \u2018bruises and grazes\u2019; Victorian Liberals promise weekly red bin pickup",
-      "date": "2026-08-10",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb"
-    },
-    {
-      "title": "NSW police say \u2018body\u2019 of woman found in suitcase by side of road near Goulburn was not human",
-      "date": "2026-08-10",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb"
-    },
-    {
-      "title": "World\u2019s seas have hit hottest temperature on record for July, say scientists",
-      "date": "2026-08-10",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/global-seas-hottest-temperature-july-scientists"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+      "title": "UEFA Super Cup \u2013 PSG vs Aston Villa: Prediction, start time, how to watch",
       "date": "2026-08-10",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss"
     },
     {
-      "title": "Clashes in Iraq\u2019s Kut city during protests over power shortages",
+      "title": "Protesters rally in India\u2019s Jharkhand over alleged exam irregularities",
       "date": "2026-08-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss"
     },
     {
-      "title": "Israel confirms death of Palestinian detainee, nearly two years late",
+      "title": "Remembering Anas, Mohammed and Gaza\u2019s other slain journalists",
       "date": "2026-08-10",
-      "url": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss"
     },
     {
-      "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
+      "title": "What\u2019s behind Trump\u2019s shift to economic pressure on Iran? Will it work?",
       "date": "2026-08-10",
-      "url": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss"
     },
     {
-      "title": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
+      "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
       "date": "2026-08-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss"
     }
   ],
-  "NBC News": [],
+  "NBC News": [
+    {
+      "title": "Trump Says US is \u2018Only Semi-Negotiating\u2019 With Iran",
+      "date": "2026-08-10",
+      "url": "https://www.today.com/video/what-s-included-in-iran-s-demands-to-reopen-strait-of-hormuz-268024389758"
+    },
+    {
+      "title": "This popular Bissell vacuum is nearly $120 off at Walmart",
+      "date": "2026-08-10",
+      "url": "https://www.nbcnews.com/select/shopping/bissell-pet-hair-vacuum-deal-of-the-day-2026-rcna591614"
+    },
+    {
+      "title": "Powerful Storms Spawn Tornadoes and Torrential Rain in Midwest",
+      "date": "2026-08-10",
+      "url": "https://www.today.com/video/tornadoes-touch-down-across-midwest-as-storms-sweep-east-268024389743"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-08-10T01:00:07.436644"
+    "updated_at": "2026-08-10T09:00:09.127649"
   }
 }
