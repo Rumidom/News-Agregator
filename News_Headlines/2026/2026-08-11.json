@@ -1,103 +1,149 @@
 {
   "BBC": [
     {
-      "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "date": "2026-08-11",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
       "date": "2026-08-11",
       "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "New Forest firefighting to continue overnight as cars abandoned",
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
       "date": "2026-08-11",
-      "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
       "date": "2026-08-11",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+      "title": "Watch: Family narrowly escapes home during Colombia earthquake",
       "date": "2026-08-11",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "date": "2026-08-11",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Death toll rises to 132 with hundreds more injured in Colombia earthquake, association says",
+      "title": "Iran\u2019s supreme leader shakes up military leadership, as hopes of Hormuz deal fade",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/11/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Scores killed in Colombia\u2019s strongest earthquake in years",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/11/world/live-news/colombia-earthquake-latest"
+    },
+    {
+      "title": "Former Syrian President Assad sentenced to death in absentia",
+      "date": "2026-08-11",
+      "url": "https://edition.cnn.com/2026/08/11/middleeast/syria-assad-death-sentence-absentia-intl"
+    },
+    {
+      "title": "August 10, 2026 \u2014 Death toll rises to 132 in Colombia earthquake, association says",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/10/world/live-news/colombia-earthquake-san-jose-del-palmar"
     },
     {
-      "title": "Iran shakes up military leadership as Strait of Hormuz talks seem to stall",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/10/world/live-news/iran-war-trump"
+      "title": "Chinese rocket carrying satellite explodes seconds after launch",
+      "date": "2026-08-11",
+      "url": "https://edition.cnn.com/2026/08/11/china/china-long-march-rocket-failure-intl-hnk"
     }
   ],
-  "NPR": [],
-  "The Guardian": [
+  "NPR": [
     {
-      "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
       "date": "2026-08-11",
-      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
+      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines"
     },
+    {
+      "title": "The secret economics inside the new Planet Money board game",
+      "date": "2026-08-11",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game"
+    },
+    {
+      "title": "Former Syrian President Assad sentenced to death in absentia",
+      "date": "2026-08-11",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death"
+    },
+    {
+      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
+      "date": "2026-08-11",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies"
+    },
+    {
+      "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+      "date": "2026-08-11",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting"
+    }
+  ],
+  "The Guardian": [
     {
       "title": "Scores dead in Colombia after powerful earthquake strikes west of country",
       "date": "2026-08-11",
       "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco"
     },
     {
-      "title": "Australia news live: Taylor mounts parliamentary attack on Labor\u2019s \u2018wicked\u2019 widow tax; RBA interest rates decision due today",
+      "title": "Colombia quake leaves more than 110 dead \u2013 as it happened",
       "date": "2026-08-11",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb"
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
     },
     {
-      "title": "Native birds in captivity to be vaccinated against H5 bird flu as Australia prepares for more mass mortalities",
+      "title": "Coalition divided over tougher gambling laws \u2013 with MPs warning Angus Taylor against overreach",
       "date": "2026-08-11",
-      "url": "https://www.theguardian.com/world/2026/aug/11/bird-flu-h5-vaccine-native-birds-australia"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/coalition-divided-angus-taylor-gambling-laws-overreach"
     },
     {
-      "title": "Victoria to ban suppression orders for rapists following Ralph Carr, Tom Silvagni convictions under new pledge",
+      "title": "Delivery drivers to be paid minimum $31.30 an hour across Australia in \u2018world-leading\u2019 decision",
       "date": "2026-08-11",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/11/victoria-to-ban-suppression-orders-for-rapists-ntwnfb"
+      "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision"
+    },
+    {
+      "title": "Lobbyist defends \u2018shit sheet\u2019 on former Liberal MP despite admitting he knew \u2018there was no affair\u2019, Icac hears",
+      "date": "2026-08-11",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/11/christian-reformers-firm-fake-assistant-jessica-icac-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Where did all the money go if the US is running out of weapons?",
+      "title": "Syrian court sentences Bashar al-Assad to death in absentia",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss"
     },
     {
-      "title": "Colombia\u2019s far-right government recognises Israeli claim over Golan Heights",
+      "title": "\u2018New level of danger\u2019: Drone incidents scare Europe amid Russia-Ukraine war",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss"
     },
     {
-      "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+      "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss"
     },
     {
-      "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
+      "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss"
     },
     {
-      "title": "Soldiers take cover as Colombia quake flattens military barracks",
+      "title": "Baby among those rescued as hundreds feared missing after Colombia quake",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot",
+      "title": "All Eyes on Key Midterm Primaries in Wisconsin and Minnesota",
       "date": "2026-08-11",
-      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827"
+      "url": "https://www.today.com/video/progressive-democrats-face-more-major-tests-in-key-primaries-268096069632"
+    },
+    {
+      "title": "Primaries test the Democratic Party and \u2018red alert\u2019 after Colombia earthquake: Morning Rundown",
+      "date": "2026-08-11",
+      "url": "https://www.nbcnews.com/news/us-news/primaries-democratic-party-colombia-earthquake-morning-rundown-rcna591869"
     },
     {
       "title": "Captain of boat that capsized near Statue of Liberty charged in deaths of mother and baby",
@@ -113,14 +159,9 @@
       "title": "Recount puts Trump-backed challenger in the lead in Indiana state Senate primary",
       "date": "2026-08-11",
       "url": "https://www.nbcnews.com/politics/2026-election/recount-puts-trump-backed-challenger-lead-indiana-state-senate-primary-rcna591815"
-    },
-    {
-      "title": "N.C. GOP committee picks Jennifer Balkcom to replace Rep. Chuck Edwards on November ballot",
-      "date": "2026-08-11",
-      "url": "https://www.nbcnews.com/politics/2026-election/north-carolina-gop-committee-jennifer-balkcom-replace-chuck-edwards-rcna591827"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-11T01:00:05.759412"
+    "updated_at": "2026-08-11T09:00:07.469773"
   }
 }
