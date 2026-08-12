@@ -1,54 +1,90 @@
 {
   "BBC": [
     {
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "title": "Burnham says disposable BBQ ban under consideration",
+      "date": "2026-08-12",
+      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
       "date": "2026-08-12",
       "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodr\u00edguez",
+      "title": "Early release scheme risks more serious crimes, probation chief warns",
       "date": "2026-08-12",
-      "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "title": "Serious failings found in new military crimes unit, leaked report finds",
       "date": "2026-08-12",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Baby Shark Boy set to make K-pop debut",
+      "title": "Homes near pylons to get \u00a3250 a year off energy bills \u2013 first sites revealed",
       "date": "2026-08-12",
-      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Thailand tightens gun controls after deadly school shooting",
+      "title": "Zhu Rongji, the \u2018economic czar\u2019 who helped turn China into a powerhouse, dies at 97",
       "date": "2026-08-12",
-      "url": "https://edition.cnn.com/2026/08/11/asia/thailand-tightens-gun-control-school-shooting-intl-hnk"
+      "url": "https://edition.cnn.com/2026/08/12/china/zhu-rongji-china-economic-tsar-obituary-intl-hnk"
     },
     {
-      "title": "More than 200 dead in Colombia earthquake, with rescuers unable to reach epicenter yet",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/11/world/live-news/colombia-earthquake-latest"
-    },
-    {
-      "title": "South Korea\u2019s football body rocked by historic allegations it bought \u2018sexual services\u2019 for referees",
+      "title": "A whisper from the rubble led to baby\u2019s rescue after Colombia earthquake",
       "date": "2026-08-12",
-      "url": "https://edition.cnn.com/2026/08/11/asia/south-korea-football-sexual-scandal-referees-intl-hnk"
+      "url": "https://edition.cnn.com/2026/08/12/americas/colombia-earthquake-baby-rescue-intl-hnk"
     },
     {
-      "title": "US warns of higher fuel prices as maritime attacks persist and Hormuz deal hopes fade",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/11/world/live-news/iran-war-trump"
+      "title": "How this conservationist fought to bring an elusive monkey back from the brink of extinction",
+      "date": "2026-08-12",
+      "url": "https://edition.cnn.com/world/africa/conservationist-rachel-ikemeh-nigeria-c2e-spc"
+    },
+    {
+      "title": "A visual guide to the Colombia earthquake",
+      "date": "2026-08-12",
+      "url": "https://edition.cnn.com/2026/08/10/world/colombia-earthquake-map-vis"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+      "date": "2026-08-12",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias"
+    },
+    {
+      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+      "date": "2026-08-12",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties"
+    },
+    {
+      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
+      "date": "2026-08-12",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit"
+    },
+    {
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "date": "2026-08-12",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war"
+    },
+    {
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "date": "2026-08-12",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Passenger jet billed as China\u2019s answer to Boeing and Airbus prepares to make first international flight",
+      "title": "Halting the march of the armyworm: fungus discovery offers hope to African farmers",
       "date": "2026-08-12",
-      "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight"
+      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers"
+    },
+    {
+      "title": "At least 15 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+      "date": "2026-08-12",
+      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
     },
     {
       "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
@@ -56,49 +92,54 @@
       "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated"
     },
     {
-      "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
+      "title": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
       "date": "2026-08-12",
-      "url": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister"
+      "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall"
     },
     {
-      "title": "Australia politics live: Bragg proposes drastically lower top tax bracket and visa cuts, says he wished he\u2019d done more to stop Morrison\u2019s budget \u2018madness\u2019",
+      "title": "Passenger jet billed as China\u2019s answer to Boeing and Airbus prepares to make first international flight",
       "date": "2026-08-12",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb"
-    },
-    {
-      "title": "Bondi shooting hero Ahmed al-Ahmed cleared of assault charges",
-      "date": "2026-08-12",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/12/bondi-shooting-hero-ahmed-al-ahmed-assault-charges-dropped-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen\u2019s government says",
+      "title": "Putin warns of tit-for-tat seizures of European vessels",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss"
     },
     {
-      "title": "Dozens dead and missing after ferry capsizes in Zimbabwe",
+      "title": "Lebanon ends executions: Where does the death penalty still exist in 2026?",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss"
     },
     {
-      "title": "Iran holds firm on Hormuz conditions as Pakistan\u2019s Naqvi visits Tehran",
+      "title": "Woman rescued after 36 hours under rubble in Colombia",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss"
     },
     {
-      "title": "Stronghold of Syrian revolution celebrates Assad\u2019s death sentence",
+      "title": "Iran refutes Trump\u2019s claim to \u2018control\u2019 Hormuz: What\u2019s the latest in talks?",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss"
     },
     {
-      "title": "On the ground in Cali, Colombia\u2019s worst-hit city after the quake",
+      "title": "\u2018The hardest mission of my life\u2019: A rescuer\u2019s loss in the Lebanon War",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "David Crowley upsets democratic socialist Francesca Hong in Wisconsin governor primary",
+      "date": "2026-08-12",
+      "url": "https://www.nbcnews.com/politics/2026-election/francesca-hong-david-crowley-democratic-primary-wisconsin-governor-rcna592056"
+    },
+    {
+      "title": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina",
+      "date": "2026-08-12",
+      "url": "https://www.nbcnews.com/politics/2026-election/appointed-sen-darline-graham-advances-gop-senate-primary-runoff-south-rcna591628"
+    },
     {
       "title": "Sen. Darline Graham and Rep. Ralph Norman advance to GOP Senate primary runoff in South Carolina",
       "date": "2026-08-12",
@@ -110,22 +151,12 @@
       "url": "https://www.nbcnews.com/politics/2026-election/minnesota-gop-picks-lisa-demuth-trump-backed-mike-lindell-governor-dem-rcna591630"
     },
     {
-      "title": "Democrat backed by Bernie Sanders wins primary as parties prepare to battle for the House",
-      "date": "2026-08-12",
-      "url": "https://www.nbcnews.com/politics/2026-election/democrat-backed-blue-dogs-bernie-sanders-wins-primary-parties-prepare-rcna592039"
-    },
-    {
       "title": "Democratic Rep. John Larson loses his primary to opponent calling for generational change",
       "date": "2026-08-12",
       "url": "https://www.nbcnews.com/politics/2026-election/democratic-rep-john-larson-loses-primary-opponent-calling-generational-rcna591631"
-    },
-    {
-      "title": "Minnesota GOP picks Lisa Demuth over Trump-backed Mike Lindell for governor against Democrat Amy Klobuchar",
-      "date": "2026-08-12",
-      "url": "https://www.nbcnews.com/politics/2026-election/minnesota-gop-picks-lisa-demuth-trump-backed-mike-lindell-governor-dem-rcna591630"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-12T01:00:06.636160"
+    "updated_at": "2026-08-12T09:00:06.992887"
   }
 }
