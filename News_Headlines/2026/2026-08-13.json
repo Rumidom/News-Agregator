@@ -1,113 +1,139 @@
 {
   "BBC": [
     {
-      "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+      "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
       "date": "2026-08-13",
-      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
       "date": "2026-08-13",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "title": "Scientists invent 'world's greenest party balloon'",
       "date": "2026-08-13",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c78gqw3w6v5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Leading doctor rebukes NHS chiefs over transplants",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
       "date": "2026-08-13",
-      "url": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "title": "UK economy grows but experts warn of challenging months ahead",
       "date": "2026-08-13",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "After a whisper saved baby and father from rubble, the search is on for mother in collapsed building in Colombia",
+      "title": "Ecuador police didn\u2019t expect to find Erling Haaland\u2019s face plastered on cocaine bricks",
       "date": "2026-08-13",
-      "url": "https://edition.cnn.com/2026/08/12/americas/colombia-earthquake-baby-rescue-intl-hnk"
+      "url": "https://edition.cnn.com/2026/08/13/americas/ecuador-drugs-erling-haaland-face-intl-hnk"
     },
     {
-      "title": "Strait of Hormuz traffic remains low as world rapidly burns through oil stockpiles",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/12/world/live-news/iran-war-trump"
+      "title": "How Russian ballistic missiles are exploiting holes in Ukraine\u2019s air defenses",
+      "date": "2026-08-13",
+      "url": "https://edition.cnn.com/2026/08/07/europe/ballistic-missiles-russia-ukraine-explained-intl"
     },
     {
-      "title": "Colombia limits foreign rescue teams as earthquake survival window narrows",
+      "title": "Putin pays his first visit to Pacific island chain claimed by Japan, drawing a protest from Tokyo",
       "date": "2026-08-13",
-      "url": "https://edition.cnn.com/2026/08/12/americas/colombia-earthquake-aid-delay-intl-latam"
+      "url": "https://edition.cnn.com/2026/08/13/asia/putin-kuril-islands-japan-intl"
+    },
+    {
+      "title": "Trump keeps saying the US controls the Strait of Hormuz. Does it?",
+      "date": "2026-08-13",
+      "url": "https://edition.cnn.com/2026/08/13/middleeast/who-controls-strait-of-hormuz-iran-us-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+      "date": "2026-08-13",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt"
+    },
+    {
+      "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
+      "date": "2026-08-13",
+      "url": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda"
+    },
+    {
+      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+      "date": "2026-08-13",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers"
+    },
+    {
+      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+      "date": "2026-08-13",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war"
+    },
+    {
+      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+      "date": "2026-08-13",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia politics live: Icac hears evidence on \u2018shake down Angus\u2019 message as opposition leader\u2019s staffer berates journalist for asking about it",
+      "title": "Zambia elections haunted by ghost of incumbent president\u2019s arch-rival",
       "date": "2026-08-13",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/13/australia-politics-live-news-bargaining-meta-tiktok-housing-migration-question-time-anthony-albanese-angus-taylor-pauline-hanson-labor-coalition-one-nation-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
     },
     {
-      "title": "Ibac charges police officer accused of repeatedly hitting Indigenous man with Taser during Melbourne arrest",
+      "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
       "date": "2026-08-13",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/ibac-victoria-police-officers-charged-indigenous-man-taser-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east"
     },
     {
-      "title": "Telstra CEO gets $700,000 pay rise to $6.8m despite Australia-wide outage",
+      "title": "\u2018Melancholic fantasy\u2019: Wong escalates Labor rhetoric against Hanson, condemning \u2018monoculture\u2019 comment",
       "date": "2026-08-13",
-      "url": "https://www.theguardian.com/business/2026/aug/13/telstra-ceo-pay-rise-vicki-brady"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/penny-wong-labor-rhetoric-pauline-hanson-monoculture-ntwnfb"
     },
     {
-      "title": "Reformers were \u2018spectacularly unsuccessful\u2019 in taking over NSW Liberals, Catholic schools boss says",
+      "title": "\u2018Lauf\u2019 and \u2018minceur\u2019: the words that made a 13-year-old from Melbourne a world Scrabble champion",
       "date": "2026-08-13",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/icac-corruption-inquiry-operation-rosny-reformers-nsw-liberals-catholic-schools-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/lauf-and-minceur-the-words-that-made-a-13-year-old-from-melbourne-a-world-scrabble-champion"
     },
     {
-      "title": "David McBride leaves prison on parole after being jailed for leaking Afghanistan war documents",
+      "title": "Former Catholic bishop accused of hosting alcohol-fuelled parties to sexually abuse Aboriginal men found guilty",
       "date": "2026-08-13",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/13/david-mcbride-released-jail-prison-parole"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/13/former-catholic-bishop-accused-of-hosting-alcohol-fuelled-parties-to-sexually-abuse-aboriginal-men-found-guilty-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Solar eclipse carves Eiffel Tower\u2019s silhouette in Paris sky",
+      "title": "Colombia earthquake response tests new far-right government",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss"
     },
     {
-      "title": "Olympic skateboarder times epic stunt with solar eclipse",
+      "title": "More than 135 million people in Europe set for temperatures over 35C",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss"
     },
     {
-      "title": "Zimbabwe\u2019s land reform enters a new chapter",
+      "title": "Israel trucks out Gaza\u2019s rubble to \u2018hide genocide\u2019 and \u2018redraw the map\u2019",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss"
     },
     {
-      "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+      "title": "Fulham walk off in Malaga in friendly repeat of Senegal AFCON final protest",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/13/fulham-march-off-in-malaga-in-friendly-repeat-of-senegal-afcon-protest?traffic_source=rss"
     },
     {
-      "title": "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+      "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Army gynecologist pleads not guilty to secretly recording patients",
+      "title": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
       "date": "2026-08-13",
-      "url": "https://www.nbcnews.com/news/us-news/army-gynecologist-pleads-not-guilty-secretly-recording-patients-rcna592101"
-    },
-    {
-      "title": "\u2018Creepy thing to do\u2019: Pardoned Jan. 6 defendant convicted in hair-touching case",
-      "date": "2026-08-13",
-      "url": "https://www.nbcnews.com/news/us-news/pardoned-jan-6-defendant-convicted-hair-touching-case-rcna592253"
+      "url": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269"
     },
     {
       "title": "Army gynecologist pleads not guilty to secretly recording patients",
@@ -115,12 +141,22 @@
       "url": "https://www.nbcnews.com/news/us-news/army-gynecologist-pleads-not-guilty-secretly-recording-patients-rcna592101"
     },
     {
-      "title": "\u2018Creepy thing to do\u2019: Pardoned Jan. 6 defendant convicted in hair-touching case",
+      "title": "Pardoned Jan. 6 defendant convicted in \u2018creepy\u2019 hair-touching case",
       "date": "2026-08-13",
       "url": "https://www.nbcnews.com/news/us-news/pardoned-jan-6-defendant-convicted-hair-touching-case-rcna592253"
+    },
+    {
+      "title": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
+      "date": "2026-08-13",
+      "url": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269"
+    },
+    {
+      "title": "Army gynecologist pleads not guilty to secretly recording patients",
+      "date": "2026-08-13",
+      "url": "https://www.nbcnews.com/news/us-news/army-gynecologist-pleads-not-guilty-secretly-recording-patients-rcna592101"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-13T01:00:06.869199"
+    "updated_at": "2026-08-13T09:00:07.512907"
   }
 }
