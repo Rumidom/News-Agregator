@@ -1,103 +1,144 @@
 {
   "BBC": [
     {
-      "title": "Final day of heatwave for many before weekend cooldown",
+      "title": "Video shows scale of devastation in Stourbridge",
       "date": "2026-08-14",
-      "url": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Houses burn and train derails on hottest day' and 'Britain on fire'",
+      "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
       "date": "2026-08-14",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7yz0w7rko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "title": "Farage's by-election victory won't stop questions about finances",
       "date": "2026-08-14",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Eurovision proposes new rules to reduce political voting",
+      "date": "2026-08-14",
+      "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+      "date": "2026-08-14",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Japan condemns Putin\u2019s visit to disputed islands",
+      "title": "Nigel Farage wins election in which his main rival was a trash can",
       "date": "2026-08-14",
-      "url": "https://edition.cnn.com/2026/08/13/asia/putin-kuril-islands-japan-intl"
+      "url": "https://edition.cnn.com/2026/08/14/uk/nigel-farage-count-binface-clacton-election-intl"
     },
     {
-      "title": "World rapidly burns through oil stockpiles with no end in sight to Hormuz deadlock",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/13/world/live-news/iran-war-trump"
+      "title": "European countries battle multiple wildfires as record heat grips the continent",
+      "date": "2026-08-14",
+      "url": "https://edition.cnn.com/2026/08/14/europe/uk-wildfires-homes-ablaze-hnk-intl"
     },
     {
-      "title": "18 injured, 2 seriously, after passenger train derails in southern England",
+      "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw",
       "date": "2026-08-14",
-      "url": "https://edition.cnn.com/2026/08/13/world/uk-train-derailment-intl"
+      "url": "https://edition.cnn.com/2026/08/14/europe/poland-russian-plot-american-intl"
     },
     {
-      "title": "Colombia says it will only accept rescue teams from four countries, as earthquake survival window closes",
+      "title": "Trapped and cut off: Palestinian families under settler siege in the West Bank",
       "date": "2026-08-14",
-      "url": "https://edition.cnn.com/2026/08/12/americas/colombia-earthquake-aid-delay-intl-latam"
+      "url": "https://edition.cnn.com/2026/08/13/middleeast/west-bank-settlers-siege-palestinians-qusra-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "date": "2026-08-14",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center"
+    },
+    {
+      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+      "date": "2026-08-14",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather"
+    },
+    {
+      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
+      "date": "2026-08-14",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz"
+    },
+    {
+      "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
+      "date": "2026-08-14",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police"
+    },
+    {
+      "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
+      "date": "2026-08-14",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Jacinta Allan to quit politics; sacked KPMG partner faces leaks scandal inquiry",
+      "title": "American missionary kidnapped in Niger freed after nine months",
       "date": "2026-08-14",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping"
     },
     {
-      "title": "Sydney airport incident involving Virgin and Qantas flights didn\u2019t have to be reported, Airservices Australia says",
+      "title": "\u2018Unprecedented\u2019 rain kills four in Japan as thousands stranded at airport",
       "date": "2026-08-14",
-      "url": "https://www.theguardian.com/world/2026/aug/14/sydney-airport-virgin-qantas-flights-runway-saftey-incident-report"
+      "url": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather"
     },
     {
-      "title": "Alleged victim of Alan Jones made broadcaster soft-boiled eggs with soldiers and ironed his underpants, court told",
+      "title": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
       "date": "2026-08-14",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers"
     },
     {
-      "title": "Australia has been galvanised by \u2018melon-gate\u2019. So what is the luxury fruit at the centre of the PM\u2019s controversy?",
+      "title": "Pocock and crossbenchers call Labor\u2019s NDIS overhaul \u2018too far, too fast\u2019 in scathing Senate inquiry report",
       "date": "2026-08-14",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/australia-albanese-melon-gate-japan-controversy-explained"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report"
     },
     {
-      "title": "Romania shuts its last nuclear reactor as drought-hit Danube river drops to record low",
+      "title": "Lending to property investors falls sharply in \u2018tiny\u2019 step towards fairer housing market in Australia, expert says",
       "date": "2026-08-14",
-      "url": "https://www.theguardian.com/world/2026/aug/14/romania-nuclear-plant-shut-down-cernavoda-danube-river-water-drought"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/14/lending-to-property-investors-falls-sharply-in-tiny-step-towards-fairer-housing-market-in-australia-expert-says"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Mali says 82 soldiers captured by armed groups have been freed",
+      "title": "Huckabee calls Israeli settlers \u2018terrorists\u2019: Can US push end Qusra siege?",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss"
     },
     {
-      "title": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
+      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss"
     },
     {
-      "title": "Why Osun\u2019s election matters for Nigeria\u2019s 2027 vote",
+      "title": "US threatens \u2018indefinite\u2019 blockade against Iran: How long can it last?",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss"
     },
     {
-      "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+      "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss"
     },
     {
-      "title": "Could Trump actually run for a third term as president?",
+      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Perez Hilton has long road to recovery, had struggled with depression, sister says",
+      "title": "Low oil prices now No. 1 goal in Iran, Vance says, as U.S. intensifies economic pressure",
       "date": "2026-08-14",
-      "url": "https://www.nbcnews.com/news/us-news/perez-hilton-long-road-recovery-struggled-depression-self-harm-sister-rcna592456"
+      "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504"
+    },
+    {
+      "title": "Parent says son feels a sense of \u2018powerlessness\u2019 aboard USS Abraham Lincoln",
+      "date": "2026-08-14",
+      "url": "https://www.nbcnews.com/video/parent-says-son-feels-a-sense-of-powerlessness-aboard-uss-abraham-lincoln-268289605806"
     },
     {
       "title": "Selena Gomez and her mom accused of fraud over their mental health startup",
@@ -105,22 +146,17 @@
       "url": "https://www.nbcnews.com/news/us-news/selena-gomez-mom-accused-fraud-mental-health-startup-rcna592411"
     },
     {
-      "title": "Judge shows signs of frustration with DOJ attorneys over handling of Epstein files",
+      "title": "Low oil prices now No. 1 goal in Iran, Vance says, as U.S. intensifies economic pressure",
       "date": "2026-08-14",
-      "url": "https://www.nbcnews.com/politics/justice-department/judge-shows-signs-frustration-doj-attorneys-handling-epstein-files-rcna592418"
+      "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504"
     },
     {
-      "title": "Judge shows signs of frustration with DOJ attorneys over handling of Epstein files",
+      "title": "Luigi Mangione expected to plead guilty during Manhattan federal court hearing",
       "date": "2026-08-14",
-      "url": "https://www.nbcnews.com/politics/justice-department/judge-shows-signs-frustration-doj-attorneys-handling-epstein-files-rcna592418"
-    },
-    {
-      "title": "Selena Gomez and her mom accused of fraud over their mental health startup",
-      "date": "2026-08-14",
-      "url": "https://www.nbcnews.com/news/us-news/selena-gomez-mom-accused-fraud-mental-health-startup-rcna592411"
+      "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-guilty-plea-federal-court-case-ceo-shooting-rcna592421"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-14T01:00:07.015294"
+    "updated_at": "2026-08-14T09:00:10.589213"
   }
 }
