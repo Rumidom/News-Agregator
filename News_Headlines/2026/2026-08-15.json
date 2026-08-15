@@ -1,45 +1,96 @@
 {
   "BBC": [
     {
-      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "title": "Jason Arday death 'tragedy on so many levels' says PM",
       "date": "2026-08-15",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fires prompt national alert as 19 homes destroyed",
+      "title": "Analysis: Arday's death will send shockwaves through a divided academia",
       "date": "2026-08-15",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "date": "2026-08-15",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "title": "BBC seeks to compel Trump's family to provide testimony in Panorama lawsuit",
       "date": "2026-08-15",
       "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
       "date": "2026-08-15",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Trump says he\u2019ll \u2018never apologize\u2019 for military action against Iran",
+      "title": "UAE vessel attacked as Iran says Strait of Hormuz \u2018cannot be seized with a tweet\u2019",
       "date": "",
-      "url": "https://edition.cnn.com/2026/08/14/world/live-news/iran-war-trump"
+      "url": "https://edition.cnn.com/2026/08/15/world/live-news/iran-war-trump"
     },
     {
-      "title": "Powerful 7.7 magnitude earthquake hits Indonesia, forcing villagers to flee",
+      "title": "The life-altering choices immigrant families are making under Trump\u2019s crackdown",
+      "date": "2026-08-15",
+      "url": "https://edition.cnn.com/2026/08/15/americas/immigration-trump-intl-latam"
+    },
+    {
+      "title": "Dozens dead and hundreds flee after powerful earthquake hits Indonesia",
       "date": "2026-08-15",
       "url": "https://edition.cnn.com/2026/08/14/asia/indonesia-earthquake-intl-latam"
+    },
+    {
+      "title": "Former Cambridge professor accused of plagiarism found dead",
+      "date": "2026-08-15",
+      "url": "https://edition.cnn.com/2026/08/14/europe/jason-arday-cambridge-professor-dead-intl-latam-uk"
+    },
+    {
+      "title": "August 14, 2026 \u2014 Carrier group headed to Middle East to replace USS Lincoln, US official says",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/14/world/live-news/iran-war-trump"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "date": "2026-08-15",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis"
+    },
+    {
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "date": "2026-08-15",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain"
+    },
+    {
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "date": "2026-08-15",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport"
+    },
+    {
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "date": "2026-08-15",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Powerful earthquake kills at least 38 in eastern Indonesia",
+      "date": "2026-08-15",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake"
+    },
+    {
+      "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
+      "date": "2026-08-15",
+      "url": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island"
+    },
+    {
+      "title": "\u2018My heart breaks into a million pieces\u2019: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
+      "date": "2026-08-15",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb"
+    },
     {
       "title": "Coalition split on Andrew Bragg speech as South Australian senator Andrew McLachlan urges colleagues to \u2018follow his lead\u2019",
       "date": "2026-08-15",
@@ -49,58 +100,63 @@
       "title": "Fears for missing Sydney teen who hasn\u2019t been seen since leaving for hike on Wednesday",
       "date": "2026-08-15",
       "url": "https://www.theguardian.com/australia-news/2026/aug/15/fears-for-missing-sydney-teen-who-hasnt-been-seen-since-leaving-for-hike-on-wednesday"
-    },
-    {
-      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea \u2018not nearly enough\u2019 \u2013 as it happened",
-      "date": "2026-08-15",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates"
-    },
-    {
-      "title": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
-      "date": "2026-08-15",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "India marks 80th Independence Day with military display",
+      "title": "Is China seeking to copy Iran\u2019s Strait of Hormuz blockade around Taiwan?",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss"
     },
     {
-      "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "title": "Modi threatens to target \u2018intellectual Naxals\u2019 in Independence Day speech",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss"
     },
     {
-      "title": "US President Trump says he will declare Strait of Hormuz US territory",
+      "title": "Aftermath of deadly Indonesia earthquake",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss"
     },
     {
-      "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
+      "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
     },
     {
-      "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+      "title": "What the Taliban achieved and failed to achieve in five years",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Powerful 7.7-magnitude earthquake causes intense shaking near Indonesia",
+      "title": "\u2018Revenge is inevitable\u2019: Iran ramps up propaganda war with violent billboards",
       "date": "2026-08-15",
-      "url": "https://www.nbcnews.com/video/powerful-7-7-magnitude-earthquake-causes-intense-shaking-near-indonesia-268349509807"
+      "url": "https://www.nbcnews.com/world/iran/revenge-inevitable-iran-ramps-propaganda-war-violent-billboards-rcna591867"
     },
     {
-      "title": "What\u2019s next for Democrats \u2014 in November and 2027: From the Politics Desk",
+      "title": "Iran rejects \u2018delusions\u2019 after Trump says he wants the Strait of Hormuz to be a U.S. territory",
       "date": "2026-08-15",
-      "url": "https://www.nbcnews.com/politics/politics-news/s-democrats-november-2027-politics-desk-rcna592655"
+      "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666"
+    },
+    {
+      "title": "Trump\u2019s secret plane swap, and a long-awaited Tupac trial: The news quiz",
+      "date": "2026-08-15",
+      "url": "https://www.nbcnews.com/news/news-quiz/trumps-secret-plane-swap-long-awaited-tupac-trial-news-quiz-rcna592371"
+    },
+    {
+      "title": "Iran rejects \u2018delusions\u2019 after Trump says he wants the Strait of Hormuz to be a U.S. territory",
+      "date": "2026-08-15",
+      "url": "https://www.nbcnews.com/world/iran/iran-rejects-delusions-trump-strait-hormuz-us-territory-rcna592666"
+    },
+    {
+      "title": "Trump\u2019s secret plane swap, and a long-awaited Tupac trial: The news quiz",
+      "date": "2026-08-15",
+      "url": "https://www.nbcnews.com/news/news-quiz/trumps-secret-plane-swap-long-awaited-tupac-trial-news-quiz-rcna592371"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-15T01:00:07.489427"
+    "updated_at": "2026-08-15T09:00:07.872815"
   }
 }
