@@ -1,9 +1,19 @@
 {
   "BBC": [
     {
-      "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
+      "title": "People who fled Stourbridge fires start to return home",
+      "date": "2026-08-16",
+      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Reform proposes \u00a350bn welfare bill cut with changes to disability payments for millions",
       "date": "2026-08-16",
       "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "date": "2026-08-16",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -11,60 +21,121 @@
       "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
       "date": "2026-08-16",
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "NATO fighter jet shoots down drone breaching Romania\u2019s airspace",
-      "date": "2026-08-16",
-      "url": "https://edition.cnn.com/2026/08/15/europe/drone-romania-airspace-nato-hnk-intl"
+      "title": "Yemen suspends Red Sea port operations after Houthi attacks",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/16/world/live-news/iran-war-trump"
     },
     {
-      "title": "Shipping faces more disruptions in the Middle East during Strait of Hormuz stalemate",
+      "title": "Search for survivors continues after powerful earthquake kills dozens in Indonesia",
+      "date": "2026-08-16",
+      "url": "https://edition.cnn.com/2026/08/14/asia/indonesia-earthquake-intl-latam"
+    },
+    {
+      "title": "Ukraine attacks Russia with hundreds of drones in one of Kyiv\u2019s largest aerial assaults of the conflict",
+      "date": "2026-08-16",
+      "url": "https://edition.cnn.com/2026/08/15/europe/russia-moscow-ukraine-air-attack-intl"
+    },
+    {
+      "title": "August 15, 2026 \u2014 Shipping faces more disruptions in the Middle East",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/15/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "The perils of falling in love as a Communist Party member in China",
+      "date": "2026-08-16",
+      "url": "https://edition.cnn.com/2026/08/16/china/china-communist-party-freedoms-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "date": "2026-08-16",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia"
+    },
+    {
+      "title": "NPR Senior Podcast Challenge: Official Rules",
+      "date": "2026-08-16",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules"
+    },
+    {
+      "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+      "date": "2026-08-16",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis"
+    },
+    {
+      "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+      "date": "2026-08-16",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean"
+    },
+    {
+      "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+      "date": "2026-08-16",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Chalmers rejects Hanson\u2019s call for more super access saying One Nation \u2018wants to destroy\u2019 scheme",
+      "title": "Japan\u2019s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
+      "date": "2026-08-16",
+      "url": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy"
+    },
+    {
+      "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+      "date": "2026-08-16",
+      "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
+    },
+    {
+      "title": "Chalmers rejects Hanson\u2019s call for more super access saying One Nation \u2018wants to destroy\u2019 scheme \u2013 as it happened",
       "date": "2026-08-16",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb"
+    },
+    {
+      "title": "Rare Renaissance paintings by Antonello da Messina stolen from Sicilian museum",
+      "date": "2026-08-16",
+      "url": "https://www.theguardian.com/artanddesign/2026/aug/16/antonello-da-messina-renaissance-paintings-stolen-sicilian-museum-holiday"
+    },
+    {
+      "title": "Bus carrying Polish pilgrims crashes in Hungary, leaving 12 dead",
+      "date": "2026-08-16",
+      "url": "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss"
     },
     {
-      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss"
     },
     {
-      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss"
     },
     {
-      "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "title": "Premier League: Key talking points heading into the new 2026-27 season",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+      "title": "Doctor describes amputating girl\u2019s leg in Gaza without anaesthesia",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss"
     }
   ],
   "NBC News": [],
   "_meta": {
-    "updated_at": "2026-08-16T01:00:15.087552"
+    "updated_at": "2026-08-16T09:00:07.535957"
   }
 }
