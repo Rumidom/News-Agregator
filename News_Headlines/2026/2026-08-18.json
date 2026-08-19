@@ -1,9 +1,14 @@
 {
   "BBC": [
     {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "title": "Three dead after family get into difficulty in sea",
       "date": "2026-08-18",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+      "date": "2026-08-18",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "British couple on honeymoon killed in helicopter crash on Greek island",
@@ -11,71 +16,76 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
       "date": "2026-08-18",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
       "date": "2026-08-18",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
-      "date": "2026-08-18",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Trump says no talks are taking place as Tehran accuses US of \u2018squeezing\u2019 Iran for concessions",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/18/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Ukraine\u2019s ousted defense minister calls for wartime elections in bombshell address",
+      "date": "2026-08-18",
+      "url": "https://edition.cnn.com/2026/08/18/europe/ukraine-ousted-defense-minister-fedorov-elections-latam-intl"
+    },
+    {
+      "title": "Trump\u2019s threats anger Omanis, leave observers puzzled",
+      "date": "2026-08-18",
+      "url": "https://edition.cnn.com/2026/08/18/middleeast/trumps-threats-anger-omanis-intl"
+    },
+    {
+      "title": "British PM Andy Burnham exchanged messages with someone impersonating Trump\u2019s chief of staff",
+      "date": "2026-08-18",
+      "url": "https://edition.cnn.com/2026/08/17/uk/andy-burnham-trump-chief-of-staff-impersonator-intl"
+    },
+    {
       "title": "Stag shot dead in Richmond Park after picnic attack, as officials warn against feeding deer",
       "date": "2026-08-18",
       "url": "https://edition.cnn.com/2026/08/18/uk/richmond-park-stag-shot-dead-scli-intl"
-    },
-    {
-      "title": "Student and teen gunman dead in rare Philippines school shooting, officials say",
-      "date": "2026-08-18",
-      "url": "https://edition.cnn.com/2026/08/17/asia/school-shooting-philippines-intl-hnk"
-    },
-    {
-      "title": "Princess Eugenie announces the name of her baby daughter",
-      "date": "2026-08-18",
-      "url": "https://edition.cnn.com/2026/08/18/uk/princess-eugenie-daughter-name-scli-intl"
-    },
-    {
-      "title": "China\u2019s most famous comedian under investigation for joke about communist song",
-      "date": "2026-08-18",
-      "url": "https://edition.cnn.com/2026/08/18/china/china-comedian-investigated-guo-degang-intl-hnk"
     }
   ],
   "NPR": [
     {
+      "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+      "date": "2026-08-18",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary"
+    },
+    {
+      "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+      "date": "2026-08-18",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations"
+    },
+    {
+      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+      "date": "2026-08-18",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening"
+    },
+    {
+      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "date": "2026-08-18",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut"
+    },
+    {
       "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
       "date": "2026-08-18",
       "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione"
-    },
-    {
-      "title": "The grueling fight over who profits from AI music",
-      "date": "2026-08-18",
-      "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music"
-    },
-    {
-      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "date": "2026-08-18",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx"
-    },
-    {
-      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-      "date": "2026-08-18",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers"
-    },
-    {
-      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "date": "2026-08-18",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence"
     }
   ],
   "The Guardian": [
+    {
+      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
+      "date": "2026-08-18",
+      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga"
+    },
     {
       "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
       "date": "2026-08-18",
@@ -87,76 +97,71 @@
       "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding"
     },
     {
-      "title": "Sydney Swans will sanction players for \u2018serious breach\u2019 over sexual assault allegations",
+      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already \u2018dirty and nasty\u2019; NDIS reforms to pass parliament today",
       "date": "2026-08-18",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb"
     },
     {
-      "title": "Controversial NDIS bill passes Senate with \u2018substantial\u2019 amendments as Labor and Coalition strike deal",
+      "title": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
       "date": "2026-08-18",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal"
-    },
-    {
-      "title": "WA police appeal for help to find 10-year-old girl missing from Perth suburbs",
-      "date": "2026-08-18",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/wa-police-appeal-for-help-to-find-10-year-old-girl-missing-from-perth-suburbs"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Russia protests Japan PM\u2019s comments after Putin\u2019s Kuril visit",
+      "title": "Democrats call for USS Lincoln probe, question US Navy\u2019s readiness",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss"
     },
     {
-      "title": "Why has Trump threatened to bomb Oman \u2013 for a second time?",
+      "title": "Minnesota official sues Texas governor to force ICE agent\u2019s extradition",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss"
     },
     {
-      "title": "Premier League what to know: Schedule, prediction, transfers and more",
+      "title": "Bolivia arrests political adviser to Latin American right-wingers",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss"
     },
     {
-      "title": "What to know about California\u2019s special election to replace Eric Swalwell",
+      "title": "Trump administration moves to end rule protecting swaths of forest land",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss"
     },
     {
-      "title": "Tupac Shakur murder trial begins thirty years after his death",
+      "title": "Why is the US ramping up Tomahawk production?",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Primary Candidates With the Same Name Sparks Confusion",
+      "date": "2026-08-18",
+      "url": "https://www.today.com/video/primary-candidates-with-the-same-name-sparks-confusion-268458053546"
+    },
+    {
+      "title": "Hayden Panettiere's mother says she 'sadly lost her way'",
+      "date": "2026-08-18",
+      "url": "https://www.nbcnews.com/now/video/hayden-panettiere-s-mother-says-she-sadly-lost-her-way-268481093702"
+    },
     {
       "title": "Hayden Panettiere\u2019s ex-partner Wladimir Klitschko shares \u2018profound shock\u2019 in tribute",
       "date": "2026-08-18",
       "url": "https://www.nbcnews.com/news/us-news/hayden-panettiere-death-wladimir-klitschko-tribute-daughter-kaya-rcna593062"
     },
     {
-      "title": "San Diego Padres minor-league catching coordinator detained by ICE in Texas",
+      "title": "DeSantis ally and appointee is arrested on child sex abuse charges",
       "date": "2026-08-18",
-      "url": "https://www.nbcnews.com/politics/immigration/san-diego-padres-oswaldo-pirela-detained-ice-rcna593055"
+      "url": "https://www.nbcnews.com/news/us-news/desantis-ally-appointee-arrested-child-sex-abuse-charges-rcna593206"
     },
     {
-      "title": "Nick Reiner has spent some of his family money on murder defense, lawyers say",
+      "title": "NASA spots new crater on the moon created when a SpaceX rocket crashed",
       "date": "2026-08-18",
-      "url": "https://www.nbcnews.com/news/us-news/nick-reiner-spent-family-money-murder-defense-lawyers-say-rcna592845"
-    },
-    {
-      "title": "Newborn with heart condition at center of surrogacy legal fight has surgery",
-      "date": "2026-08-18",
-      "url": "https://www.nbcnews.com/news/us-news/newborn-heart-condition-center-surrogacy-legal-fight-surgery-rcna593021"
-    },
-    {
-      "title": "Newborn with heart condition at center of surrogacy legal fight has surgery",
-      "date": "2026-08-18",
-      "url": "https://www.nbcnews.com/news/us-news/newborn-heart-condition-center-surrogacy-legal-fight-surgery-rcna593021"
+      "url": "https://www.nbcnews.com/science/space/nasa-images-moon-crater-spacex-rocket-crash-rcna593224"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-18T09:00:41.318928"
+    "updated_at": "2026-08-18T21:00:40.466773"
   }
 }
