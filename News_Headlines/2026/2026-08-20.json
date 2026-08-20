@@ -1,36 +1,36 @@
 {
   "BBC": [
     {
-      "title": "Prince Harry and Meghan moving back to UK later this month",
+      "title": "Harry and Meghan's security arrangements a private matter, PM says",
       "date": "2026-08-20",
-      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+      "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
       "date": "2026-08-20",
       "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Giant whales move into Greenland waters as ice disappears",
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
       "date": "2026-08-20",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Vapes could lead to health harms in children, doctors warn",
+      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
       "date": "2026-08-20",
-      "url": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russia unleashes 'massive attack' on Kyiv, killing at least five",
+      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
       "date": "2026-08-20",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Five Americans, Ecuador intelligence chief killed in tourist helicopter crash in Kenya",
+      "title": "Missing hiker found dead in Australia as police apologize for \u2018miscommunication\u2019 that she was still alive",
       "date": "2026-08-20",
-      "url": "https://edition.cnn.com/2026/08/19/africa/kenya-helicopter-crash-latam-intl"
+      "url": "https://edition.cnn.com/2026/08/20/australia/lily-hooper-hiker-death-scli-intl"
     },
     {
       "title": "Prince Harry and Meghan to move back to Britain",
@@ -38,22 +38,43 @@
       "url": "https://edition.cnn.com/2026/08/19/uk/sussex-meghan-harry-back-to-britain-intl-latam"
     },
     {
-      "title": "UAE halts trade with Iran after accusing Tehran of firing ballistic missiles",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/19/world/live-news/iran-war-trump"
+      "title": "Five unanswered questions around Harry and Meghan\u2019s surprise move back to Britain",
+      "date": "2026-08-20",
+      "url": "https://edition.cnn.com/2026/08/20/uk/why-is-prince-harry-meghan-returning-uk-intl"
     },
     {
-      "title": "Kim Jong Un\u2019s powerful sister says she is \u2018completely unaware\u2019 if he contacted Trump",
+      "title": "Russia again exploits Ukrainian air defense shortages as deadly strikes pound Kyiv",
       "date": "2026-08-20",
-      "url": "https://edition.cnn.com/2026/08/19/asia/kim-jong-un-sister-unaware-trump-talks-intl"
-    },
-    {
-      "title": "Trump wants South Korea to defend itself. His overtures to Kim Jong Un could delay that",
-      "date": "2026-08-20",
-      "url": "https://edition.cnn.com/2026/08/19/asia/trump-south-korea-alliance-intl-hnk-ml"
+      "url": "https://edition.cnn.com/2026/08/20/europe/russia-ukraine-kyiv-attack-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+      "date": "2026-08-20",
+      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims"
+    },
+    {
+      "title": "North Korea fires a suspected missile toward the sea, Japan says",
+      "date": "2026-08-20",
+      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+    },
+    {
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "date": "2026-08-20",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test"
+    },
+    {
+      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+      "date": "2026-08-20",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers"
+    },
+    {
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "date": "2026-08-20",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants"
+    }
+  ],
   "The Guardian": [
     {
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -61,51 +82,51 @@
       "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic"
     },
     {
+      "title": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud",
+      "date": "2026-08-20",
+      "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan"
+    },
+    {
+      "title": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+      "date": "2026-08-20",
+      "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills"
+    },
+    {
       "title": "\u2018Like a miracle\u2019: 84-year-old woman pulled alive from rubble three days after Indonesian quake",
       "date": "2026-08-20",
       "url": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble"
     },
     {
-      "title": "Australia politics live: Israel ambassador says to \u2018respect the process\u2019 after IDF rules out criminal investigation of Zomi Frankcom killing",
+      "title": "From \u2018elation\u2019 to \u2018terrible news\u2019 in 10 minutes: how the confusion over missing bushwalker Lily Hooper unfolded",
       "date": "2026-08-20",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb"
-    },
-    {
-      "title": "Two 17-year-olds from Sydney private school among three charged over alleged rape of teenage girl",
-      "date": "2026-08-20",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb"
-    },
-    {
-      "title": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
-      "date": "2026-08-20",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/from-elation-to-terrible-news-in-10-minutes-how-the-confusion-over-missing-bushwalker-lily-hooper-unfolded"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+      "title": "PSG forced to move opening league match as heatwave in France damages pitch",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss"
     },
     {
-      "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+      "title": "How Myanmar\u2019s war drives the Rohingya crisis",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss"
     },
     {
-      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+      "title": "Syrian official says \u2018no plans\u2019 to establish Turkish military presence",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss"
     },
     {
-      "title": "Bodycam captures police team falling when deck collapses in Missouri",
+      "title": "Taliban secures pragmatic global alliances without formal recognition",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss"
     },
     {
-      "title": "Publisher of US military newspaper resigns over differences with government",
+      "title": "How conflict is making life more expensive for Iranians",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -115,17 +136,27 @@
       "url": "https://www.nbcnews.com/video/nebraska-community-speaking-out-over-use-of-shock-gloves-in-school-268568133719"
     },
     {
-      "title": "U.S. will seek to deport captain of boat that capsized in New York, killing mom and baby",
+      "title": "Pilot killed, 2 state troopers hurt after small plane and helicopter collide in Pennsylvania",
       "date": "2026-08-20",
-      "url": "https://www.nbcnews.com/news/us-news/us-will-seek-deport-captain-boat-capsized-new-york-killing-mom-baby-rcna593469"
+      "url": "https://www.nbcnews.com/news/us-news/pilot-killed-state-troopers-hurt-plane-helicopter-crash-pennsylvania-rcna593486"
+    },
+    {
+      "title": "Lindsay Clancy Trial: Defense Focuses on Postpartum Psychosis",
+      "date": "2026-08-20",
+      "url": "https://www.today.com/video/lindsay-clancy-trial-spotlights-postpartum-mental-health-268575813642"
     },
     {
       "title": "Two students killed, driver charged after crash into Tennessee college cycling team",
       "date": "2026-08-20",
       "url": "https://www.nbcnews.com/news/us-news/two-students-killed-driver-charged-crash-tennessee-college-cycling-tea-rcna593466"
+    },
+    {
+      "title": "Pilot killed, 2 state troopers hurt after small plane and helicopter collide in Pennsylvania",
+      "date": "2026-08-20",
+      "url": "https://www.nbcnews.com/news/us-news/pilot-killed-state-troopers-hurt-plane-helicopter-crash-pennsylvania-rcna593486"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-20T01:00:35.256493"
+    "updated_at": "2026-08-20T09:00:38.805106"
   }
 }
