@@ -1,93 +1,129 @@
 {
   "BBC": [
     {
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "title": "Multiple deaths after police vehicle and car crash during pursuit",
+      "date": "2026-08-22",
+      "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "date": "2026-08-22",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
       "date": "2026-08-22",
       "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Burnham economic adviser O'Neill rules out government job",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
       "date": "2026-08-22",
-      "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "date": "2026-08-22",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
       "date": "2026-08-22",
       "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Papers: 'Fiscal worries mount' and 'Meghan in Guy Ritchie talks'",
-      "date": "2026-08-22",
-      "url": "https://www.bbc.co.uk/news/articles/c935r6vr135o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Key Iranian trading partner China rejects Trump\u2019s \u2018economic D-Day\u2019 threat",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/21/world/live-news/iran-war-trump"
+      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+      "date": "2026-08-22",
+      "url": "https://edition.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl"
+    },
+    {
+      "title": "South Africa\u2019s former world boxing champion Tete shot dead outside his home",
+      "date": "2026-08-22",
+      "url": "https://edition.cnn.com/2026/08/22/africa/tete-boxer-south-africa-shot-dead-intl"
+    },
+    {
+      "title": "The US-Mexico cattle border is reopening. Not every American rancher is celebrating",
+      "date": "2026-08-22",
+      "url": "https://edition.cnn.com/2026/08/22/americas/cattle-screwworm-us-mexico-border-latam-intl"
+    },
+    {
+      "title": "Zelensky vows response after Russian strike on shopping mall kills 16",
+      "date": "2026-08-22",
+      "url": "https://edition.cnn.com/2026/08/21/europe/kryvyi-rih-shopping-center-strike-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+      "date": "2026-08-22",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Attack on Ukraine shopping centre that killed 16 is \u2018terror by design\u2019, says EU foreign policy chief",
+      "title": "Canada vows to match Trump\u2019s tariffs \u2018dollar for dollar\u2019 after trade talks fail",
       "date": "2026-08-22",
-      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih"
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail"
     },
     {
-      "title": "US Postal Service rule tightens mail-in voting despite court orders blocking changes",
+      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
       "date": "2026-08-22",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise"
     },
     {
-      "title": "Trump talks up White House ballroom and says he views strait of Hormuz as \u2018American territory\u2019 \u2013 as it happened",
+      "title": "Sorrow as community pays tribute to \u2018shining light\u2019 Lily Hooper after NSW hiking tragedy",
       "date": "2026-08-22",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy"
     },
     {
-      "title": "Trump says he views strait of Hormuz as \u2018American territory\u2019",
+      "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
       "date": "2026-08-22",
-      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount"
+    },
+    {
+      "title": "\u2018Embryonic\u2019: lost novel by French film-maker \u00c9ric Rohmer is republished",
+      "date": "2026-08-22",
+      "url": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+      "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss"
     },
     {
-      "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss"
     },
     {
-      "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+      "title": "Pakistan\u2019s PTI seeks contempt action over jailed Imran Khan\u2019s hospital move",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss"
     },
     {
-      "title": "Iranian president says time to end war with US from \u2018position of strength\u2019",
+      "title": "Manchester City preview: Five key questions heading into 2026-27 season",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss"
     },
     {
-      "title": "California lawmaker overcomes pro-Israel spending to win special election",
+      "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
+      "title": "U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse",
       "date": "2026-08-22",
-      "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510"
+      "url": "https://www.nbcnews.com/now/video/u-s-imposes-50-tariffs-on-some-canadian-goods-after-trade-talks-collapse-268712517975"
+    },
+    {
+      "title": "A former child star\u2019s death rattles Hollywood and U.S. debt balloons: The news quiz",
+      "date": "2026-08-22",
+      "url": "https://www.nbcnews.com/news/news-quiz/hayden-panettiere-news-quiz-rcna593573"
+    },
+    {
+      "title": "A former child star\u2019s death rattles Hollywood and U.S. debt balloons: The news quiz",
+      "date": "2026-08-22",
+      "url": "https://www.nbcnews.com/news/news-quiz/hayden-panettiere-news-quiz-rcna593573"
     },
     {
       "title": "Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion",
@@ -98,19 +134,9 @@
       "title": "Trump tries new midterm message to supporters: \u2018Pretend, please, that I\u2019m on the ballot\u2019",
       "date": "2026-08-22",
       "url": "https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849"
-    },
-    {
-      "title": "Missing New York City grandmother found dead near airport in Las Vegas",
-      "date": "2026-08-22",
-      "url": "https://www.nbcnews.com/news/us-news/missing-new-york-city-grandmother-found-dead-las-vegas-rcna593833"
-    },
-    {
-      "title": "Missing New York City grandmother found dead near airport in Las Vegas",
-      "date": "2026-08-22",
-      "url": "https://www.nbcnews.com/news/us-news/missing-new-york-city-grandmother-found-dead-las-vegas-rcna593833"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-22T01:00:40.335326"
+    "updated_at": "2026-08-22T09:00:43.404938"
   }
 }
