@@ -1,47 +1,83 @@
 {
   "BBC": [
     {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "date": "2026-08-23",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Mayors to get powers to overrule local councils on planning decisions",
       "date": "2026-08-23",
       "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Restriction zone scheme for offenders to start in October",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cyber attack shut down small power plant",
+      "title": "CrossCountry cancels UK services after power cut",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Iranian military leader vows Tehran \u2018will not submit\u2019 as US prepares further economic squeeze",
+      "title": "Iran vows to \u2018neutralize\u2019 economic war and issues fresh Strait of Hormuz warning",
       "date": "",
-      "url": "https://edition.cnn.com/2026/08/22/world/live-news/iran-war-trump"
+      "url": "https://edition.cnn.com/2026/08/23/world/live-news/iran-war-trump"
     },
     {
       "title": "Iranian women defy efforts by hardliners to enforce wearing of hijab",
       "date": "2026-08-23",
       "url": "https://edition.cnn.com/2026/08/22/middleeast/iran-hijab-women-defy-hardliners-intl"
+    },
+    {
+      "title": "Man leaves tired 7-year-old son alone on Mount Fuji during family hike",
+      "date": "2026-08-23",
+      "url": "https://edition.cnn.com/2026/08/23/asia/man-leaves-son-japan-mount-fuji-intl-hnk"
+    },
+    {
+      "title": "It\u2019s \u2018Black August\u2019 in Russia, but Putin is sweeping this summer\u2019s crisis under the rug",
+      "date": "2026-08-23",
+      "url": "https://edition.cnn.com/2026/08/22/europe/putin-russia-black-august-analysis-intl"
+    },
+    {
+      "title": "August 22, 2026 \u2014 Iran military leader vows Tehran \u2018will not submit\u2019 as US plans economic squeeze",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/22/world/live-news/iran-war-trump"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "date": "2026-08-23",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Swans fans turn up to support women\u2019s team; Victorian premier rejects Liberals\u2019 \u2018thought bubble\u2019 on criminal court reform",
+      "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
+      "date": "2026-08-23",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
+    },
+    {
+      "title": "Swans fans turn up to support women\u2019s team \u2013 as it happened",
       "date": "2026-08-23",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb"
     },
     {
-      "title": "One Nation MP concedes party\u2019s migration target \u2018not too different\u2019 from Labor\u2019s once rural workforce included",
+      "title": "Liberal plan to split Victorian appeals court attacked as \u2018thought bubble\u2019 that would politicise judiciary",
+      "date": "2026-08-23",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/23/victoria-election-liberals-plan-split-appeals-court-attacked-as-thought-bubble-politicise-judiciary"
+    },
+    {
+      "title": "Hanson forced to intervene after One Nation MP says party\u2019s migration target \u2018not too different\u2019 from Labor\u2019s",
       "date": "2026-08-23",
       "url": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce"
     },
@@ -49,47 +85,43 @@
       "title": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
       "date": "2026-08-23",
       "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error"
-    },
-    {
-      "title": "Fur seal\u2019s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
-      "date": "2026-08-23",
-      "url": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu"
-    },
-    {
-      "title": "Iran\u2019s new security chief says neighbours who join US economic war will be considered \u2018enemies\u2019",
-      "date": "2026-08-23",
-      "url": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "\u2018You just can\u2019t trust Trump\u2019: Canadian premiers fire back in trade war",
+      "title": "Explosion injures 13 in Taiwan",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss"
     },
     {
-      "title": "In rural Chad, solar kiosks bring healthcare closer",
+      "title": "Israel\u2019s war on Gaza forces Palestinians to rely on \u2018Stone Age\u2019 toilets",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
     },
     {
-      "title": "Chinese robot beats Usain Bolt\u2019s 100m world record at humanoid games",
+      "title": "Mourinho decries alleged bullying of Vinicius in Real\u2019s win at Espanyol",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss"
     },
     {
-      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+      "title": "Syria foreign minister says door open for diplomacy with Israel",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
     },
     {
-      "title": "Thousands flee Sudan\u2019s Kordofan fighting for relative safety of El Obeid",
+      "title": "Far-right provocateur Jake Lang arrested after Minneapolis riot",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss"
     }
   ],
-  "NBC News": [],
+  "NBC News": [
+    {
+      "title": "Baggu has bestsellers and more up to 50% off during its summer sale",
+      "date": "2026-08-23",
+      "url": "https://www.nbcnews.com/select/shopping/baggu-sale-2026-rcna593890"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-08-23T01:00:36.163088"
+    "updated_at": "2026-08-23T09:00:36.738342"
   }
 }
