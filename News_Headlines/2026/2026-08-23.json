@@ -1,36 +1,41 @@
 {
   "BBC": [
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "title": "Families of two police officers killed in crash say they were heroes",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "title": "How easy is it to find an NHS dentist? It depends where you live",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "CrossCountry cancels UK services after power cut",
+      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "title": "CrossCountry to provide full service on Monday after major disruption",
       "date": "2026-08-23",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Iran vows to \u2018neutralize\u2019 economic war and issues fresh Strait of Hormuz warning",
+      "title": "Iran\u2019s hardline new security chief issues stark threat to Gulf states ahead of fresh US sanctions",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/23/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Russia likely to mobilize at least 300,000 more troops to Ukraine war, Zelensky warns",
+      "date": "2026-08-23",
+      "url": "https://edition.cnn.com/2026/08/23/europe/zelensky-ukraine-russia-mobilization-intl"
     },
     {
       "title": "Iranian women defy efforts by hardliners to enforce wearing of hijab",
@@ -45,15 +50,30 @@
     {
       "title": "It\u2019s \u2018Black August\u2019 in Russia, but Putin is sweeping this summer\u2019s crisis under the rug",
       "date": "2026-08-23",
-      "url": "https://edition.cnn.com/2026/08/22/europe/putin-russia-black-august-analysis-intl"
-    },
-    {
-      "title": "August 22, 2026 \u2014 Iran military leader vows Tehran \u2018will not submit\u2019 as US plans economic squeeze",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/22/world/live-news/iran-war-trump"
+      "url": "https://edition.cnn.com/2026/08/23/europe/putin-russia-black-august-analysis-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "date": "2026-08-23",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm"
+    },
+    {
+      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+      "date": "2026-08-23",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured"
+    },
+    {
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "date": "2026-08-23",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance"
+    },
+    {
+      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "date": "2026-08-23",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii"
+    },
     {
       "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
       "date": "2026-08-23",
@@ -62,66 +82,86 @@
   ],
   "The Guardian": [
     {
+      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "date": "2026-08-23",
+      "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens"
+    },
+    {
       "title": "\u2018No more!!!\u2019: Trump lashes out after US-Canada talks devolve into trade war",
       "date": "2026-08-23",
       "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war"
     },
     {
-      "title": "Swans fans turn up to support women\u2019s team \u2013 as it happened",
+      "title": "The lesson from Canada\u2019s collapsed trade talks with the US: negotiation may be futile",
       "date": "2026-08-23",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb"
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis"
     },
     {
-      "title": "Liberal plan to split Victorian appeals court attacked as \u2018thought bubble\u2019 that would politicise judiciary",
+      "title": "Australia news live: shark attack victim thanks donors after \u2018incredibly difficult\u2019 recovery; second fur seal dies of suspected bird flu",
       "date": "2026-08-23",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/victoria-election-liberals-plan-split-appeals-court-attacked-as-thought-bubble-politicise-judiciary"
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb"
     },
     {
-      "title": "Hanson forced to intervene after One Nation MP says party\u2019s migration target \u2018not too different\u2019 from Labor\u2019s",
+      "title": "The new Halloween video game has been banned in Australia \u2013 and not because of the violence",
       "date": "2026-08-23",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce"
-    },
-    {
-      "title": "Sydney Marathon admits \u2018unfortunate error\u2019 as finisher\u2019s medal depicts Munich stadium as race highlight",
-      "date": "2026-08-23",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error"
+      "url": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Explosion injures 13 in Taiwan",
+      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss"
     },
     {
-      "title": "Israel\u2019s war on Gaza forces Palestinians to rely on \u2018Stone Age\u2019 toilets",
+      "title": "Will Donald Trump\u2019s new sanctions against Iran work?",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss"
     },
     {
-      "title": "Mourinho decries alleged bullying of Vinicius in Real\u2019s win at Espanyol",
+      "title": "Serbia requests international assistance to battle wildfires",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss"
     },
     {
-      "title": "Syria foreign minister says door open for diplomacy with Israel",
+      "title": "US envoy Tom Barrack retracts comment that Syria\u2019s Golan is occupied",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss"
     },
     {
-      "title": "Far-right provocateur Jake Lang arrested after Minneapolis riot",
+      "title": "Landfill collapse kills 30 in Guinea\u2019s capital after heavy rains",
       "date": "2026-08-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Baggu has bestsellers and more up to 50% off during its summer sale",
+      "title": "Sean Grayson, ex-deputy convicted of fatally shooting Sonya Massey, dies, attorney says",
       "date": "2026-08-23",
-      "url": "https://www.nbcnews.com/select/shopping/baggu-sale-2026-rcna593890"
+      "url": "https://www.nbcnews.com/news/us-news/sean-grayson-ex-deputy-convicted-fatally-shooting-sonya-massey-dies-pr-rcna594044"
+    },
+    {
+      "title": "Tim Scott says \u2018without question\u2019 Darline Graham is qualified for Senate",
+      "date": "2026-08-23",
+      "url": "https://www.nbcnews.com/meet-the-press/video/tim-scott-says-without-question-darline-graham-is-qualified-for-senate-268736581916"
+    },
+    {
+      "title": "Here\u2019s the biggest news you missed this weekend",
+      "date": "2026-08-23",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-23-rcna593659"
+    },
+    {
+      "title": "Out-of-control wildfire forces evacuations",
+      "date": "2026-08-23",
+      "url": "https://www.nbcnews.com/nightly-news/video/out-of-control-wildfire-forces-evacuations-268743749759"
+    },
+    {
+      "title": "Kyle Kirkwood wins IndyCar race in downtown D.C. celebrating U.S. 250th birthday",
+      "date": "2026-08-23",
+      "url": "https://www.nbcnews.com/politics/trump-administration/kyle-kirkwood-wins-indycar-race-downtown-dc-us-250th-birthday-rcna593532"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-23T09:00:36.738342"
+    "updated_at": "2026-08-23T21:00:35.299793"
   }
 }
