@@ -1,88 +1,139 @@
 {
   "BBC": [
     {
-      "title": "What was behind Dolly Parton's widespread appeal?",
+      "title": "Murder probe as two people dead in house fire in Middlesbrough",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/videos/cvgyw404ywvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Elton John, Oprah Winfrey and Paul McCartney lead tributes to Dolly Parton",
+      "title": "Prince Harry and Meghan to arrive in UK today",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+      "date": "2026-08-26",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ex-chief constable investigated over ban on Israeli Maccabi Tel Aviv fans",
+      "date": "2026-08-26",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "date": "2026-08-26",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Trump will need China for his new economic war against Iran. Good luck getting Xi on side",
+      "title": "\u2018I wake up with nightmares\u2019: Ex-hostage who dug his own grave describes cruelty of Hamas captivity",
       "date": "2026-08-26",
-      "url": "https://edition.cnn.com/2026/08/25/china/trump-china-iran-economic-war-intl-hnk"
+      "url": "https://edition.cnn.com/2026/08/26/middleeast/former-israeli-hostage-evyatar-david-hamas-captivity-intl"
     },
     {
-      "title": "Iran and Oman propose temporary Strait of Hormuz deal as tensions over key waterway persist",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/25/world/live-news/iran-war-trump-sanctions"
+      "title": "\u2018No one can understand the pain:\u2019 Fire in maternity ward kills at least 14 newborn babies in Pakistan\u2019s capital",
+      "date": "2026-08-26",
+      "url": "https://edition.cnn.com/2026/08/26/asia/pakistan-newborns-hospital-fire-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "date": "2026-08-26",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
+    },
+    {
+      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "date": "2026-08-26",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy"
+    },
+    {
+      "title": "Soaring summer power bills spark protests \u2014 and even disconnections",
+      "date": "2026-08-26",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power"
+    },
+    {
+      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+      "date": "2026-08-26",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office"
+    },
+    {
+      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
+      "date": "2026-08-26",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Mpox is back \u2013 and in new countries. How can this outbreak be contained?",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children"
+    },
+    {
+      "title": "Moringa lattes and tigernut kebabs: the Ghanaians \u2018taking back the power\u2019 of their food",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food"
+    },
+    {
+      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
+    },
+    {
+      "title": "\u2018Major casualties\u2019 feared after flash floods along Nepal-Tibet border",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border"
+    },
     {
       "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
       "date": "2026-08-26",
       "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china"
-    },
-    {
-      "title": "Australia news live: WA premier\u2019s \u2018east coast clowns\u2019 barb was unacceptable, Spender says; value of Japan\u2019s melon gifts to PM revealed",
-      "date": "2026-08-26",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb"
-    },
-    {
-      "title": "Fears for \u2018gregarious\u2019 local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
-      "date": "2026-08-26",
-      "url": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot"
-    },
-    {
-      "title": "Nine CEO confident new AI laws will deliver a \u2018world of growth in publishing\u2019 as network slashes costs",
-      "date": "2026-08-26",
-      "url": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs"
-    },
-    {
-      "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
-      "date": "2026-08-26",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
+      "title": "Why India is sharing missile secrets with its private sector",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss"
     },
     {
-      "title": "Who were the Syrian Democratic Forces and why dissolve?",
+      "title": "Mother and daughter detained by ICE in hospital after car crash",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss"
     },
     {
-      "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
+      "title": "Photos: Thousands join Spain\u2019s La Tomatina festival for epic tomato battle",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss"
     },
     {
-      "title": "Mamdani opposes Hindu nationalist event in New York",
+      "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss"
     },
     {
-      "title": "Water crisis makes life in Sudan\u2019s El Obeid refugee camps even worse",
+      "title": "Infantino has no future at FIFA, says European Leagues chief",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
+      "title": "Dolly Parton Died After \u2018Brief Battle With Cancer,\u2019 Her Team Says",
+      "date": "2026-08-26",
+      "url": "https://www.today.com/video/dolly-parton-dies-at-80-after-brief-battle-with-cancer-268878405633"
+    },
+    {
       "title": "Sen. Darline Graham thanks Trump after winning GOP Senate primary runoff in S.C.",
       "date": "2026-08-26",
       "url": "https://www.nbcnews.com/video/graham-thanks-trump-after-winning-gop-senate-primary-runoff-in-s-c-268866117945"
+    },
+    {
+      "title": "The second Dan Sullivan makes the general election in Alaska\u2019s Senate race",
+      "date": "2026-08-26",
+      "url": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464"
     },
     {
       "title": "Trump-backed Mike Mazzei wins the GOP nomination in the Oklahoma governor\u2019s race",
@@ -90,22 +141,12 @@
       "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583"
     },
     {
-      "title": "Democrat Everton Blair defeats Rep. David Scott\u2019s daughter in the special election for the late congressman\u2019s seat",
+      "title": "Trump-backed Mike Mazzei wins the GOP nomination in the Oklahoma governor\u2019s race",
       "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/politics/2026-election/everton-blair-wins-georgia-house-democrat-special-election-rcna593580"
-    },
-    {
-      "title": "Democratic socialists notch another win in the Oklahoma Senate primary runoff",
-      "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/politics/2026-election/nkiyla-jasmine-thomas-wins-oklahoma-senate-primary-democrat-rcna593618"
-    },
-    {
-      "title": "Judge strikes down Texas ban on drag shows, tells people offended by them \u2018just don\u2019t go\u2019",
-      "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/politics/politics-news/judge-strikes-texas-ban-drag-shows-tells-people-offended-just-dont-go-rcna594448"
+      "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-26T01:00:44.014664"
+    "updated_at": "2026-08-26T09:00:37.230419"
   }
 }
