@@ -1,94 +1,145 @@
 {
   "BBC": [
     {
-      "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
+      "title": "Watch: How the collapse of a glacier caused such devastation",
       "date": "2026-08-27",
-      "url": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "At least one dead after car crashes into crowd in northern France",
+      "title": "Two teenagers, 13 and 14, among 33 UK nationals missing in disaster",
       "date": "2026-08-27",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Susan Sarandon leads tributes to Rocky Horror Picture Show co-star Tim Curry",
+      "title": "UK salmonella cases nearing 500 as egg investigations continue",
       "date": "2026-08-27",
-      "url": "https://www.bbc.co.uk/news/articles/clyj56zjdxpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trial date set for alleged 9/11 mastermind Khalid Sheikh Mohammed",
+      "title": "Number of asylum seekers in hotels halves in a year",
       "date": "2026-08-27",
-      "url": "https://www.bbc.co.uk/news/articles/czezg2p50rxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3relr4xx27o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
+      "date": "2026-08-27",
+      "url": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "More than 160 dead after crushing floodwaters wipe out villages on Nepal-China border",
+      "title": "Hundreds killed in Nepal flood as fears grow of secondary disaster",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/26/world/live-news/nepal-flash-flooding-floods-intl"
     },
     {
-      "title": "Trump claims US sanctions will win war over Iran as oil prices sink",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/08/26/world/live-news/iran-war-trump"
+      "title": "Two airport workers in Germany die after contracting malaria",
+      "date": "2026-08-27",
+      "url": "https://edition.cnn.com/2026/08/27/europe/germany-frankfurt-airport-malaria-intl"
+    },
+    {
+      "title": "Prince Harry and Meghan arrive back in UK, six years after leaving royal life behind",
+      "date": "2026-08-27",
+      "url": "https://edition.cnn.com/2026/08/26/uk/prince-harry-meghan-uk-return-intl"
+    },
+    {
+      "title": "Around the world, people desperately search for news of missing loved ones after Nepal-China floods",
+      "date": "2026-08-27",
+      "url": "https://edition.cnn.com/2026/08/27/asia/nepal-china-floods-victims-missing-intl-hnk"
+    },
+    {
+      "title": "A date to remember: The Abu Dhabi ice cream maker turning palm trees into soft serve",
+      "date": "2026-08-27",
+      "url": "https://edition.cnn.com/world/middleeast/abu-dhabi-ice-cream-maker-turning-palm-trees-into-soft-serve-spc"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
+      "date": "2026-08-27",
+      "url": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding"
+    },
+    {
+      "title": "Rwandans love their milk bars. The health minister wishes they'd drink a little less",
+      "date": "2026-08-27",
+      "url": "https://www.npr.org/2026/08/27/g-s1-139914/milk-rwanda-milk-bar"
+    },
+    {
+      "title": "At least 1,500 missing after deadly Nepal-Tibet floods",
+      "date": "2026-08-27",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods"
+    },
+    {
+      "title": "School districts face a back-to-school math problem: The high price of diesel",
+      "date": "2026-08-27",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5944429/school-buses-fuel-diesel-prices"
+    },
+    {
+      "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it",
+      "date": "2026-08-27",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5945238/emergency-hearing-kennedy-center-demolish-threat"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "UK urged to help free British-Egyptian \u2018arrested in Cairo over sister\u2019s activism\u2019",
+      "date": "2026-08-27",
+      "url": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism"
+    },
+    {
+      "title": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
+      "date": "2026-08-27",
+      "url": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border"
+    },
     {
       "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
       "date": "2026-08-27",
       "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
     },
     {
-      "title": "\u2018No transparency\u2019: Labor to scrap levy secretly placed on Victorian public transport fares",
+      "title": "Queensland concedes law imposing mandatory jail on some offenders as young as 10 breaches human rights",
       "date": "2026-08-27",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/labor-scrap-secret-public-transport-levy-suburban-loop-melbourne-victoria"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/27/queensland-concedes-law-imposing-mandatory-jail-on-some-offenders-as-young-as-10-breaches-human-rights-ntwnfb"
     },
     {
-      "title": "Australia news live: most banks now predict another rate hike; Ken Henry delivers warning over \u2018stupid\u2019 GST deal",
-      "date": "2026-08-27",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb"
-    },
-    {
-      "title": "Anthony Albanese says 34 Australians among hundreds of people missing in deadly Nepal flash floods",
+      "title": "Australian officials \u2018working around the clock\u2019 to check welfare of tourists missing in Nepal",
       "date": "2026-08-27",
       "url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods"
-    },
-    {
-      "title": "Nepal floods: children as young as 11 among Australian tour group missing after flash flooding",
-      "date": "2026-08-27",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Qatar\u2019s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "title": "Trial for 9/11 accused, including Khalid Sheikh Mohammed, set for June 2028",
       "date": "2026-08-27",
-      "url": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/27/trial-for-9-11-accused-including-khalid-sheikh-mohammed-set-for-june?traffic_source=rss"
     },
     {
-      "title": "Palestinians mourn \u2018Camel of Hardship\u2019 artist Sliman Mansour",
+      "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
       "date": "2026-08-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit?traffic_source=rss"
     },
     {
-      "title": "Federal Reserve Governor Lisa Cook denounces Trump\u2019s mortgage fraud claims",
+      "title": "Norway\u2019s King Harald in \u2018extremely serious\u2019 condition, palace says",
       "date": "2026-08-27",
-      "url": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
     },
     {
-      "title": "Brazil sues chat platform Discord over failure to protect child users",
+      "title": "Kenya\u2019s world record holder Sawe withdraws from Berlin Marathon",
       "date": "2026-08-27",
-      "url": "https://www.aljazeera.com/news/2026/8/27/brazil-sues-chat-platform-discord-over-failure-to-protect-child-users?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/27/kenyas-world-record-holder-sawe-withdraws-from-berlin-marathon?traffic_source=rss"
     },
     {
-      "title": "US labels Palestine Action a terror group, founder says \u2018that\u2019s rich\u2019",
+      "title": "Six months of the Iran war \u2013 as told through Trump\u2019s social media posts",
       "date": "2026-08-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Catastrophic Floods in Nepal Leave Hundreds Missing",
+      "date": "2026-08-27",
+      "url": "https://www.today.com/video/hundreds-missing-after-catastrophic-floods-slam-nepal-268936261927"
+    },
     {
       "title": "Judge sets 2028 trial for alleged 9/11 mastermind",
       "date": "2026-08-27",
@@ -103,9 +154,14 @@
       "title": "Secret Service officials placed on leave in inquiry over \u2018potential misconduct\u2019",
       "date": "2026-08-27",
       "url": "https://www.nbcnews.com/politics/white-house/secret-service-officials-placed-leave-inquiry-potential-misconduct-rcna594630"
+    },
+    {
+      "title": "Secret Service officials placed on leave in inquiry over \u2018potential misconduct\u2019",
+      "date": "2026-08-27",
+      "url": "https://www.nbcnews.com/politics/white-house/secret-service-officials-placed-leave-inquiry-potential-misconduct-rcna594630"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-27T01:00:38.047617"
+    "updated_at": "2026-08-27T09:00:43.152362"
   }
 }
