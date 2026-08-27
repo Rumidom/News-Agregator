@@ -1,71 +1,91 @@
 {
   "BBC": [
     {
-      "title": "Murder probe as two people dead in house fire in Middlesbrough",
+      "title": "BBC visits hospital in Kathmandu as families wait for news",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Prince Harry and Meghan to arrive in UK today",
+      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+      "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ex-chief constable investigated over ban on Israeli Maccabi Tel Aviv fans",
+      "title": "Rocky Horror star Tim Curry dies at 80",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xe813w1do?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+      "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
       "date": "2026-08-26",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "\u2018I wake up with nightmares\u2019: Ex-hostage who dug his own grave describes cruelty of Hamas captivity",
+      "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/26/world/live-news/nepal-flash-flooding-floods-intl"
+    },
+    {
+      "title": "Trump claims US sanctions will win war over Iran as oil prices sink",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/26/world/live-news/iran-war-trump"
+    },
+    {
+      "title": "Prince Harry and Meghan arrive back in UK, six years after leaving royal life behind",
       "date": "2026-08-26",
-      "url": "https://edition.cnn.com/2026/08/26/middleeast/former-israeli-hostage-evyatar-david-hamas-captivity-intl"
+      "url": "https://edition.cnn.com/2026/08/26/uk/prince-harry-meghan-uk-return-intl"
     },
     {
       "title": "\u2018No one can understand the pain:\u2019 Fire in maternity ward kills at least 14 newborn babies in Pakistan\u2019s capital",
       "date": "2026-08-26",
       "url": "https://edition.cnn.com/2026/08/26/asia/pakistan-newborns-hospital-fire-intl-hnk"
+    },
+    {
+      "title": "Trump\u2019s fallback strategy on Iran faces just one big problem",
+      "date": "2026-08-26",
+      "url": "https://edition.cnn.com/2026/08/25/china/trump-china-iran-economic-war-intl-hnk"
     }
   ],
   "NPR": [
     {
-      "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
       "date": "2026-08-26",
-      "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs"
     },
     {
-      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "title": "Immigration arrests soar, hitting 50,000 in July",
       "date": "2026-08-26",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy"
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record"
     },
     {
-      "title": "Soaring summer power bills spark protests \u2014 and even disconnections",
+      "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
       "date": "2026-08-26",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power"
+      "url": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims"
     },
     {
-      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
+      "title": "States try new tactics to bring down high hospital prices",
       "date": "2026-08-26",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office"
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana"
     },
     {
-      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
+      "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
       "date": "2026-08-26",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan"
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots"
     }
   ],
   "The Guardian": [
+    {
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs"
+    },
     {
       "title": "Mpox is back \u2013 and in new countries. How can this outbreak be contained?",
       "date": "2026-08-26",
@@ -77,76 +97,71 @@
       "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food"
     },
     {
+      "title": "How to lose Trump\u2019s trade war: test Canada\u2019s resolve with threats to hockey sticks",
+      "date": "2026-08-26",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war"
+    },
+    {
       "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
       "date": "2026-08-26",
       "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada"
-    },
-    {
-      "title": "\u2018Major casualties\u2019 feared after flash floods along Nepal-Tibet border",
-      "date": "2026-08-26",
-      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border"
-    },
-    {
-      "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
-      "date": "2026-08-26",
-      "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Why India is sharing missile secrets with its private sector",
+      "title": "World Health Organization says Ebola outbreak in Uganda is over",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss"
     },
     {
-      "title": "Mother and daughter detained by ICE in hospital after car crash",
+      "title": "Spain\u2019s tomato food fight leaves thousands covered in pulp",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss"
     },
     {
-      "title": "Photos: Thousands join Spain\u2019s La Tomatina festival for epic tomato battle",
+      "title": "Barcelona vs Athletic Club: La Liga \u2013 prediction, teams, lineups",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss"
     },
     {
-      "title": "Manchester City sign teenage Moroccan star Ayyoub Bouaddi from Lille",
+      "title": "US judge declines Minnesota\u2019s effort to force Texas to extradite ICE agent",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss"
     },
     {
-      "title": "Infantino has no future at FIFA, says European Leagues chief",
+      "title": "Tribe accuses US federal agents of \u2018trespassing\u2019 on indigenous border land",
       "date": "2026-08-26",
-      "url": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Mudslides and flash flooding cause devastation in Nepal and China's Tibet",
+      "date": "2026-08-26",
+      "url": "https://www.nbcnews.com/video/mudslides-and-flash-flooding-cause-devastation-in-nepal-and-china-s-tibet-268888645969"
+    },
+    {
+      "title": "Military trial date set for alleged mastermind of Sept. 11 attacks",
+      "date": "2026-08-26",
+      "url": "https://www.nbcnews.com/politics/national-security/military-trial-date-set-alleged-mastermind-sept-11-attacks-ksm-rcna594621"
+    },
+    {
+      "title": "Actor Tim Curry dead at 80: Looking back on his life and legacy",
+      "date": "2026-08-26",
+      "url": "https://www.nbcnews.com/video/actor-tim-curry-dead-at-80-looking-back-on-his-life-and-legacy-268892741763"
+    },
     {
       "title": "Dolly Parton Died After \u2018Brief Battle With Cancer,\u2019 Her Team Says",
       "date": "2026-08-26",
       "url": "https://www.today.com/video/dolly-parton-dies-at-80-after-brief-battle-with-cancer-268878405633"
     },
     {
-      "title": "Sen. Darline Graham thanks Trump after winning GOP Senate primary runoff in S.C.",
+      "title": "Everything to know about your favorite team this NFL season",
       "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/video/graham-thanks-trump-after-winning-gop-senate-primary-runoff-in-s-c-268866117945"
-    },
-    {
-      "title": "The second Dan Sullivan makes the general election in Alaska\u2019s Senate race",
-      "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/politics/2026-election/second-dan-sullivan-makes-general-election-alaskas-senate-race-rcna593464"
-    },
-    {
-      "title": "Trump-backed Mike Mazzei wins the GOP nomination in the Oklahoma governor\u2019s race",
-      "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583"
-    },
-    {
-      "title": "Trump-backed Mike Mazzei wins the GOP nomination in the Oklahoma governor\u2019s race",
-      "date": "2026-08-26",
-      "url": "https://www.nbcnews.com/politics/2026-election/mike-mazzei-winner-oklahoma-republican-governor-primary-trump-rcna593583"
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-kickoff-season-preview-2026-all-teams-rcna594317"
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-26T09:00:37.230419"
+    "updated_at": "2026-08-26T21:00:39.172014"
   }
 }
