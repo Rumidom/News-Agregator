@@ -1,14 +1,19 @@
 {
   "BBC": [
     {
-      "title": "Christian festival 'devastated' as man dies after sign falls",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "date": "2026-08-29",
-      "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+      "title": "Cleverly quits shadow cabinet to run for London mayor",
       "date": "2026-08-29",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "date": "2026-08-29",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
@@ -16,68 +21,68 @@
       "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We helped create UK emergency alert system - but question how government is using it",
+      "title": "Rescue to continue overnight for 'in distress' vessel carrying five in the Channel",
       "date": "2026-08-29",
-      "url": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "date": "2026-08-29",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "At least 37 dead after Russian drone attack triggers multiple blasts and fire at warehouse near Kyiv",
-      "date": "2026-08-29",
-      "url": "https://edition.cnn.com/2026/08/29/europe/ukraine-kyiv-russia-war-attack-intl"
+      "title": "Death toll rises and thousands still missing in Nepal and China after catastrophic floods",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/29/world/live-news/nepal-china-flood"
     },
     {
-      "title": "A tiny nordic nation weighs moving closer to Europe under the shadow of Trump",
+      "title": "Gang releases some women and children from group of 50 kidnapped in Haiti",
       "date": "2026-08-29",
-      "url": "https://edition.cnn.com/2026/08/28/europe/iceland-eu-referendum-trump-arctic-intl"
-    },
-    {
-      "title": "She fled Iran. America sent her to Africa",
-      "date": "2026-08-29",
-      "url": "https://edition.cnn.com/2026/08/29/middleeast/us-deportees-iran-car-intl"
+      "url": "https://edition.cnn.com/2026/08/29/americas/haiti-gang-releases-hostages-kidnapped-intldsk-latam"
     },
     {
       "title": "Landslides and floods have wreaked havoc in Nepal and China. Follow the river down the path of destruction.",
       "date": "2026-08-29",
       "url": "https://edition.cnn.com/2026/08/28/asia/map-nepal-china-flood-landslide-damage-vis"
+    },
+    {
+      "title": "The Himalayas are unpredictable. But countries are building there like never before",
+      "date": "2026-08-29",
+      "url": "https://edition.cnn.com/2026/08/29/asia/himalayas-risk-china-nepal-india-infrastructure-intl-hnk"
+    },
+    {
+      "title": "8 officials suspended after probe into Pakistan hospital fire that killed 14 newborns",
+      "date": "2026-08-29",
+      "url": "https://edition.cnn.com/2026/08/29/asia/pakistan-suspended-hospital-fire-newborns-latam-intl"
     }
   ],
   "NPR": [
     {
+      "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+      "date": "2026-08-29",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa"
+    },
+    {
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "date": "2026-08-29",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv"
+    },
+    {
+      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "date": "2026-08-29",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal"
+    },
+    {
+      "title": "Opinion: Remembering Dolly Parton",
+      "date": "2026-08-29",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton"
+    },
+    {
       "title": "The bridges of Rwanda open up new worlds",
       "date": "2026-08-29",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda"
-    },
-    {
-      "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
-      "date": "2026-08-29",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens"
-    },
-    {
-      "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
-      "date": "2026-08-29",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences"
-    },
-    {
-      "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-      "date": "2026-08-29",
-      "url": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute"
-    },
-    {
-      "title": "Why is one WNBA team calling in national security experts?",
-      "date": "2026-08-29",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security"
     }
   ],
   "The Guardian": [
     {
-      "title": "They laid down arms. Now ex-guerrillas in Colombia fear fate under new hardline president",
+      "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
       "date": "2026-08-29",
       "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president"
     },
@@ -87,68 +92,68 @@
       "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates"
     },
     {
-      "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
+      "title": "News live: missing Australian woman found safe in Nepal flooding",
       "date": "2026-08-29",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial"
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb"
     },
     {
-      "title": "Plug-in solar panels could save households up to $370 a year \u2013 if Australia made them legal as in the UK",
+      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
       "date": "2026-08-29",
-      "url": "https://www.theguardian.com/environment/2026/aug/29/plug-in-solar-panels-could-save-households-370-a-year-and-experts-say-australia-should-copy-the-uk-in-legalising-them"
+      "url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia"
     },
     {
-      "title": "What we know about the Australians missing in the Nepal floods",
+      "title": "August reveals Australians\u2019 big appetite for weight-loss drugs, love for \u2018dupe\u2019 brands and an accelerating EV uptake",
       "date": "2026-08-29",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/what-we-know-about-the-australians-missing-in-the-nepal-floods"
+      "url": "https://www.theguardian.com/business/2026/aug/30/australians-buying-less-pizza-more-weight-loss-drugs-consumer-report"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Can \u201csuper coral\u201d and cooling the sea, save reefs from climate change?",
+      "title": "Spectacular fireworks over Damascus as \u2018Syria Shines Again\u2019",
       "date": "2026-08-29",
-      "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss"
     },
     {
-      "title": "Liverpool strike deal to sign PSG\u2019s Barcola for up to $166m: Reports",
+      "title": "Voting closes in Iceland\u2019s knife-edge EU referendum",
       "date": "2026-08-29",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss"
     },
     {
-      "title": "Russian attack on warehouse near Ukraine\u2019s Kyiv kills at least 27",
+      "title": "Ukrainian nuclear power plant without external power for over a week",
       "date": "2026-08-29",
-      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week?traffic_source=rss"
     },
     {
-      "title": "Far-right commentator Milo Yiannopoulos detained by ICE",
+      "title": "Ontario\u2019s Doug Ford prods Trump with sign rejecting \u2018Lake America\u2019 name",
       "date": "2026-08-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/far-right-commentator-milo-yiannopoulos-detained-by-ice?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
     },
     {
-      "title": "Iran\u2019s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "title": "What\u2019s behind the US deal to seize control of Venezuelan oil reserves?",
       "date": "2026-08-29",
-      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/29/whats-behind-the-us-deal-to-seize-control-of-venezuelan-oil-reserves?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "President Trump announces 'biggest oil deal in world history'",
-      "date": "2026-08-29",
-      "url": "https://www.nbcnews.com/video/u-s-enters-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves-269041221982"
-    },
-    {
-      "title": "Dolly Parton\u2019s legacy revered and Trump renames another body of water: The news quiz",
-      "date": "2026-08-29",
-      "url": "https://www.nbcnews.com/news/news-quiz/dolly-partons-legacy-revered-trump-renames-another-body-water-news-qui-rcna594744"
-    },
-    {
-      "title": "White House teleprompter operator ordered to pay $172K for placing bets on speeches",
-      "date": "2026-08-29",
-      "url": "https://www.nbcnews.com/politics/white-house/trump-teleprompter-operator-ordered-pay-172k-prediction-bets-kalshi-rcna594976"
-    },
-    {
-      "title": "Death toll climbs to more than 600, with 2,400 still missing as rescue efforts continue",
+      "title": "Death toll climbs to more than 600 with thousands still missing in Nepal and Tibet",
       "date": "2026-08-29",
       "url": "https://www.nbcnews.com/world/asia/nepal-floods-death-toll-climbs-missing-rescue-efforts-rcna594990"
+    },
+    {
+      "title": "Milo Yiannopoulos deported to the U.K. one day after ICE arrest",
+      "date": "2026-08-29",
+      "url": "https://www.nbcnews.com/news/us-news/milo-yiannopoulos-deported-uk-rcna595025"
+    },
+    {
+      "title": "Palestinian woman and NBC News team attacked by masked Israeli settlers in West Bank",
+      "date": "2026-08-29",
+      "url": "https://www.nbcnews.com/world/middle-east/palestinian-nbc-news-team-attacked-masked-israeli-settlers-rcna595024"
+    },
+    {
+      "title": "NASA administrator explains how Roman Telescope will change understanding of the universe",
+      "date": "2026-08-29",
+      "url": "https://www.nbcnews.com/video/nasa-administrator-explains-how-roman-telescope-will-change-understanding-of-the-universe-269041733852"
     },
     {
       "title": "Dolly Parton\u2019s legacy revered and Trump renames another body of water: The news quiz",
@@ -157,6 +162,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-08-29T09:00:40.004197"
+    "updated_at": "2026-08-29T21:00:41.042219"
   }
 }
