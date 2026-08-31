@@ -1,95 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+      "title": "Once a village, now barren land - BBC in the valley devastated by floods",
       "date": "2026-08-31",
-      "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+      "date": "2026-08-31",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Dolly Parton laid to rest alongside husband in Nashville",
+      "date": "2026-08-31",
+      "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
       "date": "2026-08-31",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
       "date": "2026-08-31",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The mystery of why so many black Britons still can't swim",
-      "date": "2026-08-31",
-      "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack",
-      "date": "2026-08-31",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "These men had a hellish escape from Nepal\u2019s flooded hydro tunnels. They were the lucky ones",
-      "date": "2026-08-31",
-      "url": "https://edition.cnn.com/2026/08/30/asia/nepal-workers-flooded-hydro-tunnel-intl"
+      "title": "Sharp rise in number of people missing in Nepal as floods death toll exceeds 900",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/08/31/world/live-news/nepal-china-flood"
     },
     {
-      "title": "Rescuers search for missing workers as death toll rises from devastating China-Nepal floods",
+      "title": "Police in Switzerland make arrest after deadly rave shooting",
+      "date": "2026-08-31",
+      "url": "https://edition.cnn.com/2026/08/30/europe/switzerland-shooting-rave-aargau-hnk-intl"
+    },
+    {
+      "title": "Landslides and floods have wreaked havoc in Nepal and China. Follow the river down the path of destruction.",
+      "date": "2026-08-31",
+      "url": "https://edition.cnn.com/2026/08/28/asia/map-nepal-china-flood-landslide-damage-vis"
+    },
+    {
+      "title": "Race against time to find workers missing in Nepal\u2019s hydropower tunnels. Here\u2019s what we know",
+      "date": "2026-08-31",
+      "url": "https://edition.cnn.com/2026/08/31/asia/nepal-missing-hydropower-tunnels-flood-explainer-intl-hnk"
+    },
+    {
+      "title": "August 30, 2026 \u2014 Rescuers search for missing hydropower workers after Nepal-China floods",
       "date": "",
       "url": "https://edition.cnn.com/2026/08/30/world/live-news/nepal-china-flood"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Nepal's hesitance to accept foreign help for flood relief under scrutiny",
+      "date": "2026-08-31",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood"
+    },
+    {
+      "title": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
+      "date": "2026-08-31",
+      "url": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding"
+    },
+    {
+      "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+      "date": "2026-08-31",
+      "url": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war"
+    },
+    {
+      "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
+      "date": "2026-08-31",
+      "url": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran"
+    },
+    {
+      "title": "Singapore is scrambling to stabilize birthrates. Experts say there are lessons for the U.S.",
+      "date": "2026-08-31",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: NSW will not appeal ruling that found anti-Israel vandalism was not antisemitic; Rowland says no plans to ban import of smart glasses",
+      "title": "Countries legally obliged to consider slavery reparations, says UN committee",
+      "date": "2026-08-31",
+      "url": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee"
+    },
+    {
+      "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+      "date": "2026-08-31",
+      "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez"
+    },
+    {
+      "title": "China is concealing scale of flood disaster, say Tibet campaigners",
+      "date": "2026-08-31",
+      "url": "https://www.theguardian.com/world/2026/aug/31/china-concealing-scale-nepal-flood-disaster-say-tibet-campaigners"
+    },
+    {
+      "title": "Weather tracker: Warm Yellow Sea strengthens storms in South Korea",
+      "date": "2026-08-31",
+      "url": "https://www.theguardian.com/environment/2026/aug/31/weather-tracker-warm-yellow-sea-storms-south-korea"
+    },
+    {
+      "title": "Qantas ground crews vote for right to strike amid pay dispute \u2013 as it happened",
       "date": "2026-08-31",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb"
-    },
-    {
-      "title": "Victorian prisoners to be sent out to repair roads under Labor\u2019s pothole plan",
-      "date": "2026-08-31",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan"
-    },
-    {
-      "title": "US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan",
-      "date": "2026-08-31",
-      "url": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions"
-    },
-    {
-      "title": "At least 15 people may be missing after flash flood in Arizona\u2019s Grand Canyon",
-      "date": "2026-08-31",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+      "title": "Turkiye, Saudi Arabia, Pakistan hold first Mecca defence pact meeting",
       "date": "2026-08-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/turkiye-saudi-arabia-pakistan-hold-first-mecca-defence-pact-meeting?traffic_source=rss"
     },
     {
-      "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+      "title": "UAE intercepts drone after US and Iran exchange attacks",
       "date": "2026-08-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks?traffic_source=rss"
     },
     {
-      "title": "Iran targets Jordan after first US attack in a month",
+      "title": "The looming failure of Operation Economic Outcast",
       "date": "2026-08-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss"
     },
     {
-      "title": "Niger mutiny puts Russia\u2019s expanding role in the Sahel to the test",
+      "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
       "date": "2026-08-31",
-      "url": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss"
     },
     {
-      "title": "Tunisia swelters as power cuts disrupt water supplies",
+      "title": "After the flash flood disaster, here is what Nepal really needs",
       "date": "2026-08-31",
-      "url": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/8/31/after-the-flash-flood-disaster-here-is-what-nepal-really-needs?traffic_source=rss"
     }
   ],
-  "NBC News": [],
+  "NBC News": [
+    {
+      "title": "US Forces Strike Iranian Missile Launchers Near Strait of Hormuz",
+      "date": "2026-08-31",
+      "url": "https://www.today.com/video/us-forces-strike-iranian-missile-launchers-near-strait-of-hormuz-269089861978"
+    },
+    {
+      "title": "Grand Canyon Flash Floods Leave 1 Dead, 15 Potentially Missing",
+      "date": "2026-08-31",
+      "url": "https://www.today.com/video/grand-canyon-flash-floods-leave-1-dead-15-potentially-missing-269089861970"
+    },
+    {
+      "title": "Rescuers Struggle to Reach Areas Devastated by Nepal Floods",
+      "date": "2026-08-31",
+      "url": "https://www.today.com/video/rescuers-struggle-to-reach-areas-devastated-by-nepal-floods-269090373765"
+    },
+    {
+      "title": "Bootleg \u2018Spider-Man\u2019 swings into Russian cinemas despite Hollywood boycott",
+      "date": "2026-08-31",
+      "url": "https://www.nbcnews.com/world/russia/spider-man-movie-swings-bootleg-russia-cinema-hollywood-boycott-rcna594541"
+    },
+    {
+      "title": "Death toll in Nepal floods tops 900, number of missing nearly doubles to over 4,200",
+      "date": "2026-08-31",
+      "url": "https://www.nbcnews.com/world/asia/death-toll-nepal-floods-tops-900-number-missing-nearly-doubles-rcna595267"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-08-31T01:00:42.033756"
+    "updated_at": "2026-08-31T09:00:48.854244"
   }
 }
