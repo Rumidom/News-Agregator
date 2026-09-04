@@ -1,44 +1,85 @@
 {
   "BBC": [
     {
-      "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+      "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
       "date": "2026-09-04",
-      "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Argentine leader says oil firms working off Falklands face sanctions",
+      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
       "date": "2026-09-04",
-      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "date": "2026-09-04",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+      "title": "Stock up on food to prepare for extreme weather, minister warns",
       "date": "2026-09-04",
-      "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
+      "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
       "date": "2026-09-04",
-      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Man pulled alive from Nepal hydropower plant more than a week after catastrophic flooding",
+      "title": "Two men pulled alive from Nepal hydropower plant tunnel nine days after floods",
       "date": "",
       "url": "https://edition.cnn.com/2026/09/03/world/live-news/nepal-china-flood-hnk-intl"
     },
     {
-      "title": "Man rescued, more voices heard at flood-stricken Nepali power plant where scores trapped",
+      "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering",
+      "date": "2026-09-04",
+      "url": "https://edition.cnn.com/2026/09/04/europe/andrew-tate-indicted-romania-trafficking-intl"
+    },
+    {
+      "title": "Why skateboarding is more than a sport in Nigeria",
+      "date": "2026-09-04",
+      "url": "https://edition.cnn.com/world/africa/nigeria-skateboarding-from-barefoot-to-modeling-adidas-spc"
+    },
+    {
+      "title": "How two men were rescued from a flood-stricken Nepali power plant",
       "date": "2026-09-04",
       "url": "https://edition.cnn.com/2026/09/03/asia/nepal-floods-hydropower-plant-rescue-intl-hnk"
+    },
+    {
+      "title": "Missionaries are still going to Africa. But for African Christian leaders, it is the West that needs help",
+      "date": "2026-09-04",
+      "url": "https://edition.cnn.com/2026/09/04/africa/africa-changing-missionary-map-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
+      "date": "2026-09-04",
+      "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro"
+    },
+    {
+      "title": "Scientists map key protein interactions linked with profound autism",
+      "date": "2026-09-04",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments"
+    },
+    {
+      "title": "Germany's far-right poised for power in state election",
+      "date": "2026-09-04",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election"
+    },
+    {
+      "title": "What app surged in downloads after Trump's 'Lake America' change? The quiz knows",
+      "date": "2026-09-04",
+      "url": "https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows"
+    },
+    {
+      "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
+      "date": "2026-09-04",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle"
+    }
+  ],
   "The Guardian": [
     {
       "title": "UN to vote on adopting new world map that shows Africa\u2019s true scale",
@@ -46,66 +87,81 @@
       "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa"
     },
     {
-      "title": "Australia news live: teenage boys fed misogynistic content within 23 minutes of joining social media, Plibersek says",
+      "title": "Javier Milei: \u2018winds of change\u2019 support Argentina\u2019s claim to Falkland Islands",
+      "date": "2026-09-04",
+      "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands"
+    },
+    {
+      "title": "UK hits back at Argentinian Falklands claim and insists islands remain British",
+      "date": "2026-09-04",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim"
+    },
+    {
+      "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
+      "date": "2026-09-04",
+      "url": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure"
+    },
+    {
+      "title": "Pocock says skilled migrants should be top priority as Australia faces shortage of AI workers and tradies \u2013 as it happened",
       "date": "2026-09-04",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb"
-    },
-    {
-      "title": "EV sales outpace petrol cars for first time as Australians dodge soaring fuel costs",
-      "date": "2026-09-04",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/ev-sales-outpace-petrol-cars-for-first-time-as-australians-dodge-soaring-fuel-costs"
-    },
-    {
-      "title": "Molly Ticehurst\u2019s killer called woman he\u2019d met on Tinder after stabbing and said \u2018I\u2019m sorry I murdered her\u2019, court hears",
-      "date": "2026-09-04",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/04/molly-ticehurst-killer-called-tinder-date-after-stabbing-sorry-i-murdered-her-ntwnfb"
-    },
-    {
-      "title": "Trump administration asks supreme court to intervene over judge\u2019s ban on USPS mail-in voting restrictions \u2013 as it happened",
-      "date": "2026-09-04",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "OpenAI unveils GPT\u20116 Astra amid rising scrutiny and safety concerns",
+      "title": "Iran war: Why US midterms could be a pivotal moment",
       "date": "2026-09-04",
-      "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss"
     },
     {
-      "title": "Missouri Supreme Court blocks Trump-backed map from November\u2019s midterms",
+      "title": "Reform UK officials step down as new funding scandal hits far-right party",
       "date": "2026-09-04",
-      "url": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss"
     },
     {
-      "title": "Why did Trump meet with anti-Zionist Jewish leaders?",
+      "title": "Argentina\u2019s Milei threatens sanctions as he refocuses on Falklands",
       "date": "2026-09-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss"
     },
     {
-      "title": "Chile police and protesters clash outside far-right forum",
+      "title": "\u2018Build The Wall\u2019: White House arcade games face backlash",
       "date": "2026-09-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss"
     },
     {
-      "title": "ICC leaders condemn efforts to erode international legal order",
+      "title": "Meloni sets a record, leading Italy\u2019s longest-serving government since WWII",
       "date": "2026-09-04",
-      "url": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/4/meloni-sets-a-record-leading-italys-longest-serving-government-since-wwii?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Missouri candidate accused of trying to plant cocaine on a political rival",
+      "title": "Two trapped workers pulled alive from Nepal tunnel more than a week after deadly floods",
       "date": "2026-09-04",
-      "url": "https://www.nbcnews.com/news/us-news/missouri-candidate-allegedly-wanted-campaign-manager-plant-cocaine-opp-rcna596022"
+      "url": "https://www.nbcnews.com/world/asia/two-trapped-workers-rescued-alive-tunnel-nepal-rcna596050"
     },
     {
-      "title": "Missouri candidate accused of trying to plant cocaine on a political rival",
+      "title": "Price of diesel hits all-time high as wars in Iran, Ukraine constrict global supply",
       "date": "2026-09-04",
-      "url": "https://www.nbcnews.com/news/us-news/missouri-candidate-allegedly-wanted-campaign-manager-plant-cocaine-opp-rcna596022"
+      "url": "https://www.nbcnews.com/business/energy/diesel-hits-all-time-high-iran-ukraine-trump-rcna595998"
+    },
+    {
+      "title": "August jobs report could show another weak month for hiring",
+      "date": "2026-09-04",
+      "url": "https://www.nbcnews.com/business/economy/august-jobs-report-trump-inflation-rcna595974"
+    },
+    {
+      "title": "Lindsay Clancy Case: Judge to Question Holdout in 11-1 Jury",
+      "date": "2026-09-04",
+      "url": "https://www.today.com/video/lindsay-clancy-jury-split-11-1-judge-to-question-lone-holdout-269320773982"
+    },
+    {
+      "title": "A first of its kind organ transplant technique tried on a human subject",
+      "date": "2026-09-04",
+      "url": "https://www.nbcnews.com/video/a-first-of-it-s-kind-organ-transplant-technique-tried-on-a-human-subject-269303365703"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-04T01:00:38.052860"
+    "updated_at": "2026-09-04T09:00:38.229506"
   }
 }
