@@ -1,34 +1,39 @@
 {
   "BBC": [
     {
-      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "date": "2026-09-06",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
       "date": "2026-09-06",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Police slow to respond to Dover protest, says council boss",
+      "title": "Chancellor to unveil growth plan with \u00a3150m fund for northern firms",
       "date": "2026-09-06",
-      "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
       "date": "2026-09-06",
-      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "title": "140 migrants in single dinghy rescued in English Channel",
       "date": "2026-09-06",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The next James Bond: The (00)7 questions fans want answered",
-      "date": "2026-09-06",
-      "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Witkoff and Kushner arrive in Kyiv for second leg of US diplomacy push",
+      "title": "Germany\u2019s far-right AfD projected to win eastern state but unclear if it will be able to govern",
+      "date": "2026-09-06",
+      "url": "https://edition.cnn.com/2026/09/06/europe/germany-afd-state-election-majority-intl"
+    },
+    {
+      "title": "Witkoff confident of \u2018good resolution\u2019 after Kyiv meeting, as US pushes for trilateral talks with Russia",
       "date": "2026-09-06",
       "url": "https://edition.cnn.com/2026/09/06/europe/witkoff-kushner-visit-kyiv-intl"
     },
@@ -38,29 +43,34 @@
       "url": "https://edition.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl"
     },
     {
+      "title": "Egyptian TV presenter sentenced to death on drug charges",
+      "date": "2026-09-06",
+      "url": "https://edition.cnn.com/2026/09/06/africa/sarah-khalifa-egyptian-tv-presenter-intl"
+    },
+    {
       "title": "On the ground in China\u2019s wiped-out border zone, the fate of hundreds is still unknown",
       "date": "2026-09-06",
       "url": "https://edition.cnn.com/2026/09/06/china/china-nepal-floods-gyirong-port-intl-hnk"
-    },
-    {
-      "title": "Indonesia\u2019s volcanic eruption halts flights, schools, fishing",
-      "date": "2026-09-06",
-      "url": "https://edition.cnn.com/2026/09/06/asia/indonesia-anak-krakatau-eruption-intl-hnk"
-    },
-    {
-      "title": "Witkoff and Kushner to take US peace push to Kyiv after meeting Putin in Moscow",
-      "date": "2026-09-06",
-      "url": "https://edition.cnn.com/2026/09/05/europe/witkoff-kushner-moscow-kyiv-proposal-war-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "date": "2026-09-06",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport"
+    },
+    {
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "date": "2026-09-06",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit"
+    },
     {
       "title": "American Muslims are giving Texas barbecue a halal makeover",
       "date": "2026-09-06",
       "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover"
     },
     {
-      "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+      "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
       "date": "2026-09-06",
       "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow"
     },
@@ -68,95 +78,90 @@
       "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
       "date": "2026-09-06",
       "url": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination"
-    },
-    {
-      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-      "date": "2026-09-06",
-      "url": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings"
     }
   ],
   "The Guardian": [
+    {
+      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "date": "2026-09-06",
+      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles"
+    },
     {
       "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
       "date": "2026-09-06",
       "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour"
     },
     {
-      "title": "Victoria police hunt for man on run after allegedly attacking brother and parents with axe",
+      "title": "The US now has access to more than half Australia\u2019s military bases \u2013 could it drag the country unwillingly into war?",
       "date": "2026-09-06",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap"
     },
     {
-      "title": "\u2018The engine\u2019s on fire\u2019: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
+      "title": "China prepares \u00a340bn stimulus for financial sector amid fears over sluggish growth",
       "date": "2026-09-06",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers"
+      "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth"
     },
     {
-      "title": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
+      "title": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
       "date": "2026-09-06",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/06/brisbane-queensland-hottest-september-day-in-years-east-coast-unseasonably-warm-weather"
-    },
-    {
-      "title": "Up to 6,000 tradies to get free qualifications under Labor scheme \u2013 as it happened",
-      "date": "2026-09-06",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Jovic moved to tears after beating \u2018incredible\u2019 friend Eala in US Open epic",
+      "title": "Alcaraz breezes into last eight at US Open",
       "date": "2026-09-06",
-      "url": "https://www.aljazeera.com/sports/2026/9/6/jovic-moved-to-tears-after-beating-incredible-friend-eala-in-us-open-epic?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss"
     },
     {
-      "title": "Can you guess the real size of each country on the new world map?",
+      "title": "At least five killed after Amazon cargo plane crash in Miami airport",
       "date": "2026-09-06",
-      "url": "https://www.aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss"
     },
     {
-      "title": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+      "title": "At least 10 killed in central Mexico fireworks blast during festival",
       "date": "2026-09-06",
-      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss"
     },
     {
-      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "title": "Amazon Prime plane overruns runway at Miami Airport",
       "date": "2026-09-06",
-      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss"
     },
     {
-      "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+      "title": "Can AfD form Germany\u2019s first far-right state government since World War II?",
       "date": "2026-09-06",
-      "url": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Colin Kaepernick on his political evolution \u2014 and the politician he says is \u2018moving the needle\u2019",
+      "title": "Five dead, five injured after Amazon cargo plane overruns runway at Miami airport",
       "date": "2026-09-06",
-      "url": "https://www.nbcnews.com/sports/nfl/colin-kaepernick-political-evolution-current-politician-believes-movin-rcna595980"
+      "url": "https://www.nbcnews.com/now/video/five-dead-five-injured-after-amazon-cargo-plane-overruns-runway-at-miami-airport-269417541574"
     },
     {
-      "title": "Colin Kaepernick on his political evolution \u2014 and the politician he says is \u2018moving the needle\u2019",
+      "title": "As Trump pushes for data centers, voters in key midterm races say they don\u2019t want them",
       "date": "2026-09-06",
-      "url": "https://www.nbcnews.com/sports/nfl/colin-kaepernick-political-evolution-current-politician-believes-movin-rcna595980"
+      "url": "https://www.nbcnews.com/politics/2026-election/trump-data-centers-voters-key-midterm-races-rcna594914"
     },
     {
-      "title": "U.S. envoys Witkoff and Kushner arrive in Kyiv after peace talks in Moscow",
+      "title": "Armed person confronts Ohio gubernatorial candidate Amy Acton at event, campaign says",
       "date": "2026-09-06",
-      "url": "https://www.nbcnews.com/world/ukraine/us-envoys-witkoff-kushner-set-arrive-kyiv-peace-talks-moscow-rcna596324"
+      "url": "https://www.nbcnews.com/politics/2026-election/armed-person-confronts-ohio-gubernatorial-candidate-amy-acton-event-ca-rcna596395"
     },
     {
-      "title": "Hurricane Lowell threatens Hawaiian islands with life-threatening surf",
+      "title": "Trump administration asks Supreme Court to allow mail ballot restrictions to move forward for a third time",
       "date": "2026-09-06",
-      "url": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-hawaii-islands-life-threatening-surf-rcna596294"
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-administration-supreme-court-mail-ballot-restrictions-appeal-rcna596346"
     },
     {
-      "title": "Talking Shop with Summer House\u2019s Carl Radke",
+      "title": "Here\u2019s the biggest news you missed this weekend",
       "date": "2026-09-06",
-      "url": "https://www.nbcnews.com/select/shopping/carl-radke-favorite-products-rcna596148"
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-september-6-rcna596242"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-06T09:00:38.109618"
+    "updated_at": "2026-09-06T21:00:39.273780"
   }
 }
