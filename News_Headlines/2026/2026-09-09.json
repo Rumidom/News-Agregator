@@ -1,36 +1,41 @@
 {
   "BBC": [
     {
-      "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+      "title": "Police launch criminal investigation into Reform UK donations",
       "date": "2026-09-09",
-      "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "title": "Air traffic failure was avoidable, says transport secretary",
       "date": "2026-09-09",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
       "date": "2026-09-09",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Police say Nottingham attacks were 'not preventable'",
+      "title": "AI is becoming harder to control \u2013 can humans stay in charge?",
       "date": "2026-09-09",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw39nvy97o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Learner drivers still forced to wait months to book tests",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
       "date": "2026-09-09",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Massive disruption hits UK airports after air traffic control issue",
+      "title": "Russian drone alert delayed Zelensky\u2019s departure for Norway, Moldova says",
       "date": "2026-09-09",
-      "url": "https://edition.cnn.com/2026/09/08/uk/uk-airport-flight-disruptions-intl-hnk"
+      "url": "https://edition.cnn.com/2026/09/09/europe/zelensky-plane-almost-hit-drone-tuesday-norway-pm-intldsk-latam"
+    },
+    {
+      "title": "A journalist is named king of a Ugandan monarchy that just lost its onetime \u2018boy king\u2019",
+      "date": "2026-09-09",
+      "url": "https://edition.cnn.com/2026/09/09/africa/journalist-named-king-ugandan-monarchy-intl-latam"
     },
     {
       "title": "Scores wounded as Iran-backed Houthis attack Saudi Arabia in major regional escalation",
@@ -38,53 +43,58 @@
       "url": "https://edition.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk"
     },
     {
-      "title": "UK, France and Canada sanction Israeli settlements in West Bank as Britain accuses settlers of \u2018ethnic cleansing\u2019",
+      "title": "Austrian woman dies after alleged sexual abuse by husband as prosecutors probe case dubbed Pelicot 2.0 by local media",
       "date": "2026-09-09",
-      "url": "https://edition.cnn.com/2026/09/08/middleeast/uk-sanctions-israel-west-bank-settlements-intl"
+      "url": "https://edition.cnn.com/2026/09/09/europe/austrian-woman-fatal-injuries-pelicot-intl-latam"
     },
     {
-      "title": "Drones are becoming organized crime\u2019s weapon of choice in Latin America. Governments are struggling to keep up",
+      "title": "Spain\u2019s spy agency warned of plans to storm Ceuta before mass migrant crossing, documents show",
       "date": "2026-09-09",
-      "url": "https://edition.cnn.com/2026/09/09/americas/drones-crime-latin-america-latam-intl"
-    },
-    {
-      "title": "Ukraine\u2019s battlefield optimism is ebbing as Russia threatens its \u2018fortress belt\u2019",
-      "date": "2026-09-09",
-      "url": "https://edition.cnn.com/2026/09/08/europe/ukraine-russia-latest-fortress-belt-intl"
+      "url": "https://edition.cnn.com/2026/09/09/europe/spain-spy-agency-ceuta-documents-latam-intl"
     }
   ],
   "NPR": [
     {
-      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
       "date": "2026-09-09",
-      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian"
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material"
     },
     {
-      "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone",
       "date": "2026-09-09",
-      "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami"
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus"
     },
     {
-      "title": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
+      "title": "Special education head at Education Department abruptly resigns",
       "date": "2026-09-09",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested"
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns"
     },
     {
-      "title": "COMIC: If we fight, is our love doomed? And other honest questions about conflict",
+      "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
       "date": "2026-09-09",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker"
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail"
     },
     {
-      "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
+      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
       "date": "2026-09-09",
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail"
+      "url": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries"
     }
   ],
   "The Guardian": [
     {
+      "title": "Uganda to withdraw from Invictus Games \u2018out of respect for King Charles\u2019, says military chief",
+      "date": "2026-09-09",
+      "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles"
+    },
+    {
       "title": "Babies born to anaemic mothers have smaller brains, study finds",
       "date": "2026-09-09",
       "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds"
+    },
+    {
+      "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
+      "date": "2026-09-09",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ecuador-drugs-gang-terrorist-group-los-tiguerones-rubio"
     },
     {
       "title": "Family of British man found dead in Grenada ask local police to work with UK investigators",
@@ -95,65 +105,55 @@
       "title": "\u2018It\u2019s hell\u2019: father of slain Australian surfers tells Mexico homicide trial about identifying sons\u2019 bodies",
       "date": "2026-09-09",
       "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb"
-    },
-    {
-      "title": "Singapore boosts PM\u2019s salary by $1m amid major pay rise for ministers",
-      "date": "2026-09-09",
-      "url": "https://www.theguardian.com/world/2026/sep/09/singapore-pm-ministers-salary-pay-rise"
-    },
-    {
-      "title": "Man shot dead in Sydney community centre car park",
-      "date": "2026-09-09",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/09/man-shot-dead-in-sydney-community-centre-carpark-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Video: Dozens protest potential Strait of Hormuz deployment",
+      "title": "Trump says the US-Iran war will end right after midterms",
       "date": "2026-09-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-dozens-protest-potential-strait-of-hormuz-deployment?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss"
     },
     {
-      "title": "Republican midterm convention 2026: What to know about Trump\u2019s Dallas event",
+      "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
       "date": "2026-09-09",
-      "url": "https://www.aljazeera.com/news/2026/9/9/republican-midterm-convention-2026-what-to-know-about-trumps-dallas-event?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss"
     },
     {
-      "title": "Troubled league LIV Golf files for bankruptcy protection in US",
+      "title": "Gauff beats Andreeva to reach US Open semifinals in comeback win",
       "date": "2026-09-09",
-      "url": "https://www.aljazeera.com/sports/2026/9/9/troubled-league-liv-golf-files-for-bankruptcy-protection-in-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss"
     },
     {
-      "title": "What are the holes in the UK\u2019s ban on imports from Israeli settlements?",
+      "title": "\u2018Everyone\u2019s had their holidays ruined\u2019: outrage after UK airport chaos",
       "date": "2026-09-09",
-      "url": "https://www.aljazeera.com/news/2026/9/9/what-are-the-holes-in-the-uks-ban-on-imports-from-israeli-settlements?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss"
     },
     {
-      "title": "Video: RSF drone attack on Sudan court kills at least 13 people",
+      "title": "US court denies Tate brothers\u2019 bid to be released from Miami jail",
       "date": "2026-09-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-rsf-drone-attack-on-sudan-court-kills-at-least-13-people?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Pappas questions whether Americans are feeling Trump's 'golden age' after primary win",
+      "title": "Kevin Reddington: Lindsay Clancy wants her babies",
       "date": "2026-09-09",
-      "url": "https://www.nbcnews.com/video/pappas-questions-whether-americans-are-feeling-trump-s-golden-age-after-primary-win-269518405575"
+      "url": "https://www.nbcnews.com/video/kevin-reddington-lindsay-clancy-wants-her-babies-back-269552709511"
     },
     {
-      "title": "US Destroys 5 Iranian Oil Tankers as War Escalates Once Again",
+      "title": "Apple announces long-awaited foldable phone, iPhone Duo",
       "date": "2026-09-09",
-      "url": "https://www.today.com/video/new-strikes-on-iran-trigger-another-spike-in-oil-and-gas-prices-269529157838"
+      "url": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652"
     },
     {
-      "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish",
+      "title": "Missouri redistricting fight heads back to Supreme Court",
       "date": "2026-09-09",
-      "url": "https://www.nbcnews.com/sports/tennis/ben-shelton-carlos-alcaraz-latest-ever-us-open-quarter-final-rcna596746"
+      "url": "https://www.nbcnews.com/politics/elections/missouri-court-opens-contempt-probe-republican-official-redistricting-rcna596803"
     },
     {
-      "title": "Trump says firefighters near ground zero carried him to safety \u2018right after\u2019 9/11 attacks",
+      "title": "Bessent\u2019s move to tamp down rates backfires as bond yields jump, stocks tumble",
       "date": "2026-09-09",
-      "url": "https://www.nbcnews.com/politics/donald-trump/firefighters-ground-zero-right-after-september-11-attacks-rcna596723"
+      "url": "https://www.nbcnews.com/business/economy/bessent-treasury-bonds-repurchase-rcna596819"
     },
     {
       "title": "Kornacki Cam: Watch Steve analyze Rhode Island primary election results",
@@ -162,6 +162,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-09T09:00:38.860125"
+    "updated_at": "2026-09-09T21:00:38.317447"
   }
 }
