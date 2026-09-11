@@ -1,41 +1,46 @@
 {
   "BBC": [
     {
-      "title": "England's mayors to be given power to introduce tourist tax",
+      "title": "Labour mayors in England vow to cap tourist tax at 5%",
       "date": "2026-09-10",
       "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
       "date": "2026-09-10",
-      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "date": "2026-09-10",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "RNLI reviews security after volunteers targeted online",
+      "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
       "date": "2026-09-10",
-      "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
+      "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
       "date": "2026-09-10",
-      "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "At least 20 dead and 5 missing after cargo ship catches fire in Chinese port, state media says",
+      "title": "Iran-backed rebels capture Red Sea port, tightening grip on a key global chokepoint",
       "date": "2026-09-10",
-      "url": "https://edition.cnn.com/2026/09/10/china/cargo-ship-fire-china-port-intl"
+      "url": "https://edition.cnn.com/2026/09/10/middleeast/houthis-capture-mocha-red-sea-strait-intl"
     },
     {
-      "title": "Five dead and more than 80 missing in Philippine ferry fire",
+      "title": "Russian drone incursion delayed Zelensky\u2019s departure from Moldova",
       "date": "2026-09-10",
-      "url": "https://edition.cnn.com/2026/09/09/asia/philippines-ferry-fire-deaths-intl-hnk"
+      "url": "https://edition.cnn.com/2026/09/09/europe/zelensky-plane-almost-hit-drone-tuesday-norway-pm-intldsk-latam"
+    },
+    {
+      "title": "At least 25 dead after cargo ship catches fire in Chinese port, state media says",
+      "date": "2026-09-10",
+      "url": "https://edition.cnn.com/2026/09/10/china/cargo-ship-fire-china-port-intl"
     },
     {
       "title": "Exclusive: This small island off Yemen is now a strategic prize in the widening Iran war",
@@ -43,125 +48,120 @@
       "url": "https://edition.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-iran-war-intl"
     },
     {
-      "title": "Tunisia is one of the world\u2019s largest olive oil producers \u2014 but you\u2019ll rarely see it mentioned on a label",
+      "title": "Why the far-right is accusing British lifeboat volunteers of treason",
       "date": "2026-09-10",
-      "url": "https://edition.cnn.com/world/africa/tunisia-olive-oil-kaia-spc"
-    },
-    {
-      "title": "Hong Kong court convicts Wall Street Journal publisher for blocking reporter from union role",
-      "date": "2026-09-10",
-      "url": "https://edition.cnn.com/2026/09/10/china/wsj-hong-kong-union-hnk-intl"
+      "url": "https://edition.cnn.com/2026/09/10/uk/lifeboat-volunteers-treason-accusation-immigration-intl"
     }
   ],
   "NPR": [
     {
-      "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+      "title": "This summer was hot. August shattered global heat records",
       "date": "2026-09-10",
-      "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk"
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest"
     },
     {
-      "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+      "title": "Lawsuit challenges intimidation of DHS observers across the country",
       "date": "2026-09-10",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance"
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit"
     },
     {
-      "title": "A year after Charlie Kirk was killed, young conservatives navigate a divided movement",
+      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
       "date": "2026-09-10",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point"
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction"
     },
     {
-      "title": "Scientists say August was Earth's hottest month they've measured",
+      "title": "How the WNBA became a political prop in the culture wars",
       "date": "2026-09-10",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest"
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5957546/wnba-culture-wars"
     },
     {
-      "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
+      "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
       "date": "2026-09-10",
-      "url": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash"
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial"
     }
   ],
   "The Guardian": [
     {
-      "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
+      "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+      "date": "2026-09-10",
+      "url": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute"
+    },
+    {
+      "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "date": "2026-09-10",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit"
+    },
+    {
+      "title": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
       "date": "2026-09-10",
       "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking"
+    },
+    {
+      "title": "Japan seeks change to new UN world map over Russia 'misconception'",
+      "date": "2026-09-10",
+      "url": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception"
     },
     {
       "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
       "date": "2026-09-10",
       "url": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit"
-    },
-    {
-      "title": "Deadly Philippines ferry fire triggers search for scores of missing",
-      "date": "2026-09-10",
-      "url": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing"
-    },
-    {
-      "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
-      "date": "2026-09-10",
-      "url": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says"
-    },
-    {
-      "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks \u2018propaganda\u2019",
-      "date": "2026-09-10",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/grace-tame-apologises-for-comments-labelling-of-israeli-women-during-hamas-attacks-propaganda-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "The Houthis are testing the limits of Saudi restraint",
+      "title": "A year after Charlie Kirk\u2019s death, are young voters turning on Trump?",
       "date": "2026-09-10",
-      "url": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss"
     },
     {
-      "title": "IAEA accuses Iran of \u2018noncompliance\u2019",
+      "title": "Israel says it destroyed Hezbollah base in Lebanon\u2019s Ali al-Taher ridge",
       "date": "2026-09-10",
-      "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss"
     },
     {
-      "title": "Hong Kong court rules Dow Jones tried to stop journalist taking union role",
+      "title": "Spain\u2019s Parliament backs citizenship for Western Saharans born before 1977",
       "date": "2026-09-10",
-      "url": "https://www.aljazeera.com/news/2026/9/10/hong-kong-court-rules-dow-jones-tried-to-stop-journalist-taking-union-role?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss"
     },
     {
-      "title": "How Ukraine\u2019s deepest attack in Russia, on Arctic gas, signals new reach",
+      "title": "LG defends smart-TV features amid audio surveillance allegations",
       "date": "2026-09-10",
-      "url": "https://www.aljazeera.com/news/2026/9/10/how-ukraines-deepest-attack-in-russia-on-arctic-gas-signals-new-reach?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss"
     },
     {
-      "title": "Drone video shows aftermath of deadly ferry fire off the Philippines",
+      "title": "Peru joins US-led \u2018Shield of the Americas\u2019 security alliance",
       "date": "2026-09-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drone-video-shows-aftermath-of-deadly-ferry-fire-off-the-philippines?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/10/peru-joins-us-led-shield-of-the-americas-security-alliance?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump Promises $5,000 to Voters if Republicans Win Midterms",
+      "title": "Supreme Court rejects Missouri\u2019s attempt to use newly drawn Republican congressional map",
       "date": "2026-09-10",
-      "url": "https://www.today.com/video/trump-promises-voters-5k-if-republicans-win-midterm-elections-269607493837"
+      "url": "https://www.nbcnews.com/video/supreme-court-rejects-missouri-s-attempt-to-use-newly-drawn-republican-congressional-map-269621829784"
     },
     {
-      "title": "Helena Foulkes wins Rhode Island Democratic governor primary, NBC News projects",
+      "title": "Growing chorus of A.I. insiders warns of possible extinction of humans",
       "date": "2026-09-10",
-      "url": "https://www.nbcnews.com/video/helena-foulkes-wins-rhode-island-democratic-governor-primary-nbc-news-projects-269595205652"
+      "url": "https://www.nbcnews.com/nightly-news/video/growing-chorus-of-a-i-insiders-warns-of-possible-extinction-of-humans-269663301684"
     },
     {
-      "title": "Emergency slide accidentally deploys on Qatari-gifted Air Force One, delaying Trump",
+      "title": "Hillary Clinton warns the U.S. has let its guard down on terrorism 25 years after 9/11",
       "date": "2026-09-10",
-      "url": "https://www.nbcnews.com/politics/national-security/trump-military-personnel-air-force-one-inflatable-emergency-slide-rcna596932"
+      "url": "https://www.nbcnews.com/politics/politics-news/hillary-clinton-terrorism-warning-9-11-rcna597051"
     },
     {
-      "title": "\u2018I\u2019m on the ballot\u2019: Trump tries to energize his base by placing himself front and center",
+      "title": "Prosecutor who led \u2018grand conspiracy\u2019 probe of Trump targets resigns without charging anyone",
       "date": "2026-09-10",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-energize-base-midterm-convention-dallas-rcna596592"
+      "url": "https://www.nbcnews.com/politics/justice-department/prosecutor-led-grand-conspiracy-probe-trump-targets-resigns-charging-a-rcna597123"
     },
     {
-      "title": "Trump says the war in Iran will end after Election Day",
+      "title": "\u2018We felt defeated\u2019: Lindsay Clancy juror provides new details about the lone holdout",
       "date": "2026-09-10",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-says-war-iran-will-end-after-election-day-rcna596950"
+      "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-juror-reveals-new-details-lone-holdout-caused-mistrial-rcna596995"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-10T09:00:37.587613"
+    "updated_at": "2026-09-10T21:00:37.850538"
   }
 }
