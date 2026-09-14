@@ -1,34 +1,39 @@
 {
   "BBC": [
     {
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "date": "2026-09-13",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Reform's \u00a372m donations 'entirely in line with law', Jenrick says",
+      "title": "'Culture shift' needed in how UK does business, PM urges",
       "date": "2026-09-13",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+      "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
       "date": "2026-09-13",
-      "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
+      "title": "Zverev caps transformational year with US Open triumph",
       "date": "2026-09-13",
-      "url": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Flattened molars and facial pain: Why are more young people grinding their teeth?",
+      "title": "Will record donations to Reform go down as a moment of political change?",
       "date": "2026-09-13",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Sweden\u2019s election could bring far right a place at the heart of government",
+      "title": "Trump tells Ukraine to stop targeting Russia\u2019s diesel as Kyiv says Moscow attacked passenger train near Polish border",
+      "date": "2026-09-13",
+      "url": "https://edition.cnn.com/2026/09/13/europe/russia-poland-ukraine-border-area-attack-intl"
+    },
+    {
+      "title": "Sweden\u2019s parliamentary election heads to a close finish",
       "date": "2026-09-13",
       "url": "https://edition.cnn.com/2026/09/12/europe/sweden-election-preview-intl"
     },
@@ -38,41 +43,46 @@
       "url": "https://edition.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl"
     },
     {
-      "title": "Search underway for about 130 people after Indonesian passenger ship overturns",
+      "title": "At least 6 dead and more than 100 missing after Indonesian ferry overturns in rough seas",
       "date": "2026-09-13",
       "url": "https://edition.cnn.com/2026/09/12/asia/search-underway-indonesian-ship-loses-contact-intl-hnk"
     },
     {
-      "title": "An ambassador in Ljubljana, but not in London: Israel\u2019s foreign policy shifts away from longstanding allies",
+      "title": "Turkey detains dozens after sweeping raids targeting LGBTQ+ groups",
       "date": "2026-09-13",
-      "url": "https://edition.cnn.com/2026/09/13/middleeast/israel-sanctions-allies-relations-intl"
-    },
-    {
-      "title": "Essay: \u2018I stood and watched a place I loved vanish\u2019",
-      "date": "2026-09-13",
-      "url": "https://edition.cnn.com/2026/09/13/asia/nepal-flood-trishuli-river-khanal-intl-hnk-dst"
+      "url": "https://edition.cnn.com/2026/09/13/europe/turkey-lgbtq-crackdown-arrests-intl"
     }
   ],
   "NPR": [
     {
-      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+      "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
       "date": "2026-09-13",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary"
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications"
     },
     {
-      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
+      "title": "Trump downplays calls for AI slow down",
       "date": "2026-09-13",
-      "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns"
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown"
     },
     {
-      "title": "How a young woman became an ISIS bride \u2014 and then an informant, helping save others",
+      "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
       "date": "2026-09-13",
-      "url": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis"
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman"
+    },
+    {
+      "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+      "date": "2026-09-13",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety"
+    },
+    {
+      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+      "date": "2026-09-13",
+      "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health"
     }
   ],
   "The Guardian": [
     {
-      "title": "Indonesian rescue crews searching for 140 people after ferry hit bad weather",
+      "title": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
       "date": "2026-09-13",
       "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather"
     },
@@ -82,76 +92,76 @@
       "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas"
     },
     {
-      "title": "First H5 bird flu death of endangered Australian sea lion recorded amid fears for small population",
+      "title": "Politics live: Joyce backs Hanson on comments about Albanese\u2019s mother; electrifying push for Australians to save $5,000 a year",
       "date": "2026-09-13",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/13/first-h5-bird-flu-death-of-endangered-australian-sea-lion-kangaroo-island"
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb"
     },
     {
-      "title": "First case of bird flu in endangered Australian sea lion confirmed \u2013 as it happened",
+      "title": "Queensland woman falls to her death at Bali cliff popular with tourists",
       "date": "2026-09-13",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/sep/14/queensland-woman-cliff-death-kelingking-beach-ntwnfb"
     },
     {
-      "title": "Albanese hits back at Pauline Hanson\u2019s \u2018nastiness\u2019 after criticism of his mother\u2019s use of public housing",
+      "title": "As Japan\u2019s yen peaks, is the era of budget-friendly trips coming to an end for Australian travellers?",
       "date": "2026-09-13",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/13/andrew-hastie-vows-to-go-all-the-way-in-fight-against-pauline-hanson-as-joyce-denies-buyers-remorse-claim-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/14/as-japans-yen-peaks-is-the-era-of-budget-friendly-trips-coming-to-an-end-for-australian-travellers"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Fighting continues between Yemen gov\u2019t forces, Houthis: What is the latest?",
+      "title": "Israeli quadcopter terrorises homes in Gaza City",
       "date": "2026-09-13",
-      "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss"
     },
     {
-      "title": "Israeli attack on Gaza kills two Palestinians",
+      "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
       "date": "2026-09-13",
-      "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss"
     },
     {
-      "title": "A kingdom within a republic: Inside Uganda\u2019s Buganda",
+      "title": "Zverev defeats Shelton in four sets to win his first US Open title",
       "date": "2026-09-13",
-      "url": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss"
     },
     {
-      "title": "Niger military government reshuffles army command weeks after deadly mutiny",
+      "title": "Could AI really kill us within a decade?",
       "date": "2026-09-13",
-      "url": "https://www.aljazeera.com/news/2026/9/13/niger-military-government-reshuffles-army-command-weeks-after-deadly-mutiny?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss"
     },
     {
-      "title": "Voting under way in Sweden election that could see far right in government",
+      "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
       "date": "2026-09-13",
-      "url": "https://www.aljazeera.com/news/2026/9/13/voting-under-way-in-sweden-election-that-could-see-far-right-enter-govt?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Alleged trespasser stopped outside Kamala Harris\u2019 Malibu home",
+      "title": "Speaker Johnson: \u2018I certainly pray\u2019 Trump\u2019s prediction on Iran war ending after midterms is \u2018right\u2019",
       "date": "2026-09-13",
-      "url": "https://www.nbcnews.com/politics/kamala-harris/alleged-trespasser-stopped-kamala-harris-malibu-home-rcna597427"
+      "url": "https://www.nbcnews.com/meet-the-press/video/speaker-johnson-i-certainly-pray-trump-s-prediction-on-iran-war-ending-after-midterms-is-right-269787717779"
     },
     {
-      "title": "Wisconsin Rep. Tom Tiffany sustains minor injuries after emergency landing on lake",
+      "title": "Pennsylvania woman dies from measles complications, state\u2019s third death this year",
       "date": "2026-09-13",
-      "url": "https://www.nbcnews.com/news/us-news/wisconsin-tom-tiffany-sustained-minor-injuries-plane-emergency-lake-rcna597456"
+      "url": "https://www.nbcnews.com/health/health-news/pennsylvania-woman-dies-measles-rcna597490"
     },
     {
-      "title": "New York City warns of possible flash floods as thunderstorms develop along East Coast",
+      "title": "AI whistleblower calls for \u2018global coordination\u2019 to mitigate AI risks: Full interview",
       "date": "2026-09-13",
-      "url": "https://www.nbcnews.com/weather/storms/new-york-city-possible-flash-floods-thunderstorms-east-coast-rcna597449"
+      "url": "https://www.nbcnews.com/meet-the-press/video/ai-whistleblower-calls-for-global-coordination-to-mitigate-ai-risks-full-interview-269786693730"
     },
     {
-      "title": "Alleged trespasser stopped outside Kamala Harris\u2019 Malibu home",
+      "title": "Here\u2019s the biggest news you missed this weekend",
       "date": "2026-09-13",
-      "url": "https://www.nbcnews.com/politics/kamala-harris/alleged-trespasser-stopped-kamala-harris-malibu-home-rcna597427"
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-september-13-rcna597407"
     },
     {
-      "title": "New York City warns of possible flash floods as thunderstorms develop along East Coast",
+      "title": "Bessent dared the bond market to \u2018bet against\u2019 him. It did \u2014 and it appears to be winning.",
       "date": "2026-09-13",
-      "url": "https://www.nbcnews.com/weather/storms/new-york-city-possible-flash-floods-thunderstorms-east-coast-rcna597449"
+      "url": "https://www.nbcnews.com/business/markets/bessent-bond-traders-bet-rcna597044"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-13T09:00:38.589841"
+    "updated_at": "2026-09-13T21:00:35.287432"
   }
 }
