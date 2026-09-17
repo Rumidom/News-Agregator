@@ -1,32 +1,47 @@
 {
   "BBC": [
     {
-      "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+      "title": "Palace in war of words with Earl Spencer over claims in Diana book",
       "date": "2026-09-17",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "At least seven months of relentless rain needed to end drought, research shows",
+      "title": "Family claims dead man was not 'Putney pusher'",
       "date": "2026-09-17",
-      "url": "https://www.bbc.co.uk/weather/articles/cqvgy1lejp7ro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Lena Dunham announces birth of first baby via surrogacy",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, Microsoft boss tells BBC",
       "date": "2026-09-17",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zlxxzpg4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US interest rates raised for first time in three years",
+      "title": "'Everybody was as one': Rector reflects on search effort for Noah Woods",
       "date": "2026-09-17",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK prosecutors file for extradition of the Tate brothers from the US",
+      "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
       "date": "2026-09-17",
-      "url": "https://www.bbc.co.uk/news/articles/c6d79z7ez7r4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Nigeria and South Africa tried to ease tensions after violent anti-migrant protests. But the rift is back",
+      "date": "2026-09-17",
+      "url": "https://edition.cnn.com/2026/09/17/africa/south-africa-nigeria-anti-migrant-rift-intl"
+    },
+    {
+      "title": "Houthis release video claiming to show downed Saudi F-15 fighter as Iran-backed rebels press their lightning advance",
+      "date": "2026-09-17",
+      "url": "https://edition.cnn.com/2026/09/17/middleeast/houthi-saudi-f15-shootdown-intl-hnk-ml"
+    },
+    {
+      "title": "British university reinstates Egyptian student who was suspended after pro-Palestinian protests",
+      "date": "2026-09-17",
+      "url": "https://edition.cnn.com/2026/09/17/uk/kings-college-london-pro-palestinian-student-intl-gbr"
+    },
     {
       "title": "Fiji declares HIV emergency. One in 60 people now have the virus as drug crisis fuels outbreak",
       "date": "2026-09-17",
@@ -38,17 +53,43 @@
       "url": "https://edition.cnn.com/2026/09/15/americas/canada-mark-carney-eu-trump-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+      "date": "2026-09-17",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union"
+    },
+    {
+      "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+      "date": "2026-09-17",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes"
+    },
+    {
+      "title": "Why reshaping memories may hold the key to raising self-esteem",
+      "date": "2026-09-17",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem"
+    },
+    {
+      "title": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
+      "date": "2026-09-17",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa"
+    },
+    {
+      "title": "People's houses are collapsing into the ocean. FEMA gives them no other option",
+      "date": "2026-09-17",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "\u2018Like a Disney movie\u2019: Three wild dog brothers make Africa\u2019s longest journey",
+      "date": "2026-09-17",
+      "url": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe"
+    },
     {
       "title": "Fiji declares national HIV emergency as Pacific nation grapples with surge in cases",
       "date": "2026-09-17",
       "url": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health"
-    },
-    {
-      "title": "Australian politics live: Burke rubbishes claims of \u2018mass migration\u2019 and denies One Nation influenced Labor\u2019s policy",
-      "date": "2026-09-17",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb"
     },
     {
       "title": "Prominent athlete tells Alan Jones trial he sent shirtless photo before unwanted kiss he wished \u2018never happened\u2019",
@@ -56,66 +97,71 @@
       "url": "https://www.theguardian.com/australia-news/2026/sep/17/alan-jones-trial-athlete-sent-shirtless-photo-before-unwanted-kiss-ntwnfb"
     },
     {
-      "title": "\u2018The bloody cap has been scrapped\u2019: Jacqui Lambie celebrates Labor backdown on veterans\u2019 health services cap",
+      "title": "Queensland to create outback boot camps for youth offenders \u2013 as it happened",
       "date": "2026-09-17",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/veterans-allied-health-care-cap-jacqui-lambie-labor-backdown"
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb"
     },
     {
-      "title": "Teenage boys charged with murder after alleged mistaken identity shooting of Sydney student",
+      "title": "Australia Post worker stole dozens of bank cards to fund \u2018debilitating\u2019 gambling addiction",
       "date": "2026-09-17",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/17/teenage-boys-charged-with-murder-university-student-ntwnfb"
+      "url": "https://www.theguardian.com/business/2026/sep/17/australia-post-postie-stolen-bank-cards-jail-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Yemeni forces target Houthis and a Saudi base as US rules out direct role",
+      "title": "What\u2019s the Asian Games accommodation crisis, and where will athletes stay?",
       "date": "2026-09-17",
-      "url": "https://www.aljazeera.com/news/2026/9/17/yemeni-forces-target-houthis-and-a-saudi-base-as-us-rules-out-direct-role?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/17/whats-the-asian-games-accommodation-crisis-and-where-will-athletes-stay?traffic_source=rss"
     },
     {
-      "title": "Verstappen beats 100 go-karters in fun Silverstone race",
+      "title": "Climate change had major role in triggering Nepal floods, scientists say",
       "date": "2026-09-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/verstappen-beats-100-go-karters-in-fun-silverstone-race?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss"
     },
     {
-      "title": "Morocco\u2019s 2026 election: A test of political trust and engagement",
+      "title": "India to impose controversial fee for UPI instant payments: Who benefits?",
       "date": "2026-09-17",
-      "url": "https://www.aljazeera.com/news/2026/9/17/moroccos-2026-election-a-test-of-political-trust-and-engagement?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-upi-instant-payments-who-benefits?traffic_source=rss"
     },
     {
-      "title": "Floods return to Valencia with 2024 tragedy still fresh in mind",
+      "title": "Gaza repairman helps journalists to keep documenting genocide",
       "date": "2026-09-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_floods-return-to-valencia-with-2024-tragedy-in-mind-160926?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss"
     },
     {
-      "title": "Reports: US, Houthis make secret deal over Yemen war",
+      "title": "Why is inflation rising again around the world?",
       "date": "2026-09-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/9/17/why-is-inflation-rising-again-around-the-world?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "A look into the history of AI warnings",
+      "date": "2026-09-17",
+      "url": "https://www.nbcnews.com/video/a-look-into-the-history-of-a-i-warnings-270006341887"
+    },
+    {
+      "title": "Most Americans think AI is doing more harm than good in schools",
+      "date": "2026-09-17",
+      "url": "https://www.nbcnews.com/politics/politics-news/poll-americans-think-ai-harm-good-schools-rcna597777"
+    },
+    {
+      "title": "What Does the Interest Rate Hike Mean for American Consumers?",
+      "date": "2026-09-17",
+      "url": "https://www.today.com/video/interest-rates-raised-for-first-time-in-years-how-it-affects-costs-270019653540"
+    },
     {
       "title": "3 killed when NBC LA helicopter crashes",
       "date": "2026-09-17",
       "url": "https://www.nbcnews.com/nightly-news/video/3-killed-when-nbc-la-helicopter-crashes-270005317906"
     },
     {
-      "title": "Here\u2019s who\u2019ll be on \u2018SNL\u2019 when Season 52 starts next week",
+      "title": "Here\u2019s who\u2019ll be on \u2018SNL\u2019 when season 52 starts next week",
       "date": "2026-09-17",
       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/snl-season-52-cast-rcna588129"
-    },
-    {
-      "title": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina",
-      "date": "2026-09-17",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-bashes-democrats-crime-michael-whatley-senate-north-carolina-rcna598110"
-    },
-    {
-      "title": "Travis Kelce was among the victims of a man\u2019s multimillion-dollar Ponzi scheme",
-      "date": "2026-09-17",
-      "url": "https://www.nbcnews.com/news/us-news/travis-kelce-victim-multi-million-dollar-ponzi-scheme-rcna598243"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-17T01:00:38.871335"
+    "updated_at": "2026-09-17T09:00:38.355040"
   }
 }
