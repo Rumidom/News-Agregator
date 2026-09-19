@@ -1,28 +1,95 @@
 {
   "BBC": [
     {
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "date": "2026-09-19",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Parents could lose benefits or face prison for child's crimes, minister says",
       "date": "2026-09-19",
       "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Monstrous words' and 'Russia to ramp up war'",
+      "title": "Bitter row over Diana book brings back unhappy times for royals",
       "date": "2026-09-19",
-      "url": "https://www.bbc.co.uk/news/articles/cw14d58dxm8jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Could AI wipe out humans and how might it do it?",
+      "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
       "date": "2026-09-19",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3020ge51ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Michael Marra announced as new Scottish Labour leader",
+      "date": "2026-09-19",
+      "url": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Who is Earl Spencer, the man at the center of the latest royal saga?",
+      "date": "2026-09-19",
+      "url": "https://edition.cnn.com/2026/09/19/uk/earl-spencer-princess-diana-brother-intl"
+    },
+    {
+      "title": "This nuclear plant was meant to free Cuba from dependence on oil. Now, it\u2019s a symbol of its shattered dreams",
+      "date": "2026-09-19",
+      "url": "https://edition.cnn.com/2026/09/19/americas/cuba-nuclear-power-plant-intl-latam"
+    },
+    {
+      "title": "These Israelis want to fly home to vote. Netanyahu is trying to stop them",
+      "date": "2026-09-19",
+      "url": "https://edition.cnn.com/2026/09/19/middleeast/israel-election-netanyahu-expatriates-intl"
+    },
+    {
+      "title": "Asia\u2019s fruit wars: The secretive world of plant invention and seed smuggling",
+      "date": "2026-09-19",
+      "url": "https://edition.cnn.com/2026/09/19/asia/asia-fruit-smuggling-seed-espionage-intl-hnk"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+      "date": "2026-09-19",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs"
+    },
+    {
+      "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
+      "date": "2026-09-19",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak"
+    },
+    {
+      "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+      "date": "2026-09-19",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy"
+    },
+    {
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
+      "date": "2026-09-19",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine"
+    },
+    {
+      "title": "As Europe warms, Italy sees West Nile virus spread",
+      "date": "2026-09-19",
+      "url": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Swimmer dies after being bitten by shark off popular Perth beach",
+      "title": "Shark catch-and-kill order issued after swimmer dies off popular Perth beach",
       "date": "2026-09-19",
       "url": "https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach"
+    },
+    {
+      "title": "Record fuel prices across EU prompt calls for bloc-wide windfall tax on firms",
+      "date": "2026-09-19",
+      "url": "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
+    },
+    {
+      "title": "\u2018My fear was too great\u2019: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
+      "date": "2026-09-19",
+      "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores"
     },
     {
       "title": "US and Denmark reach security deal after Trump\u2019s threats to take over Greenland",
@@ -30,46 +97,36 @@
       "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security"
     },
     {
-      "title": "Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution",
+      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
       "date": "2026-09-19",
-      "url": "https://www.theguardian.com/us-news/2026/sep/19/thousands-protest-closure-of-the-kennedy-center-amid-fears-trump-is-set-to-demolish-the-institution"
-    },
-    {
-      "title": "\u2018It\u2019s difficult to imagine a more blatant violation of the First Amendment\u2019: criticism mounts over Trump\u2019s media ban - as it happened",
-      "date": "2026-09-19",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"
-    },
-    {
-      "title": "More than 35 woman come forward in case against fake 49ers player accused of fraud",
-      "date": "2026-09-19",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/daejon-love-49ers-fraud"
+      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "North Korea dismisses UN nuclear watchdog resolution",
+      "title": "LIVE: Brighton vs Arsenal \u2013 Premier League",
       "date": "2026-09-19",
-      "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss"
     },
     {
-      "title": "Report: More US troops have died in Iran war than Pentagon says",
+      "title": "Iran stages show of force during mobilisation campaign in Tehran",
       "date": "2026-09-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss"
     },
     {
-      "title": "South Africans voice their anger as hundreds hold femicide vigil",
+      "title": "Russia kills eight people in Ukraine, attacks two vessels in Black Sea",
       "date": "2026-09-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/19/poland-on-high-alert-as-russia-claims-black-sea-vessel-strikes?traffic_source=rss"
     },
     {
-      "title": "US court blocks Trump plan to deport migrants to third countries",
+      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
       "date": "2026-09-19",
-      "url": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-nigeria-curfew-after-protests-nr?traffic_source=rss"
     },
     {
-      "title": "Iranian women defy law and run Tehran race without hijab",
+      "title": "NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message",
       "date": "2026-09-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/nfl-star-azeez-al-shaair-speaks-out-after-fine-over-hind-rajab-message?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -79,12 +136,27 @@
       "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
     },
     {
+      "title": "A rapper gets the boot, and the Fed raises interest rates: The news quiz",
+      "date": "2026-09-19",
+      "url": "https://www.nbcnews.com/news/news-quiz/macklemore-news-quiz-rcna598434"
+    },
+    {
+      "title": "A rapper gets the boot, and the Fed raises interest rates: The news quiz",
+      "date": "2026-09-19",
+      "url": "https://www.nbcnews.com/news/news-quiz/macklemore-news-quiz-rcna598434"
+    },
+    {
       "title": "Google says its AI model gained unauthorized access to three outside systems",
       "date": "2026-09-19",
       "url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
+    },
+    {
+      "title": "Save more than $100 off this popular Dyson vacuum right now",
+      "date": "2026-09-19",
+      "url": "https://www.nbcnews.com/select/shopping/dyson-v8-deal-of-the-day-2026-rcna598658"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-19T01:00:39.589032"
+    "updated_at": "2026-09-19T09:00:39.945429"
   }
 }
