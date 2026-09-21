@@ -1,111 +1,167 @@
 {
   "BBC": [
     {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
       "date": "2026-09-21",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Dramatic moment a cargo ship crashes into another vessel",
+      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
       "date": "2026-09-21",
-      "url": "https://www.bbc.co.uk/news/videos/cq0lr24x3ep1o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russia's elections had few surprises - but how the Kremlin uses the results is far from clear",
+      "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+      "date": "2026-09-21",
+      "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "date": "2026-09-21",
       "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Russia to test Nato pact' and 'Labour eye tax raid'",
+      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
       "date": "2026-09-21",
-      "url": "https://www.bbc.co.uk/news/articles/crp3kpy905plo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "date": "2026-09-21",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Iran and Trump exchange fresh warnings as Saudi-Houthi conflict escalates ahead of key UN gathering. Here\u2019s what to know",
+      "title": "Police officer wounded in shooting near Ontario synagogue on Yom Kippur",
       "date": "2026-09-21",
-      "url": "https://edition.cnn.com/2026/09/20/middleeast/mideast-tensions-un-general-assembly-heres-what-to-know"
+      "url": "https://edition.cnn.com/2026/09/21/americas/ontario-canada-synagogue-officer-shot-hnk"
     },
     {
-      "title": "Ex-husband of Hong Kong socialite goes on trial for murder in case that shocked world",
+      "title": "Ruling pro-Putin party set to win Russia\u2019s tightly controlled wartime parliamentary election",
       "date": "2026-09-21",
-      "url": "https://edition.cnn.com/2026/09/20/asia/hong-kong-abby-choi-murder-trial-begins-intl-hnk"
+      "url": "https://edition.cnn.com/2026/09/20/europe/russia-election-polls-close-outcome-intl"
+    },
+    {
+      "title": "Davido wants his new Lagos residency to bring Afrobeats home",
+      "date": "2026-09-21",
+      "url": "https://edition.cnn.com/world/africa/davido-lagos-residency-to-bring-afrobeats-home-spc"
+    },
+    {
+      "title": "What to expect at the UN General Assembly, the biggest event in world diplomacy",
+      "date": "2026-09-21",
+      "url": "https://edition.cnn.com/2026/09/21/world/unga-2026-what-to-expect-latam-intl"
+    },
+    {
+      "title": "Is Germany\u2019s leader Friedrich Merz doomed as far right wins again?",
+      "date": "2026-09-21",
+      "url": "https://edition.cnn.com/2026/09/21/europe/germany-merz-elections-loss-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
+      "date": "2026-09-21",
+      "url": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting"
+    },
+    {
+      "title": "The data center backlash is reshaping American politics \u2014 one community at a time",
+      "date": "2026-09-21",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai"
+    },
+    {
+      "title": "German chancellor stands his ground after his party loses in state elections",
+      "date": "2026-09-21",
+      "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz"
+    },
+    {
+      "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
+      "date": "2026-09-21",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026"
+    },
+    {
+      "title": "This farm raised thousands of pigs for slaughter. Now it's growing mushrooms instead",
+      "date": "2026-09-21",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Banished to alien lands: Trump\u2019s secret deportation deals",
+      "date": "2026-09-21",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals"
+    },
     {
       "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
       "date": "2026-09-21",
       "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney"
     },
     {
-      "title": "Australia news live: Wong speaks to Palestinian foreign minister about Gaza; Queensland premier says plans to reduce visas are \u2018nuts\u2019",
+      "title": "Weather tracker: Japanese islands brace for Dujuan to become a typhoon again",
       "date": "2026-09-21",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb"
+      "url": "https://www.theguardian.com/environment/2026/sep/21/weather-tracker-japan-typhoon-dujuan"
     },
     {
-      "title": "Beau Lamarre-Condon developed \u2018obsession\u2019 with Jesse Baird before fatal double shooting, court hears",
+      "title": "Boy, 11, in serious condition after being shot in face and neck in Sydney home",
       "date": "2026-09-21",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/21/beau-lamarre-condon-double-murder-trial-obsessed-with-jesse-baird-before-shooting-court-hears-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/21/boy-11-in-serious-condition-after-being-shot-in-face-and-neck-in-sydney-home-ntwnfb"
     },
     {
-      "title": "More Australians will be dying than being born in 40 years as major report predicts future of lower growth",
+      "title": "Think Australia would be better off with less migration? The numbers tell a different story",
       "date": "2026-09-21",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/21/jim-chalmers-intergenerational-report-2026-deaths-outnumber-births-australia2060s"
-    },
-    {
-      "title": "Police allege mother stabbed three children in Blue Mountains leaving one child dead",
-      "date": "2026-09-21",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/21/australia-migration-ageing-population-labor-analysis-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Imran Khan\u2019s family says three sisters detained ahead of Islamabad march",
+      "title": "Why is the US trying \u2018regime change\u2019 again?",
       "date": "2026-09-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss"
     },
     {
-      "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
+      "title": "How oil, gas losses have shrunk Iran\u2019s GDP by 10 percent during war",
       "date": "2026-09-21",
-      "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss"
     },
     {
-      "title": "Trump administration readies sweeping sanctions against ICC, reports say",
+      "title": "Mystery object spotted hovering over Tehran",
       "date": "2026-09-21",
-      "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss"
     },
     {
-      "title": "The Sahel and the UN: a smaller footprint, a different role",
+      "title": "A simple guide to the Yemen conflict",
       "date": "2026-09-21",
-      "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss"
     },
     {
-      "title": "Ethiopian armed groups forge alliance against government",
+      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
       "date": "2026-09-21",
-      "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Patrick Clancy talks about grief, forgiveness and the future with \u201860 Minutes\u2019 after Lindsay Clancy mistrial",
+      "title": "CNN, Politico and MS NOW plan to sue the Trump administration over ban on White House coverage",
       "date": "2026-09-21",
-      "url": "https://www.nbcnews.com/news/us-news/patrick-clancy-grief-forgiveness-future-60-minutes-lindsay-clancy-rcna598236"
+      "url": "https://www.nbcnews.com/politics/trump-administration/cnn-politico-ms-now-plan-sue-trump-administration-ban-white-house-cove-rcna598912"
     },
     {
-      "title": "They entered the season as Super Bowl hopefuls. Now the odds are against them.",
+      "title": "Elon Musk is flying under the radar in the Texas Senate race. Republicans like it that way.",
       "date": "2026-09-21",
-      "url": "https://www.nbcnews.com/sports/nfl/nfl-los-angeles-chargers-houston-texans-results-playoffs-rcna598901"
+      "url": "https://www.nbcnews.com/politics/2026-election/elon-musk-texas-senate-race-republicans-rcna596670"
+    },
+    {
+      "title": "Cindy Crawford\u2019s son, model Presley Gerber, dies at 27",
+      "date": "2026-09-21",
+      "url": "https://www.nbcnews.com/news/us-news/presley-gerber-son-cindy-crawford-dies-27-rcna598952"
+    },
+    {
+      "title": "ICE Agent Shoots Food Delivery Driver in His Car",
+      "date": "2026-09-21",
+      "url": "https://www.today.com/video/protests-erupt-in-texas-after-ice-agent-shoots-delivery-driver-270208581665"
+    },
+    {
+      "title": "The Chiefs and Patrick Mahomes look like their old selves, but now with new help",
+      "date": "2026-09-21",
+      "url": "https://www.nbcnews.com/sports/nfl/chiefs-patrick-mahomes-look-old-selves-now-new-help-rcna598929"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-21T01:00:38.909641"
+    "updated_at": "2026-09-21T09:00:38.607995"
   }
 }
