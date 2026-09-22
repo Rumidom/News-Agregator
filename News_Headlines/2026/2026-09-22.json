@@ -1,99 +1,160 @@
 {
   "BBC": [
     {
-      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "title": "Martha's Rule rolled out at every A&E department in England",
       "date": "2026-09-22",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+      "title": "PM to warn EU chief of 'damage' posed by Made in Europe scheme",
       "date": "2026-09-22",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
       "date": "2026-09-22",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
       "date": "2026-09-22",
-      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Flights at major US airports delayed after cable cut by construction workers",
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
       "date": "2026-09-22",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Trump to speak at United Nations General Assembly",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/09/22/world/live-news/un-general-assembly-trump"
+    },
+    {
+      "title": "Australia confirms F-35 fighter jet parts were mistakenly diverted to Hong Kong",
+      "date": "2026-09-22",
+      "url": "https://edition.cnn.com/2026/09/22/australia/australia-us-f-35-fighter-jet-parts-missing-intl-hnk"
+    },
+    {
+      "title": "Gulf leaders meet Trump with two fears: more war and less US protection",
+      "date": "2026-09-22",
+      "url": "https://edition.cnn.com/2026/09/22/middleeast/gulf-leaders-trump-fear-more-war-less-protection-intl"
+    },
+    {
+      "title": "Iran to attend UN assembly in New York \u2014 even as peace with US remains elusive",
+      "date": "2026-09-22",
+      "url": "https://edition.cnn.com/2026/09/21/middleeast/iran-president-un-general-assembly-new-york-intl"
+    },
+    {
       "title": "As US steers clear of Yemen fight, the Iran-backed Houthis launch next phase of campaign",
       "date": "2026-09-22",
       "url": "https://edition.cnn.com/2026/09/21/middleeast/yemen-houthis-offensive-intl"
-    },
-    {
-      "title": "Russia\u2019s parliamentary election results were predictable but what comes next matters",
-      "date": "2026-09-22",
-      "url": "https://edition.cnn.com/2026/09/21/europe/russia-election-results-what-next-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "CNN, MS NOW and Politico sue Trump. And, Paramount settles in massive merger lawsuit",
+      "date": "2026-09-22",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal"
+    },
+    {
+      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
+      "date": "2026-09-22",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis"
+    },
+    {
+      "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+      "date": "2026-09-22",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian"
+    },
+    {
+      "title": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
+      "date": "2026-09-22",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little"
+    },
+    {
+      "title": "Abortion is on the ballot again as post-Roe policies continue to evolve",
+      "date": "2026-09-22",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia news live: Taylor says Bragg\u2019s idea to use super to secure mortgages is \u2018not Coalition policy\u2019",
+      "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
       "date": "2026-09-22",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb"
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting"
     },
     {
-      "title": "Political fight over gun buyback after boy, 11, shot in the face and neck in Sydney apartment",
+      "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
       "date": "2026-09-22",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/22/boy-11-shot-face-sydney-man-charged-gun-laws-buyback-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong"
     },
     {
-      "title": "Former cop Beau Lamarre-Condon argues self-defence in double murder trial citing struggle over gun",
+      "title": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
       "date": "2026-09-22",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/22/nsw-cop-beau-lamarre-condon-argues-self-defence-double-murder-trial-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo"
     },
     {
-      "title": "\u2018Short on substance\u2019: Albanese urges climate action on world stage \u2013 but advocates say Australia failing on fossil fuels",
+      "title": "Poorer nations will be among the last to benefit if global emissions cut to net zero",
       "date": "2026-09-22",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york"
+      "url": "https://www.theguardian.com/environment/2026/sep/22/climate-inequality-tropics-among-last-places-to-benefit-net-zero"
     },
     {
-      "title": "Trump says he\u2019ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by \u2018TRUMP\u2019 \u2013 as it happened",
+      "title": "AI could be a bubble and is not yet making Australia more productive, Michele Bullock says",
       "date": "2026-09-22",
-      "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates"
+      "url": "https://www.theguardian.com/technology/2026/sep/22/ai-could-be-a-bubble-and-is-not-yet-making-australia-more-productive-michele-bullock-says"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "India vs Sri Lanka live: Asian Games \u2013 Women\u2019s cricket final",
+      "title": "Trump-GCC Summit in New York: What does each side want?",
       "date": "2026-09-22",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss"
     },
     {
-      "title": "Brazil election: Lula and Flavio Bolsonaro tied in latest polls",
+      "title": "Palestine weekly: Violent disruptions from olive groves to Al-Aqsa Mosque",
       "date": "2026-09-22",
-      "url": "https://www.aljazeera.com/news/2026/9/22/brazil-election-lula-and-flavio-bolsonaro-tied-in-latest-polls?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/9/22/palestine-weekly-violent-disruptions-from-olive-groves-to-al-aqsa-mosque?traffic_source=rss"
     },
     {
-      "title": "Canada\u2019s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+      "title": "Why the world should care about the far right\u2019s rise in Germany",
       "date": "2026-09-22",
-      "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany?traffic_source=rss"
     },
     {
-      "title": "Mamdani challenges Trump over White House press ban during meeting",
+      "title": "Can the US ban Iranian airlines worldwide \u2013 and what would it mean?",
       "date": "2026-09-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss"
     },
     {
-      "title": "Influencers Jake and Logan Paul visit the Pentagon",
+      "title": "Man shot by ICE agent is in detention with bullet in his back",
       "date": "2026-09-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/man-shot-by-ice-agent-is-in-detention-with-bullet-in-his-back?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "Filmed in Captivity: Inside Russia\u2019s Prison Propaganda Machine",
+      "date": "2026-09-22",
+      "url": "https://www.nbcnews.com/video/forced-confessions-how-russia-s-pow-propaganda-videos-haunt-ukraine-270252613616"
+    },
+    {
+      "title": "Marco Rubio on Iran War, Soaring Gas Prices, AI, Media Ban, More",
+      "date": "2026-09-22",
+      "url": "https://www.today.com/video/marco-rubio-on-iran-war-soaring-gas-prices-ai-media-ban-more-270276677690"
+    },
+    {
+      "title": "Video Shows Aftermath of ICE Agent Shooting Driver in the Back",
+      "date": "2026-09-22",
+      "url": "https://www.today.com/video/video-shows-aftermath-of-ice-agent-shooting-driver-in-the-back-270274629801"
+    },
+    {
+      "title": "No criminal charges in death of Nolan Wells, grand jury finds",
+      "date": "2026-09-22",
+      "url": "https://www.nbcnews.com/news/us-news/no-criminal-charges-death-nolan-wells-grand-jury-finds-rcna599152"
+    },
     {
       "title": "\u2018Looksmaxxing\u2019 influencer Clavicular charged with rape in Massachusetts",
       "date": "2026-09-22",
@@ -101,6 +162,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-22T01:00:37.023474"
+    "updated_at": "2026-09-22T09:00:37.403747"
   }
 }
