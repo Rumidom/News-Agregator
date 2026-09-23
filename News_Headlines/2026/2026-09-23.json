@@ -1,116 +1,167 @@
 {
   "BBC": [
     {
-      "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+      "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
       "date": "2026-09-23",
-      "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Key moments from Andy Burnham's first UN speech",
+      "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
       "date": "2026-09-23",
-      "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
       "date": "2026-09-23",
-      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Burn to be mild' and 'Pulp fiction'",
+      "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
       "date": "2026-09-23",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3274g2l7o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Dozens of migrants taken to Dover after more than 30 hours at sea",
+      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
       "date": "2026-09-23",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l6yed62v5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Trump says he faces a decision on Iran: make a deal or \u2018annihilate\u2019 the country",
+      "title": "Iran\u2019s president to address UN as Trump mixes threats and diplomacy",
       "date": "",
-      "url": "https://edition.cnn.com/2026/09/22/world/live-news/un-general-assembly-trump"
+      "url": "https://edition.cnn.com/2026/09/23/world/live-news/united-nations-general-assembly-iran-trump-ukraine"
     },
     {
-      "title": "This Japanese artisan turns bear-scarred trees into surfboards and skateboards",
+      "title": "Gunmen attack South Africa house party, killing 11, including woman believed to be pregnant",
       "date": "2026-09-23",
-      "url": "https://edition.cnn.com/world/asia/this-japanese-artisan-turns-bear-scarred-trees-into-surfboards-c2e-spc"
+      "url": "https://edition.cnn.com/2026/09/23/africa/south-africa-mass-shooting-kills-11-intl"
     },
     {
-      "title": "Australia confirms F-35 fighter jet parts were mistakenly diverted to Hong Kong",
+      "title": "Rome\u2019s Colosseum in rare closure after worker falls to his death",
       "date": "2026-09-23",
-      "url": "https://edition.cnn.com/2026/09/22/australia/australia-us-f-35-fighter-jet-parts-missing-intl-hnk"
+      "url": "https://edition.cnn.com/2026/09/23/europe/colosseum-rome-closed-worker-death-intl"
     },
     {
-      "title": "Iran to attend UN assembly in New York \u2014 even as peace with US remains elusive",
+      "title": "Uncle Waffles wanted to be more than a DJ. Now she\u2019s proving she is",
       "date": "2026-09-23",
-      "url": "https://edition.cnn.com/2026/09/21/middleeast/iran-president-un-general-assembly-new-york-intl"
+      "url": "https://edition.cnn.com/world/africa/uncle-waffles-wanted-to-be-more-than-a-dj-spc"
+    },
+    {
+      "title": "Venezuela\u2019s unelected leader Delcy Rodr\u00edguez seeks lost legitimacy. Will she get it?",
+      "date": "2026-09-23",
+      "url": "https://edition.cnn.com/2026/09/23/americas/us-venezuela-rodriguez-un-trump-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Is Nepal's flood a harbinger of what's to come in the Himalayas?",
+      "date": "2026-09-23",
+      "url": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower"
+    },
+    {
+      "title": "Dems have an edge over GOP, poll finds. And, ICE looks into 'mobile detention centers'",
+      "date": "2026-09-23",
+      "url": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice"
+    },
+    {
+      "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They'll vote",
+      "date": "2026-09-23",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri"
+    },
+    {
+      "title": "DOJ defends White House media ban, urges court to reject lawsuit",
+      "date": "2026-09-23",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban"
+    },
+    {
+      "title": "Major news outlets banned by Trump will have their day in court",
+      "date": "2026-09-23",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Indian billionaire\u2019s payments firm plots biggest London flotation in years",
+      "date": "2026-09-23",
+      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money"
+    },
+    {
+      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
+      "date": "2026-09-23",
+      "url": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming"
+    },
     {
       "title": "Jamaica hails King\u2019s decision to refer slavery reparations petition to privy council as \u2018really big deal\u2019",
       "date": "2026-09-23",
       "url": "https://www.theguardian.com/world/2026/sep/23/jamaica-king-charles-to-refer-slavery-reparations-petition-to-privy-council"
     },
     {
-      "title": "Australia news live: Albanese meets with Japan\u2019s PM for first time since melon-gate; police offer $1m for Gus Lamont information",
-      "date": "2026-09-23",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb"
-    },
-    {
-      "title": "Liberal operative was offered $1,000 to get media to cover \u2018grubby rumour\u2019 minister was having affair, Icac hears",
+      "title": "A \u2018grubby rumour\u2019 and a $5m extortion attempt: former Toplace executive gives Icac evidence",
       "date": "2026-09-23",
       "url": "https://www.theguardian.com/australia-news/2026/sep/23/sharangan-maheswaran-jean-nassif-david-elliott-affair-rumour-icac-ntwnfb"
     },
     {
-      "title": "Senior Liberals rubbish Barnaby Joyce\u2019s claim of talks over deal with One Nation as \u2018figment of his imagination\u2019",
+      "title": "Shoebridge says US submission on online safety laws an \u2018extraordinary intervention\u2019 \u2013 as it happened",
       "date": "2026-09-23",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/23/liberals-rubbish-barnaby-joyce-one-nation-coalition-supply-confidence-deal-ntwnfb"
-    },
-    {
-      "title": "Jesse Baird \u2018petrified\u2019 of Beau Lamarre-Condon and kept repeating \u2018he has a gun\u2019, court hears",
-      "date": "2026-09-23",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/23/beau-lamarre-condon-trial-jesse-baird-luke-davies-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Venezuelans protest interim leader Delcy Rodriguez at UN headquarters",
+      "title": "Qatar on mediation efforts: \u2018We can\u2019t let diplomacy fail\u2019",
       "date": "2026-09-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss"
     },
     {
-      "title": "Wall Street\u2019s Nasdaq hits all-time high as AI frenzy gathers pace",
+      "title": "China\u2019s swimming prodigy Yu Zidi bags third gold in Asian Games record",
       "date": "2026-09-23",
-      "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
     },
     {
-      "title": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
+      "title": "Powerful El Nino could cause more than 450,000 deaths, scientists say",
       "date": "2026-09-23",
-      "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss"
     },
     {
-      "title": "UK Prime Minister vows not to \u2018stand by\u2019 as Palestinians suffer",
+      "title": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
       "date": "2026-09-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss"
     },
     {
-      "title": "South Sudan\u2019s Kiir dissolves government ahead of first national elections",
+      "title": "Yemen government forces claim control of Mount Qarfan in Taiz",
       "date": "2026-09-23",
-      "url": "https://www.aljazeera.com/news/2026/9/23/south-sudan-dissolves-government-ahead-of-first-ever-national-elections?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Two students dead in Mississippi",
+      "title": "Trump Welcomes Xi Jinping After UNGA Speech Threatening Iran",
       "date": "2026-09-23",
-      "url": "https://www.nbcnews.com/nightly-news/video/two-students-dead-in-mississippi-270335557697"
+      "url": "https://www.today.com/video/trump-welcomes-xi-jinping-after-unga-speech-threatening-iran-270353989626"
+    },
+    {
+      "title": "New campaign aims to help millions at risk of losing Medicaid coverage under work requirements",
+      "date": "2026-09-23",
+      "url": "https://www.nbcnews.com/politics/politics-news/new-campaign-help-millions-risk-losing-medicaid-work-requirements-rcna598149"
+    },
+    {
+      "title": "We want to hear about your experience with Tricare medical coverage",
+      "date": "2026-09-23",
+      "url": "https://www.nbcnews.com/news/us-news/tricare-military-medical-coverage-share-experience-rcna598314"
+    },
+    {
+      "title": "ICE Under Scrutiny After Incidents in Illinois, Texas, and Michigan",
+      "date": "2026-09-23",
+      "url": "https://www.today.com/video/ice-under-scrutiny-after-incidents-in-illinois-texas-and-michigan-270354501799"
+    },
+    {
+      "title": "Trump\u2019s Iran threat at the U.N. and Ole Miss students found dead: Morning Rundown",
+      "date": "2026-09-23",
+      "url": "https://www.nbcnews.com/news/us-news/trump-iran-un-speech-ole-miss-students-morning-rundown-rcna599349"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-23T01:00:39.212234"
+    "updated_at": "2026-09-23T09:00:38.237840"
   }
 }
