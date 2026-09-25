@@ -1,91 +1,132 @@
 {
   "BBC": [
     {
-      "title": "Watch: The world\u2019s two most powerful men just met. How did it go?",
+      "title": "Noah Woods left playground through gap in fence, inquest hears",
       "date": "2026-09-25",
-      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
       "date": "2026-09-25",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
       "date": "2026-09-25",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "title": "Families failed by decision to bail sex offender to flat near playground, victims' commissioner says",
       "date": "2026-09-25",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Xi urges rivals to coexist in peace' and 'It's on at last'",
+      "title": "Jay-Z rape accuser says her allegation was false",
       "date": "2026-09-25",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0z5pdy1kdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Zelensky says Trump has made \u2018final decision\u2019 to allow Kyiv to make Patriot missiles",
+      "date": "2026-09-25",
+      "url": "https://edition.cnn.com/2026/09/25/europe/trump-zelensky-patriots-manufacture-intl"
+    },
+    {
+      "title": "War has returned to Ethiopia\u2019s Tigray \u2014 and former enemies are now fighting together. What changed?",
+      "date": "2026-09-25",
+      "url": "https://edition.cnn.com/2026/09/25/africa/war-returns-to-ethiopias-tigray-intl"
+    },
+    {
+      "title": "The Trump-Xi meeting was heavy on pomp, light on substance. China is just fine with that",
+      "date": "2026-09-25",
+      "url": "https://edition.cnn.com/2026/09/25/world/xi-dc-trump-analysis-intl-hnk"
+    },
     {
       "title": "Key speeches and moments from UNGA Day 3: Netanyahu lambasts Iran, defends Gaza war",
       "date": "",
       "url": "https://edition.cnn.com/2026/09/24/world/live-news/un-general-assembly-netanyahu"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+      "date": "2026-09-25",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates"
+    },
+    {
+      "title": "Why this Pok\u00e9mon set is dropping in value",
+      "date": "2026-09-25",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value"
+    },
+    {
+      "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+      "date": "2026-09-25",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly"
+    },
+    {
+      "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
+      "date": "2026-09-25",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage"
+    },
+    {
+      "title": "Fill in the blank in the quiz: Trump's says his triumphal arch will include _____",
+      "date": "2026-09-25",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "date": "2026-09-25",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico"
+    },
     {
       "title": "Lula says Trump wants to \u2018colonise\u2019 and capture Brazil\u2019s resources by meddling in election",
       "date": "2026-09-25",
       "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election"
     },
     {
-      "title": "Australia news live: Angus Taylor accuses PM of \u2018swanning around\u2019 at UN instead of making fuel cheaper; NSW renters to benefit from new laws",
+      "title": "Pocock calls for AI safety act after Medicare breach \u2013 as it happened",
       "date": "2026-09-25",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb"
     },
     {
-      "title": "NSW police officer killed \u2018instantly\u2019 after car she was travelling in crashed into tree in Redfern",
+      "title": "PM rejects \u2018nonsense\u2019 suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
       "date": "2026-09-25",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack"
     },
     {
-      "title": "One Nation admits using party funds to build $56,000 shed on James Ashby\u2019s private property",
-      "date": "2026-09-25",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/25/one-nation-admits-to-using-party-funds-to-build-56000-shed-on-james-ashbys-private-property-ntwnfb"
-    },
-    {
-      "title": "Beau Lamarre-Condon used friend to help fake cancer diagnosis before alleged double murder, court told",
+      "title": "NSW cop asked friend \u2018what would you do if I told you I killed somebody\u2019 before alleged murders, court told",
       "date": "2026-09-25",
       "url": "https://www.theguardian.com/australia-news/2026/sep/25/beau-lamarre-condon-trial-cop-faked-cancer-sydney-murders-jesse-baird-luke-davies-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Young men flee Tigray amid fears of forced recruitment",
+      "title": "Humanitarian crisis worsens in Ceuta as thousands remain stranded",
       "date": "2026-09-25",
-      "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/25/humanitarian-crisis-worsens-in-ceuta-as-thousands-remain-stranded?traffic_source=rss"
     },
     {
-      "title": "Oil prices jump after Yemen\u2019s Houthis claim attacks on Saudi facilities",
+      "title": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
       "date": "2026-09-25",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss"
     },
     {
-      "title": "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+      "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
       "date": "2026-09-25",
-      "url": "https://www.aljazeera.com/news/2026/9/25/saudi-turkish-pakistani-chiefs-plan-urgent-talks-amid-yemen-fighting?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss"
     },
     {
-      "title": "When AI\u2019s moving this fast, who\u2019s protecting us?",
+      "title": "What\u2019s in Iran\u2019s seven-day plan to reopen the Strait of Hormuz?",
       "date": "2026-09-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/when-ais-moving-this-fast-whos-protecting-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss"
     },
     {
-      "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
       "date": "2026-09-25",
-      "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -100,22 +141,22 @@
       "url": "https://www.nbcnews.com/video/cnn-ms-now-turned-away-from-state-dinner-event-despite-court-order-to-restore-access-270489669793"
     },
     {
-      "title": "Pittsburgh pediatric doctor fatally stabbed and wife wounded in attack as they slept",
+      "title": "Trump seeks to impress Xi Jinping and Bill Gates calls for AI oversight: Morning Rundown",
       "date": "2026-09-25",
-      "url": "https://www.nbcnews.com/news/us-news/pittsburgh-pediatric-doctor-fatally-stabbed-wife-wounded-attack-slept-rcna599769"
+      "url": "https://www.nbcnews.com/news/us-news/trump-xi-jinping-summit-bill-gates-ai-oversight-morning-rundown-rcna599789"
     },
     {
-      "title": "New Jersey\u2019s governor calls on her lieutenant governor to resign over ethics report",
+      "title": "Bill Gates says AI companies self-regulating isn\u2019t enough and governments should be involved",
       "date": "2026-09-25",
-      "url": "https://www.nbcnews.com/politics/politics-news/new-jerseys-governor-calls-lieutenant-governor-resign-ethics-report-rcna599771"
+      "url": "https://www.nbcnews.com/politics/politics-news/bill-gates-ai-companies-self-regulating-governments-monitoring-rcna599619"
     },
     {
-      "title": "Trump rolls out red carpets for Xi, though he has portrayed China as a global menace",
+      "title": "Inside NBC News\u2019 polling averages: Democrats enjoy biggest lead yet in the race for Congress",
       "date": "2026-09-25",
-      "url": "https://www.nbcnews.com/politics/donald-trump/trump-rolls-red-carpets-xi-jinping-though-portrayed-china-global-menac-rcna599250"
+      "url": "https://www.nbcnews.com/politics/2026-election/nbc-news-polling-averages-democrats-enjoy-biggest-lead-yet-race-congre-rcna599378"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-25T01:00:39.763967"
+    "updated_at": "2026-09-25T09:00:38.866744"
   }
 }
