@@ -1,0 +1,100 @@
+{
+  "BBC": [
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot"
+    },
+    {
+      "title": "British climber, 28, dies in fall in northern Spain",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain"
+    },
+    {
+      "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one"
+    },
+    {
+      "title": "Trump cancels nearly $1bn in funding approved by Congress",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding"
+    },
+    {
+      "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "The bombs are still falling. Does diplomacy even work?",
+      "date": "2026-09-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss"
+    },
+    {
+      "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+      "date": "2026-09-26",
+      "url": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss"
+    },
+    {
+      "title": "UNGA81: Why has Africa\u2019s Security Council reform push remained unresolved?",
+      "date": "2026-09-26",
+      "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss"
+    },
+    {
+      "title": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+      "date": "2026-09-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss"
+    },
+    {
+      "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
+      "date": "2026-09-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Hurricane Nolo expected to bring heavy rain as it skirts Hawaii\u2019s Big Island",
+      "date": "2026-09-26",
+      "url": "https://www.nbcnews.com/news/us-news/hurricane-nolo-expected-bring-heavy-rain-skirts-hawaiis-big-island-rcna599924"
+    },
+    {
+      "title": "Yemen\u2019s civil war returns and overwhelms hospitals with \u2018a very dangerous situation\u2019",
+      "date": "2026-09-26",
+      "url": "https://www.nbcnews.com/world/yemen/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-rcna599934"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-09-26T01:00:38.854226"
+  }
+}
