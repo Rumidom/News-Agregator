@@ -1,38 +1,100 @@
 {
   "BBC": [
     {
+      "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The computer hacker who tried to take down Man City",
+      "date": "2026-09-26",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "date": "2026-09-26",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "title": "Rayner criticises visa rule proposals ahead of Labour conference",
       "date": "2026-09-26",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "title": "Republic of Ireland news conference delayed before controversial Israel game",
       "date": "2026-09-26",
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "date": "2026-09-26",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Papers: 'Verdicts that rocked football' and 'Burnham bottles it'",
-      "date": "2026-09-26",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dwwp20690o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Thai capital Bangkok declared disaster zone amid widespread flooding",
+      "date": "2026-09-26",
+      "url": "https://edition.cnn.com/2026/09/26/asia/bangkok-flooding-disaster-zone-thailand-intl"
+    },
+    {
+      "title": "France\u2019s prestigious Goncourt prize drops novel after author accused of using AI",
+      "date": "2026-09-26",
+      "url": "https://edition.cnn.com/2026/09/26/europe/frances-goncourt-prize-author-ai"
+    },
+    {
+      "title": "A good week for Iran at the UN \u2013 but latest offer to the US appears a non-starter",
+      "date": "2026-09-26",
+      "url": "https://edition.cnn.com/2026/09/25/middleeast/iran-unga-us-hormuz-intl"
+    },
+    {
+      "title": "Did Hitler kill his niece? Newly found records raise fresh questions over 95-year-old mystery",
+      "date": "2026-09-26",
+      "url": "https://edition.cnn.com/2026/09/25/europe/germany-hitler-raubal-history-intl"
+    },
+    {
+      "title": "The Trump-Xi meeting was heavy on pomp, light on substance. China is just fine with that",
+      "date": "2026-09-26",
+      "url": "https://edition.cnn.com/2026/09/25/world/xi-dc-trump-analysis-intl-hnk"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+      "date": "2026-09-26",
+      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji"
+    },
+    {
+      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "date": "2026-09-26",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions"
+    },
+    {
+      "title": "The U.S. has more thalidomide survivors than the government admits",
+      "date": "2026-09-26",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government"
+    },
+    {
+      "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+      "date": "2026-09-26",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts"
+    },
+    {
+      "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+      "date": "2026-09-26",
+      "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections"
+    },
     {
       "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
       "date": "2026-09-26",
       "url": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot"
+    },
+    {
+      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+      "date": "2026-09-26",
+      "url": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests"
     },
     {
       "title": "British climber, 28, dies in fall in northern Spain",
@@ -40,61 +102,66 @@
       "url": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain"
     },
     {
-      "title": "White House blocks CNN from Air Force One in latest escalation with news media",
+      "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
       "date": "2026-09-26",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one"
-    },
-    {
-      "title": "Trump cancels nearly $1bn in funding approved by Congress",
-      "date": "2026-09-26",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/trump-cancels-congress-funding"
-    },
-    {
-      "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-      "date": "2026-09-26",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt"
+      "url": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "The bombs are still falling. Does diplomacy even work?",
+      "title": "Blast in Pakistan\u2019s Dera Ismail Khan kills several people",
       "date": "2026-09-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/the-bombs-are-still-falling-does-diplomacy-even-work?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss"
     },
     {
-      "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+      "title": "Pezeshkian says Iran \u2018no longer trusts talks with Washington\u2019",
       "date": "2026-09-26",
-      "url": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss"
     },
     {
-      "title": "UNGA81: Why has Africa\u2019s Security Council reform push remained unresolved?",
+      "title": "Ebola spreads in DR Congo, putting neighbouring nations at risk",
       "date": "2026-09-26",
-      "url": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-ebola-spreading-borders-drc-dr?traffic_source=rss"
     },
     {
-      "title": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+      "title": "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
       "date": "2026-09-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss"
     },
     {
-      "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
+      "title": "Israel bans Arab parties from election: Who they are, why it matters",
       "date": "2026-09-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Hurricane Nolo expected to bring heavy rain as it skirts Hawaii\u2019s Big Island",
+      "title": "Europe frets as the Kremlin pushes the limits of its hybrid warfare",
       "date": "2026-09-26",
-      "url": "https://www.nbcnews.com/news/us-news/hurricane-nolo-expected-bring-heavy-rain-skirts-hawaiis-big-island-rcna599924"
+      "url": "https://www.nbcnews.com/world/europe/europe-frets-kremlin-pushes-limits-hybrid-warfare-rcna599351"
     },
     {
-      "title": "Yemen\u2019s civil war returns and overwhelms hospitals with \u2018a very dangerous situation\u2019",
+      "title": "Some lawmakers doubt a Congress that\u2019s \u2018barely capable of email\u2019 can regulate AI",
       "date": "2026-09-26",
-      "url": "https://www.nbcnews.com/world/yemen/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-rcna599934"
+      "url": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824"
+    },
+    {
+      "title": "A federal agency is allegedly hacked, and an Olympic gymnast\u2019s home is burglarized: The news quiz",
+      "date": "2026-09-26",
+      "url": "https://www.nbcnews.com/news/news-quiz/white-house-media-ban-rcna599668"
+    },
+    {
+      "title": "Iran says choice on reopening Hormuz \u2018rests with the United States\u2019 after deal offer",
+      "date": "2026-09-26",
+      "url": "https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956"
+    },
+    {
+      "title": "Some lawmakers doubt a Congress that\u2019s \u2018barely capable of email\u2019 can regulate AI",
+      "date": "2026-09-26",
+      "url": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-26T01:00:38.854226"
+    "updated_at": "2026-09-26T09:00:38.777384"
   }
 }
