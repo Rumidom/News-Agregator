@@ -1,36 +1,51 @@
 {
   "BBC": [
     {
-      "title": "Protesters disperse after blocking contentious Orange Order parade",
+      "title": "Watch: Were the RAF Fairford arrests 'pure luck'?",
       "date": "2026-09-28",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+      "title": "UK diesel price hits all-time high, RAC says",
       "date": "2026-09-28",
-      "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Late September warmth before wind and rain returns this week",
+      "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
       "date": "2026-09-28",
-      "url": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Avanti West Coast services to be nationalised next year",
+      "title": "Police block Protestant Orange Order from controversial parade route",
       "date": "2026-09-28",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Iran link to RAF bomb plot' and 'Tax rise talks at No 10'",
+      "title": "Three dead, including child, in Channel crossing attempt",
       "date": "2026-09-28",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk5vd636m5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Questions loom over alleged UK terror plot near air base used by US bombers",
+      "date": "2026-09-28",
+      "url": "https://edition.cnn.com/2026/09/28/uk/raf-fairford-key-questions-terror-suspects-arrests-intl"
+    },
+    {
+      "title": "Netanyahu made a secret visit to the UAE on Sunday, source says",
+      "date": "2026-09-28",
+      "url": "https://edition.cnn.com/2026/09/28/middleeast/israel-netanyahu-secret-visit-uae-intl"
+    },
+    {
       "title": "UK police arrest five men on suspicion of terror offenses near air base used by US forces",
       "date": "2026-09-28",
       "url": "https://edition.cnn.com/2026/09/27/uk/fairford-arrests-uk-raf-us-intl"
+    },
+    {
+      "title": "At least four dead, others missing in avalanche as severe weather batters Nepal",
+      "date": "2026-09-28",
+      "url": "https://edition.cnn.com/2026/09/27/asia/nepal-avalanche-missing-intl-hnk"
     },
     {
       "title": "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer",
@@ -38,7 +53,33 @@
       "url": "https://edition.cnn.com/2026/09/27/asia/south-korea-ukraine-north-pows-latam-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump aims to leave a physical legacy in D.C., bulldozing norms along the way",
+      "date": "2026-09-28",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy"
+    },
+    {
+      "title": "British police investigate if arrests near U.S. air base foiled an Iran-linked attack",
+      "date": "2026-09-28",
+      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack"
+    },
+    {
+      "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
+      "date": "2026-09-28",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research"
+    },
+    {
+      "title": "What to know about the $810 million in spending canceled by President Trump",
+      "date": "2026-09-28",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5982739/what-to-know-about-the-810-million-in-spending-canceled-by-president-trump"
+    },
+    {
+      "title": "How to limit the rat numbers? Train the humans",
+      "date": "2026-09-28",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
@@ -46,63 +87,68 @@
       "url": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons"
     },
     {
-      "title": "Australia news live: Chalmers says \u2018near universal expectation\u2019 of global rate hikes; whale carcass prompts shark warnings at Perth beach",
+      "title": "Bangkok declared a \u2018disaster zone\u2019 after flooding, as rainstorms shift direction",
       "date": "2026-09-28",
-      "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb"
+      "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone"
     },
     {
-      "title": "Beau Lamarre-Condon told friend if he killed anyone he\u2019d dump belongings in bin and take bodies to bushland, court hears",
+      "title": "Larissa Waters steps down as Greens leader due to ill health",
       "date": "2026-09-28",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/beau-lamarre-condon-murder-trial-court-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb"
     },
     {
-      "title": "France\u2019s far-right National Rally surges in Senate elections",
+      "title": "Plan for controversial $1.2bn datacentre in Sydney scrapped due to \u2018emerging\u2019 regulations",
       "date": "2026-09-28",
-      "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/plan-for-controversial-12bn-datacentre-in-sydney-scrapped-due-to-emerging-regulations"
     },
     {
-      "title": "Protesters disperse after blocking route for loyalist march in Portadown",
+      "title": "After a dead whale washed up at a Perth beach, some took selfies. Others held their nose from the stench",
       "date": "2026-09-28",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route"
+      "url": "https://www.theguardian.com/australia-news/2026/sep/28/after-a-dead-whale-washed-up-at-a-perth-beach-some-took-selfies-others-held-their-nose-from-the-stench"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
+      "title": "Israeli fans direct monkey chants and military slogans at Ireland\u2019s players",
       "date": "2026-09-28",
-      "url": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss"
     },
     {
-      "title": "Venezuelans rally for opposition leader\u2019s return and presidential elections",
+      "title": "Fighting between rival forces in Somalia\u2019s Baidoa",
       "date": "2026-09-28",
-      "url": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss"
     },
     {
-      "title": "Palestine Action protesters arrested outside UK Labour Party conference",
+      "title": "Indian university suspends classes amid violent protests over alleged rape",
       "date": "2026-09-28",
-      "url": "https://www.aljazeera.com/news/2026/9/28/palestine-action-protesters-arrested-outside-uk-labour-party-conference?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/28/indian-university-suspends-classes-amid-violent-protests-over-alleged-rape?traffic_source=rss"
     },
     {
-      "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
+      "title": "Israeli football fans chant military slogans after defeat to Ireland",
       "date": "2026-09-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss"
     },
     {
-      "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
+      "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
       "date": "2026-09-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-foreign-secretary-confronted-by-activists-over-palestine-action-ban?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Watch highlights from the 2026 MTV Video Music Awards",
+      "title": "Right-wing conservatives push to shut down the last active Jan. 6 prosecution",
       "date": "2026-09-28",
-      "url": "https://www.nbcnews.com/video/watch-highlights-from-the-2026-mtv-video-music-awards-270634053639"
+      "url": "https://www.nbcnews.com/politics/justice-department/right-wing-conservatives-push-shut-last-active-jan-6-prosecution-rcna597038"
     },
     {
-      "title": "Benjamin Satterley, globetrotting wrestler known as Pac, dies at 40",
+      "title": "5 Arrested on Suspected Terror Plot at US Air Base in Britain",
       "date": "2026-09-28",
-      "url": "https://www.nbcnews.com/sports/wrestling/benjamin-satterley-globetrotting-wrestler-pac-dies-at-40-rcna600165"
+      "url": "https://www.today.com/video/5-men-arrested-on-suspected-terror-plot-at-us-air-base-in-britain-270642245507"
+    },
+    {
+      "title": "Nor\u2019easter Lashes East Coast, Leaves Thousands Without Power",
+      "date": "2026-09-28",
+      "url": "https://www.today.com/video/nor-easter-unearths-fragments-of-19th-century-shipwreck-270639685787"
     },
     {
       "title": "White House releases new taxpayer-funded ad describing \u2018final battle\u2019",
@@ -110,17 +156,12 @@
       "url": "https://www.nbcnews.com/politics/trump-administration/white-house-releases-new-taxpayer-funded-ad-describing-final-battle-rcna600171"
     },
     {
-      "title": "Madonna\u2019s big night, Taylor Swift\u2019s record and a Dolly Parton tribute at MTV VMAs",
+      "title": "Watch highlights from the 2026 MTV Video Music Awards",
       "date": "2026-09-28",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/mtv-vmas-2026-highlights-dolly-parton-tribute-taylor-swift-new-music-rcna599886"
-    },
-    {
-      "title": "Benjamin Satterley, globetrotting wrestler known as Pac, dies at 40",
-      "date": "2026-09-28",
-      "url": "https://www.nbcnews.com/sports/wrestling/benjamin-satterley-globetrotting-wrestler-pac-dies-at-40-rcna600165"
+      "url": "https://www.nbcnews.com/video/watch-highlights-from-the-2026-mtv-video-music-awards-270634053639"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-28T01:00:38.672003"
+    "updated_at": "2026-09-28T09:00:36.063605"
   }
 }
