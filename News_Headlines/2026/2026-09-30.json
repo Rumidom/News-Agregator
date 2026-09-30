@@ -1,95 +1,167 @@
 {
   "BBC": [
     {
+      "title": "Move to rejoin EU among options for UK, says Burnham",
+      "date": "2026-09-30",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "One of the five men arrested near RAF Fairford called 999 himself",
       "date": "2026-09-30",
       "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Antisemitism on the rise at universities, charity warns",
+      "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
       "date": "2026-09-30",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hidden habits that make your social anxiety worse - and how to break them",
+      "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
       "date": "2026-09-30",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Burnham's triple shock' and 'City face expulsion'",
+      "title": "The transfers that helped Man City dominate while breaking financial rules",
       "date": "2026-09-30",
-      "url": "https://www.bbc.co.uk/news/articles/crd941kkejy4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "How AI is creating a UK super-museum and revealing our planet's history",
-      "date": "2026-09-30",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Israel-bound plane drops 17,000 feet after pilot reportedly stabbed",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/09/30/world/live-news/dubai-israel-plane-flydubai-intl"
+    },
+    {
+      "title": "Money the \u2018root cause\u2019 behind Hong Kong socialite Abby Choi\u2019s murder, prosecutors say",
+      "date": "2026-09-30",
+      "url": "https://edition.cnn.com/2026/09/30/china/hong-kong-abby-choi-murder-trial-begins-intl-hnk"
+    },
+    {
+      "title": "Harry and Meghan blame \u2018extraordinarily reckless\u2019 paparazzi for security scare at children\u2019s school",
+      "date": "2026-09-30",
+      "url": "https://edition.cnn.com/2026/09/30/uk/harry-meghan-children-school-paparazzi-security-intl"
+    },
+    {
+      "title": "Suspect in alleged plot against British base called police before arrest, UK media report",
+      "date": "2026-09-30",
+      "url": "https://edition.cnn.com/2026/09/30/uk/suspect-police-terrorism-uk-base-fairford-intl-hnk"
+    },
+    {
+      "title": "The US military says its withdrawal of troops from Iraq is complete",
+      "date": "2026-09-30",
+      "url": "https://edition.cnn.com/2026/09/30/middleeast/us-military-withdrawal-iraq-intl"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "date": "2026-09-30",
+      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai"
+    },
+    {
+      "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
+      "date": "2026-09-30",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation"
+    },
+    {
+      "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "date": "2026-09-30",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah"
+    },
+    {
+      "title": "The moment you've been waiting for: America's best student podcasts",
+      "date": "2026-09-30",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists"
+    },
+    {
+      "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+      "date": "2026-09-30",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Concern over Sydney airport as near misses and runway incursions at 20% above national average",
+      "title": "AI tool that copied actor\u2019s \u2018lustrous\u2019 voice violated his rights, Tokyo court rules",
       "date": "2026-09-30",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/30/sydney-airport-safety-investigation-plane-incidents-near-collisions-staffing"
+      "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court"
     },
     {
-      "title": "Australia news live: Chalmers blames inflation on high fuel costs and end of energy rebates; Faruqi \u2018disappointed\u2019 after Greens ballot",
+      "title": "South Korea calls for apology from North Korea after mine injures three soldiers",
+      "date": "2026-09-30",
+      "url": "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers"
+    },
+    {
+      "title": "Malaysia begins Myanmar repatriations despite warnings from UN and rights groups",
+      "date": "2026-09-30",
+      "url": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups"
+    },
+    {
+      "title": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
+      "date": "2026-09-30",
+      "url": "https://www.theguardian.com/world/2026/sep/30/indonesia-prison-officials-suspended-luxury-apartments-prisoners"
+    },
+    {
+      "title": "Peugeot recalls hundreds of cars in Australia over issue that could increase \u2018risk of serious injury or death\u2019 \u2013 as it happened",
       "date": "2026-09-30",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb"
-    },
-    {
-      "title": "ABC finance journalist Alan Kohler to retire after three decades as Jim Chalmers says he will be \u2018really missed\u2019",
-      "date": "2026-09-30",
-      "url": "https://www.theguardian.com/media/2026/sep/30/abc-finance-journalist-alan-kohler-to-retire-after-three-decades-as-jim-chalmers-says-he-will-be-really-missed"
-    },
-    {
-      "title": "David Shoebridge says \u2018we\u2019re here to replace Labor\u2019 in first remarks after being elected new Greens leader",
-      "date": "2026-09-30",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters"
-    },
-    {
-      "title": "An EV sold every 100 seconds: Australian demand for electric cars more than doubles",
-      "date": "2026-09-30",
-      "url": "https://www.theguardian.com/environment/2026/sep/30/australia-electric-cars-vehichles-ev-sales-double"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Trump backs AI self-regulation at tech summit but is it enough?",
+      "title": "N Korea and S Korea exchange threats over DMZ blast",
       "date": "2026-09-30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss"
     },
     {
-      "title": "Somali pirates killed five crew members on hijacked tanker, officials say",
+      "title": "The October 7 warnings threatening Netanyahu\u2019s Israeli election campaign",
       "date": "2026-09-30",
-      "url": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss"
     },
     {
-      "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+      "title": "What\u2019s behind French student protests that turned violent?",
       "date": "2026-09-30",
-      "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss"
     },
     {
-      "title": "Protesters block Orange Order march in Northern Ireland",
+      "title": "\u2018We no longer eat three meals\u2019: Yemen\u2019s displaced face daily fight for food",
       "date": "2026-09-30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/protesters-block-orange-order-march-in-northern-ireland?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss"
     },
     {
-      "title": "King appoints Morocco\u2019s first female prime minister",
+      "title": "What will happen to Man City after the Premier League\u2019s guilty verdict?",
       "date": "2026-09-30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Florida mom left infant, toddler and 2 other kids home alone while she went on 3-day cruise, officials say",
+      "title": "Violent Incident Between Pilots Forces Israel Flight Diversion",
       "date": "2026-09-30",
-      "url": "https://www.nbcnews.com/news/us-news/mom-left-infant-toddler-two-kids-home-alone-went-3-day-cruise-official-rcna600587"
+      "url": "https://www.today.com/video/israel-bound-flight-diverted-amid-reports-pilot-was-stabbed-270775877830"
+    },
+    {
+      "title": "Democrats eye Nebraska as an opportunity to take a Senate seat away from Republicans",
+      "date": "2026-09-30",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-nebraska-senate-seat-republicans-rcna594910"
+    },
+    {
+      "title": "California voters back a billionaire tax, but the proposal falls short of majority support",
+      "date": "2026-09-30",
+      "url": "https://www.nbcnews.com/politics/2026-election/california-poll-voters-back-billionaire-tax-proposal-falls-short-major-rcna600354"
+    },
+    {
+      "title": "Cornell rape allegations highlight consent laws and Israeli settlers attack family trying to return home: Morning Rundown",
+      "date": "2026-09-30",
+      "url": "https://www.nbcnews.com/news/us-news/cornell-rape-allegations-highlight-consent-laws-israeli-settlers-attac-rcna600595"
+    },
+    {
+      "title": "California voters back a billionaire tax, but the proposal falls short of majority support",
+      "date": "2026-09-30",
+      "url": "https://www.nbcnews.com/politics/2026-election/california-poll-voters-back-billionaire-tax-proposal-falls-short-major-rcna600354"
     }
   ],
   "_meta": {
-    "updated_at": "2026-09-30T01:00:38.986979"
+    "updated_at": "2026-09-30T09:00:37.830481"
   }
 }
