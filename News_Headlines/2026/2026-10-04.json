@@ -1,38 +1,75 @@
 {
   "BBC": [
     {
-      "title": "Burnham scraps controversial plans to curb jury trials",
+      "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
       "date": "2026-10-04",
       "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "title": "Badenoch unveils plan to end \u00a3100,000 childcare 'cliff edge' ahead of Tory conference",
       "date": "2026-10-04",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Celebrity Traitors connections that might surprise you",
+      "title": "Australia investigating Flydubai co-pilot's links to country",
       "date": "2026-10-04",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "When parenting advice becomes too much",
+      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
       "date": "2026-10-04",
-      "url": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "date": "2026-10-04",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Russian drone slams into major bridge in Kyiv as Germany\u2019s chancellor visits",
+      "date": "2026-10-04",
+      "url": "https://edition.cnn.com/2026/10/04/europe/russian-drone-kyiv-merz-ukraine"
+    },
+    {
+      "title": "Japan PM protests to US after Marine arrested on suspicion of murder in Okinawa",
+      "date": "2026-10-04",
+      "url": "https://edition.cnn.com/2026/10/04/asia/us-marine-murder-investigation-okinawa-hnk-intl"
+    },
+    {
+      "title": "Trump, crime and corruption loom over Brazil\u2019s presidential vote",
+      "date": "2026-10-04",
+      "url": "https://edition.cnn.com/2026/10/04/americas/brazil-president-elections-2026-latam-intl"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "She died covering war for Fox News. Her parents blame the network \u2014 and a star reporter",
+      "date": "2026-10-04",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths"
+    },
+    {
+      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "date": "2026-10-04",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Brazil goes to polls in decisive election for future of Latin America",
+      "date": "2026-10-04",
+      "url": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"
+    },
     {
       "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
       "date": "2026-10-04",
       "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts"
+    },
+    {
+      "title": "UK car industry faces \u2018difficult trade-off\u2019 between Chinese and EU markets",
+      "date": "2026-10-04",
+      "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws"
     },
     {
       "title": "No bail for P-plater over Newcastle crash that left five-year-old in induced coma and injured nine other NRL fans",
@@ -43,38 +80,33 @@
       "title": "Chalmers says global economic turmoil will drive budget cuts, but Australia should avoid recession",
       "date": "2026-10-04",
       "url": "https://www.theguardian.com/business/2026/oct/04/chalmers-says-global-economic-turmoil-will-drive-budget-cuts-but-australia-should-avoid-recession"
-    },
-    {
-      "title": "Flydubai co-pilot\u2019s time in Australia being investigated by security agencies after alleged cockpit attack",
-      "date": "2026-10-04",
-      "url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
       "date": "2026-10-04",
-      "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss"
     },
     {
-      "title": "Ballots reach remote Indigenous Brazilians ahead of presidential election",
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
       "date": "2026-10-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss"
     },
     {
-      "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
       "date": "2026-10-04",
-      "url": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss"
     },
     {
-      "title": "Ethiopian government troops seize Tigray\u2019s capital Mekelle",
+      "title": "Red Bull\u2019s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
       "date": "2026-10-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss"
     },
     {
-      "title": "Cornell president vows transparency amid outrage over fraternity rape case",
+      "title": "Is the Sudanese army gaining momentum against the RSF?",
       "date": "2026-10-04",
-      "url": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -89,22 +121,22 @@
       "url": "https://www.nbcnews.com/politics/2026-election/ken-paxtons-estranged-wife-urges-voters-back-new-ad-rcna601345"
     },
     {
-      "title": "12-year-old girl killed in Baltimore shooting sparked by apparent parking dispute",
+      "title": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa",
       "date": "2026-10-04",
-      "url": "https://www.nbcnews.com/news/us-news/12-year-old-girl-killed-baltimore-shooting-rcna601349"
+      "url": "https://www.nbcnews.com/world/japan/us-marine-arrested-suspicion-killing-japanese-woman-okinawa-rcna601367"
     },
     {
-      "title": "Trump, campaigning in Ohio, says the midterms will bring a \u2018big surprise\u2019",
+      "title": "Taylor Swift pops into \u2018SNL\u2019 to joke around with host Dakota Johnson",
       "date": "2026-10-04",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-campaigning-ohio-says-midterms-will-bring-big-surprise-rcna601150"
+      "url": "https://www.nbcnews.com/pop-culture/tv/taylor-swift-snl-host-dakota-johnson-rcna601364"
     },
     {
-      "title": "Ken Paxton\u2019s estranged wife urges voters to back his Senate bid, yet avoids mentioning him by name",
+      "title": "U.S. Marine arrested on suspicion of killing Japanese woman in Okinawa",
       "date": "2026-10-04",
-      "url": "https://www.nbcnews.com/politics/2026-election/ken-paxtons-estranged-wife-urges-voters-back-new-ad-rcna601345"
+      "url": "https://www.nbcnews.com/world/japan/us-marine-arrested-suspicion-killing-japanese-woman-okinawa-rcna601367"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-04T01:00:38.707712"
+    "updated_at": "2026-10-04T09:00:38.753814"
   }
 }
