@@ -1,46 +1,36 @@
 {
   "BBC": [
     {
-      "title": "US removes all bombers from RAF Fairford base",
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "date": "2026-10-05",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Andrew takes legal action over search warrants before his arrest",
+      "title": "Author and former politician Jeffrey Archer dies aged 86",
       "date": "2026-10-05",
-      "url": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Spanish PM S\u00e1nchez calls early election after housing protests",
+      "title": "King's funding for Andrew not to be used for legal action against police",
       "date": "2026-10-05",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: How the eviction of an elderly resident in Madrid led to a snap election",
+      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
       "date": "2026-10-05",
-      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "title": "France braces for national day of school protests after injuries and mass arrests",
       "date": "2026-10-05",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Researcher at Russian plague laboratory dies of \u2018unknown\u2019 infection",
+      "title": "Saudi-backed Yemeni forces attack Houthis near key global trade route",
       "date": "2026-10-05",
-      "url": "https://edition.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl"
-    },
-    {
-      "title": "Spanish PM S\u00e1nchez calls November election amid growing housing protests",
-      "date": "2026-10-05",
-      "url": "https://edition.cnn.com/2026/10/05/europe/spain-leader-calls-snap-election-intl-hnk"
-    },
-    {
-      "title": "How Mai Atafo\u2019s tailored vision is reshaping African fashion",
-      "date": "2026-10-05",
-      "url": "https://edition.cnn.com/world/nigerian-designer-mai-atafo-african-fashion-spc"
+      "url": "https://edition.cnn.com/2026/10/04/middleeast/yemen-offensive-houthis-intl"
     },
     {
       "title": "Andrew Mountbatten-Windsor takes legal action against UK police over Epstein arrest",
@@ -48,12 +38,37 @@
       "url": "https://edition.cnn.com/2026/10/05/uk/andrew-mountbatten-windsor-uk-police-court-epstein-intl"
     },
     {
-      "title": "US Marine arrested on suspicion of murder in Okinawa, sparking outrage in Japan",
+      "title": "Alleged Flydubai hijacker likely wanted to target Israel\u2019s Ben Gurion Airport, sources say",
       "date": "2026-10-05",
-      "url": "https://edition.cnn.com/2026/10/04/asia/us-marine-murder-investigation-okinawa-hnk-intl"
+      "url": "https://edition.cnn.com/2026/10/05/middleeast/flydubai-pilot-likely-targeting-ben-gurion-airport-intl"
+    },
+    {
+      "title": "Dozens quarantined after researcher at Russian plague laboratory dies of \u2018unknown\u2019 infection",
+      "date": "2026-10-05",
+      "url": "https://edition.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl"
+    },
+    {
+      "title": "Flydubai hijacking attempt exposes worrying gaps in aviation security",
+      "date": "2026-10-05",
+      "url": "https://edition.cnn.com/2026/10/04/middleeast/security-concerns-flydubai-plane-attack-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "The iconic Arthur Read made his TV debut 30 years ago",
+      "date": "2026-10-05",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary"
+    },
+    {
+      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+      "date": "2026-10-05",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit"
+    },
+    {
+      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+      "date": "2026-10-05",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone"
+    },
     {
       "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
       "date": "2026-10-05",
@@ -63,105 +78,90 @@
       "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
       "date": "2026-10-05",
       "url": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed"
-    },
-    {
-      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
-      "date": "2026-10-05",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections"
-    },
-    {
-      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
-      "date": "2026-10-05",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize"
-    },
-    {
-      "title": "Former Prince Andrew files legal action to quash warrants that led to residence searches",
-      "date": "2026-10-05",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146396/former-prince-andrew-legal-action"
     }
   ],
   "The Guardian": [
+    {
+      "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+      "date": "2026-10-05",
+      "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah"
+    },
     {
       "title": "Skull fractures suggest servants of Egypt\u2019s ancient kings were sacrificed",
       "date": "2026-10-05",
       "url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed"
     },
     {
-      "title": "Quebec poised to elect separatists to power for first time more than decade",
+      "title": "Fl\u00e1vio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+      "date": "2026-10-05",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory"
+    },
+    {
+      "title": "Far right on the march and Lula\u2019s failures: key drivers of Fl\u00e1vio Bolsonaro\u2019s Brazil surge",
+      "date": "2026-10-05",
+      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula"
+    },
+    {
+      "title": "Quebec poised to elect separatists to power for first time in more than a decade",
       "date": "2026-10-05",
       "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum"
-    },
-    {
-      "title": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65",
-      "date": "2026-10-05",
-      "url": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65"
-    },
-    {
-      "title": "Brazil presidential election 2026: first-round live results",
-      "date": "2026-10-05",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results"
-    },
-    {
-      "title": "Brazil\u2019s presidential race goes to second round as Fl\u00e1vio Bolsonaro leads incumbent Lula",
-      "date": "2026-10-05",
-      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Growing outrage in Japan after US Marine arrested in woman\u2019s killing",
+      "title": "Whistleblower warns that humans don\u2019t control AI",
       "date": "2026-10-05",
-      "url": "https://www.aljazeera.com/news/2026/10/5/growing-outrage-in-japan-after-us-marine-arrested-in-womans-killing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss"
     },
     {
-      "title": "US abruptly withdraws bombers from UK\u2019s RAF Fairford",
+      "title": "Trump\u2019s approval hits new low among Hispanic voters ahead of midterms",
       "date": "2026-10-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/5/trumps-approval-hits-new-low-among-hispanic-voters-ahead-of-midterms?traffic_source=rss"
     },
     {
-      "title": "Photos: Yemen\u2019s hospitals struggle to operate amid persistent power outages",
+      "title": "\u2018Smash the patriarchy\u2019: Activists graffiti Cornell hall over gang rape case",
       "date": "2026-10-05",
-      "url": "https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss"
     },
     {
-      "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
+      "title": "Super-subs help France demolish Belgium with late flurry",
       "date": "2026-10-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss"
     },
     {
-      "title": "Former Prince Andrew launches challenge to \u2018quash\u2019 police search warrants",
+      "title": "Ethiopia\u2019s PM insists on access to Red Sea despite regional conflict threat",
       "date": "2026-10-05",
-      "url": "https://www.aljazeera.com/news/2026/10/5/former-prince-andrew-launches-challenge-to-quash-police-search-warrants?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Cornell President Releases Video Statement as Controversy Grows",
+      "title": "Cornell students protest handling of alleged 2024 sexual assault",
       "date": "2026-10-05",
-      "url": "https://www.today.com/video/cornell-president-tries-to-calm-campus-outrage-with-statement-271008837612"
+      "url": "https://www.nbcnews.com/video/cornell-students-protest-handling-of-alleged-2024-sexual-assault-271067205753"
     },
     {
-      "title": "Researcher at Russian Lab Dies After Potential Plague Exposure",
+      "title": "Supreme Court hears arguments in climate change case seeking to hold companies liable",
       "date": "2026-10-05",
-      "url": "https://www.today.com/video/researcher-at-russian-lab-dies-after-potential-plague-exposure-271010885542"
+      "url": "https://www.nbcnews.com/now/video/supreme-court-hears-arguments-in-climate-change-case-seeking-to-hold-companies-liable-271048773602"
     },
     {
-      "title": "Supreme Court term begins with climate case seeking to hold energy companies liable",
+      "title": "What to know about pneumonic plague after woman in Russia dies from mysterious illness",
       "date": "2026-10-05",
-      "url": "https://www.nbcnews.com/politics/supreme-court/new-supreme-court-term-begins-climate-change-case-seeking-hold-energy-rcna600247"
+      "url": "https://www.nbcnews.com/health/health-news/plague-suspected-russia-lab-pneumonic-siberia-symptoms-treatment-rcna601589"
     },
     {
-      "title": "Trump Rallies for Republicans Ahead of Midterm Elections",
+      "title": "Ford CEO says it's his company's responsibility to bring more affordable vehicles to the U.S.",
       "date": "2026-10-05",
-      "url": "https://www.today.com/video/trump-campaigns-for-republicans-taxpayer-funded-tv-ads-air-271007813756"
+      "url": "https://www.nbcnews.com/video/ford-ceo-says-it-s-his-company-s-responsibility-to-bring-more-affordable-vehicles-to-the-u-s-271032389846"
     },
     {
-      "title": "NFL Week 4: Redeemed QBs, the AFC\u2019s best (so far) and the record streak that finally died",
+      "title": "Former 'American Idol' contestant sentenced to life in prison without parole for wife's murder",
       "date": "2026-10-05",
-      "url": "https://www.nbcnews.com/sports/nfl/nfl-new-england-patriots-drake-maye-new-york-jets-justin-herbert-rcna601527"
+      "url": "https://www.nbcnews.com/video/former-american-idol-contestant-sentenced-to-life-in-prison-without-parole-for-wife-s-murder-271068229996"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-05T09:00:40.885088"
+    "updated_at": "2026-10-05T21:00:39.163340"
   }
 }
