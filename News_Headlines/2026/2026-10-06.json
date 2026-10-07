@@ -1,36 +1,46 @@
 {
   "BBC": [
     {
-      "title": "Watch: At the scene of student protests on the streets of Lille",
+      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
       "date": "2026-10-06",
-      "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Former German spy chief arrested for espionage and treason",
+      "title": "Watch: Police raid on gang behind fake gay asylum claims",
       "date": "2026-10-06",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tories pledge \u00a310bn for British anti-missile defence system",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
       "date": "2026-10-06",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "One million UK people who have never smoked are now vaping",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
       "date": "2026-10-06",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
       "date": "2026-10-06",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Dozens quarantined after researcher at Russian plague laboratory dies of \u2018unknown\u2019 infection",
+      "title": "Checklists, masks and mystery: What we know about the plague scare in Russia",
       "date": "2026-10-06",
-      "url": "https://edition.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl"
+      "url": "https://edition.cnn.com/2026/10/06/world/russian-plague-outbreak-what-we-know-intl"
+    },
+    {
+      "title": "US arrest announced in connection with Canada\u2019s Tumbler Ridge school shooting",
+      "date": "2026-10-06",
+      "url": "https://edition.cnn.com/2026/10/06/americas/arrest-tumbler-ridge-canada-shooting-latam-intl"
+    },
+    {
+      "title": "Saudi-backed Yemeni forces attack Houthis near key global trade route",
+      "date": "2026-10-06",
+      "url": "https://edition.cnn.com/2026/10/04/middleeast/yemen-offensive-houthis-intl"
     },
     {
       "title": "Unprecedented student protests are rocking France. Here\u2019s why they\u2019re angry",
@@ -38,46 +48,36 @@
       "url": "https://edition.cnn.com/2026/10/06/europe/france-student-protests-intl"
     },
     {
-      "title": "Former German spy chief arrested on treason and espionage allegations",
+      "title": "Someone may have hacked the North Korean UN mission\u2019s voicemail",
       "date": "2026-10-06",
-      "url": "https://edition.cnn.com/2026/10/06/europe/germany-former-intelligence-chief-arrested-intl"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor takes legal action against UK police over search warrants before arrest",
-      "date": "2026-10-06",
-      "url": "https://edition.cnn.com/2026/10/05/uk/andrew-mountbatten-windsor-uk-police-court-epstein-intl"
-    },
-    {
-      "title": "Quebec separatists vowing independence vote win provincial election but fall short of majority",
-      "date": "2026-10-06",
-      "url": "https://edition.cnn.com/2026/10/06/americas/quebec-separatist-party-elections-result-win-intl-hnk"
+      "url": "https://edition.cnn.com/2026/10/06/asia/north-korea-un-voicemail-hacked-latam-intl"
     }
   ],
   "NPR": [
     {
+      "title": "Actress Eva Marie Saint, who won an Oscar for 'On the Waterfront,' dies at 102",
+      "date": "2026-10-06",
+      "url": "https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102"
+    },
+    {
+      "title": "Cornell names former acting U.S. attorney general to review rape case",
+      "date": "2026-10-06",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review"
+    },
+    {
+      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "date": "2026-10-06",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools"
+    },
+    {
+      "title": "Here are the finalists for the 2026 National Book Awards",
+      "date": "2026-10-06",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists"
+    },
+    {
       "title": "What to know about nationwide protests in India over voter list changes",
       "date": "2026-10-06",
       "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes"
-    },
-    {
-      "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-      "date": "2026-10-06",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat"
-    },
-    {
-      "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
-      "date": "2026-10-06",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets"
-    },
-    {
-      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "date": "2026-10-06",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare"
-    },
-    {
-      "title": "What voters in 6 key states could tell us about the 2026 midterms",
-      "date": "2026-10-06",
-      "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states"
     }
   ],
   "The Guardian": [
@@ -92,76 +92,76 @@
       "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes"
     },
     {
-      "title": "Argentina to stop Falklands exploiting offshore oilfields, country\u2019s foreign minister says",
+      "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+      "date": "2026-10-06",
+      "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington"
+    },
+    {
+      "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+      "date": "2026-10-06",
+      "url": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom"
+    },
+    {
+      "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
       "date": "2026-10-06",
       "url": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty"
-    },
-    {
-      "title": "Keeping up with the Bolsonaros: Fl\u00e1vio\u2019s surprise first-round election win heralds rise of a political dynasty",
-      "date": "2026-10-06",
-      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty"
-    },
-    {
-      "title": "From competing for food to a gold medal: the stories behind India\u2019s Asian Games winners",
-      "date": "2026-10-06",
-      "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "India opposition leaders briefly arrested in protest against election chief",
+      "title": "Electric car bursts into flames at charging station in Turkiye",
       "date": "2026-10-06",
-      "url": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss"
     },
     {
-      "title": "Pro-Palestine Greens challenge Labour\u2019s grip on Starmer\u2019s former seat",
+      "title": "\u2018We are desperate\u2019: Venezuela\u2019s power cuts fuel growing public anger",
       "date": "2026-10-06",
-      "url": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss"
     },
     {
-      "title": "Singapore refers eight civil servants to police over property purchases",
+      "title": "Christa Pike lawyers say she is speaking one week after failed execution",
       "date": "2026-10-06",
-      "url": "https://www.aljazeera.com/economy/2026/10/6/singapore-refers-eight-civil-servants-to-police-over-property-purchases?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss"
     },
     {
-      "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+      "title": "Fans flood Buenos Aires ahead of Messi\u2019s final international match",
       "date": "2026-10-06",
-      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss"
     },
     {
-      "title": "Fort Hood shooter to be executed by firing squad: All to know",
+      "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
       "date": "2026-10-06",
-      "url": "https://www.aljazeera.com/news/2026/10/6/fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss"
     }
   ],
   "NBC News": [
-    {
-      "title": "Trump Hits 4 States in 5 Days in Final Push to November Midterms",
-      "date": "2026-10-06",
-      "url": "https://www.today.com/video/trump-calls-iran-war-a-small-price-to-pay-drawing-backlash-271104069846"
-    },
     {
       "title": "NBC\u2019s Steve Kornacki Breaks Down Where Midterm Numbers Stand",
       "date": "2026-10-06",
       "url": "https://www.today.com/video/kornacki-battleground-states-to-watch-in-crucial-2026-midterm-271104581554"
     },
     {
+      "title": "Two key groups launch Latino voter turnout operation in South Texas",
+      "date": "2026-10-06",
+      "url": "https://www.nbcnews.com/politics/2026-election/two-key-groups-launch-latino-voter-turnout-operation-south-texas-rcna601773"
+    },
+    {
+      "title": "Christa Pike is awake and speaking after failed execution, lawyers say",
+      "date": "2026-10-06",
+      "url": "https://www.nbcnews.com/news/us-news/christa-pike-awake-speaking-failed-execution-attempt-lawyer-says-rcna601970"
+    },
+    {
+      "title": "CIA officer arrested with gold bars admits he exposed secret intelligence source to a foreign official",
+      "date": "2026-10-06",
+      "url": "https://www.nbcnews.com/politics/national-security/cia-officer-arrested-gold-bars-pleads-guilty-wire-fraud-rcna601857"
+    },
+    {
       "title": "Cornell Faculty Plan Vote of No Confidence Against Administrators",
       "date": "2026-10-06",
       "url": "https://www.today.com/video/accused-cornell-students-allegedly-tried-to-coordinate-responses-271105093584"
-    },
-    {
-      "title": "Televangelist Jim Bakker dies at age 86",
-      "date": "2026-10-06",
-      "url": "https://www.nbcnews.com/now/video/televangelist-jim-bakker-dies-at-age-86-271100997752"
-    },
-    {
-      "title": "FBI whistleblower says White House pushed unconstitutional probe of protesters",
-      "date": "2026-10-06",
-      "url": "https://www.nbcnews.com/politics/justice-department/fbi-whistleblower-says-white-house-pushed-unconstitutional-probe-prote-rcna601599"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-06T09:00:38.815792"
+    "updated_at": "2026-10-06T21:00:38.312822"
   }
 }
