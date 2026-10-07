@@ -1,26 +1,51 @@
 {
   "BBC": [
     {
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "title": "Man admits sexually assaulting woman drugged by husband",
       "date": "2026-10-07",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+      "title": "How did Christa Pike survive execution attempt - and what happens next?",
       "date": "2026-10-07",
-      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Badenoch promises tax cuts' and 'Asos hacker havoc'",
+      "title": "Royal Mail plans to cut 2,500 jobs",
       "date": "2026-10-07",
-      "url": "https://www.bbc.co.uk/news/articles/c317k0zqz5lzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "date": "2026-10-07",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Husband appears in court accused of GP's murder",
+      "date": "2026-10-07",
+      "url": "https://www.bbc.co.uk/news/articles/cx98ze08n3dlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Who is Zack Polanski, the \u2018eco-populist\u2019 rattling the UK\u2019s establishment?",
+      "date": "2026-10-07",
+      "url": "https://edition.cnn.com/2026/10/07/uk/zack-polanski-green-party-parliament-intl-gbr"
+    },
+    {
+      "title": "Checklists, masks and mystery: What we know about the plague scare in Russia",
+      "date": "2026-10-07",
+      "url": "https://edition.cnn.com/2026/10/06/world/russian-plague-outbreak-what-we-know-intl"
+    },
+    {
       "title": "Israel marks three years since October 7 attack with memorials and protests",
       "date": "2026-10-07",
       "url": "https://edition.cnn.com/2026/10/06/world/october-seven-attack-anniversary-israel-intl"
+    },
+    {
+      "title": "Former Australian Catholic bishop sentenced for abusing Indigenous men",
+      "date": "2026-10-07",
+      "url": "https://edition.cnn.com/2026/10/07/australia/christopher-saunders-australian-bishop-indiginous-men-abuse-intl"
     },
     {
       "title": "US resident arrested in connection with Canada\u2019s Tumbler Ridge school shooting",
@@ -28,71 +53,97 @@
       "url": "https://edition.cnn.com/2026/10/06/americas/arrest-tumbler-ridge-canada-shooting-latam-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+      "date": "2026-10-07",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day"
+    },
+    {
+      "title": "Who will win the 2026 Nobel Prize in economics?",
+      "date": "2026-10-07",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics"
+    },
+    {
+      "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+      "date": "2026-10-07",
+      "url": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry"
+    },
+    {
+      "title": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car",
+      "date": "2026-10-07",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds"
+    },
+    {
+      "title": "Over 1,000 children are buried at juvenile detention centers nationwide",
+      "date": "2026-10-07",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Beau Lamarre-Condon didn\u2019t talk about Jesse Baird to friend in lead-up to alleged murders, court hears",
+      "title": "Separatists win in Quebec \u2013 but does that bring separation from Canada any closer?",
       "date": "2026-10-07",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis"
     },
     {
-      "title": "Privacy watchdog launches probe into China-based company behind Kmart \u2018pervert glasses\u2019 app",
+      "title": "Flydubai attack investigation widens as alleged hijacker\u2019s training in New Zealand scrutinised",
       "date": "2026-10-07",
-      "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia"
+      "url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb"
     },
     {
-      "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
+      "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
       "date": "2026-10-07",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley"
+      "url": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars"
     },
     {
-      "title": "Comedian Dave Hughes to stop speaking at Liberal party events over political donation concerns",
+      "title": "\u2018Lawyers should be running to courts\u2019 to stop coal approvals after landmark ruling, NSW MP says",
       "date": "2026-10-07",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/07/comedian-dave-hughes-liberal-party-donation-law-concerns-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/07/mount-pleasant-hunter-valley-coalmine-high-court-ruling-community-advocates"
     },
     {
-      "title": "Richard Morecroft, veteran ABC news presenter, dies aged 70 after cancer diagnosis",
+      "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog",
       "date": "2026-10-07",
-      "url": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US stock market hits all-time high as investors bet big on AI",
+      "title": "Arsenal boss Mikel Arteta signs new contract with Premier League champions",
       "date": "2026-10-07",
-      "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/7/arsenal-boss-mikel-arteta-signs-new-contract-with-premier-league-champions?traffic_source=rss"
     },
     {
-      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+      "title": "Miles away from Argentina, Messi\u2019s farewell hits home for his Indian fans",
       "date": "2026-10-07",
-      "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/7/lionel-messi-farewell-friendly-benin-india-fans-kerala-kolkata-mumbai?traffic_source=rss"
     },
     {
-      "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
+      "title": "Justina Shiroka Pula: Kosovo\u2019s new president, elected during a crisis",
       "date": "2026-10-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/7/justina-shiroka-pula-kosovos-new-president-elected-during-a-crisis?traffic_source=rss"
     },
     {
-      "title": "Explosion shutters Venezuela\u2019s second-largest oil refinery",
+      "title": "US military aid to Israel continues three years into Gaza genocide",
       "date": "2026-10-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss"
     },
     {
-      "title": "Why do airport and flight rules exist?",
+      "title": "Doha Debates: Should We Trust the News?",
       "date": "2026-10-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/doha-debates/2026/10/7/doha-debates-should-we-trust-the-news?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
+      "title": "Florida poll: Republicans lead in the races for governor and Senate",
+      "date": "2026-10-07",
+      "url": "https://www.nbcnews.com/politics/2026-election/florida-poll-republicans-lead-races-governor-senate-rcna601342"
+    },
+    {
       "title": "Susan Collins and Troy Jackson clash over Trump and seniority in Maine\u2019s first Senate debate",
       "date": "2026-10-07",
       "url": "https://www.nbcnews.com/politics/2026-election/susan-collins-troy-jackson-clash-trump-seniority-maines-first-senate-d-rcna601346"
-    },
-    {
-      "title": "Zach Lahn\u2019s residency history and Rob Sand\u2019s party come under fire in first Iowa governor debate",
-      "date": "2026-10-07",
-      "url": "https://www.nbcnews.com/politics/2026-election/zach-lahns-residency-history-rob-sands-party-come-fire-first-iowa-gove-rcna601347"
     },
     {
       "title": "Georgia governor candidates spar over the economy and Trump in lone debate",
@@ -100,17 +151,17 @@
       "url": "https://www.nbcnews.com/politics/2026-election/georgia-governor-candidates-spar-economy-trump-lone-debate-rcna601124"
     },
     {
-      "title": "Fuel industry warns truck stops not to sell red dye diesel after Trump lifts restrictions",
-      "date": "2026-10-07",
-      "url": "https://www.nbcnews.com/business/energy/fuel-industry-warns-red-dye-diesel-trump-order-rcna601979"
-    },
-    {
       "title": "Republican John James seeks some distance from Trump in Michigan governor debate",
       "date": "2026-10-07",
       "url": "https://www.nbcnews.com/politics/2026-election/republican-john-james-distance-trump-michigan-governor-debate-rcna601820"
+    },
+    {
+      "title": "Israel Marks Three Years Since Oct. 7 Attacks With Remembrances",
+      "date": "2026-10-07",
+      "url": "https://www.today.com/video/israel-marks-three-years-since-oct-7-attacks-with-remembrances-271173189717"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-07T01:00:39.667122"
+    "updated_at": "2026-10-07T09:00:38.421558"
   }
 }
