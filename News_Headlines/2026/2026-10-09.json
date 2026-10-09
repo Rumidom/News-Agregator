@@ -1,103 +1,149 @@
 {
   "BBC": [
     {
-      "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+      "title": "Polanski vows to stay on as Green leader as criticism mounts",
       "date": "2026-10-09",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "date": "2026-10-09",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
       "date": "2026-10-09",
       "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ICE agent shoots man in New York City",
+      "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
       "date": "2026-10-09",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Stark warning' over ADHD and 'Andrew wins legal fight'",
+      "title": "Alison Hammond: 'I thought I was having heart attack on air'",
       "date": "2026-10-09",
-      "url": "https://www.bbc.co.uk/news/articles/cm8ezw2wjkxgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
-      "date": "2026-10-09",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "This old CIA airfield is now a Chinese base",
+      "title": "Nobel Peace Prize goes to South African human rights pioneer Navi Pillay",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/10/09/world/live-news/nobel-peace-prize-2026-winner-intl"
+    },
+    {
+      "title": "One of the world\u2019s wealthiest cities is enduring the world\u2019s most polluted air. Here\u2019s why",
       "date": "2026-10-09",
-      "url": "https://edition.cnn.com/2026/10/08/asia/laos-china-airbase-cia-intl-hnk-ml"
+      "url": "https://edition.cnn.com/2026/10/09/asia/singapore-pollution-formula-one-hnk-intl"
+    },
+    {
+      "title": "Russian pro-Kremlin war blogger and founder of \u2018Rybar\u2019 Telegram channel detained in Montenegro",
+      "date": "2026-10-09",
+      "url": "https://edition.cnn.com/2026/10/09/europe/pro-kremlin-blogger-detained-montenegro-intl"
+    },
+    {
+      "title": "Attack on Saudi airport kills 3 as Iran-backed Houthis warn of long conflict",
+      "date": "2026-10-09",
+      "url": "https://edition.cnn.com/2026/10/08/middleeast/riyadh-airport-houthis-explosion-intl"
+    },
+    {
+      "title": "Once near extinction, these giant tortoises now outnumber people in the Seychelles, survey finds",
+      "date": "2026-10-09",
+      "url": "https://edition.cnn.com/2026/10/08/africa/seychelles-aldabra-giant-tortoise-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Trump says U.S. won't attack Iran before midterms. And, And, ICE agent shoots man in NYC",
+      "date": "2026-10-09",
+      "url": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting"
+    },
+    {
+      "title": "Why American investors love European defense startups",
+      "date": "2026-10-09",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups"
+    },
+    {
+      "title": "In Central African Republic, deported immigrants find themselves in limbo",
+      "date": "2026-10-09",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba"
+    },
+    {
+      "title": "Why we remember: One student's journey into memory",
+      "date": "2026-10-09",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather"
+    },
+    {
+      "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+      "date": "2026-10-09",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
       "date": "2026-10-09",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia"
+      "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
     },
     {
-      "title": "Plans for Sydney\u2019s controversial new public square in doubt after NSW government intervention",
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
       "date": "2026-10-09",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention"
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
     },
     {
-      "title": "Sydney festival 2027: 11 international dance works to headline \u2018once-in-a-lifetime\u2019 program",
+      "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "date": "2026-10-09",
-      "url": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program"
+      "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions"
     },
     {
-      "title": "Jim Chalmers overrules ATO\u2019s controversial ban on credit card payments following business outcry",
+      "title": "How a plant selfie in Colombian jungle led to \u2018jaw dropping\u2019 giant waterlily find",
       "date": "2026-10-09",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax"
+      "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia"
     },
     {
-      "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+      "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
       "date": "2026-10-09",
-      "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Northern Ireland\u2019s Sinn Fein faces police probe as protest tensions fester",
+      "title": "Real Madrid\u2019s Mourinho lashes out at \u2018ridiculous\u2019 criticism of Mbappe",
       "date": "2026-10-09",
-      "url": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss"
     },
     {
-      "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
+      "title": "Manchester City charges: Maresca says Premier League club will win appeal",
       "date": "2026-10-09",
-      "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/9/manchester-city-charges-maresca-says-premier-league-club-will-win-appeal?traffic_source=rss"
     },
     {
-      "title": "Christa Pike case underscores prevalence of botched executions in US",
+      "title": "\u2018Indentured servants\u2019: US green card move will hit thousands of IT workers",
       "date": "2026-10-09",
-      "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss"
     },
     {
-      "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
+      "title": "\u2018Is it April fool\u2019s?\u2019 Navi Pillay reacts to Nobel Peace Prize news",
       "date": "2026-10-09",
-      "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
     },
     {
-      "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+      "title": "Labour fends off the Green party in closely watched UK by-election",
       "date": "2026-10-09",
-      "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate",
+      "title": "Food pantries overwhelmed by Trump cuts",
       "date": "2026-10-09",
-      "url": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866"
+      "url": "https://www.nbcnews.com/news/us-news/west-virginia-hunger-trump-cuts-food-stamps-gas-prices-iran-rcna601637"
     },
     {
-      "title": "Trump urges Minnesotans to \u2018fight back\u2019 against Somali immigrants",
+      "title": "Candidates Face Off in Debates; Kimberly Guilfoyle Under Scrutiny",
       "date": "2026-10-09",
-      "url": "https://www.nbcnews.com/politics/immigration/president-donald-trump-urges-minnesotans-fight-back-somali-immigrants-rcna602431"
+      "url": "https://www.today.com/video/candidates-face-off-in-debates-kimberly-guilfoyle-under-scrutiny-271320645719"
     },
     {
       "title": "First Georgia Senate debate spotlights fight over Trump- and Biden-era policies",
@@ -105,12 +151,17 @@
       "url": "https://www.nbcnews.com/politics/2026-election/georgia-senate-debate-ossoff-collins-fight-trump-biden-era-policies-rcna602279"
     },
     {
-      "title": "Sparks fly as Abdul El-Sayed and Mike Rogers face off in first Michigan Senate debate",
+      "title": "Nobel Peace Prize awarded to Navanethem \u201cNavi\u201d Pillay",
       "date": "2026-10-09",
-      "url": "https://www.nbcnews.com/politics/2026-election/sparks-fly-abdul-el-sayed-mike-rogers-first-michigan-senate-debate-rcna599866"
+      "url": "https://www.nbcnews.com/world/europe/nobel-peace-prize-favorites-include-yulia-navalnaya-donald-trump-downp-rcna602462"
+    },
+    {
+      "title": "Hurricane Isaias Strengthens to Category 2; Heads for Gulf Coast",
+      "date": "2026-10-09",
+      "url": "https://www.today.com/video/hurricane-isaias-strengthens-to-category-2-what-to-expect-271320133929"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-09T01:00:40.825918"
+    "updated_at": "2026-10-09T09:00:41.082335"
   }
 }
