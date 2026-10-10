@@ -1,0 +1,131 @@
+{
+  "BBC": [
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "date": "2026-10-10",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "date": "2026-10-10",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
+      "date": "2026-10-10",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Airlines sound alarm on costs crisis' and 'King's \u00a31.5m bailout'",
+      "date": "2026-10-10",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0el6r7lzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "date": "2026-10-10",
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "Powerful earthquake shakes Panama, followed by large aftershocks",
+      "date": "2026-10-10",
+      "url": "https://edition.cnn.com/2026/10/09/americas/panama-earthquake-latam-intl"
+    },
+    {
+      "title": "Three men found guilty in the 2024 killing of Australian and US surfers in Mexico",
+      "date": "2026-10-10",
+      "url": "https://edition.cnn.com/2026/10/09/americas/mexico-murder-american-australian-surfers-intl-hnk"
+    },
+    {
+      "title": "India\u2019s viral Gen-Z \u2018Cockroach Party\u2019 protesters are gearing up for Season 2",
+      "date": "2026-10-10",
+      "url": "https://edition.cnn.com/2026/10/09/india/india-cockroach-party-protests-season-2-intl-hnk"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+      "date": "2026-10-10",
+      "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb"
+    },
+    {
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "date": "2026-10-10",
+      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
+    },
+    {
+      "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+      "date": "2026-10-10",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize"
+    },
+    {
+      "title": "\u2018I want to thank President Putin\u2019, Trump says after agreeing to lift sanctions on Russian diesel \u2013 as it happened",
+      "date": "2026-10-10",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates"
+    },
+    {
+      "title": "Key things to know about Hurricane Isaias as millions under evacuation orders",
+      "date": "2026-10-10",
+      "url": "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "CCTV footage shows ICE shooting in New York",
+      "date": "2026-10-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss"
+    },
+    {
+      "title": "Elon Musk lashes out at Indian \u2018Prime Minister\u2019 Mukesh Ambani in Starlink",
+      "date": "2026-10-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+    },
+    {
+      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+      "date": "2026-10-10",
+      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss"
+    },
+    {
+      "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+      "date": "2026-10-10",
+      "url": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss"
+    },
+    {
+      "title": "Dual quakes devastate southern Panama",
+      "date": "2026-10-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Hurricane Isaias makes landfall in Florida",
+      "date": "2026-10-10",
+      "url": "https://www.nbcnews.com/now/video/hurricane-isaias-makes-landfall-in-florida-271377477807"
+    },
+    {
+      "title": "'Take this serious': Florida Lt. Gov Jay Collins warns residents to brace for Hurricane Isaias",
+      "date": "2026-10-10",
+      "url": "https://www.nbcnews.com/video/florida-lt-gov-jay-collins-warns-residents-to-brace-for-hurricane-isaias-271377989572"
+    },
+    {
+      "title": "'Hopefully we have a home to go back to': Florida resident evacuates ahead of Hurricane Isaias landfall",
+      "date": "2026-10-10",
+      "url": "https://www.nbcnews.com/video/florida-resident-evacuates-ahead-of-hurricane-isaias-landfall-271376965611"
+    },
+    {
+      "title": "Alabama makes final preparations for Hurricane Isaias before landfall",
+      "date": "2026-10-10",
+      "url": "https://www.nbcnews.com/video/alabama-makes-final-preparations-for-hurricane-isaias-before-landfall-271376453860"
+    },
+    {
+      "title": "'The weather had other plans': Couple postpones wedding because of Hurricane Isaias",
+      "date": "2026-10-10",
+      "url": "https://www.nbcnews.com/video/couple-postpones-wedding-because-of-hurricane-isaias-271376453856"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-10-10T01:00:38.959610"
+  }
+}
