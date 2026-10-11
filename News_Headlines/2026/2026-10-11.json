@@ -1,0 +1,106 @@
+{
+  "BBC": [
+    {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "date": "2026-10-11",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "date": "2026-10-11",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Man dies after tiger attack at wildlife park",
+      "date": "2026-10-11",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "date": "2026-10-11",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK launch flood taskforce to prepare for extreme winter weather",
+      "date": "2026-10-11",
+      "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "Major Houthi attack on Saudi airport kills at least 12, hundreds wounded",
+      "date": "2026-10-11",
+      "url": "https://edition.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "\u2018My body is still peaking\u2019: Eliud Kipchoge wins first marathon in three years",
+      "date": "2026-10-11",
+      "url": "https://www.theguardian.com/sport/2026/oct/11/eliud-kipchoge-sends-message-melbourne-marathon-win-record"
+    },
+    {
+      "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
+      "date": "2026-10-11",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "US forces disable ship \u2018attempting to run\u2019 Iran blockade in Gulf of Oman",
+      "date": "2026-10-11",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss"
+    },
+    {
+      "title": "World condemns deadly Houthi attack on Saudi Arabia\u2019s Riyadh airport",
+      "date": "2026-10-11",
+      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss"
+    },
+    {
+      "title": "Trump \u2018may\u2019 join Saudi strikes on Houthis after Riyadh airport attack",
+      "date": "2026-10-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss"
+    },
+    {
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "date": "2026-10-11",
+      "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss"
+    },
+    {
+      "title": "Global pro-Palestinian protests one year after Gaza \u2018ceasefire\u2019",
+      "date": "2026-10-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Justice Department investigating major TV networks over suspending pool coverage of Trump",
+      "date": "2026-10-11",
+      "url": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717"
+    },
+    {
+      "title": "Bracing for the midterms, Trump says he will be blamed if Republicans lose",
+      "date": "2026-10-11",
+      "url": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512"
+    },
+    {
+      "title": "Justice Department investigating major TV networks over suspending pool coverage of Trump",
+      "date": "2026-10-11",
+      "url": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717"
+    },
+    {
+      "title": "Trump announces Katie Bailey to lead White House outreach to Congress",
+      "date": "2026-10-11",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-katie-bailey-lead-white-house-outreach-congress-rcna602727"
+    },
+    {
+      "title": "Bracing for the midterms, Trump says he will be blamed if Republicans lose",
+      "date": "2026-10-11",
+      "url": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-10-11T01:00:40.905737"
+  }
+}
