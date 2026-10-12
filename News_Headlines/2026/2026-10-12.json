@@ -1,0 +1,106 @@
+{
+  "BBC": [
+    {
+      "title": "'Tax rises needed to plug \u00a335bn gap' and 'Putin breaks Trump's 'ceasefire\"",
+      "date": "2026-10-12",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gydddnxdo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "Saudi Arabia will have to respond to Houthi airport attack - but the choices are stark",
+      "date": "2026-10-12",
+      "url": "https://edition.cnn.com/2026/10/11/world/saudi-arabia-airport-attack-analysis-intl"
+    },
+    {
+      "title": "Boat disaster off Djibouti leaves at least 139 dead, with toll feared to rise",
+      "date": "2026-10-12",
+      "url": "https://edition.cnn.com/2026/10/11/africa/djibouti-boat-capsize-dead-latam-intl"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Australian politics live: Joyce likens US public execution to \u2018Roman amphitheatre\u2019; Taylor says Labor \u2018waging war\u2019 against small business",
+      "date": "2026-10-12",
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb"
+    },
+    {
+      "title": "Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021",
+      "date": "2026-10-12",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison"
+    },
+    {
+      "title": "\u2018Absolutely senseless\u2019: Boy, 13, charged with murder after man stabbed to death in Sydney\u2019s west",
+      "date": "2026-10-12",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb"
+    },
+    {
+      "title": "Australian Greens call for \u2018barbaric\u2019 US execution live stream to be blocked",
+      "date": "2026-10-12",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb"
+    },
+    {
+      "title": "Total fire ban for Sydney, with 37C temperatures and risk of bushfires from \u2018dry lightning\u2019",
+      "date": "2026-10-12",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+      "date": "2026-10-12",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss"
+    },
+    {
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "date": "2026-10-12",
+      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss"
+    },
+    {
+      "title": "Bridge washed away by torrent of water in Nepal",
+      "date": "2026-10-12",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss"
+    },
+    {
+      "title": "UK PM Andy Burnham says it is \u2018clear\u2019 Russia interfered in 2016 Brexit vote",
+      "date": "2026-10-12",
+      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss"
+    },
+    {
+      "title": "Iran\u2019s FM urges diplomacy in call with Saudi counterpart",
+      "date": "2026-10-12",
+      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately",
+      "date": "2026-10-12",
+      "url": "https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-tv-ads-funded-taxpayers-air-immediately-rcna602879"
+    },
+    {
+      "title": "South Carolina Senate rivals spar over Iran, AI and Trump in debate",
+      "date": "2026-10-12",
+      "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-senate-rivals-spar-iran-war-ai-trump-fiery-debate-rcna602590"
+    },
+    {
+      "title": "The 49ers look like the NFL\u2019s best team after surviving a heavyweight fight",
+      "date": "2026-10-12",
+      "url": "https://www.nbcnews.com/sports/nfl/san-francisco-49ers-seattle-seahawks-nfl-result-brock-purdy-rcna602882"
+    },
+    {
+      "title": "South Carolina Senate rivals spar over Iran, AI and Trump in debate",
+      "date": "2026-10-12",
+      "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-senate-rivals-spar-iran-war-ai-trump-fiery-debate-rcna602590"
+    },
+    {
+      "title": "The 49ers look like the NFL\u2019s best team after surviving a heavyweight fight",
+      "date": "2026-10-12",
+      "url": "https://www.nbcnews.com/sports/nfl/san-francisco-49ers-seattle-seahawks-nfl-result-brock-purdy-rcna602882"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-10-12T01:00:39.862519"
+  }
+}
