@@ -1,106 +1,167 @@
 {
   "BBC": [
     {
-      "title": "'Tax rises needed to plug \u00a335bn gap' and 'Putin breaks Trump's 'ceasefire\"",
+      "title": "Deloitte helped in falsifying documents to evade tax on Abramovich\u2019s wealth, BBC finds",
       "date": "2026-10-12",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gydddnxdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "date": "2026-10-12",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+      "date": "2026-10-12",
+      "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
+      "date": "2026-10-12",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russell Brand appears in court for start of rape trial",
+      "date": "2026-10-12",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Saudi Arabia will have to respond to Houthi airport attack - but the choices are stark",
+      "title": "New video shows terrifying moment Saudi airport struck in deadly Houthi attack",
+      "date": "2026-10-12",
+      "url": "https://edition.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl"
+    },
+    {
+      "title": "Saudi Arabia will have to respond to Houthi airport attack \u2013 but the choices are stark",
       "date": "2026-10-12",
       "url": "https://edition.cnn.com/2026/10/11/world/saudi-arabia-airport-attack-analysis-intl"
     },
     {
-      "title": "Boat disaster off Djibouti leaves at least 139 dead, with toll feared to rise",
+      "title": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says",
       "date": "2026-10-12",
-      "url": "https://edition.cnn.com/2026/10/11/africa/djibouti-boat-capsize-dead-latam-intl"
+      "url": "https://edition.cnn.com/2026/10/12/africa/airstrike-kills-sudanese-artisanal-miners-intl"
+    },
+    {
+      "title": "Hurricane Simon skirts Mexico\u2019s Pacific coast as beachside communities and tourist areas prepare for impacts",
+      "date": "2026-10-12",
+      "url": "https://edition.cnn.com/2026/10/11/americas/mexico-hurricane-simon-intl-latam"
+    },
+    {
+      "title": "Buried bodies, cleared rubble, Israel\u2019s yellow line: How war is hampering the search for Gaza\u2019s missing",
+      "date": "2026-10-12",
+      "url": "https://edition.cnn.com/2026/10/12/middleeast/israel-gaza-palestinian-missing-bodies-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "date": "2026-10-12",
+      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
+    },
+    {
+      "title": "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
+      "date": "2026-10-12",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs"
+    },
+    {
+      "title": "Here's what to know if you're unsure about your measles immunity status",
+      "date": "2026-10-12",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose"
+    },
+    {
+      "title": "Morning news brief",
+      "date": "2026-10-12",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes"
+    },
+    {
+      "title": "Two Americans win Nobel Prize in Economics for work on boom-bust cycles",
+      "date": "2026-10-12",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australian politics live: Joyce likens US public execution to \u2018Roman amphitheatre\u2019; Taylor says Labor \u2018waging war\u2019 against small business",
+      "title": "Balkan temperatures swing as heavy rain heads for Greece",
       "date": "2026-10-12",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb"
+      "url": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece"
     },
     {
-      "title": "Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021",
+      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
       "date": "2026-10-12",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison"
+      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles"
     },
     {
-      "title": "\u2018Absolutely senseless\u2019: Boy, 13, charged with murder after man stabbed to death in Sydney\u2019s west",
+      "title": "Doctor warned Elizabeth Struhs would not be safe years before sect killed her by withdrawing medicine",
       "date": "2026-10-12",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/elizabeth-struhs-death-inquest-doctor-home-warning-queensland-coroner-ntwnfb"
     },
     {
-      "title": "Australian Greens call for \u2018barbaric\u2019 US execution live stream to be blocked",
+      "title": "ABC reporter could face disciplinary action over opinion piece, journalists\u2019 union says",
       "date": "2026-10-12",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb"
+      "url": "https://www.theguardian.com/media/2026/oct/12/abc-reporter-opinion-piece-journalists-union-meaa"
     },
     {
-      "title": "Total fire ban for Sydney, with 37C temperatures and risk of bushfires from \u2018dry lightning\u2019",
+      "title": "\u2018What planet is she on?\u2019: the Seekers take aim at CPAC over use of I am Australian",
       "date": "2026-10-12",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/12/band-seekers-take-aim-cpac-pauline-hanson-i-am-australian-song"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+      "title": "\u2018Energy ceasefire\u2019: What\u2019s behind Trump\u2019s love-hate ties to Russian oil?",
       "date": "2026-10-12",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss"
     },
     {
-      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
       "date": "2026-10-12",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss"
     },
     {
-      "title": "Bridge washed away by torrent of water in Nepal",
+      "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
       "date": "2026-10-12",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss"
     },
     {
-      "title": "UK PM Andy Burnham says it is \u2018clear\u2019 Russia interfered in 2016 Brexit vote",
+      "title": "Ukraine\u2019s Zelenskyy accuses Russia of violating Trump\u2019s \u2018energy ceasefire\u2019",
       "date": "2026-10-12",
-      "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss"
     },
     {
-      "title": "Iran\u2019s FM urges diplomacy in call with Saudi counterpart",
+      "title": "What we learned from \u2018guilty\u2019 Man City\u2019s win over Liverpool at Anfield",
       "date": "2026-10-12",
-      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Federal judge orders pro-Trump TV ads funded by taxpayers off air immediately",
-      "date": "2026-10-12",
-      "url": "https://www.nbcnews.com/politics/trump-administration/federal-judge-orders-trump-tv-ads-funded-taxpayers-air-immediately-rcna602879"
-    },
-    {
       "title": "South Carolina Senate rivals spar over Iran, AI and Trump in debate",
       "date": "2026-10-12",
       "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-senate-rivals-spar-iran-war-ai-trump-fiery-debate-rcna602590"
     },
     {
-      "title": "The 49ers look like the NFL\u2019s best team after surviving a heavyweight fight",
+      "title": "Trump Faces Intense Bipartisan Backlash Over Russian Oil Deal",
       "date": "2026-10-12",
-      "url": "https://www.nbcnews.com/sports/nfl/san-francisco-49ers-seattle-seahawks-nfl-result-brock-purdy-rcna602882"
+      "url": "https://www.today.com/video/trump-s-russian-oil-deal-draws-strong-bipartisan-backlash-271429189814"
     },
     {
-      "title": "South Carolina Senate rivals spar over Iran, AI and Trump in debate",
+      "title": "Saudi Arabia\u2019s Riyadh Airport Hit With 2 Strikes in 2 Days",
       "date": "2026-10-12",
-      "url": "https://www.nbcnews.com/politics/2026-election/south-carolina-senate-rivals-spar-iran-war-ai-trump-fiery-debate-rcna602590"
+      "url": "https://www.today.com/video/strikes-on-riyadh-airport-prompts-travel-warnings-for-us-carriers-271428677931"
     },
     {
-      "title": "The 49ers look like the NFL\u2019s best team after surviving a heavyweight fight",
+      "title": "NFL Week 5: Don\u2019t count out Aaron Rodgers and Drake Maye just yet",
       "date": "2026-10-12",
-      "url": "https://www.nbcnews.com/sports/nfl/san-francisco-49ers-seattle-seahawks-nfl-result-brock-purdy-rcna602882"
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-week-5-dont-count-aaron-rodgers-drake-maye-just-yet-rcna602846"
+    },
+    {
+      "title": "NFL Week 5: Don\u2019t count out Aaron Rodgers and Drake Maye just yet",
+      "date": "2026-10-12",
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-week-5-dont-count-aaron-rodgers-drake-maye-just-yet-rcna602846"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-12T01:00:39.862519"
+    "updated_at": "2026-10-12T09:00:39.353557"
   }
 }
