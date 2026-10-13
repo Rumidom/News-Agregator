@@ -1,14 +1,19 @@
 {
   "BBC": [
     {
-      "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+      "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
       "date": "2026-10-13",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why the prime minister wants to talk about Brexit again",
+      "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
       "date": "2026-10-13",
       "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "date": "2026-10-13",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
@@ -16,95 +21,147 @@
       "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "title": "Emergency calls from botched Christa Pike execution released to US media",
       "date": "2026-10-13",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "One dead and several hurt after rollercoaster incident at Six Flags",
-      "date": "2026-10-13",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Pope Leo in the hospital as surgery to remove growth on his lung scheduled for Tuesday",
+      "date": "2026-10-13",
+      "url": "https://edition.cnn.com/2026/10/13/europe/pope-hospital-lung-surgery-intl"
+    },
+    {
+      "title": "Several sailors missing after drone strike sinks merchant vessel near Bulgarian waters",
+      "date": "2026-10-13",
+      "url": "https://edition.cnn.com/2026/10/13/world/several-sailors-missing-after-drone-strike-sinks-merchant-vessel-near-bulgarian-waters"
+    },
+    {
+      "title": "Germany\u2019s Nuremberg airport closes due to aviation emergency",
+      "date": "2026-10-13",
+      "url": "https://edition.cnn.com/2026/10/13/europe/germany-airport-closes-emergency-intl"
+    },
+    {
+      "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping",
+      "date": "2026-10-13",
+      "url": "https://edition.cnn.com/2026/10/11/middleeast/iran-hormuz-oil-analysis-intl"
+    },
+    {
+      "title": "One teen killed, others wounded, after explosion on Israeli school trip near Lebanon border",
+      "date": "2026-10-13",
+      "url": "https://edition.cnn.com/2026/10/12/middleeast/israel-explosion-lebanon-border-intl"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+      "date": "2026-10-13",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar"
+    },
+    {
+      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+      "date": "2026-10-13",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold"
+    },
+    {
+      "title": "What ice cream has to do with this year's Nobel Prize in economics",
+      "date": "2026-10-13",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics"
+    },
+    {
+      "title": "Win or lose, independent candidates want to meet voters in the middle",
+      "date": "2026-10-13",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates"
+    },
+    {
+      "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+      "date": "2026-10-13",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "UK asks Interpol to reject Argentina\u2019s \u2018politically motivated\u2019 requests for Falklands oil arrests",
+      "date": "2026-10-13",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests"
+    },
+    {
+      "title": "How a scandal engulfing Brazil\u2019s top court could return the Bolsonaros to power",
+      "date": "2026-10-13",
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula"
+    },
+    {
+      "title": "Latin American organised crime \u2018may operate in 16 European countries\u2019",
+      "date": "2026-10-13",
+      "url": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe"
+    },
+    {
+      "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico\u2019s Pacific coast",
+      "date": "2026-10-13",
+      "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast"
+    },
     {
       "title": "Argentina temporarily closes Iguazu Falls after El Ni\u00f1o-fuelled surge in water levels",
       "date": "2026-10-13",
       "url": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels"
-    },
-    {
-      "title": "Australian politics live: Shoebridge calls AI committee a \u2018farce\u2019 after letter \u2018vetted\u2019 by PM\u2019s staffer; fire ants in Sydney\u2019s inner west",
-      "date": "2026-10-13",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb"
-    },
-    {
-      "title": "Vikki Campion, News Corp columnist and wife of Barnaby Joyce, begins role with NSW One Nation",
-      "date": "2026-10-13",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/vikki-campion-news-corp-columnist-and-wife-of-barnaby-joyce-begins-role-with-nsw-one-nation"
-    },
-    {
-      "title": "Bullet hole in door and DNA evidence scrutinised in Beau Lamarre-Condon double murder trial",
-      "date": "2026-10-13",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/beau-lamarre-condon-double-trial-dna-evidence-scrutinised-bullet-hole-ntwnfb"
-    },
-    {
-      "title": "\u2018Clear and present danger\u2019: fuel prices could rise by 30c a litre across Australia under IMF scenario",
-      "date": "2026-10-13",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+      "title": "India\u2019s $87bn river-linking plan leaves villagers fighting for their homes",
       "date": "2026-10-13",
-      "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss"
     },
     {
-      "title": "Russia and Ukraine trade strikes amid doubt over \u2018energy ceasefire\u2019",
+      "title": "\u2018My son was killed\u2019 France faces backlash over proposed police firearms law",
       "date": "2026-10-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss"
     },
     {
-      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "title": "Israel\u2019s military raids NGO offices in Ramallah",
       "date": "2026-10-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss"
     },
     {
-      "title": "\u2018Unprecedented\u2019 cyberattack hits French supermarkets, causing food losses",
+      "title": "A look at Qatar\u2019s local, regional and global autism initiatives",
       "date": "2026-10-13",
-      "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/centre-stage/2026/10/13/a-look-at-the-countrys-local-regional-and-global-initiatives?traffic_source=rss"
     },
     {
-      "title": "Ethiopia\u2019s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "title": "Trump Protester punched at Trump rally as they\u2019re mocked by the president",
       "date": "2026-10-13",
-      "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-protester-punched-at-trump-rally-as-theyre-mocked-by-the-president?traffic_source=rss"
     }
   ],
   "NBC News": [
-    {
-      "title": "Key inflation reports will reveal read on U.S. economy ahead of midterms",
-      "date": "2026-10-13",
-      "url": "https://www.nbcnews.com/video/key-inflation-reports-will-reveal-read-on-u-s-economy-ahead-of-midterms-271472197526"
-    },
-    {
-      "title": "Florida Republican running for re-election snags presidential endorsement \u2014 from Colombia",
-      "date": "2026-10-13",
-      "url": "https://www.nbcnews.com/politics/2026-election/colombia-president-endorses-us-rep-maria-elvira-salazar-florida-rcna603110"
-    },
     {
       "title": "Trump attacks Rep. Ilhan Omar and Senate hopeful Abdul El-Sayed at Ohio rally",
       "date": "2026-10-13",
       "url": "https://www.nbcnews.com/politics/2026-election/donald-trump-attacks-ilhan-omar-abdul-el-sayed-ohio-rally-youngstown-rcna603107"
     },
     {
-      "title": "Houston man run over by ICE vehicle will need additional surgery, advocates say",
+      "title": "Key inflation reports will reveal read on U.S. economy ahead of midterms",
       "date": "2026-10-13",
-      "url": "https://www.nbcnews.com/news/us-news/houston-man-run-ice-vehicle-will-need-additional-surgery-advocates-say-rcna602971"
+      "url": "https://www.nbcnews.com/video/key-inflation-reports-will-reveal-read-on-u-s-economy-ahead-of-midterms-271472197526"
+    },
+    {
+      "title": "Romance scammers are getting harder to catch. The consequences are costly.",
+      "date": "2026-10-13",
+      "url": "https://www.nbcnews.com/tech/tech-news/romance-scammers-congressional-investigation-match-group-tinder-rcna602411"
+    },
+    {
+      "title": "The Bills and Rams just played the thriller of the NFL season \u2014 and perhaps a Super Bowl preview",
+      "date": "2026-10-13",
+      "url": "https://www.nbcnews.com/sports/nfl/buffalo-bills-los-angeles-rams-nfl-result-josh-allen-matthew-stafford-rcna603144"
+    },
+    {
+      "title": "Romance scammers are getting harder to catch. The consequences are costly.",
+      "date": "2026-10-13",
+      "url": "https://www.nbcnews.com/tech/tech-news/romance-scammers-congressional-investigation-match-group-tinder-rcna602411"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-13T01:00:43.886549"
+    "updated_at": "2026-10-13T09:00:38.545332"
   }
 }
