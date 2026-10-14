@@ -1,45 +1,91 @@
 {
   "BBC": [
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
       "date": "2026-10-14",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "title": "Watch: Block of flats in ruins after Russian strikes on Ukraine",
       "date": "2026-10-14",
-      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Our memorial garden helps us grieve - a cemetery felt too far away",
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
       "date": "2026-10-14",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gvyvxyl1go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Spy chief's grim warning' and 'tiger victim was child actor'",
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
       "date": "2026-10-14",
-      "url": "https://www.bbc.co.uk/news/articles/cmze41x6l116o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
       "date": "2026-10-14",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "CNN Global Perspectives in Bangkok",
-      "date": "",
-      "url": "https://edition.cnn.com/world/live-news/global-perspectives-bangkok"
+      "title": "Thousands of refrigerators were hacked across France. How worried should you be?",
+      "date": "2026-10-14",
+      "url": "https://edition.cnn.com/2026/10/14/europe/france-cyberattack-supermarket-fridges-intl"
     },
     {
       "title": "Headquarters of Saudi Aramco hit as Houthis and Riyadh trade strikes",
       "date": "2026-10-14",
       "url": "https://edition.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl"
+    },
+    {
+      "title": "Ukraine says SpaceX restricted Starlink services, disrupting military operations as Russian attacks continue",
+      "date": "2026-10-14",
+      "url": "https://edition.cnn.com/2026/10/14/europe/russia-ukraine-energy-strike-early-warning-intl-hnk"
+    },
+    {
+      "title": "Leaders talk climate crisis, AI and the Middle East at CNN\u2019s Global Perspectives: In Bangkok",
+      "date": "",
+      "url": "https://edition.cnn.com/world/live-news/global-perspectives-bangkok"
+    },
+    {
+      "title": "Russia detains Japanese journalist on suspicion of spying",
+      "date": "2026-10-14",
+      "url": "https://edition.cnn.com/2026/10/14/world/japanese-journalist-detained-russia-espionage-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "date": "2026-10-14",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
+    },
+    {
+      "title": "These workers help train robots who could one day steal their jobs",
+      "date": "2026-10-14",
+      "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs"
+    },
+    {
+      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+      "date": "2026-10-14",
+      "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation"
+    },
+    {
+      "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
+      "date": "2026-10-14",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation"
+    },
+    {
+      "title": "The skincare sample is free. What happens next can cost thousands",
+      "date": "2026-10-14",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Joni Mitchell becomes US citizen: \u2018A journey that began 62 years ago\u2019",
+      "date": "2026-10-14",
+      "url": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago"
+    },
     {
       "title": "Russia arrests Japanese journalist on allegations of spying",
       "date": "2026-10-14",
@@ -51,76 +97,71 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest"
     },
     {
-      "title": "Australian politics live: Taylor claims Albanese has repeatedly \u2018humiliated\u2019 Chalmers; Coalition continues to target Aly",
+      "title": "Child safety officer incorrectly assessed Elizabeth Struhs as \u2018safe\u2019 day after she was admitted to hospital in coma",
       "date": "2026-10-14",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb"
     },
     {
-      "title": "Beau Lamarre-Condon previously visited farm where he later tried to sink bodies, court told",
+      "title": "Labor\u2019s bill to cut private health insurance rebate blocked by Greens over pensioner carve-out",
       "date": "2026-10-14",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/beau-lamarre-condon-trial-shown-alleged-murder-scene-reconstruction-bullet-holes-ntwnfb"
-    },
-    {
-      "title": "Family of Indigenous woman found dead in Melbourne mourn \u2018vibrant, beautiful young girl\u2019",
-      "date": "2026-10-14",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/14/family-mourn-jayda-bonner-indigenous-woman-found-dead-melbourne-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/labors-bill-to-cut-private-health-insurance-rebate-blocked-by-greens-over-pensioner-carve-out"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Israel returns 22 stolen ancient artefacts to Greece",
+      "title": "Do any of these Israeli candidates support a Palestinian state?",
       "date": "2026-10-14",
-      "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss"
     },
     {
-      "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
       "date": "2026-10-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss"
     },
     {
-      "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
       "date": "2026-10-14",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss"
     },
     {
-      "title": "UN Human Rights Council elects 15 members in uncontested vote",
+      "title": "Trump plans for \u2018massive\u2019 resource exploration in Greenland",
       "date": "2026-10-14",
-      "url": "https://www.aljazeera.com/news/2026/10/14/un-human-rights-council-elects-15-members-in-uncontested-vote?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland?traffic_source=rss"
     },
     {
-      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
+      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
       "date": "2026-10-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "In heated Georgia Senate debate, Jon Ossoff says he won\u2019t run for president in 2028",
+      "title": "Jon Ossoff says he won\u2019t run for president in 2028 during heated Georgia debate",
       "date": "2026-10-14",
       "url": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300"
+    },
+    {
+      "title": "Federal judge issues longer-term decision blocking Trump\u2019s White House media ban",
+      "date": "2026-10-14",
+      "url": "https://www.nbcnews.com/politics/trump-administration/prewrite-not-pub-judge-extends-order-blocking-trump-white-house-media-rcna602264"
+    },
+    {
+      "title": "Cornell Bans Frat Parties, Promises New Safeguards for Students",
+      "date": "2026-10-14",
+      "url": "https://www.today.com/video/cornell-president-offers-apology-for-first-time-in-jane-doe-case-271547461977"
+    },
+    {
+      "title": "Pope Leo XIV Found to Have Lung Cancer During Surgery",
+      "date": "2026-10-14",
+      "url": "https://www.today.com/video/pope-leo-xiv-diagnosed-with-pulmonary-adenocarcinoma-271548997632"
     },
     {
       "title": "Texas DA says ICE intentionally hit immigrant with a car and may have withheld evidence",
       "date": "2026-10-14",
       "url": "https://www.nbcnews.com/news/us-news/texas-da-says-ice-intentionally-hit-immigrant-car-may-withheld-evidenc-rcna603243"
-    },
-    {
-      "title": "Trump pardons two vehicle repair shop owners during Alaska rally",
-      "date": "2026-10-14",
-      "url": "https://www.nbcnews.com/video/trump-pardons-two-vehicle-repair-shop-owners-during-alaska-rally-271538245765"
-    },
-    {
-      "title": "Trump pardons two vehicle repair shop owners during Alaska rally",
-      "date": "2026-10-14",
-      "url": "https://www.nbcnews.com/video/trump-pardons-two-vehicle-repair-shop-owners-during-alaska-rally-271538245765"
-    },
-    {
-      "title": "In heated Georgia Senate debate, Jon Ossoff says he won\u2019t run for president in 2028",
-      "date": "2026-10-14",
-      "url": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-14T01:00:37.271756"
+    "updated_at": "2026-10-14T09:00:38.779045"
   }
 }
