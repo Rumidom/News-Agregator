@@ -1,102 +1,144 @@
 {
   "BBC": [
     {
-      "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
       "date": "2026-10-15",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
       "date": "2026-10-15",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Wales has a school standards crisis. Will plans to fix it actually work?",
+      "title": "Why Starlink internet is so important on the battlefield in Ukraine",
       "date": "2026-10-15",
-      "url": "https://www.bbc.co.uk/news/articles/cw240qv4ygzmo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How West Midlands shed its gun crime capital label",
+      "title": "UK threatens to ban Eritreans over migrant return policy",
       "date": "2026-10-15",
-      "url": "https://www.bbc.co.uk/news/articles/c6x23dlk31ejo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Zelenskyy blames Trump' and Brand a 'sex predator'",
+      "title": "Severe drought declared in parts of southern England",
       "date": "2026-10-15",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq67e64pdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Gift for Putin as fears grow that Trump is turning the screws on Ukraine",
+      "date": "2026-10-15",
+      "url": "https://edition.cnn.com/2026/10/14/world/putin-trump-ukraine-war-intelligence-latam-intl"
+    },
+    {
+      "title": "Harry and Meghan make first joint appearance since returning to the UK",
+      "date": "2026-10-15",
+      "url": "https://edition.cnn.com/2026/10/15/uk/harry-meghan-joint-appearance-scli-intl"
+    },
+    {
+      "title": "Zelensky says Ukraine will resume strikes on Russian refineries as frustration with Trump mounts",
+      "date": "2026-10-15",
+      "url": "https://edition.cnn.com/2026/10/14/europe/zelensky-trump-russia-fuel-deal-latam-intl"
+    },
+    {
+      "title": "Pakistan school roof collapse kills at least 32 children and one teacher",
+      "date": "2026-10-15",
+      "url": "https://edition.cnn.com/2026/10/15/asia/pakistan-school-roof-collapse-deaths-intl-hnk"
+    },
+    {
+      "title": "How a celebrity cat inspired the construction of the world\u2019s largest wildlife corridor",
+      "date": "2026-10-15",
+      "url": "https://edition.cnn.com/world/steve-winter-sharon-guynup-big-cats-c2e-spc"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "date": "2026-10-15",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia"
+    },
+    {
+      "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "date": "2026-10-15",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+      "date": "2026-10-15",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
+    },
+    {
+      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+      "date": "2026-10-15",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training"
+    },
+    {
+      "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+      "date": "2026-10-15",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
+      "date": "2026-10-15",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch"
+    },
     {
       "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
       "date": "2026-10-15",
       "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
     },
     {
-      "title": "Australian politics live: Wells says \u2018manosphere\u2019 podcasts and moon landing conspiracies allowed under Labor duty of care reform",
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
       "date": "2026-10-15",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb"
+      "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt"
     },
     {
-      "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
+      "title": "Indonesia fights fire with dry ice as toxic haze spreads across region",
       "date": "2026-10-15",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads"
     },
     {
-      "title": "Labor and Coalition block bill that would ban incarcerated women being shackled in childbirth",
+      "title": "Woman charged after allegedly poisoning colleague\u2019s curry lunch with snail pellets",
       "date": "2026-10-15",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb"
-    },
-    {
-      "title": "As One Nation rises, Victorian Labor has promised to make abortions free. Is the timing pure politics?",
-      "date": "2026-10-15",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/15/woman-charged-after-allegedly-poisoning-colleagues-curry-lunch-with-snail-pellets-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Albanian Ministry of Justice on fire as education protesters riot",
+      "title": "US-Iran stalemate: What are Trump\u2019s next military options?",
       "date": "2026-10-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss"
     },
     {
-      "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
+      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
       "date": "2026-10-15",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss"
     },
     {
-      "title": "North Korea tests two submarine-launched missiles, state media reports",
+      "title": "Fighting in Yemen intensifies: What\u2019s the latest on the battlefield?",
       "date": "2026-10-15",
-      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss"
     },
     {
-      "title": "Teenager dies as heavy rain floods Istanbul",
+      "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
       "date": "2026-10-15",
-      "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss"
     },
     {
-      "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+      "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
       "date": "2026-10-15",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Suspicious white powder sent to election offices in 3 states",
+      "title": "Trump touts booming economy at Montana rally, but supporters feel the pinch",
       "date": "2026-10-15",
-      "url": "https://www.nbcnews.com/politics/2026-election/suspicious-white-powder-sent-election-offices-3-states-rcna603621"
-    },
-    {
-      "title": "Eight states sue OpenAI claiming ChatGPT harms children",
-      "date": "2026-10-15",
-      "url": "https://www.nbcnews.com/video/eight-states-sue-openai-claiming-chatgpt-harms-children-271603269912"
-    },
-    {
-      "title": "Prosecutors seeking life sentences for real estate brokers, brother convicted of sex trafficking",
-      "date": "2026-10-15",
-      "url": "https://www.nbcnews.com/news/us-news/prosecutors-seeking-life-sentences-alexander-brothers-rcna603620"
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-touts-booming-economy-montana-rally-supporters-feel-pinch-rcna603000"
     },
     {
       "title": "Suspicious white powder sent to election offices in 3 states",
@@ -104,12 +146,22 @@
       "url": "https://www.nbcnews.com/politics/2026-election/suspicious-white-powder-sent-election-offices-3-states-rcna603621"
     },
     {
-      "title": "Advocates fear deportation of potential witnesses in back of ICE vehicle that hit Houston man",
+      "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike",
       "date": "2026-10-15",
-      "url": "https://www.nbcnews.com/news/us-news/advocates-fear-potential-witnesses-handcuffed-back-ice-vehicle-struck-rcna603445"
+      "url": "https://www.today.com/video/musk-suggests-trump-is-behind-internet-outage-in-ukraine-271612997848"
+    },
+    {
+      "title": "Harry and Meghan make first joint appearance since returning to U.K.",
+      "date": "2026-10-15",
+      "url": "https://www.nbcnews.com/world/united-kingdom/harry-meghan-make-first-joint-appearance-returning-uk-rcna603646"
+    },
+    {
+      "title": "Israeli ad company helped a spyware firm target Al Jazeera through online ads, researchers say",
+      "date": "2026-10-15",
+      "url": "https://www.nbcnews.com/tech/security/israeli-ad-company-helped-spyware-firm-target-al-jazeera-online-ads-re-rcna602999"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-15T01:00:35.674227"
+    "updated_at": "2026-10-15T09:00:37.078384"
   }
 }
