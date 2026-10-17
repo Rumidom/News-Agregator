@@ -1,0 +1,111 @@
+{
+  "BBC": [
+    {
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "CNN": [
+    {
+      "title": "Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen",
+      "date": "2026-10-17",
+      "url": "https://edition.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk"
+    },
+    {
+      "title": "China invites Katie Zacharia to visit again after she claims nation lacks \u2018proper toilets\u2019",
+      "date": "2026-10-17",
+      "url": "https://edition.cnn.com/2026/10/16/china/china-katie-zacharia-intl-hnk"
+    },
+    {
+      "title": "Zelensky praises \u2018real leaders\u2019 in Europe as his relationship with Trump deteriorates",
+      "date": "2026-10-17",
+      "url": "https://edition.cnn.com/2026/10/16/europe/zelensky-brussels-trump-relationship-intl"
+    }
+  ],
+  "NPR": [],
+  "The Guardian": [
+    {
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers\u200b",
+      "date": "2026-10-17",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
+    },
+    {
+      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
+      "date": "2026-10-17",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb"
+    },
+    {
+      "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+      "date": "2026-10-17",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge"
+    },
+    {
+      "title": "Trump\u2019s appearance at Georgia rally disrupted by anti-ICE protesters \u2013 as it happened",
+      "date": "2026-10-17",
+      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates"
+    }
+  ],
+  "Al Jazeera": [
+    {
+      "title": "Cameroonians await government reshuffle after Biya\u2019s return",
+      "date": "2026-10-17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss"
+    },
+    {
+      "title": "Brazil\u2019s Amazon deforestation hits lowest level on record",
+      "date": "2026-10-17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
+    },
+    {
+      "title": "Healthcare crisis escalating in Yemen\u2019s besieged Taiz",
+      "date": "2026-10-17",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss"
+    },
+    {
+      "title": "US coastguard rescues 16 after boat sinks off Mexico\u2019s Baja coast",
+      "date": "2026-10-17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss"
+    },
+    {
+      "title": "Oregon school shooter was former special needs student, police say",
+      "date": "2026-10-17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss"
+    }
+  ],
+  "NBC News": [
+    {
+      "title": "Trump waives new Russia sanctions following deal to purchase diesel, citing \u2018national interests\u2019",
+      "date": "2026-10-17",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991"
+    },
+    {
+      "title": "Trump waives new Russia sanctions following deal to purchase diesel, citing \u2018national interests\u2019",
+      "date": "2026-10-17",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991"
+    }
+  ],
+  "_meta": {
+    "updated_at": "2026-10-17T01:00:36.047398"
+  }
+}
