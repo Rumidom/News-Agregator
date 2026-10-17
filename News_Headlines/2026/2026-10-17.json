@@ -1,49 +1,85 @@
 {
   "BBC": [
     {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "date": "2026-10-17",
       "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
       "date": "2026-10-17",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Swinney insists 'stars are aligning' for Scottish independence",
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
       "date": "2026-10-17",
       "url": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
-      "date": "2026-10-17",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "date": "2026-10-17",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Scores detained in Paris as protestors clash with police during nationwide demonstrations",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/10/17/world/live-news/france-protests-paris-intl"
+    },
     {
       "title": "Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen",
       "date": "2026-10-17",
       "url": "https://edition.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk"
     },
     {
-      "title": "China invites Katie Zacharia to visit again after she claims nation lacks \u2018proper toilets\u2019",
+      "title": "Pope Leo to be discharged from hospital today following lung cancer surgery",
       "date": "2026-10-17",
-      "url": "https://edition.cnn.com/2026/10/16/china/china-katie-zacharia-intl-hnk"
+      "url": "https://edition.cnn.com/2026/10/17/europe/pope-cancer-hospital-discharge-intl"
     },
     {
-      "title": "Zelensky praises \u2018real leaders\u2019 in Europe as his relationship with Trump deteriorates",
+      "title": "Exclusive: Inside Erik Prince\u2019s secretive operation taking on Haiti\u2019s gangs",
       "date": "2026-10-17",
-      "url": "https://edition.cnn.com/2026/10/16/europe/zelensky-brussels-trump-relationship-intl"
+      "url": "https://edition.cnn.com/2026/10/17/americas/haiti-erik-prince-drones"
+    },
+    {
+      "title": "Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico",
+      "date": "2026-10-17",
+      "url": "https://edition.cnn.com/2026/10/17/americas/mexico-murder-american-australian-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+      "date": "2026-10-17",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race"
+    },
+    {
+      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+      "date": "2026-10-17",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid"
+    },
+    {
+      "title": "No Kings turns its focus to voting this weekend. Here's what we know",
+      "date": "2026-10-17",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump"
+    },
+    {
+      "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+      "date": "2026-10-17",
+      "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk"
+    },
+    {
+      "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+      "date": "2026-10-17",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers\u200b",
@@ -56,56 +92,76 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb"
     },
     {
-      "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+      "title": "\u2018We are in hiding\u2019: Briton with severe health issues fears deportation from Sweden",
       "date": "2026-10-17",
-      "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden"
     },
     {
-      "title": "Trump\u2019s appearance at Georgia rally disrupted by anti-ICE protesters \u2013 as it happened",
+      "title": "\u2018Austerity is inevitably painful\u2019: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty \u2013 podcast",
       "date": "2026-10-17",
-      "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates"
+      "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast"
+    },
+    {
+      "title": "Not cool: who hacked France\u2019s supermarket fridges?",
+      "date": "2026-10-17",
+      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Cameroonians await government reshuffle after Biya\u2019s return",
+      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
       "date": "2026-10-17",
-      "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss"
     },
     {
-      "title": "Brazil\u2019s Amazon deforestation hits lowest level on record",
+      "title": "Protests spread across France as \u2018yellow vests\u2019 set to join",
       "date": "2026-10-17",
-      "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss"
     },
     {
-      "title": "Healthcare crisis escalating in Yemen\u2019s besieged Taiz",
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow\u2019s gas?",
       "date": "2026-10-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
     },
     {
-      "title": "US coastguard rescues 16 after boat sinks off Mexico\u2019s Baja coast",
+      "title": "Sally Rooney\u2019s books pulled from UK over Palestine Action support",
       "date": "2026-10-17",
-      "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss"
     },
     {
-      "title": "Oregon school shooter was former special needs student, police say",
+      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
       "date": "2026-10-17",
-      "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump waives new Russia sanctions following deal to purchase diesel, citing \u2018national interests\u2019",
+      "title": "Zelenskyy says Trump is \u2018rewarding Putin\u2019 as he waives new Russia sanctions passed by Congress",
       "date": "2026-10-17",
       "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991"
     },
     {
-      "title": "Trump waives new Russia sanctions following deal to purchase diesel, citing \u2018national interests\u2019",
+      "title": "Pope Leo to be discharged from the hospital after lung cancer surgery",
       "date": "2026-10-17",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991"
+      "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-discharged-hospital-lung-cancer-surgery-rcna604005"
+    },
+    {
+      "title": "The pope goes under the knife, and a new dinosaur species is discovered: The news quiz",
+      "date": "2026-10-17",
+      "url": "https://www.nbcnews.com/news/news-quiz/pope-leo-news-quiz-rcna603755"
+    },
+    {
+      "title": "Pope Leo to be discharged from the hospital after lung cancer surgery",
+      "date": "2026-10-17",
+      "url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-discharged-hospital-lung-cancer-surgery-rcna604005"
+    },
+    {
+      "title": "The pope goes under the knife, and a new dinosaur species is discovered: The news quiz",
+      "date": "2026-10-17",
+      "url": "https://www.nbcnews.com/news/news-quiz/pope-leo-news-quiz-rcna603755"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-17T01:00:36.047398"
+    "updated_at": "2026-10-17T09:00:36.033284"
   }
 }
