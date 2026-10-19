@@ -1,24 +1,24 @@
 {
   "BBC": [
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "title": "Macron calls for 'calm and order' after riots across France",
       "date": "2026-10-18",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Parisians wake up to protest damage and looted shops",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
       "date": "2026-10-18",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "date": "2026-10-18",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
       "date": "2026-10-18",
       "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
-      "date": "2026-10-18",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -28,41 +28,56 @@
   ],
   "CNN": [
     {
-      "title": "France wakes up to wreckage of a night of rioting after protests turned violent",
+      "title": "Trump excoriates Zelensky after Ukraine defies US president with major attack on Russia",
+      "date": "2026-10-18",
+      "url": "https://edition.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
+    },
+    {
+      "title": "4 dead and dozens injured after major fire breaks out at one of Canada\u2019s largest military bases",
+      "date": "2026-10-18",
+      "url": "https://edition.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk"
+    },
+    {
+      "title": "France\u2019s Macron vows to hold accountable those who \u2018sought to bring down the Republic\u2019 during major protests",
       "date": "2026-10-18",
       "url": "https://edition.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl"
     },
     {
-      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
+      "title": "Nine days before Israeli elections, Trump finally endorses Netanyahu",
       "date": "2026-10-18",
-      "url": "https://edition.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
+      "url": "https://edition.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl"
     },
     {
       "title": "Pope Leo leads Sunday prayers in first major public appearance since lung cancer surgery",
       "date": "2026-10-18",
       "url": "https://edition.cnn.com/2026/10/18/europe/pope-angelus-sunday-cancer-intl"
-    },
-    {
-      "title": "To keep the Panama Canal flowing, the living and the dead must pay the price",
-      "date": "2026-10-18",
-      "url": "https://edition.cnn.com/2026/10/18/americas/panama-canal-reservoir-project-intl-latam"
-    },
-    {
-      "title": "Trump and Netanyahu\u2019s once blossoming bromance sours at a pivotal moment for both men",
-      "date": "2026-10-18",
-      "url": "https://edition.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl"
     }
   ],
   "NPR": [
     {
-      "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
       "date": "2026-10-18",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump"
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
     },
     {
-      "title": "Major fire breaks out in Alberta after deadly incident at military base",
+      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
       "date": "2026-10-18",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base"
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died"
+    },
+    {
+      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+      "date": "2026-10-18",
+      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
+    },
+    {
+      "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+      "date": "2026-10-18",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings"
+    },
+    {
+      "title": "If you have the scratch, they have the scares",
+      "date": "2026-10-18",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares"
     }
   ],
   "The Guardian": [
@@ -77,71 +92,76 @@
       "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria"
     },
     {
+      "title": "Four people killed in \u2018violent, fast-moving\u2019 fire at Canadian military base",
+      "date": "2026-10-18",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
+    },
+    {
       "title": "\u20184,000 people minding our own business\u2019: four decades on, Falklands again face a hostile Argentina",
       "date": "2026-10-18",
       "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina"
     },
     {
-      "title": "\u2018Serious incident\u2019 at Alberta military base causes deaths and injuries, Canada officials say",
+      "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
       "date": "2026-10-18",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright"
-    },
-    {
-      "title": "\u2018Many family stories\u2019: Tim Winton\u2019s Cloudstreet takes out ABC radio poll of top 100 Australian books",
-      "date": "2026-10-18",
-      "url": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+      "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
       "date": "2026-10-18",
-      "url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss"
     },
     {
-      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
       "date": "2026-10-18",
-      "url": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss"
     },
     {
-      "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+      "title": "Alberta independence referendum: Will separatists survive a loss?",
       "date": "2026-10-18",
-      "url": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss"
     },
     {
-      "title": "Palestinian karate champion Maryam Bsharat wins second world title",
+      "title": "Macron condemns violence after riots lead to looting and mass arrests",
       "date": "2026-10-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss"
     },
     {
-      "title": "Ukrainian drone attack on Russia\u2019s St Petersburg kills 1, hits energy sites",
+      "title": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
       "date": "2026-10-18",
-      "url": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Two dead, others injured after truck drives through Kansas soccer game",
+      "title": "Poll: Americans are anxious, pessimistic and deeply unhappy with Trump ahead of the midterms",
       "date": "2026-10-18",
-      "url": "https://www.nbcnews.com/now/video/two-dead-others-injured-after-truck-drives-through-kansas-soccer-game-271763525998"
+      "url": "https://www.nbcnews.com/politics/2026-election/poll-americans-anxious-pessimistic-deeply-unhappy-trump-ahead-midterms-rcna603064"
     },
     {
-      "title": "Two people, including a child, killed after woman drives through youth soccer game in Kansas",
+      "title": "Here\u2019s the biggest news you missed this weekend",
       "date": "2026-10-18",
-      "url": "https://www.nbcnews.com/news/us-news/wichita-kansas-vehicle-drives-soccer-game-rcna604083"
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-october-18-rcna603917"
     },
     {
-      "title": "Lego Advent calendars are on sale on Amazon, while they last",
+      "title": "U.S. taking Putin\u2019s side would be a \u2018historic mistake,\u2019 Zelenskyy says",
       "date": "2026-10-18",
-      "url": "https://www.nbcnews.com/select/shopping/lego-advent-calendar-deal-of-the-day-2026-rcna604034"
+      "url": "https://www.nbcnews.com/nightly-news/video/u-s-taking-putin-s-side-would-be-a-historic-mistake-zelenskyy-says-271788101978"
     },
     {
-      "title": "Two people, including a child, killed after woman drives through youth soccer game in Kansas",
+      "title": "Large Military Base Fire in Canada Leaves Several Dead",
       "date": "2026-10-18",
-      "url": "https://www.nbcnews.com/news/us-news/wichita-kansas-vehicle-drives-soccer-game-rcna604083"
+      "url": "https://www.today.com/video/several-dead-after-large-fire-at-canada-military-base-271777349554"
+    },
+    {
+      "title": "Trump announces plans to renovate D.C. golf course amid legal battle",
+      "date": "2026-10-18",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-plans-renovate-dc-golf-course-legal-battle-rcna604147"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-18T09:00:37.970651"
+    "updated_at": "2026-10-18T21:00:41.919490"
   }
 }
