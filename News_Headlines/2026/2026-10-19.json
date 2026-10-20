@@ -1,59 +1,69 @@
 {
   "BBC": [
     {
-      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
       "date": "2026-10-19",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "title": "Watch: Clean up begins after French riots but police remain",
       "date": "2026-10-19",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "date": "2026-10-19",
-      "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Four arrested after police officer injured in shooting",
+      "title": "Criminals detained in hospital set to lose benefits",
       "date": "2026-10-19",
-      "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
       "date": "2026-10-19",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "French officials explore curfews after weekend of chaos and protests spreading across Europe",
+      "title": "US-Ukraine relationship worsens amid Trump and Zelensky\u2019s mutual distrust",
+      "date": "2026-10-19",
+      "url": "https://edition.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl"
+    },
+    {
+      "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations",
+      "date": "2026-10-19",
+      "url": "https://edition.cnn.com/2026/10/19/americas/haiti-el-salvador-ambush-latam-intl"
+    },
+    {
+      "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
       "date": "2026-10-19",
       "url": "https://edition.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk"
     },
     {
-      "title": "Australian lawmaker Helen Haines hit by car outside electorate office in \u2018deliberate act,\u2019 PM says",
+      "title": "Kenyan cult leader found guilty over 190 children starved to death in the hope of \u2018meeting Jesus\u2019",
       "date": "2026-10-19",
-      "url": "https://edition.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl"
+      "url": "https://edition.cnn.com/2026/10/19/africa/paul-mackenzie-shakahola-kenya-intl"
     },
     {
-      "title": "Trump slams Zelensky after Ukraine defies US president with major attack on Russia",
+      "title": "The rioting across France is a symptom of a much larger public and political crisis",
       "date": "2026-10-19",
-      "url": "https://edition.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl"
-    },
-    {
-      "title": "Amid US pressure on settler violence, Israel arrests at least 10 suspected of West Bank attacks on journalist, diplomats",
-      "date": "2026-10-19",
-      "url": "https://edition.cnn.com/world/middleeast/amid-us-pressure-on-settler-violence-israel-arrests-at-least-10-suspected-of-west-bank-attacks-on-journalist-diplomats"
-    },
-    {
-      "title": "\u2018The world will be amazed:\u2019 Iran\u2019s commanders prepare for further war",
-      "date": "2026-10-19",
-      "url": "https://edition.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl"
+      "url": "https://edition.cnn.com/2026/10/19/europe/france-riots-political-crisis-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+      "date": "2026-10-19",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal"
+    },
+    {
+      "title": "Schools struggle to measure how much AI experiments are helping",
+      "date": "2026-10-19",
+      "url": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping"
+    },
     {
       "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
       "date": "2026-10-19",
@@ -68,100 +78,90 @@
       "title": "The real reason it's going to take a while to know who won in some midterm races",
       "date": "2026-10-19",
       "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins"
-    },
-    {
-      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-      "date": "2026-10-19",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast"
-    },
-    {
-      "title": "Morning news brief",
-      "date": "2026-10-19",
-      "url": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief"
     }
   ],
   "The Guardian": [
     {
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "date": "2026-10-19",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
+    },
+    {
+      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+      "date": "2026-10-19",
+      "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+    },
+    {
+      "title": "Drone attack near market kills 80 in Sudan",
+      "date": "2026-10-19",
+      "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan"
+    },
+    {
+      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+      "date": "2026-10-19",
+      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine"
+    },
+    {
       "title": "Hurricane Trudy menaces Mexico\u2019s Pacific coast and Greece hit by deadly floods",
       "date": "2026-10-19",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
-    },
-    {
-      "title": "\u2018This is not poker\u2019: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
-      "date": "2026-10-19",
-      "url": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada"
-    },
-    {
-      "title": "China\u2019s economy grows faster than forecast after AI boom boosts exports",
-      "date": "2026-10-19",
-      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
-    },
-    {
-      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-      "date": "2026-10-19",
-      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents"
-    },
-    {
-      "title": "Amelia Earhart researchers leave remote atoll empty-handed after \u2018plane debris\u2019 found to be a clump of trees",
-      "date": "2026-10-19",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "On Iran, Israel\u2019s opposition is even more hawkish than Netanyahu",
+      "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
       "date": "2026-10-19",
-      "url": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss"
     },
     {
-      "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
+      "title": "Children among six killed in Russian drone strike on Ukraine park",
       "date": "2026-10-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
     },
     {
-      "title": "Museum protesters in Colombia accuse gov\u2019t of erasing history",
+      "title": "Trump: \u2018Paris is going to be a Muslim city very soon\u2019",
       "date": "2026-10-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss"
     },
     {
-      "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
       "date": "2026-10-19",
-      "url": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
     },
     {
-      "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
       "date": "2026-10-19",
-      "url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Violent Protests Spread Across France Over Rising Cost of Living",
+      "title": "Kansas voters stress affordability as key issue in competitive Senate race",
       "date": "2026-10-19",
-      "url": "https://www.today.com/video/violent-protests-spread-across-france-over-rising-cost-of-living-271806021629"
+      "url": "https://www.nbcnews.com/now/video/kansas-voters-stress-affordability-as-key-issue-in-competitive-senate-race-271824453567"
     },
     {
-      "title": "Kornacki: Democrats Lead Polls as Midterm Elections Loom",
+      "title": "Texas Democratic candidate for governor sues to review emails between Elon Musk and Greg Abbott",
       "date": "2026-10-19",
-      "url": "https://www.today.com/video/kornacki-how-democrats-are-progressing-in-typically-red-states-271803974002"
+      "url": "https://www.nbcnews.com/politics/2026-election/texas-democrat-gina-hinojosa-sues-review-emails-elon-musk-greg-abbott-rcna604443"
     },
     {
-      "title": "Mystery Surrounds Deadly Accident at Youth Soccer Game",
+      "title": "Dramatic images show violent unrest sweeping across France",
+      "date": "2026-10-19",
+      "url": "https://www.nbcnews.com/world/france/france-unrest-photos-looting-violence-macron-rcna604299"
+    },
+    {
+      "title": "Mystery Surrounds Deadly Vehicle Crash at Youth Soccer Game",
       "date": "2026-10-19",
       "url": "https://www.today.com/video/mystery-surrounds-deadly-vehicle-accident-at-kids-soccer-game-271807557853"
     },
     {
-      "title": "Russians locked out of bank accounts and apartments as Ukraine hits data centers",
+      "title": "Richard Riehle, character actor best known for \u2018Office Space,\u2019 dies at 78",
       "date": "2026-10-19",
-      "url": "https://www.nbcnews.com/world/russia/russia-ukraine-yandex-data-centers-attacks-trump-rcna602753"
-    },
-    {
-      "title": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years",
-      "date": "2026-10-19",
-      "url": "https://www.nbcnews.com/sports/nfl/dallas-cowboys-nfl-green-bay-packers-dak-prescott-results-rcna604280"
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/richard-riehle-office-space-dies-78-rcna604412"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-19T09:00:38.467393"
+    "updated_at": "2026-10-19T21:00:36.898573"
   }
 }
