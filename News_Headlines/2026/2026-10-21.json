@@ -1,34 +1,85 @@
 {
   "BBC": [
     {
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "date": "2026-10-21",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
       "date": "2026-10-21",
-      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "France is divided over who to blame for and what to learn from weekend riots",
+      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
       "date": "2026-10-21",
-      "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
+      "title": "Undercover filming shows lawyer advising how to avoid \u00a345,000 illegal-worker fine",
       "date": "2026-10-21",
-      "url": "https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+      "date": "2026-10-21",
+      "url": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "North Korea tells border troops to take \u2018resolute action\u2019 if South threatens their safety",
+      "date": "2026-10-21",
+      "url": "https://edition.cnn.com/2026/10/21/asia/north-korea-tension-south-korea-troops-intl"
+    },
+    {
+      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
+      "date": "2026-10-21",
+      "url": "https://edition.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl"
+    },
+    {
+      "title": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
+      "date": "2026-10-21",
+      "url": "https://edition.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+    },
+    {
+      "title": "Australian lawmaker has both legs amputated after allegedly deliberate attack by car rammer",
+      "date": "2026-10-21",
+      "url": "https://edition.cnn.com/2026/10/21/australia/australia-lawmaker-helen-haines-legs-amputated-intl-hnk"
+    },
     {
       "title": "At the negotiating table and on the battlefield, Russia and Ukraine are at an impasse",
       "date": "2026-10-21",
       "url": "https://edition.cnn.com/2026/10/20/europe/kyiv-under-pressure-as-trump-and-putin-cozy-up-analysis"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+      "date": "2026-10-21",
+      "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia"
+    },
+    {
+      "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+      "date": "2026-10-21",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+    },
+    {
+      "title": "2025 policing trend: Fewer serious crimes, more minor arrests",
+      "date": "2026-10-21",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase"
+    },
+    {
+      "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+      "date": "2026-10-21",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy"
+    },
+    {
+      "title": "Morning news brief",
+      "date": "2026-10-21",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6003502/morning-news-brief"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
@@ -36,14 +87,14 @@
       "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
     },
     {
-      "title": "Police charge accused Brendan Nugent with additional offences \u2013 as it happened",
+      "title": "Soft-spoken David Pocock has big ambitions \u2013 but first he wants politicians to \u2018double down\u2019 on kindness",
       "date": "2026-10-21",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb"
     },
     {
-      "title": "Fast-fashion giant Shein outperforms several Australian retailers on ethics, report says",
+      "title": "Helen Haines\u2019s second leg amputated but she is stable and \u2018a fighter\u2019, husband says \u2013 as it happened",
       "date": "2026-10-21",
-      "url": "https://www.theguardian.com/fashion/2026/oct/21/fast-fashion-giant-shein-outperforms-several-australian-retailers-on-ethics"
+      "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb"
     },
     {
       "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia\u2019s \u2018febrile\u2019 political environment",
@@ -51,51 +102,66 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb"
     },
     {
-      "title": "Odds of fifth interest rate hike this year shorten as RBA deputy warns inflation outlook \u2018worsening\u2019",
+      "title": "Helen Haines has lost both legs after alleged attack but \u2018her heart and mind are in good shape\u2019, husband says",
       "date": "2026-10-21",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Faecal waste pollutes drinking water in Mexico\u2019s Yucatan, Greenpeace says",
+      "title": "Cost of living protests aren\u2019t just happening in Europe",
       "date": "2026-10-21",
-      "url": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss"
     },
     {
-      "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+      "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG\u2019s win",
       "date": "2026-10-21",
-      "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss"
     },
     {
-      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "title": "Why are French protesters chanting \u2018Bismillah, c\u2019est les t\u00e9n\u00e8bres\u2019?",
       "date": "2026-10-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss"
     },
     {
-      "title": "UN experts call on India to stop using \u2018excessive force\u2019 against protesters",
+      "title": "UK approves development of Jackdaw gasfield in North Sea",
       "date": "2026-10-21",
-      "url": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss"
     },
     {
-      "title": "Musk confirms SpaceX and Tesla exploring merger",
+      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
       "date": "2026-10-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Texas couple charged in shooting death of Missouri high schooler on her way to the zoo",
+      "title": "Witkoff thanks Putin after release of Stephen Hubbard",
       "date": "2026-10-21",
-      "url": "https://www.nbcnews.com/news/us-news/texas-couple-charged-shooting-death-missouri-high-schooler-way-zoo-rcna604703"
+      "url": "https://www.nbcnews.com/video/witkoff-thanks-putin-after-release-of-stephen-hubbard-271955525713"
     },
     {
-      "title": "Heath Ledger and James Avery honored by former co-stars on \u2018Dancing with the Stars\u2019",
+      "title": "Secret Service study explores how to prevent workplace violence",
       "date": "2026-10-21",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/heath-ledger-james-avery-honored-co-stars-dancing-stars-rcna603772"
+      "url": "https://www.nbcnews.com/politics/national-security/secret-service-study-explores-prevent-workplace-violence-rcna604656"
+    },
+    {
+      "title": "Christina Applegate Says She Was Misdiagnosed With MS",
+      "date": "2026-10-21",
+      "url": "https://www.today.com/video/christina-applegate-says-she-was-misdiagnosed-with-ms-271955013908"
+    },
+    {
+      "title": "Trump promises more than $5,000 checks and Russia frees U.S. citizen: Morning Rundown",
+      "date": "2026-10-21",
+      "url": "https://www.nbcnews.com/news/us-news/trump-promises-rallies-christina-applegate-ms-morning-rundown-rcna604728"
+    },
+    {
+      "title": "The NBA star helping protect his opponents\u2019 feet",
+      "date": "2026-10-21",
+      "url": "https://www.nbcnews.com/sports/nba/nba-damian-lillard-portland-trail-blazers-insoles-rcna604620"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-21T01:00:37.954790"
+    "updated_at": "2026-10-21T09:00:36.835483"
   }
 }
