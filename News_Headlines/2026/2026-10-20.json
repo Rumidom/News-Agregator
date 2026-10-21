@@ -1,59 +1,69 @@
 {
   "BBC": [
     {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
       "date": "2026-10-20",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
       "date": "2026-10-20",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "UK government to make Jackdaw gas field announcement",
       "date": "2026-10-20",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How the attack on an Australian MP unfolded",
+      "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
       "date": "2026-10-20",
-      "url": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We asked teens what schools should teach them about work. This is what they said",
+      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
       "date": "2026-10-20",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks",
+      "title": "Drone strike on a market in disputed African region of Abyei kills at least 153",
       "date": "2026-10-20",
-      "url": "https://edition.cnn.com/2026/10/20/middleeast/uk-military-saudi-arabia-yemen-houthis-intl"
+      "url": "https://edition.cnn.com/2026/10/20/africa/drone-strike-abeyi-south-sudan-latam-intl"
     },
     {
-      "title": "Google Cloud services face outage in London, Revolut services down too",
-      "date": "2026-10-20",
-      "url": "https://edition.cnn.com/2026/10/20/europe/google-cloud-outage-london-revolut-intl"
-    },
-    {
-      "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
+      "title": "France promises \u2018massive\u2019 police presence this weekend as cities impose more curfews after protest violence",
       "date": "2026-10-20",
       "url": "https://edition.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk"
     },
     {
-      "title": "Driver charged with ramming Australian lawmaker with car in \u2018targeted\u2019 attack",
+      "title": "At the negotiating table and on the battlefield, Russia and Ukraine are at an impasse",
       "date": "2026-10-20",
-      "url": "https://edition.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl"
+      "url": "https://edition.cnn.com/2026/10/20/europe/kyiv-under-pressure-as-trump-and-putin-cozy-up-analysis"
     },
     {
-      "title": "US-Ukraine relationship worsens amid Trump and Zelensky\u2019s mutual distrust",
+      "title": "Alberta rejects secession referendum, chooses to remain part of Canada",
       "date": "2026-10-20",
-      "url": "https://edition.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl"
+      "url": "https://edition.cnn.com/2026/10/20/americas/alberta-rejects-independence-referendum-canada-intl-latam-hnk"
+    },
+    {
+      "title": "Two men rearrested on suspicion of assisting Iran\u2019s intelligence service in RAF Fairford incident",
+      "date": "2026-10-20",
+      "url": "https://edition.cnn.com/2026/10/20/uk/two-men-arrested-iran-uk-base-fairford-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "date": "2026-10-20",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
+    },
+    {
+      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+      "date": "2026-10-20",
+      "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization"
+    },
     {
       "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
       "date": "2026-10-20",
@@ -68,100 +78,90 @@
       "title": "Can the new federal voucher program help public schools? Democrats are torn",
       "date": "2026-10-20",
       "url": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats"
-    },
-    {
-      "title": "Why are some food prices up and others down? Here are the stories of 5 items",
-      "date": "2026-10-20",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation"
-    },
-    {
-      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-      "date": "2026-10-20",
-      "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering"
     }
   ],
   "The Guardian": [
     {
-      "title": "Alberta voters reject plan for referendum to leave Canada",
+      "title": "RFK Jr\u2019s \u2018deities of vaccine research\u2019 raided by police in Guinea-Bissau",
+      "date": "2026-10-20",
+      "url": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau"
+    },
+    {
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
       "date": "2026-10-20",
       "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
     },
     {
-      "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "title": "\u2018Bad decisions\u2019: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
       "date": "2026-10-20",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb"
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel"
     },
     {
-      "title": "Brendan Nugent\u2019s family say Helen Haines has been their friend for more than 20 years",
+      "title": "Flavio Bolsonaro\u2019s \u2018corrupto\u2019 stunt sparks viral meme before Brazil election runoff",
       "date": "2026-10-20",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff"
     },
     {
-      "title": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+      "title": "Giving \u00a32 a day to people in the Amazon helps protect rainforest, pilot project finds",
       "date": "2026-10-20",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb"
-    },
-    {
-      "title": "Human rights commission says \u2018violence has no place in our society\u2019 after alleged attack \u2013 as it happened",
-      "date": "2026-10-20",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb"
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "UK to deploy RAF fighter jets to defend Saudi Arabia from Houthi attacks",
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
       "date": "2026-10-20",
-      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss"
     },
     {
-      "title": "Australian MP Helen Haines remains in critical condition after car attack",
+      "title": "The Gambia to pay reparations to ex-dictator\u2019s victims from sale of US mansion",
       "date": "2026-10-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss"
     },
     {
-      "title": "Myanmar\u2019s detained ex-leader Suu Kyi receives package from King Charles III",
+      "title": "\u2018I don\u2019t care how it\u2019s done\u2019: Trump pressures Ukraine to cut peace deal",
       "date": "2026-10-20",
-      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss"
     },
     {
-      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
       "date": "2026-10-20",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss"
     },
     {
-      "title": "France\u2019s growing debt woes: How bond markets set countries\u2019 borrowing costs",
+      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
       "date": "2026-10-20",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
+      "title": "Woman sexually assaulted at fraternity near University of Chicago, lawsuit alleges",
+      "date": "2026-10-20",
+      "url": "https://www.nbcnews.com/news/us-news/woman-sexually-assaulted-fraternity-university-chicago-lawsuit-alleges-rcna604607"
+    },
+    {
+      "title": "Former Cornell student alleging sexual assault addressed faculty senate in letter",
+      "date": "2026-10-20",
+      "url": "https://www.nbcnews.com/now/video/former-cornell-student-alleging-sexual-assault-addressed-faculty-senate-in-letter-271901253978"
+    },
+    {
+      "title": "Christina Applegate says she was misdiagnosed with multiple sclerosis",
+      "date": "2026-10-20",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/christina-applegate-says-was-misdiagnosed-multiple-sclerosis-rcna604558"
+    },
+    {
+      "title": "In-laws plead not guilty to murdering their son-in-law, a NYT executive, at local park",
+      "date": "2026-10-20",
+      "url": "https://www.nbcnews.com/news/us-news/jonathan-mckinsey-murder-elderly-couple-pleads-not-guilty-killing-nyt-rcna604415"
+    },
+    {
       "title": "Russia Batters Ukraine Amid Trump-Zelenskyy Standoff",
       "date": "2026-10-20",
       "url": "https://www.today.com/video/russia-batters-ukraine-amid-trump-zelenskyy-standoff-271872069950"
-    },
-    {
-      "title": "Lawmaker reportedly loses leg as car ramming stuns Australia",
-      "date": "2026-10-20",
-      "url": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526"
-    },
-    {
-      "title": "Tampa Bay Rays advance to World Series, will face Milwaukee Brewers",
-      "date": "2026-10-20",
-      "url": "https://www.nbcnews.com/sports/mlb/tampa-bay-rays-world-series-milwaukee-brewers-result-guardians-rcna604268"
-    },
-    {
-      "title": "Paxton and Talarico campaign in Texas and the NBA\u2019s second apron dilemma: Morning Rundown",
-      "date": "2026-10-20",
-      "url": "https://www.nbcnews.com/news/us-news/paxton-talarico-texas-nba-second-apron-morning-rundown-rcna604528"
-    },
-    {
-      "title": "\u2018Scandalous\u2019 to say Ukrainians are dying due to U.S. pulling support, Rubio says",
-      "date": "2026-10-20",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-us-support-rubio-scandalous-zelenskyy-meeting-trump-oslo-rcna604530"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-20T09:00:39.209043"
+    "updated_at": "2026-10-20T21:00:37.073198"
   }
 }
