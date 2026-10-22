@@ -1,28 +1,85 @@
 {
   "BBC": [
     {
-      "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+      "title": "What is PHP and why did it spark an international cyber-security alert?",
+      "date": "2026-10-22",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "date": "2026-10-22",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+      "date": "2026-10-22",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
       "date": "2026-10-22",
       "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
       "date": "2026-10-22",
-      "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Papers: 'Drill, Andy Drill!' and a Budget for 'bloody-minded entrepreneurs'",
-      "date": "2026-10-22",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn4mmypko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "date": "2026-10-22",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
+      "date": "2026-10-22",
+      "url": "https://edition.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+    },
+    {
+      "title": "Where Trump sees a deal, Putin sees a win for Russia",
+      "date": "2026-10-22",
+      "url": "https://edition.cnn.com/2026/10/21/world/trump-putin-deal-analysis-latam-intl"
+    },
+    {
+      "title": "Lions are being poisoned in revenge attacks. Maasai warriors are trying to end the killings",
+      "date": "2026-10-22",
+      "url": "https://edition.cnn.com/world/africa/lion-poisoning-kenya-tanzania-spc"
+    },
+    {
+      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
+      "date": "2026-10-22",
+      "url": "https://edition.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl"
+    },
+    {
+      "title": "A small but powerful African nation is bringing Formula 1 back to the continent. Not everyone is celebrating",
+      "date": "2026-10-22",
+      "url": "https://edition.cnn.com/2026/10/22/africa/formula-1-rwanda-africa-sportswashing-concerns-intl"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "date": "2026-10-22",
+      "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
+    },
+    {
+      "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+      "date": "2026-10-22",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day"
+    },
+    {
+      "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+      "date": "2026-10-22",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california"
+    },
+    {
+      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+      "date": "2026-10-22",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms"
+    },
+    {
+      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+      "date": "2026-10-22",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability"
+    }
+  ],
   "The Guardian": [
     {
       "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
@@ -30,81 +87,81 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
     },
     {
-      "title": "\u2018Almost looks fake\u2019: two Sydney beaches closed after whale carcass washes up",
+      "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
       "date": "2026-10-22",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass"
+      "url": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation"
     },
     {
-      "title": "Man fined after 700 frozen and taxidermied animals found on Victorian property",
+      "title": "Snowy Hydro 2.0 has blown out to 12 times its original cost \u2013 but the CEO says it \u2018could have been worse\u2019",
       "date": "2026-10-22",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-fined-after-700-frozen-and-taxidermied-animals-found-on-victorian-property-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/snowy-hydro-2-0-blows-out-to-12-times-original-cost"
     },
     {
-      "title": "Man arrested for allegedly making threats at Hannah Beazley\u2019s electorate office while armed with nunchucks",
+      "title": "Beau Lamarre-Condon visits McDonald\u2019s drive-thru in van allegedly used to dispose of bodies, in CCTV shown to jury",
+      "date": "2026-10-22",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/22/beau-lamarre-condon-trial-mcdonalds-cctv-ntwnfb"
+    },
+    {
+      "title": "Man charged after allegedly making threats at Hannah Beazley\u2019s electorate office while armed with nunchucks",
       "date": "2026-10-22",
       "url": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb"
-    },
-    {
-      "title": "Sam Wood makes bid for bail to supreme court over domestic violence charges",
-      "date": "2026-10-22",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+      "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
       "date": "2026-10-22",
-      "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss"
     },
     {
-      "title": "Can Trump deport Congresswoman Ilhan Omar?",
+      "title": "France reports first human Shamonda virus case, says no health risk",
       "date": "2026-10-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss"
     },
     {
-      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "title": "Southeast Asia\u2019s toxic haze spurs calls for legal action against polluters",
       "date": "2026-10-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss"
     },
     {
-      "title": "Tigray resumes daily life amid fears of wider war",
+      "title": "Trump praises man who punched protester at rally in South Carolina",
       "date": "2026-10-22",
-      "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss"
     },
     {
-      "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
+      "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
       "date": "2026-10-22",
-      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Abdul El-Sayed and Mike Rogers\u2019 final debate clash sets up final sprint in Michigan",
+      "title": "Abdul El-Sayed and Mike Rogers clash over cost of living in final Michigan Senate debate",
       "date": "2026-10-22",
       "url": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-mike-rogers-final-debate-clash-sets-final-sprint-michig-rcna604591"
     },
     {
-      "title": "Roger Marshall and Adam Hamilton face off in fiery final Kansas Senate debate",
+      "title": "Roger Marshall and Adam Hamilton face off in fiery  Kansas Senate debate",
       "date": "2026-10-22",
       "url": "https://www.nbcnews.com/politics/2026-election/roger-marshall-adam-hamilton-face-fiery-final-kansas-senate-debate-rcna604592"
     },
     {
-      "title": "Trump hopes to flatter Putin into negotiating on Ukraine, experts say",
+      "title": "Trump hopes to flatter Putin into negotiating on Ukraine",
       "date": "2026-10-22",
       "url": "https://www.nbcnews.com/politics/donald-trump/trump-hopes-flatter-putin-negotiating-ukraine-experts-say-rcna604770"
     },
     {
-      "title": "Rep. Ilhan Omar details federal search of her D.C. home, says she\u2019ll have to move for safety",
+      "title": "On Main Street, Goldman Sachs makes a bet on AI",
       "date": "2026-10-22",
-      "url": "https://www.nbcnews.com/politics/congress/ilhan-omar-details-federal-search-dc-home-will-move-safety-reasons-rcna604930"
+      "url": "https://www.nbcnews.com/business/ceo-interviews/goldman-sachs-small-business-ai-institute-rcna604621"
     },
     {
-      "title": "Wisconsin governor candidates tangle over the economy, Trump and the 2020 election",
+      "title": "France\u2019s Emmanuel Macron says \u2018illegitimate\u2019 protests will be banned as cities block demonstrations",
       "date": "2026-10-22",
-      "url": "https://www.nbcnews.com/politics/2026-election/wisconsin-governor-candidates-debate-economy-trump-2020-election-rcna602991"
+      "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-22T01:00:40.169226"
+    "updated_at": "2026-10-22T09:00:38.991474"
   }
 }
