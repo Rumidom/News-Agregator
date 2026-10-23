@@ -1,49 +1,85 @@
 {
   "BBC": [
     {
-      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
+      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
       "date": "2026-10-23",
-      "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Amber warning in place as Storm Austen hits parts of UK",
+      "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
       "date": "2026-10-23",
-      "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "title": "At least one dead and four injured in Paris suburb shooting",
       "date": "2026-10-23",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Prepare for the worst' and 'Covid report fallout'",
+      "title": "Burnham suggests stocking up on tinned food and bottled water",
       "date": "2026-10-23",
-      "url": "https://www.bbc.co.uk/news/articles/cwly393mj7y3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Washington Post journalist says attack by Israeli West Bank settlers has only \u2018strengthened\u2019 her resolve",
+      "title": "Meghan \u2018deeply distressed\u2019 over child sex abuse image allegations against father",
       "date": "2026-10-23",
-      "url": "https://edition.cnn.com/2026/10/22/middleeast/washington-post-journalist-attack-west-bank-settlers-intl-hnk"
+      "url": "https://edition.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl"
     },
     {
-      "title": "France reports first human case of livestock virus Shamonda after patient dies",
+      "title": "Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack",
       "date": "2026-10-23",
-      "url": "https://edition.cnn.com/2026/10/22/europe/france-livestock-virys-shamonda-intl"
+      "url": "https://edition.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl"
     },
     {
-      "title": "7-magnitude earthquake hits Tibet, killing 16 and injuring dozens, Chinese state media reports",
+      "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump\u2019s claims",
       "date": "2026-10-23",
-      "url": "https://edition.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl"
+      "url": "https://edition.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl"
     },
     {
-      "title": "El Salvador sends troops to Haiti to rescue four service members",
+      "title": "One killed, four injured in drive-by shooting near Paris",
       "date": "2026-10-23",
-      "url": "https://edition.cnn.com/2026/10/22/americas/el-salvador-troops-haiti-latam-intl"
+      "url": "https://edition.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl"
+    },
+    {
+      "title": "Lula has defined Brazil\u2019s left for decades. Can his movement survive another Bolsonaro?",
+      "date": "2026-10-23",
+      "url": "https://edition.cnn.com/2026/10/23/americas/lula-brazil-runoff-elections-intl-latam"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "date": "2026-10-23",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
+    },
+    {
+      "title": "Why Meta is charging to post more hyperlinks",
+      "date": "2026-10-23",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks"
+    },
+    {
+      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+      "date": "2026-10-23",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
+    },
+    {
+      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+      "date": "2026-10-23",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
+    },
+    {
+      "title": "What if you gave yourself a day to cancel all the plans you dread?",
+      "date": "2026-10-23",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Brazil\u2019s election and the battle for the Amazon \u2013 podcast",
@@ -51,81 +87,81 @@
       "url": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast"
     },
     {
-      "title": "Mother sought advice from Alan Jones after broadcaster\u2019s alleged indecent assault of her son, court hears",
+      "title": "Duchess of Sussex \u2018deeply distressed\u2019 over child sexual abuse image claims against father",
       "date": "2026-10-23",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/alan-jones-trial-mother-of-alleged-victim-ntwnfb"
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
     },
     {
-      "title": "\u2018I\u2019ve killed someone\u2019: Beau Lamarre-Condon allegedly confessed to friend and asked for help cleaning \u2018mess\u2019, court told",
+      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
       "date": "2026-10-23",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
     },
     {
-      "title": "Embattled Queensland minister Amanda Camm quits Crisafulli frontbench citing health and safety reasons",
+      "title": "Jordon Steele-John\u2019s position remains in limbo as Greens prepare for moment in spotlight",
       "date": "2026-10-23",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/23/embattled-qld-mininster-amanda-camm-quits-crisafulli-frontbench-citing-health-and-safety-reasons"
+      "url": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb"
     },
     {
-      "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
+      "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
       "date": "2026-10-23",
-      "url": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic"
+      "url": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "US tech stocks tumble as investors fret over AI spending",
+      "title": "US-Iran war, then and now: How the landscape has changed since February",
       "date": "2026-10-23",
-      "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss"
     },
     {
-      "title": "Venezuelans demand elections in first national protest in nearly two years",
+      "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
       "date": "2026-10-23",
-      "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss"
     },
     {
-      "title": "Indian developer turns \u2018Cockroach\u2019 protests into video game",
+      "title": "\u2018Pink blooms from among the rubble\u2019: Battling breast cancer in Gaza",
       "date": "2026-10-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss"
     },
     {
-      "title": "Trump backs Ramaswamy ad featuring rival Amy Acton\u2019s estranged mother",
+      "title": "France tightens security in anticipation of weekend protests",
       "date": "2026-10-23",
-      "url": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss"
     },
     {
-      "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
+      "title": "South Korea invites North for military talks over border",
       "date": "2026-10-23",
-      "url": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Hollywood remembers actor Tom Skerritt",
+      "title": "Israel orders \u2018full lockdown\u2019 of occupied West Bank after military kills 2 accused of attack",
       "date": "2026-10-23",
-      "url": "https://www.nbcnews.com/nightly-news/video/hollywood-remembers-actor-tom-skerritt-272081989620"
+      "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176"
     },
     {
-      "title": "Debbie Shields speaks out on her viral moment riffing with Conan O'Brien",
+      "title": "Meghan Markle \u2018deeply distressed\u2019 by allegations her dad possessed child sexual abuse images",
       "date": "2026-10-23",
-      "url": "https://www.nbcnews.com/video/debbie-shields-speaks-out-on-her-viral-moment-riffing-with-conan-o-brien-272080965792"
+      "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
     },
     {
-      "title": "N.Y. AG James files opposition to effort to bar her from Cornell investigation",
+      "title": "New York AG James files opposition to effort to bar her from Cornell investigation",
       "date": "2026-10-23",
       "url": "https://www.nbcnews.com/news/us-news/ny-ag-james-files-opposition-effort-bar-cornell-investigation-rcna605136"
     },
     {
-      "title": "Hegseth staff damaged WWII-era Eisenhower globe trying to move it to his office",
-      "date": "2026-10-23",
-      "url": "https://www.nbcnews.com/politics/politics-news/hegseth-staff-damaged-historic-wwii-era-eisenhower-globe-trying-move-o-rcna605123"
-    },
-    {
       "title": "Debbie Shields speaks out on her viral moment riffing with Conan O'Brien",
       "date": "2026-10-23",
       "url": "https://www.nbcnews.com/video/debbie-shields-speaks-out-on-her-viral-moment-riffing-with-conan-o-brien-272080965792"
+    },
+    {
+      "title": "Meghan Markle \u2018deeply distressed\u2019 by allegations her dad possessed child sexual abuse images",
+      "date": "2026-10-23",
+      "url": "https://www.nbcnews.com/world/united-kingdom/meghan-statement-thomas-markle-child-sexual-abuse-images-allegations-rcna605181"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-23T01:00:40.246374"
+    "updated_at": "2026-10-23T09:00:39.660322"
   }
 }
