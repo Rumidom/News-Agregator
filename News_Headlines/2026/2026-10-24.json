@@ -1,44 +1,95 @@
 {
   "BBC": [
     {
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+      "title": "Met Police say letter with claims about Meghan's father not shared with other law enforcement",
       "date": "2026-10-24",
-      "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Australian MP's condition improves after alleged car attack",
+      "title": "Plan for Northern Olympics to get \u00a37m in Healey's Budget",
       "date": "2026-10-24",
-      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
       "date": "2026-10-24",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Met investigates reports of letter detailing claims about Meghan's father",
+      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
       "date": "2026-10-24",
-      "url": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
       "date": "2026-10-24",
-      "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump\u2019s claims",
+      "title": "France braces for another weekend of protests in Paris as discontent sweeps Europe",
+      "date": "",
+      "url": "https://edition.cnn.com/2026/10/24/world/live-news/france-protests-paris-europe-intl"
+    },
+    {
+      "title": "France braces for another weekend of protests as authorities launch massive security operation",
+      "date": "2026-10-24",
+      "url": "https://edition.cnn.com/2026/10/23/europe/france-braces-for-weekend-protests-latam-intl"
+    },
+    {
+      "title": "Gen Z are leading the European protests. Here\u2019s why they\u2019re angry",
+      "date": "2026-10-24",
+      "url": "https://edition.cnn.com/2026/10/24/europe/gen-z-protests-europe-explainer-intl"
+    },
+    {
+      "title": "Ukraine\u2019s defense ministry says access to Starshield has been restored",
       "date": "2026-10-24",
       "url": "https://edition.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl"
+    },
+    {
+      "title": "How reliant is Ukraine on US support \u2013 and could Kyiv carry on without it?",
+      "date": "2026-10-24",
+      "url": "https://edition.cnn.com/2026/10/24/europe/ukraine-us-support-trump-zelensky-relations-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+      "date": "2026-10-24",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan"
+    },
+    {
+      "title": "U.S. birth rate drops to record low, but older women are having more babies",
+      "date": "2026-10-24",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc"
+    },
+    {
+      "title": "This decade has been missing its big-impact midterm",
+      "date": "2026-10-24",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate"
+    },
+    {
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "date": "2026-10-24",
+      "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+      "date": "2026-10-24",
+      "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip"
+    },
     {
       "title": "Rubio tells Cubans \u2018now is the time\u2019 to act to see political change",
       "date": "2026-10-24",
       "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+    },
+    {
+      "title": "Kim Jong-un crosses over newly opened bridge into China",
+      "date": "2026-10-24",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china"
     },
     {
       "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
@@ -49,50 +100,55 @@
       "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
       "date": "2026-10-24",
       "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb"
-    },
-    {
-      "title": "Helen Haines\u2019s condition improves days after losing both legs from alleged attack",
-      "date": "2026-10-24",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
-    },
-    {
-      "title": "Seven killed and 40 injured after gunmen open fire at church funeral in Jordan",
-      "date": "2026-10-24",
-      "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Century-old mosque near Indian PM\u2019s residence under gov\u2019t threat",
+      "title": "German police detain suspect after fire engulfs Hitler\u2019s Eagle\u2019s Nest",
       "date": "2026-10-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss"
     },
     {
-      "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+      "title": "Bayern say coach Kompany \u2018stable\u2019 in hospital but will be out for weeks",
       "date": "2026-10-24",
-      "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss"
     },
     {
-      "title": "Syrians protest Israel\u2019s incursions near occupied Golan Heights",
+      "title": "Deadly \u2018racist\u2019 attack in France: Are hate crimes rising in Europe?",
       "date": "2026-10-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss"
     },
     {
-      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+      "title": "France braces for another day of mass protests as security on high alert",
       "date": "2026-10-24",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss"
     },
     {
-      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+      "title": "Brazil\u2019s Lula and Bolsonaro debate policy proposals before run-off",
       "date": "2026-10-24",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Vanessa Trump says she is \u2018cancer-free\u2019 six months after diagnosis",
+      "title": "DOJ demands California counties help identify noncitizen voters",
       "date": "2026-10-24",
-      "url": "https://www.nbcnews.com/politics/politics-news/vanessa-trump-cancer-free-breast-cancer-diagnosis-surgery-treatment-rcna605339"
+      "url": "https://www.nbcnews.com/politics/2026-election/doj-demands-california-counties-help-identify-noncitizen-voters-rcna605356"
+    },
+    {
+      "title": "The U.S. fertility rate keeps declining, and a legendary journalist prepares to sign off: The news quiz",
+      "date": "2026-10-24",
+      "url": "https://www.nbcnews.com/news/news-quiz/world-series-news-quiz-rcna605040"
+    },
+    {
+      "title": "The U.S. fertility rate keeps declining, and a legendary journalist prepares to sign off: The news quiz",
+      "date": "2026-10-24",
+      "url": "https://www.nbcnews.com/news/news-quiz/world-series-news-quiz-rcna605040"
+    },
+    {
+      "title": "DOJ demands California counties help identify noncitizen voters",
+      "date": "2026-10-24",
+      "url": "https://www.nbcnews.com/politics/2026-election/doj-demands-california-counties-help-identify-noncitizen-voters-rcna605356"
     },
     {
       "title": "Vanessa Trump says she is \u2018cancer-free\u2019 six months after diagnosis",
@@ -101,6 +157,6 @@
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-24T01:00:37.627196"
+    "updated_at": "2026-10-24T09:00:38.625715"
   }
 }
