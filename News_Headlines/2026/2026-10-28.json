@@ -1,96 +1,122 @@
 {
   "BBC": [
     {
-      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "title": "Overturned carriages and makeshift medical tents at crash site",
       "date": "2026-10-28",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: What happens now after close vote in Israeli election?",
+      "title": "What we know about the crash so far",
       "date": "2026-10-28",
-      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Defeated presidential candidate Fl\u00e1vio Bolsonaro arrives in US after Brazil cancels his passports",
+      "title": "What could be in the Budget?",
       "date": "2026-10-28",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Thick fog to create dangerous driving conditions for UK commuters",
+      "title": "Russell Brand tells court allegations had devastating impact on him",
       "date": "2026-10-28",
-      "url": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "date": "2026-10-28",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Israel just voted in a critical election. But the ultimate outcome will take time to become clear",
+      "title": "King Charles acknowledges \u2018injustices of the past\u2019 as Caribbean tour gets underway",
       "date": "2026-10-28",
-      "url": "https://edition.cnn.com/2026/10/27/middleeast/israel-elections-outcome-analysis-hnk-intl"
+      "url": "https://edition.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl"
     },
     {
-      "title": "No clear winner in Israel as exit polls suggest rebuke for Netanyahu",
-      "date": "",
-      "url": "https://edition.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+      "title": "Israel\u2019s election outcome will take time to become clear \u2013 what happens now?",
+      "date": "2026-10-28",
+      "url": "https://edition.cnn.com/2026/10/27/middleeast/israel-elections-outcome-analysis-hnk-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "date": "2026-10-28",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
+    },
+    {
+      "title": "At least 30 dead in crash between two trains in central Spain, media say",
+      "date": "2026-10-28",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+    },
+    {
+      "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+      "date": "2026-10-28",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio"
+    },
+    {
+      "title": "Why many student voters have a right to choose where to register to vote",
+      "date": "2026-10-28",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting"
+    },
+    {
+      "title": "Partnerships between ICE and local police surge, report finds",
+      "date": "2026-10-28",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Africa\u2019s \u2018unprecedented\u2019 Ebola outbreak could reach UK, says top health official",
+      "date": "2026-10-28",
+      "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+    },
+    {
+      "title": "Fl\u00e1vio Bolsonaro on flight to Miami after fleeing Brazil following election defeat",
+      "date": "2026-10-28",
+      "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+    },
+    {
+      "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn\u2019t true",
+      "date": "2026-10-28",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico"
+    },
     {
       "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
       "date": "2026-10-28",
       "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
     },
     {
-      "title": "Australian politics live: ABC calls for One Nation to \u2018immediately remove\u2019 Bluey cartoon; Liberal MP ejected from question time for swearing",
+      "title": "Fl\u00e1vio Bolsonaro flees Brazil after presidential election loss, reports say",
       "date": "2026-10-28",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb"
-    },
-    {
-      "title": "\u2018Backdrop for countless local love stories\u2019: Geelong gingko named Victorian tree of the year",
-      "date": "2026-10-28",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year"
-    },
-    {
-      "title": "Australia\u2019s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
-      "date": "2026-10-28",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release"
-    },
-    {
-      "title": "Criminal case against alleged Bondi terrorist delayed amid \u2018unprecedented\u2019 investigation",
-      "date": "2026-10-28",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Global stock markets rise as investors continue to bet on AI",
+      "title": "Japan football association official resigns after AFC aligns with Infantino",
       "date": "2026-10-28",
-      "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/10/28/japan-football-association-official-resigns-after-afc-aligns-with-infantino?traffic_source=rss"
     },
     {
-      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "title": "Deadly high-speed train collision in Spain",
       "date": "2026-10-28",
-      "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss"
     },
     {
-      "title": "Five key takeaways from Israel\u2019s parliamentary elections",
+      "title": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
       "date": "2026-10-28",
-      "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss"
     },
     {
-      "title": "Netanyahu: Coalition with Arab parties would be \u2018shameful\u2019",
+      "title": "Burnham\u2019s government unveils its first UK budget: What to expect",
       "date": "2026-10-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss"
     },
     {
-      "title": "Arab parties could win record 18 seats in Israel election, exit polls show",
+      "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
       "date": "2026-10-28",
-      "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -100,17 +126,27 @@
       "url": "https://www.nbcnews.com/politics/2026-election/james-talarico-faces-trump-dueling-texas-rallies-elections-final-days-rcna605629"
     },
     {
-      "title": "GOP Sen. Lisa Murkowski endorses Democratic candidate in Alaska governor\u2019s race",
+      "title": "At Least 30 Killed in High-Speed Rail Collision in Spain",
       "date": "2026-10-28",
-      "url": "https://www.nbcnews.com/politics/2026-election/lisa-murkowski-endorses-democrat-alaska-governor-race-rcna606045"
+      "url": "https://www.today.com/video/deadly-high-speed-train-crash-in-spain-leaves-at-least-30-dead-272390213641"
     },
     {
-      "title": "Trump says he\u2019ll roll back Biden-era methane rules for oil and gas companies",
+      "title": "No Clear Winner Yet in Israeli Election",
       "date": "2026-10-28",
-      "url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+      "url": "https://www.today.com/video/israel-election-no-clear-winner-yet-as-votes-still-being-counted-272390213582"
+    },
+    {
+      "title": "Trump fights for votes in Texas and deadlock in Israeli election: Morning Rundown",
+      "date": "2026-10-28",
+      "url": "https://www.nbcnews.com/news/us-news/trump-talarico-lubbock-fed-interest-rates-morning-rundown-rcna606063"
+    },
+    {
+      "title": "The former youth pastor leading one of the NFL\u2019s best offenses",
+      "date": "2026-10-28",
+      "url": "https://www.nbcnews.com/sports/nfl/former-youth-pastor-leading-one-nfls-best-offenses-rcna601954"
     }
   ],
   "_meta": {
-    "updated_at": "2026-10-28T01:00:38.682742"
+    "updated_at": "2026-10-28T09:00:39.678989"
   }
 }
