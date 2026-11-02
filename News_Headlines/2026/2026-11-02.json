@@ -1,38 +1,90 @@
 {
   "BBC": [
     {
-      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "title": "Mother told to book appointment to give birth to her dead baby",
+      "date": "2026-11-02",
+      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack",
+      "date": "2026-11-02",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Nine killed as small jet crashes on Florida street",
       "date": "2026-11-02",
       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
       "date": "2026-11-02",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "title": "What Americans are voting for in this election",
       "date": "2026-11-02",
-      "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "A&E warning system to flag sick children deteriorating quickly",
-      "date": "2026-11-02",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
-      "date": "2026-11-02",
-      "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
+      "date": "2026-11-02",
+      "url": "https://edition.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl"
+    },
+    {
+      "title": "Middle East on edge as fears mount that Iran war could restart after the midterms",
+      "date": "2026-11-02",
+      "url": "https://edition.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl"
+    },
+    {
+      "title": "The high-tech efforts to restore \u2018climate hero\u2019 mangroves",
+      "date": "2026-11-02",
+      "url": "https://edition.cnn.com/world/middleeast/mangroves-technology-abu-dhabi-spc"
+    },
+    {
+      "title": "Brazil\u2019s left reinvented the right\u2019s online playbook. It helped Lula win",
+      "date": "2026-11-02",
+      "url": "https://edition.cnn.com/2026/11/02/americas/brazil-lula-army-left-intl-latam"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "date": "2026-11-02",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions"
+    },
+    {
+      "title": "6 things to watch for on election night",
+      "date": "2026-11-02",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night"
+    },
+    {
+      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+      "date": "2026-11-02",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure"
+    },
+    {
+      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "date": "2026-11-02",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students"
+    },
+    {
+      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+      "date": "2026-11-02",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Million-dollar fish caught by Darwin man \u2018just fishing and talking\u2019 at night with brother",
+      "title": "Award\u2011winning Australian children\u2019s author Craig Silvey jailed over child exploitation material",
       "date": "2026-11-02",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/million-dollar-fish-caught-by-darwin-man-just-fishing-and-talking-at-night-with-brother"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb"
+    },
+    {
+      "title": "\u2018Sharper, longer slowdown\u2019 predicted for economy as fifth interest rate hike looms",
+      "date": "2026-11-02",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms"
     },
     {
       "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
@@ -40,71 +92,71 @@
       "url": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial"
     },
     {
-      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+      "title": "Minns warns expected RBA rate rise will see \u2018shops close that don\u2019t reopen\u2019 as pressure mounts on PM",
       "date": "2026-11-02",
-      "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy"
     },
     {
-      "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+      "title": "\u2018I want to slap you around a bit, too\u2019: Victorian magistrate reprimanded over language in court",
       "date": "2026-11-02",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally"
-    },
-    {
-      "title": "Democrat Haley Stevens endorses Abdul El-Sayed\u2019s Republican rival Mike Rogers",
-      "date": "2026-11-02",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Muhammad Ali\u2019s daughter and grandson endorse El-Sayed",
+      "title": "French school protests resume on small scale as students return from break",
       "date": "2026-11-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/2/french-school-protests-resume-on-small-scale-as-students-return-from-break?traffic_source=rss"
     },
     {
-      "title": "El-Sayed dismisses Stevens\u2019 backing of Republican Senate candidate",
+      "title": "Can Americans who disagree on politics still find common ground?",
       "date": "2026-11-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/can-americans-who-disagree-on-politics-still-find-common-ground?traffic_source=rss"
     },
     {
-      "title": "Ukraine blames Russia after air alert app sends out false warnings",
+      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
       "date": "2026-11-02",
-      "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss"
     },
     {
-      "title": "Tens of thousands build 108 Buddhist stupas for Bhutan \u2018mindfulness\u2019 city",
+      "title": "Jailed PKK founder Ocalan moved to new section of Turkish island prison",
       "date": "2026-11-02",
-      "url": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/2/jailed-pkk-founder-ocalan-moved-to-new-section-of-turkish-island-prison?traffic_source=rss"
     },
     {
-      "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
+      "title": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
       "date": "2026-11-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss"
     }
   ],
   "NBC News": [
+    {
+      "title": "5 charts that explain the economy\u2019s role in the midterm elections",
+      "date": "2026-11-02",
+      "url": "https://www.nbcnews.com/business/economy/5-charts-2026-midterm-elections-rcna606589"
+    },
     {
       "title": "Fiery plane crash in Florida",
       "date": "2026-11-02",
       "url": "https://www.nbcnews.com/nightly-news/video/fiery-plane-crash-in-florida-272666181933"
     },
     {
-      "title": "It looked like more Mahomes magic. Then the Broncos won a nail-biter \u2014 again.",
+      "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
       "date": "2026-11-02",
-      "url": "https://www.nbcnews.com/sports/nfl/denver-broncos-kansas-city-chiefs-result-nfl-patrick-mahomes-rcna606935"
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964"
     },
     {
-      "title": "Juan Atkins, co-creator of the techno music genre, has died",
+      "title": "NFL Week 8: The Cowboys can\u2019t close, the Chargers can\u2019t score, and Lamar Jackson can\u2019t stay healthy",
       "date": "2026-11-02",
-      "url": "https://www.nbcnews.com/news/obituaries/juan-atkins-co-creator-techno-music-genre-dies-rcna606930"
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-week-8-cowboys-chargers-lamar-jackson-rcna606933"
     },
     {
-      "title": "It looked like more Mahomes magic. Then the Broncos won a nail-biter \u2014 again.",
+      "title": "NFL Week 8: The Cowboys can\u2019t close, the Chargers can\u2019t score, and Lamar Jackson can\u2019t stay healthy",
       "date": "2026-11-02",
-      "url": "https://www.nbcnews.com/sports/nfl/denver-broncos-kansas-city-chiefs-result-nfl-patrick-mahomes-rcna606935"
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-week-8-cowboys-chargers-lamar-jackson-rcna606933"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-02T01:00:39.494418"
+    "updated_at": "2026-11-02T09:00:38.318482"
   }
 }
