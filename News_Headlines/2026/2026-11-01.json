@@ -1,147 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Shops looted as German cost of living protests turn violent",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
       "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Healey risks breaking minimum wage promise for younger workers",
+      "title": "Five teenagers stabbed at Halloween party",
       "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
       "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Reeves says UK's future should be inside the EU",
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
       "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
       "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Italian taxpayers are paying millions to keep Russian yachts afloat",
+      "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
       "date": "2026-11-01",
-      "url": "https://edition.cnn.com/2026/11/01/europe/italy-russian-superyachts-sanctions-taxpayers-intl"
+      "url": "https://edition.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl"
+    },
+    {
+      "title": "Middle East on edge as fears mount that Iran war could restart after the midterms",
+      "date": "2026-11-01",
+      "url": "https://edition.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl"
+    },
+    {
+      "title": "Russia\u2019s security service detains a teenager planning a \u2018terror attack\u2019 after a US tip-off",
+      "date": "2026-11-01",
+      "url": "https://edition.cnn.com/2026/11/01/europe/russia-terror-attack-us-warning-intl"
+    },
+    {
+      "title": "Germany blames infiltrators as Gen Z protests turn violent",
+      "date": "2026-11-01",
+      "url": "https://edition.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl"
+    },
+    {
+      "title": "Bitter spat between Poland\u2019s pro-Europe PM and pro-Trump president erupts",
+      "date": "2026-11-01",
+      "url": "https://edition.cnn.com/2026/11/01/europe/poland-constitutional-tribunal-tusk-intl"
     }
   ],
   "NPR": [
     {
-      "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
       "date": "2026-11-01",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans"
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast"
     },
     {
-      "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
       "date": "2026-11-01",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts"
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers"
     },
     {
-      "title": "How one family gave a critical boost to gene therapy research",
+      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
       "date": "2026-11-01",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi"
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke"
     },
     {
-      "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+      "title": "How to think about the midterms \u2014 and the political moment the country is in",
       "date": "2026-11-01",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans"
+      "url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in"
     },
     {
-      "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
       "date": "2026-11-01",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq"
+      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan"
     }
   ],
   "The Guardian": [
     {
-      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+      "title": "UK was \u2018vehement\u2019 slavery reparations should not be on Commonwealth summit agenda",
+      "date": "2026-11-01",
+      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda"
+    },
+    {
+      "title": "The US-China trade war seems to have subsided \u2013 but the sense of calm is misleading",
+      "date": "2026-11-01",
+      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+    },
+    {
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
       "date": "2026-11-01",
       "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
     },
     {
-      "title": "Jacinda Ardern in Sydney Opera House talk advises politicians to \u2018rebuild trust by building financial security\u2019",
+      "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation\u2019s James Ashby",
       "date": "2026-11-01",
-      "url": "https://www.theguardian.com/world/2026/nov/01/jacinda-ardern-sydney-opera-house-talk-advises-politicians-to-rebuild-trust"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/nationals-leader-matt-canavan-one-nation-james-ashby-capricornia-election-ntwnfb"
     },
     {
-      "title": "Rachel Reeves says UK\u2019s future is in EU as she backs Andy Burnham on Brexit",
+      "title": "Northern Territory water plan condemned as \u2018blatant and shameless\u2019 attack on nature",
       "date": "2026-11-01",
-      "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit"
-    },
-    {
-      "title": "Asylum seekers still being sent to France under \u2018one in one out\u2019 weeks after scheme ended",
-      "date": "2026-11-01",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended"
-    },
-    {
-      "title": "English children\u2019s homes are in crisis. Does Denmark hold the answers?",
-      "date": "2026-11-01",
-      "url": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Thousands rally in New Delhi to demand India\u2019s election chief resign",
+      "title": "Nine people dead after Learjet crashes in Florida",
       "date": "2026-11-01",
-      "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss"
     },
     {
-      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+      "title": "Why governors\u2019 races are important in the 2026 US midterms",
       "date": "2026-11-01",
-      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss"
     },
     {
-      "title": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
       "date": "2026-11-01",
-      "url": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss"
     },
     {
-      "title": "Photos: Youth-led rallies sweep Germany",
+      "title": "High-ranking US Democratic senator suffers stroke",
       "date": "2026-11-01",
-      "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-youth-led-rallies-sweep-germany?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss"
     },
     {
-      "title": "Is China\u2019s \u2018dark tourism\u2019 turning disaster education into entertainment?",
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
       "date": "2026-11-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/is-chinas-dark-tourism-turning-disaster-education-into-entertainment?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Alaska officials ask judge to deny DOJ\u2019s \u2018impossible\u2019 demand to set aside ballots",
+      "title": "Rep. Haley Stevens discusses switching her endorsement to Republican Mike Rogers",
       "date": "2026-11-01",
-      "url": "https://www.nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765"
+      "url": "https://www.nbcnews.com/video/rep-haley-stevens-discusses-switching-her-endorsement-to-republican-mike-rogers-272662085891"
     },
     {
-      "title": "Golden State Valkyries defeat Atlanta Dream for franchise\u2019s first WNBA title",
+      "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
       "date": "2026-11-01",
-      "url": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267"
+      "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838"
     },
     {
-      "title": "Stores looted in German riots as Gen Z activists protest living costs, military service",
+      "title": "Kornacki: Why Trump is \u2018in worse shape\u2019 heading into his 2nd midterms",
       "date": "2026-11-01",
-      "url": "https://www.nbcnews.com/world/germany/riots-loot-stores-frankfurt-european-youths-protest-living-costs-milit-rcna606782"
+      "url": "https://www.nbcnews.com/meet-the-press/video/kornacki-why-trump-is-in-worse-shape-heading-into-his-2nd-midterms-272655941672"
     },
     {
-      "title": "Stores looted in German riots as Gen Z activists protest living costs, military service",
+      "title": "Sen. Tim Scott dodges on whether he would accept the results of the Alaska Senate race",
       "date": "2026-11-01",
-      "url": "https://www.nbcnews.com/world/germany/riots-loot-stores-frankfurt-european-youths-protest-living-costs-milit-rcna606782"
+      "url": "https://www.nbcnews.com/politics/2026-election/tim-scott-dodges-accept-election-results-alaska-senate-race-sullivan-rcna606813"
     },
     {
-      "title": "Golden State Valkyries defeat Atlanta Dream for franchise\u2019s first WNBA title",
+      "title": "Here\u2019s the biggest news you missed this weekend",
       "date": "2026-11-01",
-      "url": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267"
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-1-rcna606569"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-01T09:00:37.798695"
+    "updated_at": "2026-11-01T21:00:40.381551"
   }
 }
