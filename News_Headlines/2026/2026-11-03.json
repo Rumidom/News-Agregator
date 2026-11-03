@@ -1,85 +1,127 @@
 {
   "BBC": [
     {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "title": "Spanish footballer dies after collision with goalkeeper during match",
       "date": "2026-11-03",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
       "date": "2026-11-03",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US strikes Iran ahead of midterm elections",
+      "title": "Three scenarios for how the US midterm results could unfold",
       "date": "2026-11-03",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+      "title": "Mahmood refuses to put cost on care worker settlement climbdown",
       "date": "2026-11-03",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "title": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
       "date": "2026-11-03",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
-  "The Guardian": [
+  "CNN": [
     {
-      "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement \u2013 latest news",
+      "title": "At least 31 dead after Russia drops nine bombs on a Ukrainian school building",
       "date": "2026-11-03",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates"
+      "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
     },
     {
-      "title": "RBA interest rates: Reserve Bank hikes cash rate for fifth time this year in blow to mortgage holders",
+      "title": "It\u2019s a go-to luxury bag across the globe. Yet few know where in the world it\u2019s made",
+      "date": "2026-11-03",
+      "url": "https://edition.cnn.com/world/africa/raffia-bag-madagascar-fashion-spc"
+    },
+    {
+      "title": "Russian drone attacks turn the Black Sea into the world\u2019s deadliest waterway",
+      "date": "2026-11-03",
+      "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-black-sea-drone-attacks-intl"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy"
+    },
+    {
+      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+    },
+    {
+      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
+    },
+    {
+      "title": "Four types of House races to watch on election night to know how it might go",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch"
+    },
+    {
+      "title": "A new cold war: hackers target fridges across the globe",
+      "date": "2026-11-03",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges"
+    }
+  ],
+  "The Guardian": [
+    {
+      "title": "\u2018I am deeply sorry\u2019: Craig Silvey pens 9,000-word apology for child exploitation material offences",
+      "date": "2026-11-03",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-child-porn-offences-ntwnfb"
+    },
+    {
+      "title": "Australia seeks to change visa deal with UK after influx of Britons",
+      "date": "2026-11-03",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/australia-seeks-to-change-visa-deal-uk"
+    },
+    {
+      "title": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
+      "date": "2026-11-03",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation"
+    },
+    {
+      "title": "RBA interest rates: Bullock says \u2018pain now\u2019 will prevent worse later as Reserve Bank hikes rates for fifth time",
       "date": "2026-11-03",
       "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia"
     },
     {
-      "title": "\u2018Trying to get back into a positive mindset\u2019: court hears voice notes Beau Lamarre-Condon sent day after alleged murders",
+      "title": "Australia\u2019s social media ban \u2018ill-thought-out\u2019, Reddit argues in high court challenge",
       "date": "2026-11-03",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/beau-lamarre-condon-trial-voice-recording-alleged-murders-ntwnfb"
-    },
-    {
-      "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
-      "date": "2026-11-03",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb"
-    },
-    {
-      "title": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
-      "date": "2026-11-03",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-under-16s-social-media-ban-australia-high-court"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+      "title": "How India pulled 500 million people out of poverty, as inequality deepens",
       "date": "2026-11-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss"
     },
     {
-      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "title": "Polls open in closely contested US midterm elections 2026",
       "date": "2026-11-03",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss"
     },
     {
-      "title": "Explosions hit Iran\u2019s Qeshm Island as US media report US strikes in Hormuz",
+      "title": "Alaska Senate candidates trade accusations ahead of election",
       "date": "2026-11-03",
-      "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss"
     },
     {
-      "title": "Thousands displaced as homes are bulldozed in India\u2019s Assam state",
+      "title": "Who decides the US midterms?",
       "date": "2026-11-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/3/who-decides-the-us-midterms?traffic_source=rss"
     },
     {
-      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
       "date": "2026-11-03",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -89,27 +131,27 @@
       "url": "https://www.nbcnews.com/nightly-news/video/voters-making-final-decisions-in-midterm-elections-272729157757"
     },
     {
+      "title": "NBC News Exit Poll: How it works and how we use the results on election night",
+      "date": "2026-11-03",
+      "url": "https://www.nbcnews.com/politics/2026-election/nbc-news-exit-poll-how-works-results-election-night-rcna606180"
+    },
+    {
+      "title": "Floods and severe weather beset parts of the U.S. on Election Day",
+      "date": "2026-11-03",
+      "url": "https://www.nbcnews.com/weather/floods/floods-severe-weather-beset-parts-us-election-day-rcna607186"
+    },
+    {
+      "title": "U.S. military carries out limited strikes on Iran\u2019s Qeshm Island",
+      "date": "2026-11-03",
+      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
+    },
+    {
       "title": "Co-pilot and passengers killed in learjet crash identified",
       "date": "2026-11-03",
       "url": "https://www.nbcnews.com/nightly-news/video/co-pilot-and-passengers-killed-in-learjet-crash-identified-272729669541"
-    },
-    {
-      "title": "U.S. military carries out limited strikes on Iran\u2019s Qeshm Island, U.S. officials say",
-      "date": "2026-11-03",
-      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
-    },
-    {
-      "title": "U.S. military carries out limited strikes on Iran\u2019s Qeshm Island, U.S. officials say",
-      "date": "2026-11-03",
-      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161"
-    },
-    {
-      "title": "17-year-old arrested in Spirit Halloween shooting that killed pregnant woman, injured 6 other people",
-      "date": "2026-11-03",
-      "url": "https://www.nbcnews.com/news/us-news/teen-arrested-spirit-halloween-shooting-fairfield-california-rcna607147"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-03T01:00:39.637540"
+    "updated_at": "2026-11-03T09:00:38.656374"
   }
 }
