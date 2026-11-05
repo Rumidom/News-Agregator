@@ -1,14 +1,9 @@
 {
   "BBC": [
     {
-      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
       "date": "2026-11-04",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
-      "date": "2026-11-04",
-      "url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "How America voted in maps and charts",
@@ -16,26 +11,41 @@
       "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Democrat Abdul El-Sayed wins Michigan to become first Muslim senator in US history",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
       "date": "2026-11-04",
-      "url": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Standout moments from a night of midterm election firsts",
+      "title": "Everything you need to know from the US midterm elections",
       "date": "2026-11-04",
       "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "How voter shifts in Texas helped elect a Democratic senator and governor",
+      "date": "2026-11-04",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "How Nigeria\u2019s Funke Akindele is helping take Nollywood global",
+      "title": "Bob the poet, meet Bob the priest: Pope Leo receives Bob Dylan at the Vatican",
       "date": "2026-11-04",
-      "url": "https://edition.cnn.com/world/nigeria-funke-akindele-helping-take-nollywood-global-spc"
+      "url": "https://edition.cnn.com/2026/11/04/europe/pope-leo-bob-dylan-meeting-latam-intl"
+    },
+    {
+      "title": "What Trump\u2019s midterms setback could mean for Iran, Israel and Ukraine",
+      "date": "2026-11-04",
+      "url": "https://edition.cnn.com/2026/11/04/world/iran-israel-ukraine-midterm-impact-intl"
     },
     {
       "title": "Russian bombing of Ukrainian aid center is one of the war\u2019s \u2018deadliest attacks,\u2019 Zelensky says",
       "date": "2026-11-04",
       "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
+    },
+    {
+      "title": "How Nigeria\u2019s Funke Akindele is helping take Nollywood global",
+      "date": "2026-11-04",
+      "url": "https://edition.cnn.com/world/nigeria-funke-akindele-helping-take-nollywood-global-spc"
     },
     {
       "title": "Former elementary school teacher becomes newest paper billionaire in China",
@@ -45,113 +55,113 @@
   ],
   "NPR": [
     {
-      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
       "date": "2026-11-04",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2"
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns"
     },
     {
-      "title": "Hakeem Jeffries is poised to become the first Black speaker of the House",
+      "title": "Elon Musk will face scrutiny from Democrats after midterms",
       "date": "2026-11-04",
-      "url": "https://www.npr.org/2026/11/04/g-s1-150030/hakeem-jeffries-speaker-of-the-house-midterms"
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress"
     },
     {
-      "title": "These 9 candidates for governor just made history",
+      "title": "Democratic leaders reflect on midterm results and what's next for the party",
       "date": "2026-11-04",
-      "url": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026"
+      "url": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways"
     },
     {
-      "title": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
+      "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
       "date": "2026-11-04",
-      "url": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo"
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave"
     },
     {
-      "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+      "title": "Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding",
       "date": "2026-11-04",
-      "url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers"
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6023272/navajo-voters-hop-tractors-make-extraordinary-efforts-to-vote-after-widespread-flooding"
     }
   ],
   "The Guardian": [
+    {
+      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+      "date": "2026-11-04",
+      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows"
+    },
     {
       "title": "ANC faces anger over poor services as South Africans vote in local elections",
       "date": "2026-11-04",
       "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
     },
     {
-      "title": "Woman charged over alleged stalking and attempted extortion of Greens senator Jordon Steele-John",
+      "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
       "date": "2026-11-04",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/jordon-steele-john-woman-charged-alleged-stalking-attempted-extortion-greens-senator-court-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed"
     },
     {
-      "title": "\u2018Not been this excited in a long time\u2019: US expats ride the blue wave at Australian midterms watch parties",
+      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
       "date": "2026-11-04",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties"
+      "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
     },
     {
-      "title": "Aukus is \u2018worst, riskiest and most costly\u2019 Australian defence decision ever, public inquiry into submarine deal says",
+      "title": "Telstra apologises after customers mystified by phantom missed call notifications",
       "date": "2026-11-04",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/aukus-worst-australian-defence-decision-ever-public-inquiry"
-    },
-    {
-      "title": "First 10 Australian songs inducted into the National Songbook after \u2018very robust\u2019 judging",
-      "date": "2026-11-04",
-      "url": "https://www.theguardian.com/music/2026/nov/04/first-10-australian-songs-inducted-into-national-songbook"
+      "url": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "\u2018Seismic shift\u2019: World reacts to US midterm election results",
+      "title": "Who gets to vote in the US?",
       "date": "2026-11-04",
-      "url": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss"
     },
     {
-      "title": "Why Democrats may struggle to rein in Trump\u2019s foreign policy",
+      "title": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
       "date": "2026-11-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss"
     },
     {
-      "title": "Voters honour Renee Good and Alex Pretti at Minnesota memorials",
+      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
       "date": "2026-11-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/voters-honour-renee-good-and-alex-pretti-at-minnesota-memorials?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss"
     },
     {
-      "title": "Can Russia compete with the US, China and the EU in Africa?",
+      "title": "Trump blames Iran war for midterms losses",
       "date": "2026-11-04",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
     },
     {
-      "title": "\u2018I will not delete my posts\u2019: Inside Uganda\u2019s crackdown on online critics",
+      "title": "Democratic Socialists of America see record wins in US midterm elections",
       "date": "2026-11-04",
-      "url": "https://www.aljazeera.com/news/2026/11/4/i-will-not-delete-my-posts-inside-ugandas-crackdown-on-online-critics?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Stock futures rebound as Wall Street confronts the \u2018blue tsunami\u2019 threat to the AI boom",
+      "title": "Trump answers questions from reporters after Republican midterm losses",
+      "date": "2026-11-04",
+      "url": "https://www.nbcnews.com/video/trump-answers-questions-from-reporters-after-republican-midterm-losses-272858693547"
+    },
+    {
+      "title": "House Speaker Mike Johnson will not stay on as Republican leader after GOP losses",
+      "date": "2026-11-04",
+      "url": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-republican-leader-gop-losses-rcna607434"
+    },
+    {
+      "title": "Democrats won on affordability. Whether they can deliver it is a different story.",
+      "date": "2026-11-04",
+      "url": "https://www.nbcnews.com/politics/2026-election/democrats-affordability-promise-midterms-trump-rcna607409"
+    },
+    {
+      "title": "Stocks surge as \u2018blue tsunami\u2019 puts political uncertainty to rest",
       "date": "2026-11-04",
       "url": "https://www.nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna607351"
     },
     {
-      "title": "Candidates speak amid 2026 midterm election results",
+      "title": "5 key insights from the NBC News Exit Poll about the blue tsunami",
       "date": "2026-11-04",
-      "url": "https://www.nbcnews.com/video/watch-live-candidates-speak-amid-2026-midterm-election-results-272550981755"
-    },
-    {
-      "title": "Democrats win control of the House of Representatives with a vow to combat Trump",
-      "date": "2026-11-04",
-      "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397"
-    },
-    {
-      "title": "Stock futures rebound as Wall Street confronts the \u2018blue tsunami\u2019 threat to the AI boom",
-      "date": "2026-11-04",
-      "url": "https://www.nbcnews.com/business/markets/stock-futures-blue-tsunami-ai-boom-rcna607351"
-    },
-    {
-      "title": "El-Sayed wins Michigan Senate seat, NBC News projects",
-      "date": "2026-11-04",
-      "url": "https://www.nbcnews.com/video/el-sayed-wins-michigan-senate-seat-nbc-news-projects-272825413790"
+      "url": "https://www.nbcnews.com/politics/2026-election/nbc-news-exit-poll-democrats-victory-trump-economy-rcna607391"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-04T09:00:38.499984"
+    "updated_at": "2026-11-04T21:00:39.383581"
   }
 }
