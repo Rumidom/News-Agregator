@@ -1,126 +1,167 @@
 {
   "BBC": [
     {
-      "title": "Russell Brand found guilty of rape and sexual assault",
+      "title": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
       "date": "2026-11-06",
-      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "title": "Did a data centre revolt affect the US midterm election results?",
       "date": "2026-11-06",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Met chief warns policing 'heading for failure' without reform",
+      "title": "'Misleading' student loans information left out examples of higher-salary repayments",
       "date": "2026-11-06",
-      "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+      "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
       "date": "2026-11-06",
-      "url": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "title": "Tube drivers to stage strikes in Christmas run-up",
       "date": "2026-11-06",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children",
+      "date": "2026-11-06",
+      "url": "https://edition.cnn.com/2026/11/06/africa/kenyan-cult-leader-sentenced-intl"
+    },
+    {
+      "title": "Fresh bomb threats hit European flights \u2014 and mystery remains who is behind them",
+      "date": "2026-11-06",
+      "url": "https://edition.cnn.com/2026/11/05/europe/europe-bomb-threat-intl"
+    },
+    {
+      "title": "Russian bombing of Ukrainian aid center is one of the war\u2019s \u2018deadliest attacks,\u2019 Zelensky says",
+      "date": "2026-11-06",
+      "url": "https://edition.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl"
+    },
+    {
+      "title": "Pope Leo\u2019s Latin America trip will take him above 11,000 feet, weeks after lung cancer surgery",
+      "date": "2026-11-06",
+      "url": "https://edition.cnn.com/2026/11/06/americas/pope-leo-lung-cancer-latin-america-trip-intl"
+    },
+    {
       "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
       "date": "2026-11-06",
       "url": "https://edition.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl"
-    },
-    {
-      "title": "President of Paraguay faces criminal investigation and impeachment after bank collapse",
-      "date": "2026-11-06",
-      "url": "https://edition.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+      "date": "2026-11-06",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate"
+    },
+    {
+      "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
+      "date": "2026-11-06",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center"
+    },
+    {
+      "title": "Morning news brief",
+      "date": "2026-11-06",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief"
+    },
+    {
+      "title": "Former Army medic reflects on his toughest moments helping the wounded",
+      "date": "2026-11-06",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded"
+    },
+    {
+      "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+      "date": "2026-11-06",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+      "date": "2026-11-06",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker"
+    },
+    {
+      "title": "Paraguay\u2019s president quits after millions of people\u2019s savings frozen in bank crisis",
+      "date": "2026-11-06",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+    },
     {
       "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
       "date": "2026-11-06",
       "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru"
     },
     {
-      "title": "Bondi beach shooting: Woman, 90, shot during massacre dies in hospital year after antisemitic attack",
+      "title": "Global stocks plunge amid AI slowdown fears after Democrats\u2019 midterm triumph",
       "date": "2026-11-06",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb"
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
     },
     {
-      "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused \u2013 as it happened",
+      "title": "Death a \u2018distinct possibility\u2019 in collision running and face-slapping competitions, inquiry hears",
       "date": "2026-11-06",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb"
-    },
-    {
-      "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
-      "date": "2026-11-06",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election"
-    },
-    {
-      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn\u2019t intentional but \u2018it was my fault\u2019",
-      "date": "2026-11-06",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Iran\u2019s security chief meets Putin, delivers message from Khamenei",
+      "title": "Tanzania\u2019s smallholder farmers struggle to benefit from digital agriculture",
       "date": "2026-11-06",
-      "url": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture?traffic_source=rss"
     },
     {
-      "title": "Gaza turns discarded cooking pots into seawalls",
+      "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
       "date": "2026-11-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss"
     },
     {
-      "title": "California governor commutes sentences of more than 500 people on death row",
+      "title": "Hoax or bomb threats? What we know about flight disruptions across Europe",
       "date": "2026-11-06",
-      "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss"
     },
     {
-      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "title": "\u2018Nobody can stop them\u2019: Who are Europe\u2019s Black Bloc protesters?",
       "date": "2026-11-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss"
     },
     {
-      "title": "Turkiye\u2019s parliament ratifies Mecca defence agreement",
+      "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
       "date": "2026-11-06",
-      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Brands lean into human creativity as handcrafted art becomes more of a luxury in the age of AI",
+      "title": "Global tech stocks tumble as blue wave is felt in Asia and Europe",
       "date": "2026-11-06",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/brands-lean-human-creativity-handcrafted-art-becomes-luxury-age-ai-rcna607134"
+      "url": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794"
+    },
+    {
+      "title": "LeBron James took a risk going to the 76ers this offseason. So far, it\u2019s paying off.",
+      "date": "2026-11-06",
+      "url": "https://www.nbcnews.com/sports/nba/lebron-james-took-risk-going-76ers-offseason-far-s-paying-rcna607734"
+    },
+    {
+      "title": "Global tech stocks tumble as blue wave is felt in Asia and Europe",
+      "date": "2026-11-06",
+      "url": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794"
+    },
+    {
+      "title": "Pete Hegseth strikes defiant tone in face of impeachment threat",
+      "date": "2026-11-06",
+      "url": "https://www.nbcnews.com/politics/trump-administration/secretary-pete-hegseth-defiant-tone-impeachment-threat-thomas-massie-rcna607788"
     },
     {
       "title": "Dolly Parton estate files to dismiss lawsuit against her nephew",
       "date": "2026-11-06",
       "url": "https://www.nbcnews.com/news/us-news/dolly-parton-estate-files-dismiss-lawsuit-nephew-rcna607787"
-    },
-    {
-      "title": "Trump focuses on White House decor for second straight day in post-midterm remarks",
-      "date": "2026-11-06",
-      "url": "https://www.nbcnews.com/politics/white-house/trump-focuses-white-house-decor-second-straight-day-midterm-remarks-rcna607776"
-    },
-    {
-      "title": "Brands lean into human creativity as handcrafted art becomes more of a luxury in the age of AI",
-      "date": "2026-11-06",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/brands-lean-human-creativity-handcrafted-art-becomes-luxury-age-ai-rcna607134"
-    },
-    {
-      "title": "I asked teens what gifts they actually want \u2014 here\u2019s what they said",
-      "date": "2026-11-06",
-      "url": "https://www.nbcnews.com/select/shopping/best-gifts-for-teens-2026-rcna607267"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-06T01:00:39.000340"
+    "updated_at": "2026-11-06T09:00:38.819779"
   }
 }
