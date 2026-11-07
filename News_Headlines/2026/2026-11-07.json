@@ -1,39 +1,55 @@
 {
   "BBC": [
     {
+      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+      "date": "2026-11-07",
+      "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Two men arrested after boy injured in sword attack",
+      "date": "2026-11-07",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
       "date": "2026-11-07",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Paraguay's president impeached after collapse of bank",
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'My mortgage is going up \u00a3200': How rising interest rates are hitting people's pockets",
-      "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Iran\u2019s hardliners see a weakened Trump \u2013 and want more to end the war",
+      "date": "2026-11-07",
+      "url": "https://edition.cnn.com/2026/11/07/middleeast/iran-trump-war-hardliners-intl"
+    },
     {
       "title": "Paraguay president impeached and under house arrest following bank collapse scandal",
       "date": "2026-11-07",
       "url": "https://edition.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+      "date": "2026-11-07",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma"
+    },
+    {
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "date": "2026-11-07",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium"
+    }
+  ],
   "The Guardian": [
     {
       "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
@@ -41,51 +57,51 @@
       "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
     },
     {
+      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+      "date": "2026-11-07",
+      "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+    },
+    {
+      "title": "What\u2019s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "date": "2026-11-07",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+    },
+    {
       "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold \u2018war crimes\u2019 pre-workout supplement",
       "date": "2026-11-07",
       "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb"
     },
     {
-      "title": "US carries out another round of \u2018minor\u2019 strikes on Iran, Trump says",
+      "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
       "date": "2026-11-07",
-      "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
-    },
-    {
-      "title": "Russell Brand suspected to have attacked at least 10 other women",
-      "date": "2026-11-07",
-      "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women"
-    },
-    {
-      "title": "Democrats blast Trump\u2019s decision to make Stephen Miller his chief of staff as president defends picking loyal \u2018MVP\u2019 - as it happened",
-      "date": "2026-11-07",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+      "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "How the US midterm elections reflected resistance to data centres",
+      "title": "Nepal\u2019s fight to rebuild after flood disaster",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss"
     },
     {
-      "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+      "title": "Rains flood thousands of displaced families\u2019 tents in Gaza",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss"
     },
     {
-      "title": "EU prosecutor office investigates fatal train crash in Spain",
+      "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss"
     },
     {
-      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "title": "Sudan war and climate change see parents struggle to feed their children",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss"
     },
     {
-      "title": "Paraguay\u2019s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+      "title": "Pakistani astronaut to join China\u2019s next space station mission",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -95,22 +111,27 @@
       "url": "https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821"
     },
     {
-      "title": "Meghan Markle\u2019s estranged father arrested and charged",
+      "title": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
       "date": "2026-11-07",
-      "url": "https://www.nbcnews.com/nightly-news/video/meghan-markle-s-estranged-father-arrested-and-charged-273045061694"
+      "url": "https://www.nbcnews.com/news/news-quiz/midterm-election-firsts-news-quiz-rcna607716"
     },
     {
-      "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House, DHS says",
+      "title": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
       "date": "2026-11-07",
-      "url": "https://www.nbcnews.com/news/us-news/venezuelan-man-said-voices-told-kill-trump-arrested-white-house-dhs-sa-rcna607943"
+      "url": "https://www.nbcnews.com/news/news-quiz/midterm-election-firsts-news-quiz-rcna607716"
     },
     {
-      "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House, DHS says",
+      "title": "Two skydivers die after colliding over Southern California",
+      "date": "2026-11-07",
+      "url": "https://www.nbcnews.com/news/us-news/two-skydivers-die-colliding-southern-california-rcna607964"
+    },
+    {
+      "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House",
       "date": "2026-11-07",
       "url": "https://www.nbcnews.com/news/us-news/venezuelan-man-said-voices-told-kill-trump-arrested-white-house-dhs-sa-rcna607943"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-07T01:00:35.638416"
+    "updated_at": "2026-11-07T09:00:36.799826"
   }
 }
