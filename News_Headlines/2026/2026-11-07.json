@@ -1,53 +1,83 @@
 {
   "BBC": [
     {
-      "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+      "title": "Briton among six killed in 'far-right' shooting in Krakow",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Two men arrested after boy injured in sword attack",
+      "title": "What we know so far after Krakow gun attack",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
       "date": "2026-11-07",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Iran\u2019s hardliners see a weakened Trump \u2013 and want more to end the war",
+      "title": "After Krak\u00f3w rampage leaves 6 dead, 3 more bodies found at suspect\u2019s home",
       "date": "2026-11-07",
-      "url": "https://edition.cnn.com/2026/11/07/middleeast/iran-trump-war-hardliners-intl"
+      "url": "https://edition.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl"
     },
     {
-      "title": "Paraguay president impeached and under house arrest following bank collapse scandal",
+      "title": "US offers millions for information on Iran\u2019s nuclear program despite Trump\u2019s claims of obliteration",
       "date": "2026-11-07",
-      "url": "https://edition.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl"
+      "url": "https://edition.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl"
+    },
+    {
+      "title": "Despite warnings from Trump admin, after the \u2018Blue Wave\u2019 many migrants bound for the US are hopeful",
+      "date": "2026-11-07",
+      "url": "https://edition.cnn.com/2026/11/07/americas/migrant-caravan-midterms-latam-intl"
+    },
+    {
+      "title": "In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated",
+      "date": "2026-11-07",
+      "url": "https://edition.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl"
+    },
+    {
+      "title": "New Zealand in political limbo after knife-edge election",
+      "date": "2026-11-07",
+      "url": "https://edition.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk"
     }
   ],
   "NPR": [
     {
-      "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+      "title": "The surprising and often forgotten history of economic populism in Texas",
       "date": "2026-11-07",
-      "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma"
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism"
     },
     {
-      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
       "date": "2026-11-07",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium"
+      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
+    },
+    {
+      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "date": "2026-11-07",
+      "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15"
+    },
+    {
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "date": "2026-11-07",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse"
+    },
+    {
+      "title": "A promising new medicine against heart disease fails unexpectedly",
+      "date": "2026-11-07",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack"
     }
   ],
   "The Guardian": [
@@ -57,51 +87,51 @@
       "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts"
     },
     {
-      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+      "title": "New Zealand faces weeks of uncertainty with election \u2018too close to call\u2019",
+      "date": "2026-11-07",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+    },
+    {
+      "title": "New Zealand election coalition talks will likely take weeks \u2013 as it happened",
       "date": "2026-11-07",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
     },
     {
-      "title": "What\u2019s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
       "date": "2026-11-07",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere"
+      "url": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals"
     },
     {
-      "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold \u2018war crimes\u2019 pre-workout supplement",
+      "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
       "date": "2026-11-07",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb"
-    },
-    {
-      "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-      "date": "2026-11-07",
-      "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Nepal\u2019s fight to rebuild after flood disaster",
+      "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss"
     },
     {
-      "title": "Rains flood thousands of displaced families\u2019 tents in Gaza",
+      "title": "Police clash with protesters as anti-government rallies sweep France",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss"
     },
     {
-      "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+      "title": "M\u00e9lenchon promises action against Israeli annexation if elected President",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss"
     },
     {
-      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "title": "Who is behind Europe\u2019s suspected hybrid attacks?",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss"
     },
     {
-      "title": "Pakistani astronaut to join China\u2019s next space station mission",
+      "title": "Abdul El-Sayed slams Trump\u2019s tariff war with Canada",
       "date": "2026-11-07",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -111,9 +141,9 @@
       "url": "https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821"
     },
     {
-      "title": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
+      "title": "Three found dead at home of gunman who killed six in Krakow, Polish PM says",
       "date": "2026-11-07",
-      "url": "https://www.nbcnews.com/news/news-quiz/midterm-election-firsts-news-quiz-rcna607716"
+      "url": "https://www.nbcnews.com/world/europe/poland-krakow-shooting-rcna608001"
     },
     {
       "title": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
@@ -121,17 +151,17 @@
       "url": "https://www.nbcnews.com/news/news-quiz/midterm-election-firsts-news-quiz-rcna607716"
     },
     {
-      "title": "Two skydivers die after colliding over Southern California",
+      "title": "The \u2018slam dunk\u2019 that wasn\u2019t: Promising cholesterol drug fails to prevent heart attacks or stroke",
       "date": "2026-11-07",
-      "url": "https://www.nbcnews.com/news/us-news/two-skydivers-die-colliding-southern-california-rcna607964"
+      "url": "https://www.nbcnews.com/health/health-news/cholesterol-drug-lipoprotein-a-fails-heart-attacks-stroke-trial-rcna607237"
     },
     {
-      "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House",
+      "title": "2026 Rockefeller Center Christmas Tree Arrives in New York City",
       "date": "2026-11-07",
-      "url": "https://www.nbcnews.com/news/us-news/venezuelan-man-said-voices-told-kill-trump-arrested-white-house-dhs-sa-rcna607943"
+      "url": "https://www.today.com/video/2026-rockefeller-center-christmas-tree-arrives-in-new-york-city-273069125683"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-07T09:00:36.799826"
+    "updated_at": "2026-11-07T21:00:35.190180"
   }
 }
