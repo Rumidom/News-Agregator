@@ -1,36 +1,41 @@
 {
   "BBC": [
     {
-      "title": "How the deadly shooting in Krakow unfolded",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
       "date": "2026-11-08",
-      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "date": "2026-11-08",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
       "date": "2026-11-08",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'",
+      "title": "Maya Jama steps down as host of reality TV show Love Island",
       "date": "2026-11-08",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "My parents chose to die together and I was left to grieve alone",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "date": "2026-11-08",
-      "url": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Hiding in plain sight? Russell Brand\u2019s conviction poses tough questions for UK entertainment industry",
+      "title": "Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say",
       "date": "2026-11-08",
-      "url": "https://edition.cnn.com/2026/11/08/uk/russell-brand-conviction-reaction-intl"
+      "url": "https://edition.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl"
+    },
+    {
+      "title": "Pope Leo urges President Milei, a Trump ally, to \u2018safeguard democracy\u2019 on arrival in Argentina",
+      "date": "2026-11-08",
+      "url": "https://edition.cnn.com/2026/11/08/americas/pope-visit-argentina-latam-intl"
     },
     {
       "title": "Poland stunned as suspect with far-right views kills 6 in Krak\u00f3w mass shooting",
@@ -38,49 +43,54 @@
       "url": "https://edition.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl"
     },
     {
-      "title": "CNN investigation uncovers construction flaws in public housing towers that collapsed during Venezuela quakes",
-      "date": "2026-11-08",
-      "url": "https://edition.cnn.com/2026/11/08/americas/construction-flaws-venezuela-quakes-investigation-intl-latam"
-    },
-    {
       "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh\u2019s financial district",
       "date": "2026-11-08",
       "url": "https://edition.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl"
     },
     {
-      "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine\u2019s economy",
+      "title": "Netanyahu rival tasked with forming next Israeli government. But the path remains complicated",
       "date": "2026-11-08",
-      "url": "https://edition.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl"
+      "url": "https://edition.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl"
     }
   ],
   "NPR": [
     {
-      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+      "title": "NASA is looking for astronauts to live and work on the Moon",
       "date": "2026-11-08",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026"
     },
     {
-      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
       "date": "2026-11-08",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino"
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia"
     },
     {
-      "title": "In Maine, a new approach to practicing medicine in the sky",
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
       "date": "2026-11-08",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing"
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
     },
     {
-      "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
       "date": "2026-11-08",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections"
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina"
     },
     {
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
       "date": "2026-11-08",
-      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault"
     }
   ],
   "The Guardian": [
+    {
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "date": "2026-11-08",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+    },
+    {
+      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+      "date": "2026-11-08",
+      "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester"
+    },
     {
       "title": "Pope\u2019s visit to Argentina sets up showdown with \u2018hyper-capitalist\u2019 Milei",
       "date": "2026-11-08",
@@ -92,66 +102,66 @@
       "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
     },
     {
-      "title": "Uyghurs facing deportation by Thailand say they will be \u2018like slaves\u2019 in China",
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
       "date": "2026-11-08",
-      "url": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation"
-    },
-    {
-      "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results \u2018too close to call\u2019",
-      "date": "2026-11-08",
-      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
-    },
-    {
-      "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-      "date": "2026-11-08",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Will Eisenkot be able to form Israel\u2019s next gov\u2019t amid divided opposition?",
+      "title": "Chancellor Merz to nominate Aigner as Germany\u2019s first woman president",
       "date": "2026-11-08",
-      "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
     },
     {
-      "title": "Messi becomes first player to win back-to-back MLS Golden Boot awards",
+      "title": "Lopez double fires Barcelona to win at Atletico Madrid",
       "date": "2026-11-08",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/messi-becomes-first-player-to-win-back-to-back-mls-golden-boot-awards?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss"
     },
     {
-      "title": "After rebel offensive, efforts to push them back appear to have stalled",
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
       "date": "2026-11-08",
-      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
     },
     {
-      "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
       "date": "2026-11-08",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
     },
     {
-      "title": "Democrats\u2019 congressional win could strengthen Ukraine\u2019s hand against Russia",
+      "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
       "date": "2026-11-08",
-      "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "6 killed, 15 injured in shooting at main market square of Krakow, Poland",
+      "title": "House Minority Leader Hakeem Jeffries says he\u2019s a \u2018hard yes\u2019 on impeaching Defense Secretary Pete Hegseth",
       "date": "2026-11-08",
-      "url": "https://www.nbcnews.com/nightly-news/video/6-killed-15-injured-in-shooting-at-main-market-square-of-krakow-poland-273079365572"
+      "url": "https://www.nbcnews.com/politics/congress/house-minority-leader-hakeem-jeffries-hard-yes-impeaching-hegseth-rcna608137"
     },
     {
-      "title": "James Talarico kicks off \u2018SNL\u2019 days after historic Texas Senate win",
+      "title": "Adam Hamilton says 'sense of common decency' fueled his historic campaign victory",
       "date": "2026-11-08",
-      "url": "https://www.nbcnews.com/pop-culture/tv/james-talarico-kicks-off-snl-rcna608071"
+      "url": "https://www.nbcnews.com/meet-the-press/video/adam-hamilton-says-sense-of-common-decency-fueled-his-historic-campaign-victory-273092165939"
     },
     {
-      "title": "James Talarico kicks off \u2018SNL\u2019 days after historic Texas Senate win",
+      "title": "Byron Donalds on DeSantis' midterm explanation: \u2018I actually don't know what' he is talking about",
       "date": "2026-11-08",
-      "url": "https://www.nbcnews.com/pop-culture/tv/james-talarico-kicks-off-snl-rcna608071"
+      "url": "https://www.nbcnews.com/meet-the-press/video/byron-donalds-on-desantis-midterm-explanation-i-actually-don-t-know-what-he-is-talking-about-273095749807"
+    },
+    {
+      "title": "Gov. Josh Shapiro urges Democrats to prioritize healthcare, food assistance",
+      "date": "2026-11-08",
+      "url": "https://www.nbcnews.com/politics/2026-election/gov-josh-shapiro-urges-democrats-prioritize-healthcare-food-assistance-rcna608060"
+    },
+    {
+      "title": "Here\u2019s the biggest news you missed this weekend",
+      "date": "2026-11-08",
+      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-8-rcna607990"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-08T09:00:38.650384"
+    "updated_at": "2026-11-08T21:00:36.382862"
   }
 }
