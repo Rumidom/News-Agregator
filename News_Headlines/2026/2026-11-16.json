@@ -1,106 +1,162 @@
 {
   "BBC": [
     {
-      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
       "date": "2026-11-16",
-      "url": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+      "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
       "date": "2026-11-16",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+      "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
       "date": "2026-11-16",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+      "title": "Watch: Why some teenagers don't go to school",
       "date": "2026-11-16",
-      "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cqe9kgegd2y4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "title": "Russell Brand's lack of remorse in prison message 'revolting', Miliband says",
       "date": "2026-11-16",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
+    {
+      "title": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
+      "date": "2026-11-16",
+      "url": "https://edition.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl"
+    },
+    {
+      "title": "How this photographer captured an image so stunning, people thought it was AI",
+      "date": "2026-11-16",
+      "url": "https://edition.cnn.com/world/africa/south-africa-night-photography-kyle-goetsch-spc"
+    },
+    {
+      "title": "Taking the college entrance exam in South Korea? Hand over your glasses before you start",
+      "date": "2026-11-16",
+      "url": "https://edition.cnn.com/2026/11/16/asia/south-korea-ai-glasses-cheating-intl-hnk"
+    },
     {
       "title": "Notorious Mexican drug lord, who was convicted of killing US DEA agent, dies at 80",
       "date": "2026-11-16",
       "url": "https://edition.cnn.com/2026/11/15/americas/mexico-gallardo-dead-dea-intl-latam"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+      "date": "2026-11-16",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance"
+    },
+    {
+      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+      "date": "2026-11-16",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+    },
+    {
+      "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+      "date": "2026-11-16",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change"
+    },
+    {
+      "title": "NPR's Student Podcast Challenge is back for 2027",
+      "date": "2026-11-16",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline"
+    },
+    {
+      "title": "Why sleep matters when it comes to weight gain and loss",
+      "date": "2026-11-16",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+      "date": "2026-11-16",
+      "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests"
+    },
+    {
+      "title": "Delaware hit by rare November tornado",
+      "date": "2026-11-16",
+      "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado"
+    },
     {
       "title": "\u2018The blood of these brothers cries out\u2019: Pope Leo demands justice for people killed protecting the Amazon",
       "date": "2026-11-16",
       "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
     },
     {
-      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it\u2019s a \u2018legitimate and lawful business\u2019",
+      "title": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
       "date": "2026-11-16",
-      "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest"
     },
     {
-      "title": "Australia\u2019s national medical research body advises conditional use of puberty blockers for transgender children",
+      "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
       "date": "2026-11-16",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children"
-    },
-    {
-      "title": "MP Helen Haines\u2019 first words since leaving hospital after alleged attack led to double amputation",
-      "date": "2026-11-16",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb"
-    },
-    {
-      "title": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
-      "date": "2026-11-16",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb"
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "ASEAN, China fall short of agreeing on South China Sea code",
+      "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel\u2019s Knesset?",
       "date": "2026-11-16",
-      "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss"
     },
     {
-      "title": "Houthis advance in Yemen as government forces move to defend Aden",
+      "title": "As homes seized, Jericho\u2019s Palestinian residents fear settler takeover",
       "date": "2026-11-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss"
     },
     {
-      "title": "Pope condemns murders of Peru\u2019s Indigenous leaders, deforestation of Amazon",
+      "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
       "date": "2026-11-16",
-      "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss"
     },
     {
-      "title": "Pope urges end to Amazon deforestation",
+      "title": "Lebanon\u2019s second airport could provide economic and political benefits",
       "date": "2026-11-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss"
     },
     {
-      "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+      "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
       "date": "2026-11-16",
-      "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Two games, one day: Ground stop means unprecedented double duty for NFL refs",
+      "title": "Air travel starts to normalize after ground stop caused weekend of unprecedented disruption",
       "date": "2026-11-16",
-      "url": "https://www.nbcnews.com/sports/nfl/two-games-one-day-ground-stop-means-unprecedented-double-duty-nfl-refs-rcna609524"
+      "url": "https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545"
+    },
+    {
+      "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates",
+      "date": "2026-11-16",
+      "url": "https://www.nbcnews.com/politics/congress/us-attorney-warns-sen-elizabeth-warren-investigating-trump-associates-rcna609532"
     },
     {
       "title": "Two games, one day: Ground stop means unprecedented double duty for NFL refs",
       "date": "2026-11-16",
       "url": "https://www.nbcnews.com/sports/nfl/two-games-one-day-ground-stop-means-unprecedented-double-duty-nfl-refs-rcna609524"
+    },
+    {
+      "title": "Air travel starts to normalize after ground stop caused weekend of unprecedented disruption",
+      "date": "2026-11-16",
+      "url": "https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545"
+    },
+    {
+      "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates",
+      "date": "2026-11-16",
+      "url": "https://www.nbcnews.com/politics/congress/us-attorney-warns-sen-elizabeth-warren-investigating-trump-associates-rcna609532"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-16T01:00:40.187496"
+    "updated_at": "2026-11-16T09:00:39.325911"
   }
 }
