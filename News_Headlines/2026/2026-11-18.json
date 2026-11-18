@@ -1,29 +1,29 @@
 {
   "BBC": [
     {
-      "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+      "title": "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises again",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Irishman charged with destroying US military aircraft with axe",
+      "title": "Watch: Why historic US, China and Russia meeting matters",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "title": "What's gone wrong at Britain's worst bathing site?",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "title": "Lammy urges Burnham to take UK back into the EU",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
@@ -38,89 +38,115 @@
       "url": "https://edition.cnn.com/2026/11/17/world/human-cambridge-word-of-year-scli-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+      "date": "2026-11-18",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue"
+    },
+    {
+      "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+      "date": "2026-11-18",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
+    },
+    {
+      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+      "date": "2026-11-18",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin"
+    },
+    {
+      "title": "How the East Potomac golf course became a D.C. landmark \u2014 and what could happen to it",
+      "date": "2026-11-18",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it"
+    },
+    {
+      "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+      "date": "2026-11-18",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
+      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+      "date": "2026-11-18",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+    },
+    {
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "date": "2026-11-18",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans"
+    },
+    {
+      "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019 in speech",
       "date": "2026-11-18",
       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
     },
     {
-      "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+      "title": "South Korea\u2019s high-stakes university exams upended by AI cheating scandal",
       "date": "2026-11-18",
       "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures"
     },
     {
-      "title": "\u2018Everyone likes money\u2019: Bandidos member can\u2019t remember why he was paid $165,000, Big Build inquiry hears",
+      "title": "\u2018Phantom forests\u2019 in Australia\u2019s arid outback used to create carbon credits meant to offset emissions, report claims",
       "date": "2026-11-18",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb"
-    },
-    {
-      "title": "Australia\u2019s \u2018problematic\u2019 surrogacy laws could be transformed under proposed changes",
-      "date": "2026-11-18",
-      "url": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes"
-    },
-    {
-      "title": "The \u2018moon landing\u2019 of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
-      "date": "2026-11-18",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release"
+      "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+      "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
     },
     {
-      "title": "Nvidia shoots down calls for Jensen Huang\u2019s return amid strong earnings",
+      "title": "India lodges complaint against Palestinian footballer after under-17 match",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss"
     },
     {
-      "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+      "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss"
     },
     {
-      "title": "Hungary on the hunt for a football hero",
+      "title": "Why has an NYT report on Iran\u2019s dams ignited fierce pushback?",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss"
     },
     {
-      "title": "ICE agents shove and pepper-spray pregnant woman",
+      "title": "Traumas of Sudan war lead to wave of drug addiction",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+      "title": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
+      "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962"
     },
     {
-      "title": "Apple hit by widespread outages as tech problems continue",
+      "title": "Democrat Mary Peltola wins Alaska\u2019s Senate race, NBC News projects",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/nightly-news/video/apple-hit-by-widespread-outages-as-tech-problems-continue-273687109562"
+      "url": "https://www.nbcnews.com/video/democrat-mary-peltola-wins-alaska-s-senate-race-nbc-news-projects-273698885569"
     },
     {
-      "title": "White House drops Heidi Overton\u2019s FDA nomination after Republicans raise concerns",
+      "title": "Jeff Bezos says he was \u2018heavily involved\u2019 in picking the new James Bond",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883"
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/jeff-bezos-heavily-involved-casting-robert-pattinson-james-bond-amazon-rcna609958"
     },
     {
-      "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+      "title": "They were NFL losers last year. Now they\u2019re playoff contenders.",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-losers-last-year-now-re-playoff-contenders-rcna609840"
     },
     {
-      "title": "Nvidia enters the post-Jensen Huang era with a bang",
+      "title": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/business/corporations/nvidia-post-jensen-huang-kress-earnings-rcna609782"
+      "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-18T01:00:39.401708"
+    "updated_at": "2026-11-18T09:00:41.200655"
   }
 }
