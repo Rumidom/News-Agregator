@@ -1,68 +1,83 @@
 {
   "BBC": [
     {
-      "title": "Watch: Breaking down what's in the Milburn review",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
       "date": "2026-11-17",
-      "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "At a glance: Key proposals from Milburn's Neets report",
+      "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
       "date": "2026-11-17",
-      "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The young people caught up in Britain's Neets crisis",
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
       "date": "2026-11-17",
-      "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "date": "2026-11-17",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "date": "2026-11-17",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "How Met failed to stop rape-unit detective who abused women",
-      "date": "2026-11-17",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Ukraine strike collapses section of Putin\u2019s prized bridge to occupied Crimea",
+      "title": "Trump is about to see up close why US efforts won\u2019t stop China\u2019s rise as tech powerhouse",
       "date": "2026-11-17",
-      "url": "https://edition.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk"
+      "url": "https://edition.cnn.com/2026/11/17/china/trump-us-china-tech-asia-summit-intl-hnk"
     },
     {
-      "title": "\u2018I tell it like it is\u2019: Pope Leo talks cancer diagnosis, married priests and being hit in the face with a rosary",
+      "title": "Israel\u2019s parliament elects new Knesset speaker, weakening Netanyahu\u2019s grip on power",
       "date": "2026-11-17",
-      "url": "https://edition.cnn.com/2026/11/17/world/pope-leo-democracy-american-intl"
+      "url": "https://edition.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl"
+    },
+    {
+      "title": "Russian military transport aircraft crashes in Siberia, killing 19, defense ministry says",
+      "date": "2026-11-17",
+      "url": "https://edition.cnn.com/2026/11/17/europe/russia-siberia-plane-crash-intl"
+    },
+    {
+      "title": "Netanyahu\u2019s opponents demand investigation after report alleges that his staff tried to influence elections",
+      "date": "2026-11-17",
+      "url": "https://edition.cnn.com/2026/11/16/middleeast/netanyahu-opponents-demand-election-probe-intl"
+    },
+    {
+      "title": "Ecuadorian fishermen sue US over mysterious boat strike",
+      "date": "2026-11-17",
+      "url": "https://edition.cnn.com/2026/11/17/americas/ecuador-boat-strike-lawsuit-latam-intl"
     }
   ],
   "NPR": [
     {
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "date": "2026-11-17",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+    },
+    {
+      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "date": "2026-11-17",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
+    },
+    {
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "date": "2026-11-17",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
+    },
+    {
+      "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+      "date": "2026-11-17",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding"
+    },
+    {
       "title": "Can Google win the AI race without killing its cash cow?",
       "date": "2026-11-17",
       "url": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow"
-    },
-    {
-      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-      "date": "2026-11-17",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe"
-    },
-    {
-      "title": "Trump arrives in Philippines to kick off Asia trip",
-      "date": "2026-11-17",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
-    },
-    {
-      "title": "She went to college to become a social worker. Now she's joined the skilled trades",
-      "date": "2026-11-17",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs"
-    },
-    {
-      "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-      "date": "2026-11-17",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster"
     }
   ],
   "The Guardian": [
@@ -72,81 +87,81 @@
       "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
     },
     {
-      "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+      "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
       "date": "2026-11-17",
-      "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports"
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment"
     },
     {
-      "title": "Hi-tech Shenzhen takes centre stage as Xi sends \u2018Chinamaxxing\u2019 message at Apec summit",
+      "title": "Isolated Brazilian tribe emerges amid alarm over threats to group\u2019s way of life",
       "date": "2026-11-17",
-      "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit"
+      "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people"
     },
     {
-      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
       "date": "2026-11-17",
-      "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release"
     },
     {
-      "title": "Rio Tinto agrees to pay US$250m to begin repairing \u2018devastation\u2019 left by Panguna mine",
+      "title": "Costa Rican journalist\u00a0shot dead in first such killing in 25 years",
       "date": "2026-11-17",
-      "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png"
+      "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Ukrainian breaks world record for deepest competitive freedive",
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
       "date": "2026-11-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss"
     },
     {
-      "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+      "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
       "date": "2026-11-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss"
     },
     {
-      "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
+      "title": "Top spy agency suffers network outage, the latest US technical failure",
       "date": "2026-11-17",
-      "url": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss"
     },
     {
-      "title": "Bangladesh police clash with garment workers amid protests over wages",
+      "title": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment",
       "date": "2026-11-17",
-      "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
     },
     {
-      "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+      "title": "Russian military plane crash in Siberia kills 19",
       "date": "2026-11-17",
-      "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "President Trump arrives in Manila for the ASEAN summit",
+      "title": "Nvidia board does not intend to reinstate Jensen Huang, chairman says",
       "date": "2026-11-17",
-      "url": "https://www.nbcnews.com/video/president-trump-arrives-in-manila-for-the-asean-summit-273630789865"
+      "url": "https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600"
     },
     {
-      "title": "Putin\u2019s prized bridge is partially destroyed in Ukrainian strike",
+      "title": "Secretary Duffy calls for air traffic control upgrades after meeting lawmakers",
       "date": "2026-11-17",
-      "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756"
+      "url": "https://www.nbcnews.com/now/video/secretary-duffy-speaks-after-meeting-with-lawmakers-about-faa-ground-stop-273670213811"
     },
     {
-      "title": "U.S. loses measles-elimination status, erasing decades of progress",
+      "title": "Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin",
       "date": "2026-11-17",
-      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920"
+      "url": "https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662"
     },
     {
-      "title": "Putin\u2019s prized bridge is partially destroyed in Ukrainian strike",
+      "title": "A Kremlin trap? Europe sees danger in Vladimir Putin\u2019s new demand in U.S. talks",
       "date": "2026-11-17",
-      "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756"
+      "url": "https://www.nbcnews.com/world/europe/europe-danger-vladimir-putin-ukraine-war-nato-security-architecture-rcna609558"
     },
     {
-      "title": "California lifeguard recalls braving relentless waves in rescue caught on video",
+      "title": "New Concerns Arise Over What AI Toys Could Be Teaching Kids",
       "date": "2026-11-17",
-      "url": "https://www.nbcnews.com/news/us-news/california-lifeguard-relentless-waves-san-diego-rescue-video-rcna609733"
+      "url": "https://www.today.com/video/new-concerns-arise-over-what-ai-toys-could-be-teaching-kids-273637445593"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-17T09:00:39.892210"
+    "updated_at": "2026-11-17T21:00:39.429899"
   }
 }
