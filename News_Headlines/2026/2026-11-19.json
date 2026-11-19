@@ -1,96 +1,127 @@
 {
   "BBC": [
     {
+      "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+      "date": "2026-11-19",
+      "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
       "date": "2026-11-19",
       "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
+      "title": "Leasehold system set to be scrapped in England and Wales",
       "date": "2026-11-19",
       "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "date": "2026-11-19",
       "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Crew unaware of risks before Bayesian yacht accident, say investigators",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
       "date": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "date": "2026-11-19",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Bridge connecting Russia to occupied Crimea has been hit again",
+      "title": "UN top court finds Myanmar guilty of committing genocide against Rohingya minority",
+      "date": "2026-11-19",
+      "url": "https://edition.cnn.com/2026/11/19/asia/icj-myanmar-genocide-rohingya-ruling-intl-hnk"
+    },
+    {
+      "title": "This company is putting clean cookstoves into Ivorian villages",
+      "date": "2026-11-19",
+      "url": "https://edition.cnn.com/world/green-ker-clean-cookstoves-ivory-coast-spc"
+    },
+    {
+      "title": "Putin\u2019s prized bridge to occupied Crimea has been hit for the third time this week",
       "date": "2026-11-19",
       "url": "https://edition.cnn.com/2026/11/18/europe/crimea-russia-bridge-ukraine-kerch-latam-intl"
     },
     {
-      "title": "Venezuela a \u2018compliant security partner,\u2019 Hegseth says as he announces military deal with Caracas",
+      "title": "Iran\u2019s oil leverage is weakening. That could push it toward escalation",
       "date": "2026-11-19",
-      "url": "https://edition.cnn.com/2026/11/18/americas/us-venezuela-military-deal-hegseth-latam-intl"
+      "url": "https://edition.cnn.com/2026/11/19/middleeast/iran-war-oil-flow-escalation-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+      "date": "2026-11-19",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion"
+    },
+    {
+      "title": "Morning news brief",
+      "date": "2026-11-19",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief"
+    },
+    {
+      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+      "date": "2026-11-19",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
+    },
+    {
+      "title": "Win a trip to go behind the news with NPR",
+      "date": "2026-11-19",
+      "url": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australia may have \u2018one foot in recession\u2019 as unemployment surges to five-year high",
+      "title": "Race to replant five South African baobabs after export blocked",
       "date": "2026-11-19",
-      "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures"
+      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe"
     },
     {
-      "title": "Beau Lamarre-Condon\u2019s \u2018wounded pride\u2019 after breakup with Jesse Baird led to \u2018darker plan for revenge\u2019, crown alleges",
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
       "date": "2026-11-19",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb"
+      "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa"
     },
     {
-      "title": "\u2018I\u2019ll take the rap for that\u2019: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
       "date": "2026-11-19",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
     },
     {
-      "title": "One Nation\u2019s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
+      "title": "Mark Speakman resigns and says Liberals face \u2018existential threat\u2019 as NSW exodus continues",
       "date": "2026-11-19",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues"
     },
     {
-      "title": "GTA 6 dazzles gamers in Australia with \u2018fully lived-in, breathable world\u2019",
+      "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
       "date": "2026-11-19",
-      "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+      "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
       "date": "2026-11-19",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss"
     },
     {
-      "title": "China\u2019s Xi greets Putin and Trump at APEC before historic summit",
+      "title": "Putin says US-China-Russia can strengthen global stability",
       "date": "2026-11-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss"
     },
     {
-      "title": "Google\u2019s driverless car hits a roadblock",
+      "title": "Will laser weapons change warfare?",
       "date": "2026-11-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss"
     },
     {
-      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "title": "Denmark parliament approves security deal with Greenland and US",
       "date": "2026-11-19",
-      "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss"
     },
     {
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "title": "FIFA confirms Diallo, Tashima as Infantino\u2019s challengers at 2027 election",
       "date": "2026-11-19",
-      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -100,9 +131,9 @@
       "url": "https://www.nbcnews.com/video/what-to-expect-from-trump-s-meeting-with-putin-and-xi-jinping-273779781736"
     },
     {
-      "title": "Elon Musk says he feels 'foolish' after spending hundreds of millions backing Republicans",
+      "title": "Trump meets with Putin in China",
       "date": "2026-11-19",
-      "url": "https://www.nbcnews.com/video/elon-musk-says-he-feels-foolish-after-spending-hundreds-of-millions-backing-republicans-273776709737"
+      "url": "https://www.nbcnews.com/video/trump-meets-with-putin-in-china-273789509665"
     },
     {
       "title": "Sen. Elissa Slotkin fires back at DOJ official over investigation of her political speech",
@@ -115,12 +146,12 @@
       "url": "https://www.nbcnews.com/video/grand-theft-auto-vi-launches-after-13-years-of-development-273781317952"
     },
     {
-      "title": "Trump pushes for three-way nuclear deal as Russia and China show little interest",
+      "title": "How a rocket scientist is fueling the NFL\u2019s best defense",
       "date": "2026-11-19",
-      "url": "https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145"
+      "url": "https://www.nbcnews.com/sports/nfl/rocket-scientist-fueling-nfls-best-defense-rcna610015"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-19T01:00:38.402804"
+    "updated_at": "2026-11-19T09:00:38.603023"
   }
 }
