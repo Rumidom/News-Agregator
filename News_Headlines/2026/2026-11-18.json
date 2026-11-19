@@ -1,73 +1,83 @@
 {
   "BBC": [
     {
-      "title": "Energy bills forecast to go up by \u00a3443 a year from January as UK inflation rises again",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Why historic US, China and Russia meeting matters",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What's gone wrong at Britain's worst bathing site?",
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Lammy urges Burnham to take UK back into the EU",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
       "date": "2026-11-18",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Prince Harry says he\u2019d return to the military to face Russia if needed",
+      "date": "2026-11-18",
+      "url": "https://edition.cnn.com/2026/11/18/uk/prince-harry-russia-ukraine-latam-intl"
+    },
+    {
+      "title": "72-year-old Palestinian woman shot and killed by Israeli settlers near newly established outpost",
+      "date": "2026-11-18",
+      "url": "https://edition.cnn.com/2026/11/18/world/palestinian-woman-killed-by-israeli-settlers-latam-intl"
+    },
+    {
+      "title": "Venezuela a \u2018compliant security partner,\u2019 Hegseth says as he announces military deal with Caracas",
+      "date": "2026-11-18",
+      "url": "https://edition.cnn.com/2026/11/18/americas/us-venezuela-military-deal-hegseth-latam-intl"
+    },
+    {
       "title": "Trump is about to see up close why US efforts won\u2019t stop China\u2019s rise as tech powerhouse",
       "date": "2026-11-18",
       "url": "https://edition.cnn.com/2026/11/17/china/trump-us-china-tech-asia-summit-intl-hnk"
-    },
-    {
-      "title": "\u2018Human\u2019 revealed as Cambridge Dictionary Word of the Year for 2026",
-      "date": "2026-11-18",
-      "url": "https://edition.cnn.com/2026/11/17/world/human-cambridge-word-of-year-scli-intl"
     }
   ],
   "NPR": [
     {
-      "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
       "date": "2026-11-18",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue"
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
     },
     {
-      "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
       "date": "2026-11-18",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece"
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
     },
     {
-      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
       "date": "2026-11-18",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin"
+      "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design"
     },
     {
-      "title": "How the East Potomac golf course became a D.C. landmark \u2014 and what could happen to it",
+      "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
       "date": "2026-11-18",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it"
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast"
     },
     {
-      "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+      "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
       "date": "2026-11-18",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics"
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
     }
   ],
   "The Guardian": [
     {
-      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
       "date": "2026-11-18",
       "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
     },
@@ -77,76 +87,76 @@
       "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans"
     },
     {
-      "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019 in speech",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "date": "2026-11-18",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination"
+    },
+    {
+      "title": "Hegseth uses Venezuela visit to boast of Maduro\u2019s capture by US military",
+      "date": "2026-11-18",
+      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
+    },
+    {
+      "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019",
       "date": "2026-11-18",
       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
-    },
-    {
-      "title": "South Korea\u2019s high-stakes university exams upended by AI cheating scandal",
-      "date": "2026-11-18",
-      "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures"
-    },
-    {
-      "title": "\u2018Phantom forests\u2019 in Australia\u2019s arid outback used to create carbon credits meant to offset emissions, report claims",
-      "date": "2026-11-18",
-      "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+      "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss"
     },
     {
-      "title": "India lodges complaint against Palestinian footballer after under-17 match",
+      "title": "NASA\u2019s Voyager 1 hits record one light-day distance, 50 years after launch",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss"
     },
     {
-      "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+      "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss"
     },
     {
-      "title": "Why has an NYT report on Iran\u2019s dams ignited fierce pushback?",
+      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss"
     },
     {
-      "title": "Traumas of Sudan war lead to wave of drug addiction",
+      "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
       "date": "2026-11-18",
-      "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
+      "title": "Shut out of meeting, Zelenskyy says what he would say to Trump, Xi and Putin",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962"
+      "url": "https://www.nbcnews.com/now/video/zelenskyy-says-sanctions-from-u-s-and-china-would-force-russia-into-a-ceasefire-273752133886"
     },
     {
-      "title": "Democrat Mary Peltola wins Alaska\u2019s Senate race, NBC News projects",
+      "title": "President Trump lands in China for critical talks with Xi and Putin",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/video/democrat-mary-peltola-wins-alaska-s-senate-race-nbc-news-projects-273698885569"
+      "url": "https://www.today.com/video/president-trump-lands-in-china-for-critical-talks-with-xi-and-putin-273752133676"
     },
     {
-      "title": "Jeff Bezos says he was \u2018heavily involved\u2019 in picking the new James Bond",
+      "title": "Jeffries says House Democrats will 'fight for an affordable America'",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/jeff-bezos-heavily-involved-casting-robert-pattinson-james-bond-amazon-rcna609958"
+      "url": "https://www.nbcnews.com/video/jeffries-speaks-after-democrats-nominate-him-for-speaker-of-the-house-273744965610"
     },
     {
-      "title": "They were NFL losers last year. Now they\u2019re playoff contenders.",
+      "title": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us.",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/sports/nfl/nfl-losers-last-year-now-re-playoff-contenders-rcna609840"
+      "url": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069"
     },
     {
-      "title": "Xi greets Trump as he arrives in China, a rare move ahead of Putin talks",
+      "title": "After 13 years, \u2018Grand Theft Auto\u2019 is back. Here\u2019s what to know about the new game.",
       "date": "2026-11-18",
-      "url": "https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962"
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-release-rockstar-games-what-to-know-rcna609644"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-18T09:00:41.200655"
+    "updated_at": "2026-11-18T21:00:39.599348"
   }
 }
