@@ -1,80 +1,102 @@
 {
   "BBC": [
     {
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "date": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+      "date": "2026-11-22",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "How a teen gamer and his mother helped rescue a missing girl",
       "date": "2026-11-22",
       "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
       "date": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
       "date": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Kate's 'road to recovery' and 'Brave princess'",
-      "date": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "From pit-stops to go-to destinations: The transformation of service stations",
-      "date": "2026-11-22",
-      "url": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "The boy making all the right moves in India\u2019s chess revolution",
+      "date": "2026-11-22",
+      "url": "https://edition.cnn.com/2026/11/22/india/india-chess-revolution-intl-hnk"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "NPR's Senior Podcast Challenge: Early entries we love",
+      "date": "2026-11-22",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
+    },
+    {
+      "title": "He expected a small-business loan. It turned out to be a trap",
+      "date": "2026-11-22",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance"
+    }
+  ],
   "The Guardian": [
+    {
+      "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+      "date": "2026-11-22",
+      "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba"
+    },
+    {
+      "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+      "date": "2026-11-22",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+    },
+    {
+      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "date": "2026-11-22",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+    },
+    {
+      "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+      "date": "2026-11-22",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb"
+    },
     {
       "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
       "date": "2026-11-22",
       "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say"
-    },
-    {
-      "title": "Victorian Greens win injunction over how-to-vote cards mimicking party\u2019s branding but preferencing it last",
-      "date": "2026-11-22",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb"
-    },
-    {
-      "title": "\u2018No time for a culture war\u2019: Victoria\u2019s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-      "date": "2026-11-22",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy"
-    },
-    {
-      "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
-      "date": "2026-11-22",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Eleven killed in burst of violence during Mexican cartel leader\u2019s capture",
+      "title": "Russian ship attacked by drone in Baltic Sea off Finland",
       "date": "2026-11-22",
-      "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss"
     },
     {
-      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+      "title": "Messi throws ball in opponent\u2019s face, avoids red card as Inter Miami lose",
       "date": "2026-11-22",
-      "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss"
     },
     {
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+      "title": "Russian cargo ship still on fire off Finland after drone attack",
       "date": "2026-11-22",
-      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack?traffic_source=rss"
     },
     {
-      "title": "Bessent confirms he\u2019s living on US military base over Iran fears",
+      "title": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
       "date": "2026-11-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss"
     },
     {
-      "title": "Moviegoers head for the exits as quake strikes Peru",
+      "title": "Restored wells bring life back to Hebron\u2019s occupied Old City",
       "date": "2026-11-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -92,9 +114,14 @@
       "title": "Dangerous floods wash out regions in Florida",
       "date": "2026-11-22",
       "url": "https://www.nbcnews.com/nightly-news/video/dangerous-floods-wash-out-regions-in-florida-273966661817"
+    },
+    {
+      "title": "Abdul El-Sayed catches president\u2019s attention with pitch for \u2018Trumpcare\u2019",
+      "date": "2026-11-22",
+      "url": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-22T01:00:38.890834"
+    "updated_at": "2026-11-22T09:00:38.871082"
   }
 }
