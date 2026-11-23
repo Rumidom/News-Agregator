@@ -1,100 +1,157 @@
 {
   "BBC": [
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "date": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-      "date": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "date": "2026-11-23",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+      "title": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
       "date": "2026-11-23",
       "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+      "title": "Watch: What we know about Co-op Live 'major incident'",
       "date": "2026-11-23",
-      "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "NHS launches world's largest AI breast cancer screening trial",
+      "date": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "date": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "date": "2026-11-23",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Ukrainian drones sink Russian warship in North Africa",
+      "date": "2026-11-23",
+      "url": "https://edition.cnn.com/2026/11/22/africa/russian-vessel-libya-suspected-drone-attack-intl"
+    },
+    {
+      "title": "Thousands evacuated as \u2018unknown substance\u2019 fills UK arena during US rapper\u2019s show",
+      "date": "2026-11-23",
+      "url": "https://edition.cnn.com/2026/11/23/europe/manchester-coop-live-tear-gas-don-toliver-hnk-intl"
+    },
+    {
       "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
       "date": "2026-11-23",
       "url": "https://edition.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl"
-    },
-    {
-      "title": "Russian vessel docked in Libya hit in suspected drone attack, authorities say",
-      "date": "2026-11-23",
-      "url": "https://edition.cnn.com/2026/11/22/africa/russian-vessel-libya-suspected-drone-attack-intl"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+      "date": "2026-11-23",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+    },
+    {
+      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+      "date": "2026-11-23",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
+    },
+    {
+      "title": "K is for kindness, but families worry the world has less of it",
+      "date": "2026-11-23",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey"
+    },
+    {
+      "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+      "date": "2026-11-23",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs"
+    },
+    {
+      "title": "Mushroom supplements promise health benefits. What does the science say?",
+      "date": "2026-11-23",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research"
+    }
+  ],
   "The Guardian": [
     {
-      "title": "Australian politics live: Opposition hammers Labor over $150m \u2018Cop flop\u2019; Tehan kicked out of question time for \u2018taking the mickey\u2019",
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
       "date": "2026-11-23",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
     },
     {
-      "title": "Beau Lamarre-Condon acted like a \u2018poorly behaved boyfriend\u2019 before alleged double murders, defence argues",
+      "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
       "date": "2026-11-23",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb"
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico"
     },
     {
-      "title": "Former Bachelor star Sam Wood seeking mediation amid DV charges for allegedly strangling wife",
+      "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
       "date": "2026-11-23",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb"
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
     },
     {
-      "title": "Tributes flow for Molly Meldrum: Anthony Albanese, Jason Donovan and others remember music industry great",
+      "title": "Up to 1.1m people eligible to join class action against Jetstar over alleged failure to refund Covid flights",
       "date": "2026-11-23",
-      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes"
+      "url": "https://www.theguardian.com/business/2026/nov/23/up-to-11m-people-eligible-to-join-class-action-against-jetstar-over-alleged-failure-to-refund-covid-flights-ntwnfb"
     },
     {
-      "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
+      "title": "Constitutional law expert brands defence bill allowing secret security rules \u2018lazy and irresponsible\u2019",
       "date": "2026-11-23",
-      "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83"
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible"
     }
   ],
   "Al Jazeera": [
     {
-      "title": "Don Toliver concert chaos after \u2018substance\u2019 let off in crowd",
+      "title": "Former Icelandic PM says world\u2019s great powers are flexing their muscles",
       "date": "2026-11-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/don-toliver-concert-chaos-after-substance-let-off-in-crowd?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/23/former-icelandic-pm-says-worlds-great-powers-are-flexing-their-muscles?traffic_source=rss"
     },
     {
-      "title": "Belgium\u2019s airports set to shut down due to anti-austerity strike",
+      "title": "COP31: What next after UN climate talks collapse",
       "date": "2026-11-23",
-      "url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse?traffic_source=rss"
     },
     {
-      "title": "Indonesian police remove 24 body bags from factory fire site",
+      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
       "date": "2026-11-23",
-      "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss"
     },
     {
-      "title": "US intelligence chief defends Trump\u2019s comments calling Putin his \u2018friend\u2019",
+      "title": "Lebanese families return to ruins after Israeli attacks in south",
       "date": "2026-11-23",
-      "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss"
     },
     {
-      "title": "\u2018Extremely concerning\u2019: Inside a US Army plan to detonate Iowa lead stores",
+      "title": "CAS decision on Senegal\u2019s AFCON 2025 title appeal on Tuesday",
       "date": "2026-11-23",
-      "url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss"
     }
   ],
-  "NBC News": [],
+  "NBC News": [
+    {
+      "title": "Democratic National Committee sets broad rules for the party\u2019s 2028 presidential debates",
+      "date": "2026-11-23",
+      "url": "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439"
+    },
+    {
+      "title": "Rough weather expected to hit both coasts, may disrupt Thanksgiving travel",
+      "date": "2026-11-23",
+      "url": "https://www.nbcnews.com/news/us-news/rough-weather-expected-hit-both-coasts-may-disrupt-thanksgiving-travel-rcna610778"
+    },
+    {
+      "title": "Ukrainian naval drone sinks Russian warship off the coast of Libya",
+      "date": "2026-11-23",
+      "url": "https://www.nbcnews.com/video/ukrainian-naval-drone-sinks-russian-warship-off-the-coast-of-libya-274001989802"
+    },
+    {
+      "title": "Crowd evacuated from U.S. rapper Don Toliver\u2019s concert after \u2018unknown substance\u2019 released",
+      "date": "2026-11-23",
+      "url": "https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820"
+    },
+    {
+      "title": "NFL Week 11: A Travis Kelce game years in the making, and Dak Prescott keeps dealing",
+      "date": "2026-11-23",
+      "url": "https://www.nbcnews.com/sports/nfl/nfl-week-11-travis-kelce-chiefs-dak-prescott-cowboys-rcna610773"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-11-23T01:00:38.930514"
+    "updated_at": "2026-11-23T09:00:36.618518"
   }
 }
