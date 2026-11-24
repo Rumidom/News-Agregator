@@ -1,59 +1,96 @@
 {
   "BBC": [
     {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
       "date": "2026-11-24",
       "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Benefits review to suggest quicker payment for some disabled people",
+      "title": "Pip benefits review to suggest quicker payment for some disabled people",
       "date": "2026-11-24",
       "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+      "title": "Prince William meets Burnham on first Downing Street visit",
       "date": "2026-11-24",
-      "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why I don't always tell potential employers I'm dyslexic",
+      "title": "Triple killer admits murdering Ian Huntley in jail",
       "date": "2026-11-24",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+      "title": "Inquiry expected into Birmingham housing scheme 'exploitation' after BBC investigation",
       "date": "2026-11-24",
-      "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "China sentences official to death for passing state secrets to foreign spy",
+      "date": "2026-11-24",
+      "url": "https://edition.cnn.com/2026/11/24/china/china-sentences-official-to-death-for-passing-state-secrets-to-foreign-spy-intl-hnk"
+    },
+    {
+      "title": "Pope Francis battled visions of the devil during a two-year spiritual crisis, diaries reveal",
+      "date": "2026-11-24",
+      "url": "https://edition.cnn.com/2026/11/24/europe/pope-francis-private-diaries-intl-latam"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "What should it cost to insure a home in wildfire country?",
+      "date": "2026-11-24",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country"
+    },
+    {
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
+      "date": "2026-11-24",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding"
+    },
+    {
+      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+      "date": "2026-11-24",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation"
+    },
+    {
+      "title": "They attended Trump's meme coin dinner.  It didn't go well",
+      "date": "2026-11-24",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner"
+    },
+    {
+      "title": "Black travelers on Route 66 weren't welcome at most gas stations \u2014 except this one",
+      "date": "2026-11-24",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66"
+    }
+  ],
   "The Guardian": [],
   "Al Jazeera": [
     {
-      "title": "Mexico to try \u2018El Chapo Isidro\u2019 despite US extradition request",
+      "title": "Why are Russian warships off Libya, and will Ukraine\u2019s attack change that?",
       "date": "2026-11-24",
-      "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss"
     },
     {
-      "title": "Excavator threatens sacred alpine lake in the Himalayas",
+      "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
       "date": "2026-11-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss"
     },
     {
-      "title": "UN chief calls for world to agree on AI oversight within a year",
+      "title": "Vietnam restaurant blast kills at least six",
       "date": "2026-11-24",
-      "url": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six?traffic_source=rss"
     },
     {
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+      "title": "Was Jensen Huang too big to fire? Why Nvidia, Trump brought him back",
       "date": "2026-11-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/24/was-jensen-huang-too-big-to-fire-why-nvidia-trump-brought-him-back?traffic_source=rss"
     },
     {
-      "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
       "date": "2026-11-24",
-      "url": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss"
     }
   ],
   "NBC News": [
@@ -63,27 +100,27 @@
       "url": "https://www.nbcnews.com/nightly-news/video/trump-s-role-in-bringing-huang-back-to-nvidia-met-with-bipartisan-criticism-274057285739"
     },
     {
-      "title": "Democratic congressman resigns over sexual misconduct allegations",
-      "date": "2026-11-24",
-      "url": "https://www.nbcnews.com/nightly-news/video/democratic-congressman-resigns-over-sexual-misconduct-allegations-274051653628"
-    },
-    {
       "title": "Judge unseals documents related to search of Rep. Ilhan Omar\u2019s home",
       "date": "2026-11-24",
       "url": "https://www.nbcnews.com/politics/congress/judge-unseals-court-documents-related-search-ilhan-omar-home-washingto-rcna611027"
     },
     {
-      "title": "$98 million civil judgment awarded in Ohio rape that could not be prosecuted",
+      "title": "Too young to be vaccinated for measles? Babies face growing threats from outbreaks",
       "date": "2026-11-24",
-      "url": "https://www.nbcnews.com/news/us-news/98-million-civil-judgment-awarded-ohio-rape-not-prosecuted-rcna611016"
+      "url": "https://www.nbcnews.com/health/health-news/measles-babies-vaccine-dose-protect-outbreaks-rcna610383"
     },
     {
-      "title": "Trump uses backdrop of DOJ to bash Gavin Newsom on death row commutations",
+      "title": "Too young to be vaccinated for measles? Babies face growing threats from outbreaks",
       "date": "2026-11-24",
-      "url": "https://www.nbcnews.com/politics/donald-trump/president-doj-bashes-gavin-newsom-death-row-commutations-rcna610999"
+      "url": "https://www.nbcnews.com/health/health-news/measles-babies-vaccine-dose-protect-outbreaks-rcna610383"
+    },
+    {
+      "title": "Judge unseals documents related to search of Rep. Ilhan Omar\u2019s home",
+      "date": "2026-11-24",
+      "url": "https://www.nbcnews.com/politics/congress/judge-unseals-court-documents-related-search-ilhan-omar-home-washingto-rcna611027"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-24T01:00:38.754974"
+    "updated_at": "2026-11-24T09:00:38.882236"
   }
 }
