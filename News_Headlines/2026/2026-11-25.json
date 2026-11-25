@@ -1,36 +1,51 @@
 {
   "BBC": [
     {
-      "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
-      "date": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-      "date": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
       "date": "2026-11-25",
       "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
       "date": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
       "date": "2026-11-25",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
+      "date": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+      "date": "2026-11-25",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
+      "title": "Two charged after break-in at country home of Prince William and wife Kate, UK police say",
+      "date": "2026-11-25",
+      "url": "https://edition.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl"
+    },
+    {
+      "title": "This nation had a security pact with China. It\u2019s just signed a deal with a US ally instead",
+      "date": "2026-11-25",
+      "url": "https://edition.cnn.com/2026/11/24/australia/solomon-islands-australia-security-pact-intl-hnk"
+    },
+    {
       "title": "How a police officer\u2019s obsession with his ex-lover led to double murder",
       "date": "2026-11-25",
       "url": "https://edition.cnn.com/2026/11/24/world/australia-lamarre-condon-verdict-intl-hnk"
+    },
+    {
+      "title": "He\u2019s remained jailed in Japan despite an overturned conviction. His family in the US fears for his life",
+      "date": "2026-11-25",
+      "url": "https://edition.cnn.com/2026/11/25/asia/chris-payne-jailed-japan-overturned-conviction-hnk-dst"
     },
     {
       "title": "US court convicts China\u2019s Huawei for fraud, conspiring to steal trade secrets, in sprawling trial over Iran business",
@@ -38,63 +53,89 @@
       "url": "https://edition.cnn.com/2026/11/24/china/china-huawei-iran-conviction-intl-hnk"
     }
   ],
-  "NPR": [],
+  "NPR": [
+    {
+      "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+      "date": "2026-11-25",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania"
+    },
+    {
+      "title": "Buying new things feels wonderful. But it can also be a trap",
+      "date": "2026-11-25",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle"
+    },
+    {
+      "title": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
+      "date": "2026-11-25",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois"
+    },
+    {
+      "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+      "date": "2026-11-25",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts"
+    },
+    {
+      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+      "date": "2026-11-25",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
+    }
+  ],
   "The Guardian": [],
   "Al Jazeera": [
     {
-      "title": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "title": "Sinner uncertain for Australian Open after undergoing knee surgery",
       "date": "2026-11-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss"
     },
     {
-      "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "title": "After Brexit, is Britain heading back to the EU?",
       "date": "2026-11-25",
-      "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss"
     },
     {
-      "title": "WHO chief urges end to US fuel blockade on Cuba",
+      "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
       "date": "2026-11-25",
-      "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss"
     },
     {
-      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "title": "Israeli strike kills Hamas official, his wife and children",
       "date": "2026-11-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss"
     },
     {
-      "title": "Israel\u2019s Eisenkot secures first coalition partner in bid to form government",
+      "title": "\u2018People are going hungry\u2019: Guinea\u2019s gold mining crackdown",
       "date": "2026-11-25",
-      "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn\u2019t necessary",
+      "title": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
+      "date": "2026-11-25",
+      "url": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182"
+    },
+    {
+      "title": "Trump says pardon is always an option for Huang, and that invoking the Fifth isn\u2019t necessary",
       "date": "2026-11-25",
       "url": "https://www.nbcnews.com/politics/donald-trump/pardon-always-option-nvidia-jensen-huang-pleading-fifth-not-necessary-rcna611219"
+    },
+    {
+      "title": "Jensen Huang apologizes to Nvidia staff, saying he went \u2018too far\u2019 and is in therapy",
+      "date": "2026-11-25",
+      "url": "https://www.nbcnews.com/business/business-news/jensen-huang-says-s-thankful-second-chance-nvidia-employee-meeting-rcna611235"
+    },
+    {
+      "title": "2 men charged with burglary after break-in at Prince William and Princess Kate\u2019s country home",
+      "date": "2026-11-25",
+      "url": "https://www.nbcnews.com/world/united-kingdom/prince-william-princess-kate-break-in-sandringham-estate-charges-rcna611159"
     },
     {
       "title": "Fort Hood mass shooter makes legal move to stop Pentagon\u2019s firing squad execution",
       "date": "2026-11-25",
       "url": "https://www.nbcnews.com/news/us-news/fort-hood-nidal-hasan-firing-squad-execution-rcna611217"
-    },
-    {
-      "title": "Thomas Markle indicted on child sex abuse material charges",
-      "date": "2026-11-25",
-      "url": "https://www.nbcnews.com/video/thomas-markle-indicted-on-child-sex-abuse-material-charges-274140741786"
-    },
-    {
-      "title": "Judge denies bail for former Penn State fraternity brother at center of drug bust",
-      "date": "2026-11-25",
-      "url": "https://www.nbcnews.com/news/us-news/judge-denies-bail-former-penn-state-fraternity-brother-drug-bust-rcna611106"
-    },
-    {
-      "title": "Nearly 6 decades after teen was killed while leaving job, Canada authorities know who did it",
-      "date": "2026-11-25",
-      "url": "https://www.nbcnews.com/world/canada/nearly-6-decades-teen-was-killed-leaving-job-canada-authorities-know-rcna611227"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-25T01:00:39.019437"
+    "updated_at": "2026-11-25T09:00:38.093041"
   }
 }
