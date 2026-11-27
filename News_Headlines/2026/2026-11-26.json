@@ -1,36 +1,36 @@
 {
   "BBC": [
     {
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
       "date": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
       "date": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
       "date": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
       "date": "2026-11-26",
-      "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "BBC launches partnership with Met Office for weather coverage",
+      "title": "Drug rape husband says wife 'would have been terrified', court hears",
       "date": "2026-11-26",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "Putin showed \u2018restraint\u2019 by not using nuclear weapons, Kushner says",
+      "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
       "date": "2026-11-26",
-      "url": "https://edition.cnn.com/2026/11/26/world/putin-showed-restraint-by-not-using-nuclear-weapons-kushner-says"
+      "url": "https://edition.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl"
     },
     {
       "title": "At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say",
@@ -38,9 +38,14 @@
       "url": "https://edition.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl"
     },
     {
-      "title": "Trump\u2019s midterms debacle hasn\u2019t dimmed his designs on Cuba. Or those of \u2018President\u2019 Rubio",
+      "title": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
       "date": "2026-11-26",
-      "url": "https://edition.cnn.com/2026/11/26/americas/trump-cuba-midterms-rubio-analysis-intl-latam"
+      "url": "https://edition.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl"
+    },
+    {
+      "title": "Putin showed \u2018restraint\u2019 by not using nuclear weapons, Kushner says",
+      "date": "2026-11-26",
+      "url": "https://edition.cnn.com/2026/11/26/world/putin-restraint-nuclear-ukraine-kushner-intl"
     },
     {
       "title": "British woman drugged and raped by husband didn\u2019t initially believe police, court hears",
@@ -50,9 +55,19 @@
   ],
   "NPR": [
     {
-      "title": "'Memories of a Good Meal': How food made a difference during WWII",
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
       "date": "2026-11-26",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya"
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+    },
+    {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "date": "2026-11-26",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+    },
+    {
+      "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+      "date": "2026-11-26",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
     },
     {
       "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
@@ -60,77 +75,67 @@
       "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque"
     },
     {
-      "title": "Court lets Puerto Rico governor fire firm that runs the island's troubled power grid",
+      "title": "'Memories of a Good Meal': How food made a difference during WWII",
       "date": "2026-11-26",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid"
-    },
-    {
-      "title": "Powerful storms disrupt holiday travel, as Macy's Thanksgiving Day Parade is postponed",
-      "date": "2026-11-26",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving"
-    },
-    {
-      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-      "date": "2026-11-26",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space"
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya"
     }
   ],
   "The Guardian": [],
   "Al Jazeera": [
     {
-      "title": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
+      "title": "Israeli settlers damage Palestinian family\u2019s homes in West Bank attack",
       "date": "2026-11-26",
-      "url": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
     },
     {
-      "title": "Iraq denies reports of troop movements towards Kurdish region",
+      "title": "In Canada, Quebec\u2019s religious symbols ban faces a Supreme Court test",
       "date": "2026-11-26",
-      "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss"
     },
     {
-      "title": "Highway explosion in Giza: How deadly are Egypt\u2019s roads and railways?",
+      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
       "date": "2026-11-26",
-      "url": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss"
     },
     {
-      "title": "\u2018Proscribing free speech\u2019: Why a Jewish group is challenging UK\u2019s Hamas ban",
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
       "date": "2026-11-26",
-      "url": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss"
     },
     {
-      "title": "Are Trump\u2019s tariffs aimed at securing US-friendly trade deals?",
+      "title": "Bangladesh garment workers clash with police over low wages",
       "date": "2026-11-26",
-      "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Macy\u2019s parade postponed over powerful storm",
+      "title": "Thanksgiving travelers face long airport lines and packed roads",
       "date": "2026-11-26",
-      "url": "https://www.nbcnews.com/nightly-news/video/macy-s-parade-postponed-over-powerful-storm-274198085929"
+      "url": "https://www.today.com/video/thanksgiving-travelers-face-long-airport-lines-and-packed-roads-274224197586"
     },
     {
-      "title": "Tons of toxic chemicals detonate in Iowa",
+      "title": "Macy\u2019s Thanksgiving Day Parade Postponed for First Time Ever",
       "date": "2026-11-26",
-      "url": "https://www.nbcnews.com/nightly-news/video/tons-of-toxic-chemicals-detonate-in-iowa-274197061831"
+      "url": "https://www.today.com/video/macy-s-thanksgiving-day-parade-postponed-for-first-time-ever-274220101982"
     },
     {
-      "title": "Judge blocks FCC review of ABC station licenses for now",
+      "title": "Trump Administration Defends Iowa Detonation, Unveils New Tariffs",
       "date": "2026-11-26",
-      "url": "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892"
+      "url": "https://www.today.com/video/trump-administration-defends-iowa-detonation-unveils-new-tariffs-274221125815"
     },
     {
-      "title": "Questions linger about lead pollution from Iowa blast, despite officials\u2019 assurances",
+      "title": "US Troops in Poland Get a Taste of Thanksgiving",
       "date": "2026-11-26",
-      "url": "https://www.nbcnews.com/science/environment/questions-lead-dust-pollution-safe-iowa-detonation-tests-rcna611366"
+      "url": "https://www.today.com/video/how-us-troops-stationed-in-poland-celebrate-thanksgiving-274222149700"
     },
     {
-      "title": "Judge blocks FCC review of ABC station licenses for now",
+      "title": "Black Friday deals are here, and they\u2019re actually really good \u2014 I\u2019m tracking the best ones live",
       "date": "2026-11-26",
-      "url": "https://www.nbcnews.com/business/media/judge-blocks-fcc-review-abc-station-licenses-now-rcna601892"
+      "url": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-26-2026-rcna611358"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-26T09:00:38.295240"
+    "updated_at": "2026-11-26T21:00:39.706523"
   }
 }
