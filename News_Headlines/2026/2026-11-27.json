@@ -1,36 +1,41 @@
 {
   "BBC": [
     {
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
       "date": "2026-11-27",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
+      "title": "Watch: What has happened to DWP online services?",
       "date": "2026-11-27",
-      "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Student describes moment passenger 'threw himself' at attacker and saved her life",
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
       "date": "2026-11-27",
-      "url": "https://www.bbc.co.uk/news/videos/cqzr566llz4no?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "date": "2026-11-27",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
       "date": "2026-11-27",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "CNN": [
     {
-      "title": "British woman drugged and raped by husband didn\u2019t initially believe police, court hears",
+      "title": "What we know about the Princess of Wales\u2019 new documentary",
       "date": "2026-11-27",
-      "url": "https://edition.cnn.com/2026/11/25/uk/british-mass-rape-survivor-testifies-court-intl"
+      "url": "https://edition.cnn.com/2026/11/27/uk/kate-princess-of-wales-heal-cancer-documentary-gbr-intl"
+    },
+    {
+      "title": "Costa Rica bars UN special rapporteur on Palestinian territories from entering country over \u2018links to terrorist acts\u2019",
+      "date": "2026-11-27",
+      "url": "https://edition.cnn.com/2026/11/27/americas/costa-rica-francesca-albanese-un-palestinians-intl-latam"
     },
     {
       "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
@@ -38,22 +43,22 @@
       "url": "https://edition.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl"
     },
     {
-      "title": "Spain\u2019s S\u00e1nchez stood up against Trump. His own voters may be about to bring him down",
+      "title": "Putin\u2019s biggest ally questions a key claim Russia uses to justify invasion of Ukraine",
       "date": "2026-11-27",
-      "url": "https://edition.cnn.com/2026/11/27/world/spains-sanchez-stood-up-against-trump-his-own-voters-may-be-about-to-bring-him-down"
+      "url": "https://edition.cnn.com/2026/11/27/world/putin-lukashenko-ukraine-russia-mongolia-intl"
     },
     {
-      "title": "\u2018Could you send me some nude photos?\u2019: Soccer players accuse coach of abuse, urge FIFA to act in lightning rod case",
+      "title": "What\u2019s behind Trump\u2019s post about Iraq?",
       "date": "2026-11-27",
-      "url": "https://edition.cnn.com/2026/11/27/americas/argentina-women-soccer-coach-harassment-allegations-intl"
-    },
-    {
-      "title": "Putin showed \u2018restraint\u2019 by not using nuclear weapons, Kushner says",
-      "date": "2026-11-27",
-      "url": "https://edition.cnn.com/2026/11/26/world/putin-restraint-nuclear-ukraine-kushner-intl"
+      "url": "https://edition.cnn.com/2026/11/27/middleeast/iraq-kurdish-trump-al-zaidi-intl"
     }
   ],
   "NPR": [
+    {
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "date": "2026-11-27",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+    },
     {
       "title": "French cinema star G\u00e9rard Depardieu ordered to stand trial for rape and sexual assault",
       "date": "2026-11-27",
@@ -70,59 +75,54 @@
       "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
     },
     {
-      "title": "Screen free tweens try their hand at Dungeons & Dragons",
+      "title": "Screen-free tweens try their hand at Dungeons & Dragons",
       "date": "2026-11-27",
       "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons"
-    },
-    {
-      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-      "date": "2026-11-27",
-      "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
     }
   ],
   "The Guardian": [],
   "Al Jazeera": [
     {
-      "title": "Old wounds reopen as Kyrgyzstan\u2019s Osh embraces a new urban project",
+      "title": "Will Taiwan vote to revive nuclear power \u2013 and why does that matter for AI?",
       "date": "2026-11-27",
-      "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss"
     },
     {
-      "title": "What Spain\u2019s election means for Morocco",
+      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
       "date": "2026-11-27",
-      "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss"
     },
     {
-      "title": "Israeli attacks on women and girls meant \u2018to destroy life\u2019 in Gaza: Amnesty",
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
       "date": "2026-11-27",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss"
     },
     {
-      "title": "Tyson Fury\u2019s wife backtracks on claim boxer suffers from schizophrenia",
+      "title": "\u2018Activists of rhythm\u2019: Fighting Spain\u2019s far-right through art",
       "date": "2026-11-27",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/tyson-furys-wife-backtracks-on-claim-boxer-suffers-from-schizophrenia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss"
     },
     {
-      "title": "Pakistan\u2019s viral cricket catch star hopes to launch career",
+      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
       "date": "2026-11-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-pakistan-viral-cricket-catch?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss"
     }
   ],
   "NBC News": [
     {
-      "title": "Monster East Coast storm leaves hundreds of thousands without power",
+      "title": "Severe Weather Wreaks Havoc on Thanksgiving Plans Across US",
       "date": "2026-11-27",
-      "url": "https://www.nbcnews.com/nightly-news/video/monster-east-coast-storm-leaves-hundreds-of-thousands-without-power-274244677776"
+      "url": "https://www.today.com/video/severe-weather-wreaks-havoc-on-thanksgiving-plans-across-us-274257989613"
     },
     {
-      "title": "Performers and marching bands scramble after Macy\u2019s Thanksgiving Day Parade delay",
+      "title": "Hackers attack and penetrate Air Force\u2019s computing platform",
       "date": "2026-11-27",
-      "url": "https://www.nbcnews.com/nightly-news/video/performers-and-marching-bands-scramble-after-macy-s-thanksgiving-day-parade-delay-274245189694"
+      "url": "https://www.nbcnews.com/news/us-news/hackers-attack-penetrate-air-forces-computing-platform-rcna611559"
     },
     {
-      "title": "Live updates: The best Black Friday deals up to 70% off, handpicked by a shopping expert",
+      "title": "New Look at Upcoming Doc on Kate Middleton\u2019s Cancer Journey",
       "date": "2026-11-27",
-      "url": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-27-2026-rcna611358"
+      "url": "https://www.today.com/video/new-clip-released-from-kate-middleton-s-upcoming-doc-heal-274261061810"
     },
     {
       "title": "Why Advent calendars are thriving in the \u2018little treat\u2019 economy",
@@ -130,12 +130,12 @@
       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/advent-calendars-popularity-little-treat-economy-social-media-unboxing-rcna609923"
     },
     {
-      "title": "Luka Don\u010di\u0107 is a scoring machine. The NBA has rarely seen anything like it.",
+      "title": "Live updates: The best Black Friday deals up to 70% off, handpicked by a shopping expert",
       "date": "2026-11-27",
-      "url": "https://www.nbcnews.com/sports/nba/luka-doncc-scoring-machine-nba-rarely-seen-anything-rcna610109"
+      "url": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-27-2026-rcna611358"
     }
   ],
   "_meta": {
-    "updated_at": "2026-11-27T09:00:38.445777"
+    "updated_at": "2026-11-27T21:00:41.600105"
   }
 }
