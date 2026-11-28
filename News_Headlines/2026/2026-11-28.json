@@ -1,63 +1,111 @@
 {
   "BBC": [
     {
-      "title": "Set time aside for children to read for pleasure, schools to be told",
+      "title": "Pensions and benefits services still down after 'cyber incident'",
       "date": "2026-11-28",
-      "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
       "date": "2026-11-28",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
       "date": "2026-11-28",
-      "url": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "title": "Pharmacies get new powers to swap prescriptions during shortages",
       "date": "2026-11-28",
-      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
       "date": "2026-11-28",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "CNN": [],
-  "NPR": [],
+  "CNN": [
+    {
+      "title": "Afghanistan school blast kills 7 students, injures up to 99",
+      "date": "2026-11-28",
+      "url": "https://edition.cnn.com/2026/11/28/asia/afghan-school-explosion-intl"
+    },
+    {
+      "title": "Costa Rica bars UN special rapporteur on Palestinian territories from entering country over \u2018links to terrorist acts\u2019",
+      "date": "2026-11-28",
+      "url": "https://edition.cnn.com/2026/11/27/americas/costa-rica-francesca-albanese-un-palestinians-intl-latam"
+    }
+  ],
+  "NPR": [
+    {
+      "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+      "date": "2026-11-28",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan"
+    },
+    {
+      "title": "New wave of Democratic attorneys general may reshape the justice system",
+      "date": "2026-11-28",
+      "url": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas"
+    }
+  ],
   "The Guardian": [],
   "Al Jazeera": [
     {
-      "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+      "title": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
       "date": "2026-11-28",
-      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss"
     },
     {
-      "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
+      "title": "Israel unity government talks stall: What happens now?",
       "date": "2026-11-28",
-      "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss"
     },
     {
-      "title": "Bulgarians demand action by French after Marseille match violence",
+      "title": "The perfect storm behind Congo\u2019s deadliest Ebola outbreak",
       "date": "2026-11-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/longform/2026/11/28/the-perfect-storm-behind-congos-deadliest-ebola-outbreak?traffic_source=rss"
     },
     {
-      "title": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+      "title": "Two visions of Spain collide as voters weigh PM Sanchez\u2019s record",
       "date": "2026-11-28",
-      "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss"
     },
     {
-      "title": "Taiwan votes in local elections to choose mayors, other leaders",
+      "title": "Why is Trump backing Iraq\u2019s anti-smuggling campaign?",
       "date": "2026-11-28",
-      "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss"
     }
   ],
-  "NBC News": [],
+  "NBC News": [
+    {
+      "title": "Macy\u2019s Thanksgiving Day Parade marches on after delay",
+      "date": "2026-11-28",
+      "url": "https://www.nbcnews.com/nightly-news/video/macy-s-thanksgiving-day-parade-marches-on-after-delay-274287685668"
+    },
+    {
+      "title": "Zelenskyy questions Trump\u2019s \u2018strange\u2019 reference to Putin as a \u2018friend\u2019",
+      "date": "2026-11-28",
+      "url": "https://www.nbcnews.com/world/ukraine/zelenskyy-questions-trumps-strange-reference-putin-friend-rcna611653"
+    },
+    {
+      "title": "A toxic detonation in Iowa, and a Founding Father impersonator gets arrested: The news quiz",
+      "date": "2026-11-28",
+      "url": "https://www.nbcnews.com/news/news-quiz/iowa-detonation-founding-father-arrest-news-quiz-rcna611282"
+    },
+    {
+      "title": "A toxic detonation in Iowa, and a Founding Father impersonator gets arrested: The news quiz",
+      "date": "2026-11-28",
+      "url": "https://www.nbcnews.com/news/news-quiz/iowa-detonation-founding-father-arrest-news-quiz-rcna611282"
+    },
+    {
+      "title": "Zelenskyy questions Trump\u2019s \u2018strange\u2019 reference to Putin as a \u2018friend\u2019",
+      "date": "2026-11-28",
+      "url": "https://www.nbcnews.com/world/ukraine/zelenskyy-questions-trumps-strange-reference-putin-friend-rcna611653"
+    }
+  ],
   "_meta": {
-    "updated_at": "2026-11-28T01:00:37.986459"
+    "updated_at": "2026-11-28T09:00:38.108209"
   }
 }
